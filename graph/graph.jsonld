@@ -13148,6 +13148,193 @@
    }
   },
   {
+   "@id": "https://github.com/john1hsu/usa-graph/id/lewis-and-clark-expedition/misconception",
+   "@type": "uso:Misconception",
+   "uso:fact": "Sacagawea, a Lemhi Shoshone woman, joined because her husband was hired as an interpreter; she interpreted, recognized landmarks near her homeland and signaled the party's peaceful intent, but the journals offer little evidence that she guided the expedition, which hired other Native men as guides.",
+   "uso:myth": "Sacagawea was the guide who led Lewis and Clark across the continent to the Pacific.",
+   "uso:why": "Turning Sacagawea into a lone guide exaggerates one person while hiding the many Native people — Shoshone, Nez Perce and others — whose food, horses, maps and knowledge the expedition depended on."
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/lewis-and-clark-expedition/review/1",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "Why did Jefferson ask Congress for the expedition's money in a confidential message?",
+   "uso:answer": "He presented it as a way of extending U.S. commerce with Native nations on the Missouri, and argued that keeping the plan quiet would stop foreign powers and rival traders from obstructing it; the same message linked trade to persuading Native nations to farm and give up land.",
+   "uso:questionFor": {
+    "@id": "us:lewis-and-clark-expedition"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/lewis-and-clark-expedition/review/2",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "How did Native nations make the expedition's success possible?",
+   "uso:answer": "The Shoshone sold the horses needed to cross the mountains, the Nez Perce fed the starving men after the Lolo Trail crossing, Native informants drew maps that Clark used, and Native men were hired as guides.",
+   "uso:questionFor": {
+    "@id": "us:lewis-and-clark-expedition"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/lewis-and-clark-expedition/review/3",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "How did York's experience after the expedition differ from that of the other men, and why?",
+   "uso:answer": "The other men received double pay and 320 acres of land, but York was enslaved by William Clark, who refused his requests for freedom and freed him only sometime after 1815.",
+   "uso:questionFor": {
+    "@id": "us:lewis-and-clark-expedition"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/lewis-and-clark-expedition/review/4",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "Why do historians disagree about how to describe the expedition?",
+   "uso:answer": "Some emphasize its scientific and mapping achievements, others stress that it was an instrument of U.S. sovereignty claims over Native lands, and still others retell it as an encounter in which Native nations shaped the outcome.",
+   "uso:questionFor": {
+    "@id": "us:lewis-and-clark-expedition"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/lewis-and-clark-expedition/timeline/1",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Jefferson sends Congress a confidential message asking for $2,500 to explore the Missouri River and open trade with the Native nations along it.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1803-01-18"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/lewis-and-clark-expedition/timeline/10",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "After a starving crossing of the Bitterroots on the Lolo Trail, the Corps is fed by the Nez Perce at Weippe Prairie.",
+   "uso:date": {
+    "@type": "xsd:gYearMonth",
+    "@value": "1805-09"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/lewis-and-clark-expedition/timeline/11",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The expedition reaches the Pacific Ocean; members including York and Sacagawea vote on where to spend the winter.",
+   "uso:date": {
+    "@type": "xsd:gYearMonth",
+    "@value": "1805-11"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/lewis-and-clark-expedition/timeline/12",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The Corps builds Fort Clatsop near present-day Astoria, Oregon.",
+   "uso:date": {
+    "@type": "xsd:gYearMonth",
+    "@value": "1805-12"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/lewis-and-clark-expedition/timeline/13",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The return journey begins.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1806-03-23"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/lewis-and-clark-expedition/timeline/14",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Lewis's detachment fights Piegan Blackfeet on the Marias River, killing two men — the journey's only deadly clash.",
+   "uso:date": {
+    "@type": "xsd:gYearMonth",
+    "@value": "1806-07"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/lewis-and-clark-expedition/timeline/15",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The expedition returns to St. Louis.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1806-09-23"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/lewis-and-clark-expedition/timeline/16",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Nicholas Biddle's History of the Expedition appears with Clark's map of the West.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1814"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/lewis-and-clark-expedition/timeline/2",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Jefferson signs detailed instructions for Meriwether Lewis; that month Lewis invites William Clark to share command.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1803-06-20"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/lewis-and-clark-expedition/timeline/3",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Clark sets up Camp Wood near the meeting of the Mississippi and Missouri Rivers for the winter.",
+   "uso:date": {
+    "@type": "xsd:gYearMonth",
+    "@value": "1803-12"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/lewis-and-clark-expedition/timeline/4",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The Corps of Discovery, about 45 people, starts up the Missouri River from Camp Wood.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1804-05-14"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/lewis-and-clark-expedition/timeline/5",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Sergeant Charles Floyd dies, probably of a ruptured appendix, near present-day Sioux City, Iowa — the expedition's only death.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1804-08-20"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/lewis-and-clark-expedition/timeline/6",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "A council with the Lakota (called Teton Sioux in the journals) near present-day Pierre, South Dakota, nearly turns violent.",
+   "uso:date": {
+    "@type": "xsd:gYearMonth",
+    "@value": "1804-09"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/lewis-and-clark-expedition/timeline/7",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The expedition reaches the Mandan and Hidatsa villages and builds Fort Mandan, where Toussaint Charbonneau and Sacagawea join it.",
+   "uso:date": {
+    "@type": "xsd:gYearMonth",
+    "@value": "1804-10"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/lewis-and-clark-expedition/timeline/8",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The keelboat heads back to St. Louis with specimens, maps and reports while the permanent party pushes west.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1805-04-07"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/lewis-and-clark-expedition/timeline/9",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The party reaches the head of navigation on the Missouri, meets the Shoshone and crosses the Continental Divide at Lemhi Pass.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1805-08-17"
+   }
+  },
+  {
    "@id": "https://github.com/john1hsu/usa-graph/id/liberty-bell/misconception",
    "@type": "uso:Misconception",
    "uso:fact": "The National Park Service finds no evidence the bell rang on July 4 or July 8, 1776; the July 4 story comes from George Lippard's 1847 fiction, and the crack that silenced the bell dates from the 1840s.",
@@ -30423,6 +30610,160 @@
     "@id": "https://encyclopediavirginia.org/entries/starving-time-the/"
    },
    "uso:sourceType": "scholarly-encyclopedia"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/lewis-and-clark-expedition/s1",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Founders Online, National Archives (The Papers of Thomas Jefferson, vol. 40)",
+   "dcterms:title": "IV. Instructions for Meriwether Lewis, 20 June 1803",
+   "schema:url": {
+    "@id": "https://founders.archives.gov/documents/Jefferson/01-40-02-0136-0005"
+   },
+   "uso:sourceType": "primary"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/lewis-and-clark-expedition/s10",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "National Park Service",
+   "dcterms:title": "Weippe-Watkuweis",
+   "schema:url": {
+    "@id": "https://www.nps.gov/places/weippe-watkuweis.htm"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/lewis-and-clark-expedition/s11",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Library of Congress",
+   "dcterms:title": "Rivers, Edens, Empires: Lewis & Clark and the Revealing of America — After Lewis & Clark",
+   "schema:url": {
+    "@id": "https://loc.gov/exhibits/lewisandclark/lewis-after.html"
+   },
+   "uso:sourceType": "museum"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/lewis-and-clark-expedition/s2",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "National Park Service",
+   "dcterms:title": "Lewis and Clark National Historic Trail: Basic Facts",
+   "schema:url": {
+    "@id": "https://home.nps.gov/lecl/basic-facts.htm"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/lewis-and-clark-expedition/s3",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "National Park Service, Missouri National Recreational River",
+   "dcterms:title": "The Lewis and Clark Expedition",
+   "schema:url": {
+    "@id": "https://home.nps.gov/mnrr/learn/historyculture/the-lewis-and-clark-expedition.htm"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/lewis-and-clark-expedition/s4",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "National Park Service, Lewis and Clark National Historic Trail",
+   "dcterms:title": "Sacagawea",
+   "schema:url": {
+    "@id": "https://www.nps.gov/lecl/learn/historyculture/sacagawea.htm"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/lewis-and-clark-expedition/s5",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "National Archives and Records Administration, Milestone Documents",
+   "dcterms:title": "Jefferson's Secret Message to Congress (1803)",
+   "schema:url": {
+    "@id": "https://www.archives.gov/milestone-documents/jeffersons-secret-message-to-congress"
+   },
+   "uso:sourceType": "primary"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/lewis-and-clark-expedition/s6",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "National Park Service",
+   "dcterms:title": "York",
+   "schema:url": {
+    "@id": "https://www.nps.gov/people/york.htm"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/lewis-and-clark-expedition/s7",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Library of Congress",
+   "dcterms:title": "Rivers, Edens, Empires: Lewis & Clark and the Revealing of America — Lewis & Clark",
+   "schema:url": {
+    "@id": "https://loc.gov/exhibits/lewisandclark/lewis-landc.html"
+   },
+   "uso:sourceType": "museum"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/lewis-and-clark-expedition/s8",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "James P. Ronda, The Journals of the Lewis and Clark Expedition, University of Nebraska–Lincoln",
+   "dcterms:title": "A Note on Sacagawea (appendix to Lewis and Clark among the Indians, University of Nebraska Press, 1984)",
+   "schema:url": {
+    "@id": "https://lewisandclarkjournals.unl.edu/item/lc.sup.ronda.01.appendix"
+   },
+   "uso:sourceType": "academic"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/lewis-and-clark-expedition/s9",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "National Park Service, Nez Perce National Historical Park",
+   "dcterms:title": "Lewis and Clark and the Nez Perce",
+   "schema:url": {
+    "@id": "https://www.nps.gov/nepe/learn/historyculture/lewis-and-clark.htm"
+   },
+   "uso:sourceType": "government"
   },
   {
    "@id": "https://github.com/john1hsu/usa-graph/id/source/liberty-bell/s1",
@@ -58041,6 +58382,209 @@
     },
     {
      "@id": "https://github.com/john1hsu/usa-graph/id/lawes-divine-morall-and-martiall/timeline/7"
+    }
+   ]
+  },
+  {
+   "@id": "us:lewis-and-clark-expedition",
+   "@type": "uso:Event",
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/lewis-and-clark-expedition/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/lewis-and-clark-expedition/s10"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/lewis-and-clark-expedition/s11"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/lewis-and-clark-expedition/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/lewis-and-clark-expedition/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/lewis-and-clark-expedition/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/lewis-and-clark-expedition/s5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/lewis-and-clark-expedition/s6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/lewis-and-clark-expedition/s7"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/lewis-and-clark-expedition/s8"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/lewis-and-clark-expedition/s9"
+    }
+   ],
+   "rdfs:label": "Lewis and Clark Expedition",
+   "schema:endDate": {
+    "@type": "xsd:date",
+    "@value": "1806-09-23"
+   },
+   "schema:startDate": {
+    "@type": "xsd:date",
+    "@value": "1804-05-14"
+   },
+   "skos:altLabel": [
+    "Corps of Discovery Expedition",
+    "Corps of Discovery",
+    "Lewis & Clark Expedition"
+   ],
+   "skos:broader": [
+    {
+     "@id": "us:early-republic"
+    },
+    {
+     "@id": "us:territorial-expansion-of-the-united-states"
+    }
+   ],
+   "skos:definition": "The U.S. Army expedition of 1804–1806, commissioned by President Thomas Jefferson and led by Meriwether Lewis and William Clark, that traveled up the Missouri River, across the Rocky Mountains and down the Columbia River to the Pacific and back, mapping the West, recording its plants and animals, and announcing U.S. claims to the more than fifty Native nations whose homelands it crossed.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/usa-graph/id/scheme/early-republic-and-expansion"
+   },
+   "skos:prefLabel": "Lewis and Clark Expedition",
+   "skos:related": [
+    {
+     "@id": "us:african-americans"
+    },
+    {
+     "@id": "us:columbia-river"
+    },
+    {
+     "@id": "us:hayden-geological-survey-of-1871"
+    },
+    {
+     "@id": "us:lemhi-shoshone"
+    },
+    {
+     "@id": "us:lewis-and-clark-national-historic-trail"
+    },
+    {
+     "@id": "us:louisiana-purchase"
+    },
+    {
+     "@id": "us:meriwether-lewis"
+    },
+    {
+     "@id": "us:missouri-river"
+    },
+    {
+     "@id": "us:native-americans"
+    },
+    {
+     "@id": "us:nez-perce"
+    },
+    {
+     "@id": "us:sacagawea"
+    },
+    {
+     "@id": "us:slavery-in-the-united-states"
+    },
+    {
+     "@id": "us:the-west"
+    },
+    {
+     "@id": "us:thomas-jefferson"
+    },
+    {
+     "@id": "us:william-clark"
+    },
+    {
+     "@id": "us:york-of-the-corps-of-discovery"
+    }
+   ],
+   "uso:affected": {
+    "@id": "us:native-americans"
+   },
+   "uso:domain": "early-republic-and-expansion",
+   "uso:evidenceStatus": "interpretive",
+   "uso:file": "articles/early-republic-and-expansion/lewis-and-clark-expedition.md",
+   "uso:introducedBy": {
+    "@id": "us:thomas-jefferson"
+   },
+   "uso:ledBy": [
+    {
+     "@id": "us:meriwether-lewis"
+    },
+    {
+     "@id": "us:william-clark"
+    }
+   ],
+   "uso:ledTo": {
+    "@id": "us:great-surveys-of-the-west"
+   },
+   "uso:level": "introductory",
+   "uso:misconception": {
+    "@id": "https://github.com/john1hsu/usa-graph/id/lewis-and-clark-expedition/misconception"
+   },
+   "uso:occurredDuring": {
+    "@id": "us:early-republic"
+   },
+   "uso:occurredIn": {
+    "@id": "us:missouri-river"
+   },
+   "uso:requires": {
+    "@id": "us:louisiana-purchase"
+   },
+   "uso:timelineEntry": [
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/lewis-and-clark-expedition/timeline/1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/lewis-and-clark-expedition/timeline/10"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/lewis-and-clark-expedition/timeline/11"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/lewis-and-clark-expedition/timeline/12"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/lewis-and-clark-expedition/timeline/13"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/lewis-and-clark-expedition/timeline/14"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/lewis-and-clark-expedition/timeline/15"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/lewis-and-clark-expedition/timeline/16"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/lewis-and-clark-expedition/timeline/2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/lewis-and-clark-expedition/timeline/3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/lewis-and-clark-expedition/timeline/4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/lewis-and-clark-expedition/timeline/5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/lewis-and-clark-expedition/timeline/6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/lewis-and-clark-expedition/timeline/7"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/lewis-and-clark-expedition/timeline/8"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/lewis-and-clark-expedition/timeline/9"
     }
    ]
   },

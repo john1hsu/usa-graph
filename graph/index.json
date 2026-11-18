@@ -16251,6 +16251,246 @@
   ]
  },
  {
+  "id": "us:lewis-and-clark-expedition",
+  "title": "Lewis and Clark Expedition",
+  "aliases": [
+   "Corps of Discovery Expedition",
+   "Corps of Discovery",
+   "Lewis & Clark Expedition"
+  ],
+  "type": "Event",
+  "domain": "early-republic-and-expansion",
+  "level": "introductory",
+  "evidenceStatus": "interpretive",
+  "file": "articles/early-republic-and-expansion/lewis-and-clark-expedition.md",
+  "created": "2026-11-18",
+  "summary": "The U.S. Army expedition of 1804–1806, commissioned by President Thomas Jefferson and led by Meriwether Lewis and William Clark, that traveled up the Missouri River, across the Rocky Mountains and down the Columbia River to the Pacific and back, mapping the West, recording its plants and animals, and announcing U.S. claims to the more than fifty Native nations whose homelands it crossed.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "us:territorial-expansion-of-the-united-states"
+   },
+   {
+    "predicate": "skos:broader",
+    "object": "us:early-republic"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:thomas-jefferson"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:louisiana-purchase"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:meriwether-lewis"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:william-clark"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:sacagawea"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:york-of-the-corps-of-discovery"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:nez-perce"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:lemhi-shoshone"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:missouri-river"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:columbia-river"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:the-west"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:native-americans"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:african-americans"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:slavery-in-the-united-states"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:lewis-and-clark-national-historic-trail"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:hayden-geological-survey-of-1871"
+   },
+   {
+    "predicate": "uso:requires",
+    "object": "us:louisiana-purchase"
+   },
+   {
+    "predicate": "uso:occurredDuring",
+    "object": "us:early-republic",
+    "source": "s3",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:occurredIn",
+    "object": "us:missouri-river",
+    "source": "s3",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:introducedBy",
+    "object": "us:thomas-jefferson",
+    "source": "s5",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:ledBy",
+    "object": "us:meriwether-lewis",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:ledBy",
+    "object": "us:william-clark",
+    "source": "s3",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:affected",
+    "object": "us:native-americans",
+    "source": "s7",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:ledTo",
+    "object": "us:great-surveys-of-the-west",
+    "source": "s7",
+    "confidence": "medium"
+   }
+  ],
+  "start": "1804-05-14",
+  "end": "1806-09-23",
+  "review": [
+   {
+    "question": "Why did Jefferson ask Congress for the expedition's money in a confidential message?",
+    "answer": "He presented it as a way of extending U.S. commerce with Native nations on the Missouri, and argued that keeping the plan quiet would stop foreign powers and rival traders from obstructing it; the same message linked trade to persuading Native nations to farm and give up land."
+   },
+   {
+    "question": "How did Native nations make the expedition's success possible?",
+    "answer": "The Shoshone sold the horses needed to cross the mountains, the Nez Perce fed the starving men after the Lolo Trail crossing, Native informants drew maps that Clark used, and Native men were hired as guides."
+   },
+   {
+    "question": "How did York's experience after the expedition differ from that of the other men, and why?",
+    "answer": "The other men received double pay and 320 acres of land, but York was enslaved by William Clark, who refused his requests for freedom and freed him only sometime after 1815."
+   },
+   {
+    "question": "Why do historians disagree about how to describe the expedition?",
+    "answer": "Some emphasize its scientific and mapping achievements, others stress that it was an instrument of U.S. sovereignty claims over Native lands, and still others retell it as an encounter in which Native nations shaped the outcome."
+   }
+  ],
+  "timeline": [
+   {
+    "date": "1803-01-18",
+    "event": "Jefferson sends Congress a confidential message asking for $2,500 to explore the Missouri River and open trade with the Native nations along it."
+   },
+   {
+    "date": "1803-06-20",
+    "event": "Jefferson signs detailed instructions for Meriwether Lewis; that month Lewis invites William Clark to share command."
+   },
+   {
+    "date": "1803-12",
+    "event": "Clark sets up Camp Wood near the meeting of the Mississippi and Missouri Rivers for the winter."
+   },
+   {
+    "date": "1804-05-14",
+    "event": "The Corps of Discovery, about 45 people, starts up the Missouri River from Camp Wood."
+   },
+   {
+    "date": "1804-08-20",
+    "event": "Sergeant Charles Floyd dies, probably of a ruptured appendix, near present-day Sioux City, Iowa — the expedition's only death."
+   },
+   {
+    "date": "1804-09",
+    "event": "A council with the Lakota (called Teton Sioux in the journals) near present-day Pierre, South Dakota, nearly turns violent."
+   },
+   {
+    "date": "1804-10",
+    "event": "The expedition reaches the Mandan and Hidatsa villages and builds Fort Mandan, where Toussaint Charbonneau and Sacagawea join it."
+   },
+   {
+    "date": "1805-04-07",
+    "event": "The keelboat heads back to St. Louis with specimens, maps and reports while the permanent party pushes west."
+   },
+   {
+    "date": "1805-08-17",
+    "event": "The party reaches the head of navigation on the Missouri, meets the Shoshone and crosses the Continental Divide at Lemhi Pass."
+   },
+   {
+    "date": "1805-09",
+    "event": "After a starving crossing of the Bitterroots on the Lolo Trail, the Corps is fed by the Nez Perce at Weippe Prairie."
+   },
+   {
+    "date": "1805-11",
+    "event": "The expedition reaches the Pacific Ocean; members including York and Sacagawea vote on where to spend the winter."
+   },
+   {
+    "date": "1805-12",
+    "event": "The Corps builds Fort Clatsop near present-day Astoria, Oregon."
+   },
+   {
+    "date": "1806-03-23",
+    "event": "The return journey begins."
+   },
+   {
+    "date": "1806-07",
+    "event": "Lewis's detachment fights Piegan Blackfeet on the Marias River, killing two men — the journey's only deadly clash."
+   },
+   {
+    "date": "1806-09-23",
+    "event": "The expedition returns to St. Louis."
+   },
+   {
+    "date": "1814",
+    "event": "Nicholas Biddle's History of the Expedition appears with Clark's map of the West."
+   }
+  ],
+  "misconception": {
+   "myth": "Sacagawea was the guide who led Lewis and Clark across the continent to the Pacific.",
+   "fact": "Sacagawea, a Lemhi Shoshone woman, joined because her husband was hired as an interpreter; she interpreted, recognized landmarks near her homeland and signaled the party's peaceful intent, but the journals offer little evidence that she guided the expedition, which hired other Native men as guides.",
+   "why": "Turning Sacagawea into a lone guide exaggerates one person while hiding the many Native people — Shoshone, Nez Perce and others — whose food, horses, maps and knowledge the expedition depended on."
+  },
+  "source_urls": [
+   "https://founders.archives.gov/documents/Jefferson/01-40-02-0136-0005",
+   "https://home.nps.gov/lecl/basic-facts.htm",
+   "https://home.nps.gov/mnrr/learn/historyculture/the-lewis-and-clark-expedition.htm",
+   "https://www.nps.gov/lecl/learn/historyculture/sacagawea.htm",
+   "https://www.archives.gov/milestone-documents/jeffersons-secret-message-to-congress",
+   "https://www.nps.gov/people/york.htm",
+   "https://loc.gov/exhibits/lewisandclark/lewis-landc.html",
+   "https://lewisandclarkjournals.unl.edu/item/lc.sup.ronda.01.appendix",
+   "https://www.nps.gov/nepe/learn/historyculture/lewis-and-clark.htm",
+   "https://www.nps.gov/places/weippe-watkuweis.htm",
+   "https://loc.gov/exhibits/lewisandclark/lewis-after.html"
+  ]
+ },
+ {
   "id": "us:liberty-bell",
   "title": "Liberty Bell",
   "aliases": [

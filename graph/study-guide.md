@@ -1003,6 +1003,23 @@ Every review question (with its answer) and every myth-versus-fact in the graph,
 - **Q:** How did California's foreign miners' taxes work, and whom did they target?
   **A:** A 1850 law charged non-citizen miners $20 a month, aimed mainly at Latin American miners and used by white miners to drive them from rich claims; after its repeal a $4 monthly tax followed, and an 1852 law aimed at Chinese miners, who paid more than $5 million, about a quarter of state revenue, until it was voided in 1870.
 
+### [Lewis and Clark Expedition](../articles/early-republic-and-expansion/lewis-and-clark-expedition.md) — Event
+
+| Myth | Fact |
+|---|---|
+| Sacagawea was the guide who led Lewis and Clark across the continent to the Pacific. | Sacagawea, a Lemhi Shoshone woman, joined because her husband was hired as an interpreter; she interpreted, recognized landmarks near her homeland and signaled the party's peaceful intent, but the journals offer little evidence that she guided the expedition, which hired other Native men as guides. |
+
+**Why it matters:** Turning Sacagawea into a lone guide exaggerates one person while hiding the many Native people — Shoshone, Nez Perce and others — whose food, horses, maps and knowledge the expedition depended on.
+
+- **Q:** Why did Jefferson ask Congress for the expedition's money in a confidential message?
+  **A:** He presented it as a way of extending U.S. commerce with Native nations on the Missouri, and argued that keeping the plan quiet would stop foreign powers and rival traders from obstructing it; the same message linked trade to persuading Native nations to farm and give up land.
+- **Q:** How did Native nations make the expedition's success possible?
+  **A:** The Shoshone sold the horses needed to cross the mountains, the Nez Perce fed the starving men after the Lolo Trail crossing, Native informants drew maps that Clark used, and Native men were hired as guides.
+- **Q:** How did York's experience after the expedition differ from that of the other men, and why?
+  **A:** The other men received double pay and 320 acres of land, but York was enslaved by William Clark, who refused his requests for freedom and freed him only sometime after 1815.
+- **Q:** Why do historians disagree about how to describe the expedition?
+  **A:** Some emphasize its scientific and mapping achievements, others stress that it was an instrument of U.S. sovereignty claims over Native lands, and still others retell it as an encounter in which Native nations shaped the outcome.
+
 ### [Louisiana Purchase](../articles/early-republic-and-expansion/louisiana-purchase.md) — Event
 
 | Myth | Fact |

@@ -415,6 +415,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1803 | The United States buys Louisiana from France for $15 million. — [Thomas Jefferson](../articles/presidents-and-founders/thomas-jefferson.md) |
 | 1803 | The United States buys the Louisiana territory, about 530 million acres, from France for $15 million. — [United States](../articles/states-and-territories/united-states.md) |
 | 1803-01 | Jefferson sends James Monroe as minister extraordinary to join Robert Livingston in Paris, authorized to pay up to $10 million for New Orleans and the Floridas. — [Louisiana Purchase](../articles/early-republic-and-expansion/louisiana-purchase.md) |
+| 1803-01-18 | Jefferson sends Congress a confidential message asking for $2,500 to explore the Missouri River and open trade with the Native nations along it. — [Lewis and Clark Expedition](../articles/early-republic-and-expansion/lewis-and-clark-expedition.md) |
 | 1803-02-24 | **[Marbury v. Madison](../articles/rights-and-law/marbury-v-madison.md)** (CourtCase) |
 | 1803-02-24 | In Marbury v. Madison the Court, through Chief Justice John Marshall, holds part of the Judiciary Act of 1789 unconstitutional. — [Judicial review](../articles/constitution-and-government/judicial-review.md) |
 | 1803-02-24 | Marshall announces the unanimous opinion: Marbury has a right to the commission, but the Court lacks power to issue the writ. — [Marbury v. Madison](../articles/rights-and-law/marbury-v-madison.md) |
@@ -423,16 +424,31 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1803-04-11 | French foreign minister Talleyrand tells Livingston that France will sell all of Louisiana. — [Louisiana Purchase](../articles/early-republic-and-expansion/louisiana-purchase.md) |
 | 1803-04-30 – 1803-12-20 | **[Louisiana Purchase](../articles/early-republic-and-expansion/louisiana-purchase.md)** (Event) |
 | 1803-04-30 | Livingston, Monroe and François Barbé-Marbois sign the treaty of cession and two financial conventions in Paris. — [Louisiana Purchase](../articles/early-republic-and-expansion/louisiana-purchase.md) |
+| 1803-06-20 | Jefferson signs detailed instructions for Meriwether Lewis; that month Lewis invites William Clark to share command. — [Lewis and Clark Expedition](../articles/early-republic-and-expansion/lewis-and-clark-expedition.md) |
 | 1803-07-04 | The purchase is officially announced in the United States. — [Louisiana Purchase](../articles/early-republic-and-expansion/louisiana-purchase.md) |
 | 1803-10-20 | The Senate ratifies the treaty by a vote of 24 to 7. — [Louisiana Purchase](../articles/early-republic-and-expansion/louisiana-purchase.md) |
 | 1803-11-30 | Spain formally returns Louisiana to France. — [Louisiana Purchase](../articles/early-republic-and-expansion/louisiana-purchase.md) |
+| 1803-12 | Clark sets up Camp Wood near the meeting of the Mississippi and Missouri Rivers for the winter. — [Lewis and Clark Expedition](../articles/early-republic-and-expansion/lewis-and-clark-expedition.md) |
 | 1803-12-20 | France transfers Louisiana to the United States at New Orleans. — [Louisiana Purchase](../articles/early-republic-and-expansion/louisiana-purchase.md) |
 | 1803-12-20 | The U.S. flag is raised in New Orleans as Louisiana passes to the United States. — [New Orleans](../articles/regions-cities-and-landmarks/new-orleans.md) |
 | 1804 | Alexander Baranov returns to Sitka Sound; the Tlingit withdraw after losing their gunpowder, and the Russians found New Archangel. — [Alaska](../articles/states-and-territories/alaska.md) |
 | 1804 | Congress creates the Territory of Orleans from the southern part of the purchase. — [Louisiana Purchase](../articles/early-republic-and-expansion/louisiana-purchase.md) |
+| 1804-05-14 – 1806-09-23 | **[Lewis and Clark Expedition](../articles/early-republic-and-expansion/lewis-and-clark-expedition.md)** (Event) |
+| 1804-05-14 | The Corps of Discovery, about 45 people, starts up the Missouri River from Camp Wood. — [Lewis and Clark Expedition](../articles/early-republic-and-expansion/lewis-and-clark-expedition.md) |
 | 1804-06 | New Hampshire supplies the final ratification of the Twelfth Amendment, which gives electors separate votes for president and vice president. — [Electoral College](../articles/democracy-and-elections/electoral-college.md) |
 | 1804-06-15 | The Twelfth Amendment is ratified, so electors cast separate ballots for president and vice president. — [Presidency of the United States](../articles/constitution-and-government/presidency-of-the-united-states.md) |
+| 1804-08-20 | Sergeant Charles Floyd dies, probably of a ruptured appendix, near present-day Sioux City, Iowa — the expedition's only death. — [Lewis and Clark Expedition](../articles/early-republic-and-expansion/lewis-and-clark-expedition.md) |
+| 1804-09 | A council with the Lakota (called Teton Sioux in the journals) near present-day Pierre, South Dakota, nearly turns violent. — [Lewis and Clark Expedition](../articles/early-republic-and-expansion/lewis-and-clark-expedition.md) |
+| 1804-10 | The expedition reaches the Mandan and Hidatsa villages and builds Fort Mandan, where Toussaint Charbonneau and Sacagawea join it. — [Lewis and Clark Expedition](../articles/early-republic-and-expansion/lewis-and-clark-expedition.md) |
+| 1805-04-07 | The keelboat heads back to St. Louis with specimens, maps and reports while the permanent party pushes west. — [Lewis and Clark Expedition](../articles/early-republic-and-expansion/lewis-and-clark-expedition.md) |
 | 1805-06-11 | Fire destroys nearly the whole town; Judge Augustus Woodward lays out a new radial street plan. — [Detroit](../articles/regions-cities-and-landmarks/detroit.md) |
+| 1805-08-17 | The party reaches the head of navigation on the Missouri, meets the Shoshone and crosses the Continental Divide at Lemhi Pass. — [Lewis and Clark Expedition](../articles/early-republic-and-expansion/lewis-and-clark-expedition.md) |
+| 1805-09 | After a starving crossing of the Bitterroots on the Lolo Trail, the Corps is fed by the Nez Perce at Weippe Prairie. — [Lewis and Clark Expedition](../articles/early-republic-and-expansion/lewis-and-clark-expedition.md) |
+| 1805-11 | The expedition reaches the Pacific Ocean; members including York and Sacagawea vote on where to spend the winter. — [Lewis and Clark Expedition](../articles/early-republic-and-expansion/lewis-and-clark-expedition.md) |
+| 1805-12 | The Corps builds Fort Clatsop near present-day Astoria, Oregon. — [Lewis and Clark Expedition](../articles/early-republic-and-expansion/lewis-and-clark-expedition.md) |
+| 1806-03-23 | The return journey begins. — [Lewis and Clark Expedition](../articles/early-republic-and-expansion/lewis-and-clark-expedition.md) |
+| 1806-07 | Lewis's detachment fights Piegan Blackfeet on the Marias River, killing two men — the journey's only deadly clash. — [Lewis and Clark Expedition](../articles/early-republic-and-expansion/lewis-and-clark-expedition.md) |
+| 1806-09-23 | The expedition returns to St. Louis. — [Lewis and Clark Expedition](../articles/early-republic-and-expansion/lewis-and-clark-expedition.md) |
 | 1807 | John Colter becomes the first known European American to visit the area of present-day Yellowstone. — [Yellowstone National Park](../articles/geography-and-environment/yellowstone-national-park.md) |
 | 1807-02-24 | Congress adds a seventh seat. — [Supreme Court of the United States](../articles/constitution-and-government/supreme-court-of-the-united-states.md) |
 | 1807-03-02 | Signs the act banning the importation of enslaved people, effective January 1, 1808. — [Thomas Jefferson](../articles/presidents-and-founders/thomas-jefferson.md) |
@@ -461,6 +477,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1813-09-10 | Oliver Hazard Perry's squadron wins the Battle of Lake Erie. — [War of 1812](../articles/early-republic-and-expansion/war-of-1812.md) |
 | 1813-10-05 | William Henry Harrison's army wins the Battle of the Thames in Upper Canada; Tecumseh is killed. — [War of 1812](../articles/early-republic-and-expansion/war-of-1812.md) |
 | 1814 | After Andrew Jackson's forces defeat the Creeks at Horseshoe Bend, the Creeks surrender more than twenty million acres. — [Indian Removal Act](../articles/native-nations/indian-removal-act.md) |
+| 1814 | Nicholas Biddle's History of the Expedition appears with Clark's map of the West. — [Lewis and Clark Expedition](../articles/early-republic-and-expansion/lewis-and-clark-expedition.md) |
 | 1814-03 | Defeats the Red Stick Creeks at Horseshoe Bend; the Treaty of Fort Jackson in August takes most Creek land in Alabama and southern Georgia. — [Andrew Jackson](../articles/presidents-and-founders/andrew-jackson.md) |
 | 1814-03-27 | Andrew Jackson defeats the Red Stick Creeks at Horseshoe Bend. — [War of 1812](../articles/early-republic-and-expansion/war-of-1812.md) |
 | 1814-04-02 | British Vice Admiral Alexander Cochrane offers free settlement to Americans who reach British ships, drawing thousands of enslaved people to freedom. — [War of 1812](../articles/early-republic-and-expansion/war-of-1812.md) |

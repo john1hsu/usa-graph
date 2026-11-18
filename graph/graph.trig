@@ -719,6 +719,20 @@
 <https://github.com/john1hsu/usa-graph/id/california-gold-rush#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/california-gold-rush/s11> .
 <https://github.com/john1hsu/usa-graph/id/california-gold-rush#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/california-gold-rush/s12> .
 <https://github.com/john1hsu/usa-graph/id/california-gold-rush#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/california-gold-rush/s13> .
+<https://github.com/john1hsu/usa-graph/id/lewis-and-clark-expedition#graph> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity> .
+<https://github.com/john1hsu/usa-graph/id/lewis-and-clark-expedition#graph> <http://purl.org/dc/terms/subject> <https://github.com/john1hsu/usa-graph/id/lewis-and-clark-expedition> .
+<https://github.com/john1hsu/usa-graph/id/lewis-and-clark-expedition#graph> <http://purl.org/dc/terms/source> "https://github.com/john1hsu/usa-graph/blob/main/articles/early-republic-and-expansion/lewis-and-clark-expedition.md" .
+<https://github.com/john1hsu/usa-graph/id/lewis-and-clark-expedition#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/lewis-and-clark-expedition/s1> .
+<https://github.com/john1hsu/usa-graph/id/lewis-and-clark-expedition#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/lewis-and-clark-expedition/s2> .
+<https://github.com/john1hsu/usa-graph/id/lewis-and-clark-expedition#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/lewis-and-clark-expedition/s3> .
+<https://github.com/john1hsu/usa-graph/id/lewis-and-clark-expedition#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/lewis-and-clark-expedition/s4> .
+<https://github.com/john1hsu/usa-graph/id/lewis-and-clark-expedition#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/lewis-and-clark-expedition/s5> .
+<https://github.com/john1hsu/usa-graph/id/lewis-and-clark-expedition#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/lewis-and-clark-expedition/s6> .
+<https://github.com/john1hsu/usa-graph/id/lewis-and-clark-expedition#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/lewis-and-clark-expedition/s7> .
+<https://github.com/john1hsu/usa-graph/id/lewis-and-clark-expedition#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/lewis-and-clark-expedition/s8> .
+<https://github.com/john1hsu/usa-graph/id/lewis-and-clark-expedition#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/lewis-and-clark-expedition/s9> .
+<https://github.com/john1hsu/usa-graph/id/lewis-and-clark-expedition#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/lewis-and-clark-expedition/s10> .
+<https://github.com/john1hsu/usa-graph/id/lewis-and-clark-expedition#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/lewis-and-clark-expedition/s11> .
 <https://github.com/john1hsu/usa-graph/id/louisiana-purchase#graph> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity> .
 <https://github.com/john1hsu/usa-graph/id/louisiana-purchase#graph> <http://purl.org/dc/terms/subject> <https://github.com/john1hsu/usa-graph/id/louisiana-purchase> .
 <https://github.com/john1hsu/usa-graph/id/louisiana-purchase#graph> <http://purl.org/dc/terms/source> "https://github.com/john1hsu/usa-graph/blob/main/articles/early-republic-and-expansion/louisiana-purchase.md" .
@@ -12035,6 +12049,212 @@
   <https://github.com/john1hsu/usa-graph/id/source/california-gold-rush/s9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
   <https://github.com/john1hsu/usa-graph/id/source/california-gold-rush/s9> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "institutional" .
   <https://github.com/john1hsu/usa-graph/id/source/california-gold-rush/s9> <https://schema.org/url> <https://billofrightsinstitute.org/essays/the-49ers/> .
+}
+
+<https://github.com/john1hsu/usa-graph/id/lewis-and-clark-expedition#graph> {
+  <https://github.com/john1hsu/usa-graph/id/lewis-and-clark-expedition/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Misconception> .
+  <https://github.com/john1hsu/usa-graph/id/lewis-and-clark-expedition/misconception> <https://github.com/john1hsu/usa-graph/ontology#fact> "Sacagawea, a Lemhi Shoshone woman, joined because her husband was hired as an interpreter; she interpreted, recognized landmarks near her homeland and signaled the party's peaceful intent, but the journals offer little evidence that she guided the expedition, which hired other Native men as guides." .
+  <https://github.com/john1hsu/usa-graph/id/lewis-and-clark-expedition/misconception> <https://github.com/john1hsu/usa-graph/ontology#myth> "Sacagawea was the guide who led Lewis and Clark across the continent to the Pacific." .
+  <https://github.com/john1hsu/usa-graph/id/lewis-and-clark-expedition/misconception> <https://github.com/john1hsu/usa-graph/ontology#why> "Turning Sacagawea into a lone guide exaggerates one person while hiding the many Native people — Shoshone, Nez Perce and others — whose food, horses, maps and knowledge the expedition depended on." .
+  <https://github.com/john1hsu/usa-graph/id/lewis-and-clark-expedition/review/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+  <https://github.com/john1hsu/usa-graph/id/lewis-and-clark-expedition/review/1> <http://www.w3.org/2000/01/rdf-schema#label> "Why did Jefferson ask Congress for the expedition's money in a confidential message?" .
+  <https://github.com/john1hsu/usa-graph/id/lewis-and-clark-expedition/review/1> <https://github.com/john1hsu/usa-graph/ontology#answer> "He presented it as a way of extending U.S. commerce with Native nations on the Missouri, and argued that keeping the plan quiet would stop foreign powers and rival traders from obstructing it; the same message linked trade to persuading Native nations to farm and give up land." .
+  <https://github.com/john1hsu/usa-graph/id/lewis-and-clark-expedition/review/1> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/lewis-and-clark-expedition> .
+  <https://github.com/john1hsu/usa-graph/id/lewis-and-clark-expedition/review/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+  <https://github.com/john1hsu/usa-graph/id/lewis-and-clark-expedition/review/2> <http://www.w3.org/2000/01/rdf-schema#label> "How did Native nations make the expedition's success possible?" .
+  <https://github.com/john1hsu/usa-graph/id/lewis-and-clark-expedition/review/2> <https://github.com/john1hsu/usa-graph/ontology#answer> "The Shoshone sold the horses needed to cross the mountains, the Nez Perce fed the starving men after the Lolo Trail crossing, Native informants drew maps that Clark used, and Native men were hired as guides." .
+  <https://github.com/john1hsu/usa-graph/id/lewis-and-clark-expedition/review/2> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/lewis-and-clark-expedition> .
+  <https://github.com/john1hsu/usa-graph/id/lewis-and-clark-expedition/review/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+  <https://github.com/john1hsu/usa-graph/id/lewis-and-clark-expedition/review/3> <http://www.w3.org/2000/01/rdf-schema#label> "How did York's experience after the expedition differ from that of the other men, and why?" .
+  <https://github.com/john1hsu/usa-graph/id/lewis-and-clark-expedition/review/3> <https://github.com/john1hsu/usa-graph/ontology#answer> "The other men received double pay and 320 acres of land, but York was enslaved by William Clark, who refused his requests for freedom and freed him only sometime after 1815." .
+  <https://github.com/john1hsu/usa-graph/id/lewis-and-clark-expedition/review/3> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/lewis-and-clark-expedition> .
+  <https://github.com/john1hsu/usa-graph/id/lewis-and-clark-expedition/review/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+  <https://github.com/john1hsu/usa-graph/id/lewis-and-clark-expedition/review/4> <http://www.w3.org/2000/01/rdf-schema#label> "Why do historians disagree about how to describe the expedition?" .
+  <https://github.com/john1hsu/usa-graph/id/lewis-and-clark-expedition/review/4> <https://github.com/john1hsu/usa-graph/ontology#answer> "Some emphasize its scientific and mapping achievements, others stress that it was an instrument of U.S. sovereignty claims over Native lands, and still others retell it as an encounter in which Native nations shaped the outcome." .
+  <https://github.com/john1hsu/usa-graph/id/lewis-and-clark-expedition/review/4> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/lewis-and-clark-expedition> .
+  <https://github.com/john1hsu/usa-graph/id/lewis-and-clark-expedition/timeline/10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/lewis-and-clark-expedition/timeline/10> <http://www.w3.org/2000/01/rdf-schema#label> "After a starving crossing of the Bitterroots on the Lolo Trail, the Corps is fed by the Nez Perce at Weippe Prairie." .
+  <https://github.com/john1hsu/usa-graph/id/lewis-and-clark-expedition/timeline/10> <https://github.com/john1hsu/usa-graph/ontology#date> "1805-09"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> .
+  <https://github.com/john1hsu/usa-graph/id/lewis-and-clark-expedition/timeline/11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/lewis-and-clark-expedition/timeline/11> <http://www.w3.org/2000/01/rdf-schema#label> "The expedition reaches the Pacific Ocean; members including York and Sacagawea vote on where to spend the winter." .
+  <https://github.com/john1hsu/usa-graph/id/lewis-and-clark-expedition/timeline/11> <https://github.com/john1hsu/usa-graph/ontology#date> "1805-11"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> .
+  <https://github.com/john1hsu/usa-graph/id/lewis-and-clark-expedition/timeline/12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/lewis-and-clark-expedition/timeline/12> <http://www.w3.org/2000/01/rdf-schema#label> "The Corps builds Fort Clatsop near present-day Astoria, Oregon." .
+  <https://github.com/john1hsu/usa-graph/id/lewis-and-clark-expedition/timeline/12> <https://github.com/john1hsu/usa-graph/ontology#date> "1805-12"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> .
+  <https://github.com/john1hsu/usa-graph/id/lewis-and-clark-expedition/timeline/13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/lewis-and-clark-expedition/timeline/13> <http://www.w3.org/2000/01/rdf-schema#label> "The return journey begins." .
+  <https://github.com/john1hsu/usa-graph/id/lewis-and-clark-expedition/timeline/13> <https://github.com/john1hsu/usa-graph/ontology#date> "1806-03-23"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/lewis-and-clark-expedition/timeline/14> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/lewis-and-clark-expedition/timeline/14> <http://www.w3.org/2000/01/rdf-schema#label> "Lewis's detachment fights Piegan Blackfeet on the Marias River, killing two men — the journey's only deadly clash." .
+  <https://github.com/john1hsu/usa-graph/id/lewis-and-clark-expedition/timeline/14> <https://github.com/john1hsu/usa-graph/ontology#date> "1806-07"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> .
+  <https://github.com/john1hsu/usa-graph/id/lewis-and-clark-expedition/timeline/15> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/lewis-and-clark-expedition/timeline/15> <http://www.w3.org/2000/01/rdf-schema#label> "The expedition returns to St. Louis." .
+  <https://github.com/john1hsu/usa-graph/id/lewis-and-clark-expedition/timeline/15> <https://github.com/john1hsu/usa-graph/ontology#date> "1806-09-23"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/lewis-and-clark-expedition/timeline/16> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/lewis-and-clark-expedition/timeline/16> <http://www.w3.org/2000/01/rdf-schema#label> "Nicholas Biddle's History of the Expedition appears with Clark's map of the West." .
+  <https://github.com/john1hsu/usa-graph/id/lewis-and-clark-expedition/timeline/16> <https://github.com/john1hsu/usa-graph/ontology#date> "1814"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+  <https://github.com/john1hsu/usa-graph/id/lewis-and-clark-expedition/timeline/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/lewis-and-clark-expedition/timeline/1> <http://www.w3.org/2000/01/rdf-schema#label> "Jefferson sends Congress a confidential message asking for $2,500 to explore the Missouri River and open trade with the Native nations along it." .
+  <https://github.com/john1hsu/usa-graph/id/lewis-and-clark-expedition/timeline/1> <https://github.com/john1hsu/usa-graph/ontology#date> "1803-01-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/lewis-and-clark-expedition/timeline/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/lewis-and-clark-expedition/timeline/2> <http://www.w3.org/2000/01/rdf-schema#label> "Jefferson signs detailed instructions for Meriwether Lewis; that month Lewis invites William Clark to share command." .
+  <https://github.com/john1hsu/usa-graph/id/lewis-and-clark-expedition/timeline/2> <https://github.com/john1hsu/usa-graph/ontology#date> "1803-06-20"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/lewis-and-clark-expedition/timeline/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/lewis-and-clark-expedition/timeline/3> <http://www.w3.org/2000/01/rdf-schema#label> "Clark sets up Camp Wood near the meeting of the Mississippi and Missouri Rivers for the winter." .
+  <https://github.com/john1hsu/usa-graph/id/lewis-and-clark-expedition/timeline/3> <https://github.com/john1hsu/usa-graph/ontology#date> "1803-12"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> .
+  <https://github.com/john1hsu/usa-graph/id/lewis-and-clark-expedition/timeline/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/lewis-and-clark-expedition/timeline/4> <http://www.w3.org/2000/01/rdf-schema#label> "The Corps of Discovery, about 45 people, starts up the Missouri River from Camp Wood." .
+  <https://github.com/john1hsu/usa-graph/id/lewis-and-clark-expedition/timeline/4> <https://github.com/john1hsu/usa-graph/ontology#date> "1804-05-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/lewis-and-clark-expedition/timeline/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/lewis-and-clark-expedition/timeline/5> <http://www.w3.org/2000/01/rdf-schema#label> "Sergeant Charles Floyd dies, probably of a ruptured appendix, near present-day Sioux City, Iowa — the expedition's only death." .
+  <https://github.com/john1hsu/usa-graph/id/lewis-and-clark-expedition/timeline/5> <https://github.com/john1hsu/usa-graph/ontology#date> "1804-08-20"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/lewis-and-clark-expedition/timeline/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/lewis-and-clark-expedition/timeline/6> <http://www.w3.org/2000/01/rdf-schema#label> "A council with the Lakota (called Teton Sioux in the journals) near present-day Pierre, South Dakota, nearly turns violent." .
+  <https://github.com/john1hsu/usa-graph/id/lewis-and-clark-expedition/timeline/6> <https://github.com/john1hsu/usa-graph/ontology#date> "1804-09"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> .
+  <https://github.com/john1hsu/usa-graph/id/lewis-and-clark-expedition/timeline/7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/lewis-and-clark-expedition/timeline/7> <http://www.w3.org/2000/01/rdf-schema#label> "The expedition reaches the Mandan and Hidatsa villages and builds Fort Mandan, where Toussaint Charbonneau and Sacagawea join it." .
+  <https://github.com/john1hsu/usa-graph/id/lewis-and-clark-expedition/timeline/7> <https://github.com/john1hsu/usa-graph/ontology#date> "1804-10"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> .
+  <https://github.com/john1hsu/usa-graph/id/lewis-and-clark-expedition/timeline/8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/lewis-and-clark-expedition/timeline/8> <http://www.w3.org/2000/01/rdf-schema#label> "The keelboat heads back to St. Louis with specimens, maps and reports while the permanent party pushes west." .
+  <https://github.com/john1hsu/usa-graph/id/lewis-and-clark-expedition/timeline/8> <https://github.com/john1hsu/usa-graph/ontology#date> "1805-04-07"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/lewis-and-clark-expedition/timeline/9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/lewis-and-clark-expedition/timeline/9> <http://www.w3.org/2000/01/rdf-schema#label> "The party reaches the head of navigation on the Missouri, meets the Shoshone and crosses the Continental Divide at Lemhi Pass." .
+  <https://github.com/john1hsu/usa-graph/id/lewis-and-clark-expedition/timeline/9> <https://github.com/john1hsu/usa-graph/ontology#date> "1805-08-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/lewis-and-clark-expedition> <http://purl.org/dc/terms/created> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/lewis-and-clark-expedition> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Event> .
+  <https://github.com/john1hsu/usa-graph/id/lewis-and-clark-expedition> <http://www.w3.org/2000/01/rdf-schema#label> "Lewis and Clark Expedition" .
+  <https://github.com/john1hsu/usa-graph/id/lewis-and-clark-expedition> <http://www.w3.org/2004/02/skos/core#altLabel> "Corps of Discovery Expedition" .
+  <https://github.com/john1hsu/usa-graph/id/lewis-and-clark-expedition> <http://www.w3.org/2004/02/skos/core#altLabel> "Corps of Discovery" .
+  <https://github.com/john1hsu/usa-graph/id/lewis-and-clark-expedition> <http://www.w3.org/2004/02/skos/core#altLabel> "Lewis & Clark Expedition" .
+  <https://github.com/john1hsu/usa-graph/id/lewis-and-clark-expedition> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/usa-graph/id/early-republic> .
+  <https://github.com/john1hsu/usa-graph/id/lewis-and-clark-expedition> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/usa-graph/id/territorial-expansion-of-the-united-states> .
+  <https://github.com/john1hsu/usa-graph/id/lewis-and-clark-expedition> <http://www.w3.org/2004/02/skos/core#definition> "The U.S. Army expedition of 1804–1806, commissioned by President Thomas Jefferson and led by Meriwether Lewis and William Clark, that traveled up the Missouri River, across the Rocky Mountains and down the Columbia River to the Pacific and back, mapping the West, recording its plants and animals, and announcing U.S. claims to the more than fifty Native nations whose homelands it crossed." .
+  <https://github.com/john1hsu/usa-graph/id/lewis-and-clark-expedition> <http://www.w3.org/2004/02/skos/core#inScheme> <https://github.com/john1hsu/usa-graph/id/scheme/early-republic-and-expansion> .
+  <https://github.com/john1hsu/usa-graph/id/lewis-and-clark-expedition> <http://www.w3.org/2004/02/skos/core#prefLabel> "Lewis and Clark Expedition" .
+  <https://github.com/john1hsu/usa-graph/id/lewis-and-clark-expedition> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/african-americans> .
+  <https://github.com/john1hsu/usa-graph/id/lewis-and-clark-expedition> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/columbia-river> .
+  <https://github.com/john1hsu/usa-graph/id/lewis-and-clark-expedition> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/hayden-geological-survey-of-1871> .
+  <https://github.com/john1hsu/usa-graph/id/lewis-and-clark-expedition> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/lemhi-shoshone> .
+  <https://github.com/john1hsu/usa-graph/id/lewis-and-clark-expedition> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/lewis-and-clark-national-historic-trail> .
+  <https://github.com/john1hsu/usa-graph/id/lewis-and-clark-expedition> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/louisiana-purchase> .
+  <https://github.com/john1hsu/usa-graph/id/lewis-and-clark-expedition> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/meriwether-lewis> .
+  <https://github.com/john1hsu/usa-graph/id/lewis-and-clark-expedition> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/missouri-river> .
+  <https://github.com/john1hsu/usa-graph/id/lewis-and-clark-expedition> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/native-americans> .
+  <https://github.com/john1hsu/usa-graph/id/lewis-and-clark-expedition> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/nez-perce> .
+  <https://github.com/john1hsu/usa-graph/id/lewis-and-clark-expedition> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/sacagawea> .
+  <https://github.com/john1hsu/usa-graph/id/lewis-and-clark-expedition> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> .
+  <https://github.com/john1hsu/usa-graph/id/lewis-and-clark-expedition> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/the-west> .
+  <https://github.com/john1hsu/usa-graph/id/lewis-and-clark-expedition> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/thomas-jefferson> .
+  <https://github.com/john1hsu/usa-graph/id/lewis-and-clark-expedition> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/william-clark> .
+  <https://github.com/john1hsu/usa-graph/id/lewis-and-clark-expedition> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/york-of-the-corps-of-discovery> .
+  <https://github.com/john1hsu/usa-graph/id/lewis-and-clark-expedition> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/lewis-and-clark-expedition/s10> .
+  <https://github.com/john1hsu/usa-graph/id/lewis-and-clark-expedition> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/lewis-and-clark-expedition/s11> .
+  <https://github.com/john1hsu/usa-graph/id/lewis-and-clark-expedition> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/lewis-and-clark-expedition/s1> .
+  <https://github.com/john1hsu/usa-graph/id/lewis-and-clark-expedition> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/lewis-and-clark-expedition/s2> .
+  <https://github.com/john1hsu/usa-graph/id/lewis-and-clark-expedition> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/lewis-and-clark-expedition/s3> .
+  <https://github.com/john1hsu/usa-graph/id/lewis-and-clark-expedition> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/lewis-and-clark-expedition/s4> .
+  <https://github.com/john1hsu/usa-graph/id/lewis-and-clark-expedition> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/lewis-and-clark-expedition/s5> .
+  <https://github.com/john1hsu/usa-graph/id/lewis-and-clark-expedition> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/lewis-and-clark-expedition/s6> .
+  <https://github.com/john1hsu/usa-graph/id/lewis-and-clark-expedition> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/lewis-and-clark-expedition/s7> .
+  <https://github.com/john1hsu/usa-graph/id/lewis-and-clark-expedition> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/lewis-and-clark-expedition/s8> .
+  <https://github.com/john1hsu/usa-graph/id/lewis-and-clark-expedition> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/lewis-and-clark-expedition/s9> .
+  <https://github.com/john1hsu/usa-graph/id/lewis-and-clark-expedition> <https://github.com/john1hsu/usa-graph/ontology#affected> <https://github.com/john1hsu/usa-graph/id/native-americans> .
+  <https://github.com/john1hsu/usa-graph/id/lewis-and-clark-expedition> <https://github.com/john1hsu/usa-graph/ontology#domain> "early-republic-and-expansion" .
+  <https://github.com/john1hsu/usa-graph/id/lewis-and-clark-expedition> <https://github.com/john1hsu/usa-graph/ontology#evidenceStatus> "interpretive" .
+  <https://github.com/john1hsu/usa-graph/id/lewis-and-clark-expedition> <https://github.com/john1hsu/usa-graph/ontology#file> "articles/early-republic-and-expansion/lewis-and-clark-expedition.md" .
+  <https://github.com/john1hsu/usa-graph/id/lewis-and-clark-expedition> <https://github.com/john1hsu/usa-graph/ontology#introducedBy> <https://github.com/john1hsu/usa-graph/id/thomas-jefferson> .
+  <https://github.com/john1hsu/usa-graph/id/lewis-and-clark-expedition> <https://github.com/john1hsu/usa-graph/ontology#ledBy> <https://github.com/john1hsu/usa-graph/id/meriwether-lewis> .
+  <https://github.com/john1hsu/usa-graph/id/lewis-and-clark-expedition> <https://github.com/john1hsu/usa-graph/ontology#ledBy> <https://github.com/john1hsu/usa-graph/id/william-clark> .
+  <https://github.com/john1hsu/usa-graph/id/lewis-and-clark-expedition> <https://github.com/john1hsu/usa-graph/ontology#ledTo> <https://github.com/john1hsu/usa-graph/id/great-surveys-of-the-west> .
+  <https://github.com/john1hsu/usa-graph/id/lewis-and-clark-expedition> <https://github.com/john1hsu/usa-graph/ontology#level> "introductory" .
+  <https://github.com/john1hsu/usa-graph/id/lewis-and-clark-expedition> <https://github.com/john1hsu/usa-graph/ontology#misconception> <https://github.com/john1hsu/usa-graph/id/lewis-and-clark-expedition/misconception> .
+  <https://github.com/john1hsu/usa-graph/id/lewis-and-clark-expedition> <https://github.com/john1hsu/usa-graph/ontology#occurredDuring> <https://github.com/john1hsu/usa-graph/id/early-republic> .
+  <https://github.com/john1hsu/usa-graph/id/lewis-and-clark-expedition> <https://github.com/john1hsu/usa-graph/ontology#occurredIn> <https://github.com/john1hsu/usa-graph/id/missouri-river> .
+  <https://github.com/john1hsu/usa-graph/id/lewis-and-clark-expedition> <https://github.com/john1hsu/usa-graph/ontology#requires> <https://github.com/john1hsu/usa-graph/id/louisiana-purchase> .
+  <https://github.com/john1hsu/usa-graph/id/lewis-and-clark-expedition> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/lewis-and-clark-expedition/timeline/10> .
+  <https://github.com/john1hsu/usa-graph/id/lewis-and-clark-expedition> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/lewis-and-clark-expedition/timeline/11> .
+  <https://github.com/john1hsu/usa-graph/id/lewis-and-clark-expedition> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/lewis-and-clark-expedition/timeline/12> .
+  <https://github.com/john1hsu/usa-graph/id/lewis-and-clark-expedition> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/lewis-and-clark-expedition/timeline/13> .
+  <https://github.com/john1hsu/usa-graph/id/lewis-and-clark-expedition> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/lewis-and-clark-expedition/timeline/14> .
+  <https://github.com/john1hsu/usa-graph/id/lewis-and-clark-expedition> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/lewis-and-clark-expedition/timeline/15> .
+  <https://github.com/john1hsu/usa-graph/id/lewis-and-clark-expedition> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/lewis-and-clark-expedition/timeline/16> .
+  <https://github.com/john1hsu/usa-graph/id/lewis-and-clark-expedition> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/lewis-and-clark-expedition/timeline/1> .
+  <https://github.com/john1hsu/usa-graph/id/lewis-and-clark-expedition> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/lewis-and-clark-expedition/timeline/2> .
+  <https://github.com/john1hsu/usa-graph/id/lewis-and-clark-expedition> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/lewis-and-clark-expedition/timeline/3> .
+  <https://github.com/john1hsu/usa-graph/id/lewis-and-clark-expedition> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/lewis-and-clark-expedition/timeline/4> .
+  <https://github.com/john1hsu/usa-graph/id/lewis-and-clark-expedition> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/lewis-and-clark-expedition/timeline/5> .
+  <https://github.com/john1hsu/usa-graph/id/lewis-and-clark-expedition> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/lewis-and-clark-expedition/timeline/6> .
+  <https://github.com/john1hsu/usa-graph/id/lewis-and-clark-expedition> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/lewis-and-clark-expedition/timeline/7> .
+  <https://github.com/john1hsu/usa-graph/id/lewis-and-clark-expedition> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/lewis-and-clark-expedition/timeline/8> .
+  <https://github.com/john1hsu/usa-graph/id/lewis-and-clark-expedition> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/lewis-and-clark-expedition/timeline/9> .
+  <https://github.com/john1hsu/usa-graph/id/lewis-and-clark-expedition> <https://schema.org/endDate> "1806-09-23"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/lewis-and-clark-expedition> <https://schema.org/startDate> "1804-05-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/lewis-and-clark-expedition/s10> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/lewis-and-clark-expedition/s10> <http://purl.org/dc/terms/publisher> "National Park Service" .
+  <https://github.com/john1hsu/usa-graph/id/source/lewis-and-clark-expedition/s10> <http://purl.org/dc/terms/title> "Weippe-Watkuweis" .
+  <https://github.com/john1hsu/usa-graph/id/source/lewis-and-clark-expedition/s10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/lewis-and-clark-expedition/s10> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+  <https://github.com/john1hsu/usa-graph/id/source/lewis-and-clark-expedition/s10> <https://schema.org/url> <https://www.nps.gov/places/weippe-watkuweis.htm> .
+  <https://github.com/john1hsu/usa-graph/id/source/lewis-and-clark-expedition/s11> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/lewis-and-clark-expedition/s11> <http://purl.org/dc/terms/publisher> "Library of Congress" .
+  <https://github.com/john1hsu/usa-graph/id/source/lewis-and-clark-expedition/s11> <http://purl.org/dc/terms/title> "Rivers, Edens, Empires: Lewis & Clark and the Revealing of America — After Lewis & Clark" .
+  <https://github.com/john1hsu/usa-graph/id/source/lewis-and-clark-expedition/s11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/lewis-and-clark-expedition/s11> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "museum" .
+  <https://github.com/john1hsu/usa-graph/id/source/lewis-and-clark-expedition/s11> <https://schema.org/url> <https://loc.gov/exhibits/lewisandclark/lewis-after.html> .
+  <https://github.com/john1hsu/usa-graph/id/source/lewis-and-clark-expedition/s1> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/lewis-and-clark-expedition/s1> <http://purl.org/dc/terms/publisher> "Founders Online, National Archives (The Papers of Thomas Jefferson, vol. 40)" .
+  <https://github.com/john1hsu/usa-graph/id/source/lewis-and-clark-expedition/s1> <http://purl.org/dc/terms/title> "IV. Instructions for Meriwether Lewis, 20 June 1803" .
+  <https://github.com/john1hsu/usa-graph/id/source/lewis-and-clark-expedition/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/lewis-and-clark-expedition/s1> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "primary" .
+  <https://github.com/john1hsu/usa-graph/id/source/lewis-and-clark-expedition/s1> <https://schema.org/url> <https://founders.archives.gov/documents/Jefferson/01-40-02-0136-0005> .
+  <https://github.com/john1hsu/usa-graph/id/source/lewis-and-clark-expedition/s2> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/lewis-and-clark-expedition/s2> <http://purl.org/dc/terms/publisher> "National Park Service" .
+  <https://github.com/john1hsu/usa-graph/id/source/lewis-and-clark-expedition/s2> <http://purl.org/dc/terms/title> "Lewis and Clark National Historic Trail: Basic Facts" .
+  <https://github.com/john1hsu/usa-graph/id/source/lewis-and-clark-expedition/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/lewis-and-clark-expedition/s2> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+  <https://github.com/john1hsu/usa-graph/id/source/lewis-and-clark-expedition/s2> <https://schema.org/url> <https://home.nps.gov/lecl/basic-facts.htm> .
+  <https://github.com/john1hsu/usa-graph/id/source/lewis-and-clark-expedition/s3> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/lewis-and-clark-expedition/s3> <http://purl.org/dc/terms/publisher> "National Park Service, Missouri National Recreational River" .
+  <https://github.com/john1hsu/usa-graph/id/source/lewis-and-clark-expedition/s3> <http://purl.org/dc/terms/title> "The Lewis and Clark Expedition" .
+  <https://github.com/john1hsu/usa-graph/id/source/lewis-and-clark-expedition/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/lewis-and-clark-expedition/s3> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+  <https://github.com/john1hsu/usa-graph/id/source/lewis-and-clark-expedition/s3> <https://schema.org/url> <https://home.nps.gov/mnrr/learn/historyculture/the-lewis-and-clark-expedition.htm> .
+  <https://github.com/john1hsu/usa-graph/id/source/lewis-and-clark-expedition/s4> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/lewis-and-clark-expedition/s4> <http://purl.org/dc/terms/publisher> "National Park Service, Lewis and Clark National Historic Trail" .
+  <https://github.com/john1hsu/usa-graph/id/source/lewis-and-clark-expedition/s4> <http://purl.org/dc/terms/title> "Sacagawea" .
+  <https://github.com/john1hsu/usa-graph/id/source/lewis-and-clark-expedition/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/lewis-and-clark-expedition/s4> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+  <https://github.com/john1hsu/usa-graph/id/source/lewis-and-clark-expedition/s4> <https://schema.org/url> <https://www.nps.gov/lecl/learn/historyculture/sacagawea.htm> .
+  <https://github.com/john1hsu/usa-graph/id/source/lewis-and-clark-expedition/s5> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/lewis-and-clark-expedition/s5> <http://purl.org/dc/terms/publisher> "National Archives and Records Administration, Milestone Documents" .
+  <https://github.com/john1hsu/usa-graph/id/source/lewis-and-clark-expedition/s5> <http://purl.org/dc/terms/title> "Jefferson's Secret Message to Congress (1803)" .
+  <https://github.com/john1hsu/usa-graph/id/source/lewis-and-clark-expedition/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/lewis-and-clark-expedition/s5> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "primary" .
+  <https://github.com/john1hsu/usa-graph/id/source/lewis-and-clark-expedition/s5> <https://schema.org/url> <https://www.archives.gov/milestone-documents/jeffersons-secret-message-to-congress> .
+  <https://github.com/john1hsu/usa-graph/id/source/lewis-and-clark-expedition/s6> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/lewis-and-clark-expedition/s6> <http://purl.org/dc/terms/publisher> "National Park Service" .
+  <https://github.com/john1hsu/usa-graph/id/source/lewis-and-clark-expedition/s6> <http://purl.org/dc/terms/title> "York" .
+  <https://github.com/john1hsu/usa-graph/id/source/lewis-and-clark-expedition/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/lewis-and-clark-expedition/s6> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+  <https://github.com/john1hsu/usa-graph/id/source/lewis-and-clark-expedition/s6> <https://schema.org/url> <https://www.nps.gov/people/york.htm> .
+  <https://github.com/john1hsu/usa-graph/id/source/lewis-and-clark-expedition/s7> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/lewis-and-clark-expedition/s7> <http://purl.org/dc/terms/publisher> "Library of Congress" .
+  <https://github.com/john1hsu/usa-graph/id/source/lewis-and-clark-expedition/s7> <http://purl.org/dc/terms/title> "Rivers, Edens, Empires: Lewis & Clark and the Revealing of America — Lewis & Clark" .
+  <https://github.com/john1hsu/usa-graph/id/source/lewis-and-clark-expedition/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/lewis-and-clark-expedition/s7> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "museum" .
+  <https://github.com/john1hsu/usa-graph/id/source/lewis-and-clark-expedition/s7> <https://schema.org/url> <https://loc.gov/exhibits/lewisandclark/lewis-landc.html> .
+  <https://github.com/john1hsu/usa-graph/id/source/lewis-and-clark-expedition/s8> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/lewis-and-clark-expedition/s8> <http://purl.org/dc/terms/publisher> "James P. Ronda, The Journals of the Lewis and Clark Expedition, University of Nebraska–Lincoln" .
+  <https://github.com/john1hsu/usa-graph/id/source/lewis-and-clark-expedition/s8> <http://purl.org/dc/terms/title> "A Note on Sacagawea (appendix to Lewis and Clark among the Indians, University of Nebraska Press, 1984)" .
+  <https://github.com/john1hsu/usa-graph/id/source/lewis-and-clark-expedition/s8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/lewis-and-clark-expedition/s8> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "academic" .
+  <https://github.com/john1hsu/usa-graph/id/source/lewis-and-clark-expedition/s8> <https://schema.org/url> <https://lewisandclarkjournals.unl.edu/item/lc.sup.ronda.01.appendix> .
+  <https://github.com/john1hsu/usa-graph/id/source/lewis-and-clark-expedition/s9> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/lewis-and-clark-expedition/s9> <http://purl.org/dc/terms/publisher> "National Park Service, Nez Perce National Historical Park" .
+  <https://github.com/john1hsu/usa-graph/id/source/lewis-and-clark-expedition/s9> <http://purl.org/dc/terms/title> "Lewis and Clark and the Nez Perce" .
+  <https://github.com/john1hsu/usa-graph/id/source/lewis-and-clark-expedition/s9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/lewis-and-clark-expedition/s9> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+  <https://github.com/john1hsu/usa-graph/id/source/lewis-and-clark-expedition/s9> <https://schema.org/url> <https://www.nps.gov/nepe/learn/historyculture/lewis-and-clark.htm> .
 }
 
 <https://github.com/john1hsu/usa-graph/id/louisiana-purchase#graph> {
@@ -28550,6 +28770,7 @@
   <https://github.com/john1hsu/usa-graph/id/african-americans> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/detroit> .
   <https://github.com/john1hsu/usa-graph/id/african-americans> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/hip-hop> .
   <https://github.com/john1hsu/usa-graph/id/african-americans> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/hoover-dam> .
+  <https://github.com/john1hsu/usa-graph/id/african-americans> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/lewis-and-clark-expedition> .
   <https://github.com/john1hsu/usa-graph/id/african-americans> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/martin-luther-king-jr> .
   <https://github.com/john1hsu/usa-graph/id/african-americans> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/new-deal> .
   <https://github.com/john1hsu/usa-graph/id/african-americans> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/world-war-ii-and-the-united-states> .
@@ -28947,6 +29168,7 @@
   <https://github.com/john1hsu/usa-graph/id/articles-of-confederation> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/james-madison> .
   <https://github.com/john1hsu/usa-graph/id/articles-of-confederation> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/john-marshall> .
   <https://github.com/john1hsu/usa-graph/id/articles-of-confederation> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/judicial-review> .
+  <https://github.com/john1hsu/usa-graph/id/articles-of-confederation> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/lewis-and-clark-expedition> .
   <https://github.com/john1hsu/usa-graph/id/articles-of-confederation> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/louisiana-purchase> .
   <https://github.com/john1hsu/usa-graph/id/articles-of-confederation> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/marbury-v-madison> .
   <https://github.com/john1hsu/usa-graph/id/articles-of-confederation> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/mcculloch-v-maryland> .
@@ -29721,6 +29943,7 @@
   <https://github.com/john1hsu/usa-graph/id/colorado-river> <https://github.com/john1hsu/usa-graph/ontology#locatedIn> <https://github.com/john1hsu/usa-graph/id/north-america> .
   <https://github.com/john1hsu/usa-graph/id/colorado-river> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/hoover-dam> .
   <https://github.com/john1hsu/usa-graph/id/colorado-river> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/winged-figures-of-the-republic> .
+  <https://github.com/john1hsu/usa-graph/id/columbia-river> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/lewis-and-clark-expedition> .
   <https://github.com/john1hsu/usa-graph/id/combahee-river-raid> <https://github.com/john1hsu/usa-graph/ontology#participant> <https://github.com/john1hsu/usa-graph/id/harriet-tubman> .
   <https://github.com/john1hsu/usa-graph/id/comite-des-citoyens> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/new-orleans> .
   <https://github.com/john1hsu/usa-graph/id/comite-des-citoyens> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/plessy-v-ferguson> .
@@ -29795,6 +30018,7 @@
   <https://github.com/john1hsu/usa-graph/id/constitutional-convention> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/indian-removal-act> .
   <https://github.com/john1hsu/usa-graph/id/constitutional-convention> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/john-marshall> .
   <https://github.com/john1hsu/usa-graph/id/constitutional-convention> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/judicial-review> .
+  <https://github.com/john1hsu/usa-graph/id/constitutional-convention> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/lewis-and-clark-expedition> .
   <https://github.com/john1hsu/usa-graph/id/constitutional-convention> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/louisiana-purchase> .
   <https://github.com/john1hsu/usa-graph/id/constitutional-convention> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/marbury-v-madison> .
   <https://github.com/john1hsu/usa-graph/id/constitutional-convention> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/mcculloch-v-maryland> .
@@ -29931,6 +30155,7 @@
   <https://github.com/john1hsu/usa-graph/id/declaration-of-independence> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/james-madison> .
   <https://github.com/john1hsu/usa-graph/id/declaration-of-independence> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/john-marshall> .
   <https://github.com/john1hsu/usa-graph/id/declaration-of-independence> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/judicial-review> .
+  <https://github.com/john1hsu/usa-graph/id/declaration-of-independence> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/lewis-and-clark-expedition> .
   <https://github.com/john1hsu/usa-graph/id/declaration-of-independence> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/liberty-bell> .
   <https://github.com/john1hsu/usa-graph/id/declaration-of-independence> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/louisiana-purchase> .
   <https://github.com/john1hsu/usa-graph/id/declaration-of-independence> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/marbury-v-madison> .
@@ -30217,7 +30442,10 @@
   <https://github.com/john1hsu/usa-graph/id/early-republic> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/early-republic> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Era> .
   <https://github.com/john1hsu/usa-graph/id/early-republic> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Happening> .
+  <https://github.com/john1hsu/usa-graph/id/early-republic> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/usa-graph/id/lewis-and-clark-expedition> .
+  <https://github.com/john1hsu/usa-graph/id/early-republic> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/lewis-and-clark-expedition> .
   <https://github.com/john1hsu/usa-graph/id/early-republic> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/monroe-doctrine> .
+  <https://github.com/john1hsu/usa-graph/id/early-republic> <https://github.com/john1hsu/usa-graph/ontology#periodOf> <https://github.com/john1hsu/usa-graph/id/lewis-and-clark-expedition> .
   <https://github.com/john1hsu/usa-graph/id/early-republic> <https://github.com/john1hsu/usa-graph/ontology#periodOf> <https://github.com/john1hsu/usa-graph/id/louisiana-purchase> .
   <https://github.com/john1hsu/usa-graph/id/early-republic> <https://github.com/john1hsu/usa-graph/ontology#periodOf> <https://github.com/john1hsu/usa-graph/id/marbury-v-madison> .
   <https://github.com/john1hsu/usa-graph/id/early-republic> <https://github.com/john1hsu/usa-graph/ontology#periodOf> <https://github.com/john1hsu/usa-graph/id/war-of-1812> .
@@ -31029,6 +31257,7 @@
   <https://github.com/john1hsu/usa-graph/id/great-seal-of-the-united-states> <https://github.com/john1hsu/usa-graph/ontology#requires> <https://github.com/john1hsu/usa-graph/id/thirteen-colonies> .
   <https://github.com/john1hsu/usa-graph/id/great-surveys-of-the-west> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/usa-graph/id/hayden-geological-survey-of-1871> .
   <https://github.com/john1hsu/usa-graph/id/great-surveys-of-the-west> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/hayden-geological-survey-of-1871> .
+  <https://github.com/john1hsu/usa-graph/id/great-surveys-of-the-west> <https://github.com/john1hsu/usa-graph/ontology#resultedFrom> <https://github.com/john1hsu/usa-graph/id/lewis-and-clark-expedition> .
   <https://github.com/john1hsu/usa-graph/id/griffin-v-county-school-board-of-prince-edward-county> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/brown-v-board-of-education> .
   <https://github.com/john1hsu/usa-graph/id/grover-cleveland> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/grover-cleveland> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Person> .
@@ -31180,6 +31409,7 @@
   <https://github.com/john1hsu/usa-graph/id/hayden-geological-survey-of-1871> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/hayden-geological-survey-of-1871> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Happening> .
   <https://github.com/john1hsu/usa-graph/id/hayden-geological-survey-of-1871> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/usa-graph/id/great-surveys-of-the-west> .
+  <https://github.com/john1hsu/usa-graph/id/hayden-geological-survey-of-1871> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/lewis-and-clark-expedition> .
   <https://github.com/john1hsu/usa-graph/id/hayden-geological-survey-of-1871> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/wyoming> .
   <https://github.com/john1hsu/usa-graph/id/haymarket-affair> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/labor-movement> .
   <https://github.com/john1hsu/usa-graph/id/health-care-and-education-reconciliation-act> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/affordable-care-act> .
@@ -31954,11 +32184,41 @@
   <https://github.com/john1hsu/usa-graph/id/lee-resolution> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/declaration-of-independence> .
   <https://github.com/john1hsu/usa-graph/id/lee-resolution> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/second-continental-congress> .
   <https://github.com/john1hsu/usa-graph/id/lehman-brothers> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/great-recession> .
+  <https://github.com/john1hsu/usa-graph/id/lemhi-shoshone> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/lewis-and-clark-expedition> .
   <https://github.com/john1hsu/usa-graph/id/lenape> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/pennsylvania> .
   <https://github.com/john1hsu/usa-graph/id/lend-lease-act> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/world-war-ii-and-the-united-states> .
   <https://github.com/john1hsu/usa-graph/id/let-him-enforce-it-myth> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/andrew-jackson> .
-  <https://github.com/john1hsu/usa-graph/id/lewis-and-clark-expedition> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/louisiana-purchase> .
-  <https://github.com/john1hsu/usa-graph/id/lewis-and-clark-expedition> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/thomas-jefferson> .
+  <https://github.com/john1hsu/usa-graph/id/lewis-and-clark-expedition/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/lewis-and-clark-expedition/review/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/lewis-and-clark-expedition/review/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/lewis-and-clark-expedition/review/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/lewis-and-clark-expedition/review/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/lewis-and-clark-expedition/timeline/10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/lewis-and-clark-expedition/timeline/11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/lewis-and-clark-expedition/timeline/12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/lewis-and-clark-expedition/timeline/13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/lewis-and-clark-expedition/timeline/14> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/lewis-and-clark-expedition/timeline/15> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/lewis-and-clark-expedition/timeline/16> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/lewis-and-clark-expedition/timeline/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/lewis-and-clark-expedition/timeline/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/lewis-and-clark-expedition/timeline/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/lewis-and-clark-expedition/timeline/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/lewis-and-clark-expedition/timeline/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/lewis-and-clark-expedition/timeline/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/lewis-and-clark-expedition/timeline/7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/lewis-and-clark-expedition/timeline/8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/lewis-and-clark-expedition/timeline/9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/lewis-and-clark-expedition> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/lewis-and-clark-expedition> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Happening> .
+  <https://github.com/john1hsu/usa-graph/id/lewis-and-clark-expedition> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/usa-graph/id/early-republic> .
+  <https://github.com/john1hsu/usa-graph/id/lewis-and-clark-expedition> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/usa-graph/id/territorial-expansion-of-the-united-states> .
+  <https://github.com/john1hsu/usa-graph/id/lewis-and-clark-expedition> <https://github.com/john1hsu/usa-graph/ontology#requires> <https://github.com/john1hsu/usa-graph/id/articles-of-confederation> .
+  <https://github.com/john1hsu/usa-graph/id/lewis-and-clark-expedition> <https://github.com/john1hsu/usa-graph/ontology#requires> <https://github.com/john1hsu/usa-graph/id/constitutional-convention> .
+  <https://github.com/john1hsu/usa-graph/id/lewis-and-clark-expedition> <https://github.com/john1hsu/usa-graph/ontology#requires> <https://github.com/john1hsu/usa-graph/id/declaration-of-independence> .
+  <https://github.com/john1hsu/usa-graph/id/lewis-and-clark-expedition> <https://github.com/john1hsu/usa-graph/ontology#requires> <https://github.com/john1hsu/usa-graph/id/thirteen-colonies> .
+  <https://github.com/john1hsu/usa-graph/id/lewis-and-clark-expedition> <https://github.com/john1hsu/usa-graph/ontology#requires> <https://github.com/john1hsu/usa-graph/id/united-states-constitution> .
+  <https://github.com/john1hsu/usa-graph/id/lewis-and-clark-national-historic-trail> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/lewis-and-clark-expedition> .
   <https://github.com/john1hsu/usa-graph/id/lgbtq-americans> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/obergefell-v-hodges> .
   <https://github.com/john1hsu/usa-graph/id/lgbtq-americans> <https://github.com/john1hsu/usa-graph/ontology#affectedBy> <https://github.com/john1hsu/usa-graph/id/mccarthyism> .
   <https://github.com/john1hsu/usa-graph/id/lgbtq-americans> <https://github.com/john1hsu/usa-graph/ontology#affectedBy> <https://github.com/john1hsu/usa-graph/id/obergefell-v-hodges> .
@@ -32046,6 +32306,7 @@
   <https://github.com/john1hsu/usa-graph/id/louisiana-purchase> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/cherokee-nation-v-georgia> .
   <https://github.com/john1hsu/usa-graph/id/louisiana-purchase> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/dred-scott-v-sandford> .
   <https://github.com/john1hsu/usa-graph/id/louisiana-purchase> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/indian-removal-act> .
+  <https://github.com/john1hsu/usa-graph/id/louisiana-purchase> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/lewis-and-clark-expedition> .
   <https://github.com/john1hsu/usa-graph/id/louisiana-purchase> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/missouri-compromise> .
   <https://github.com/john1hsu/usa-graph/id/louisiana-purchase> <https://github.com/john1hsu/usa-graph/ontology#requires> <https://github.com/john1hsu/usa-graph/id/articles-of-confederation> .
   <https://github.com/john1hsu/usa-graph/id/louisiana-purchase> <https://github.com/john1hsu/usa-graph/ontology#requires> <https://github.com/john1hsu/usa-graph/id/constitutional-convention> .
@@ -32262,6 +32523,10 @@
   <https://github.com/john1hsu/usa-graph/id/medicare> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/affordable-care-act> .
   <https://github.com/john1hsu/usa-graph/id/memphis-sanitation-strike> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/labor-movement> .
   <https://github.com/john1hsu/usa-graph/id/memphis-sanitation-strike> <https://github.com/john1hsu/usa-graph/ontology#participant> <https://github.com/john1hsu/usa-graph/id/martin-luther-king-jr> .
+  <https://github.com/john1hsu/usa-graph/id/meriwether-lewis> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/meriwether-lewis> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Person> .
+  <https://github.com/john1hsu/usa-graph/id/meriwether-lewis> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/lewis-and-clark-expedition> .
+  <https://github.com/john1hsu/usa-graph/id/meriwether-lewis> <https://github.com/john1hsu/usa-graph/ontology#led> <https://github.com/john1hsu/usa-graph/id/lewis-and-clark-expedition> .
   <https://github.com/john1hsu/usa-graph/id/mexican-american-war/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/mexican-american-war/review/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/mexican-american-war/review/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
@@ -32403,8 +32668,12 @@
   <https://github.com/john1hsu/usa-graph/id/missouri-compromise> <https://github.com/john1hsu/usa-graph/ontology#requires> <https://github.com/john1hsu/usa-graph/id/thirteen-colonies> .
   <https://github.com/john1hsu/usa-graph/id/missouri-compromise> <https://github.com/john1hsu/usa-graph/ontology#requires> <https://github.com/john1hsu/usa-graph/id/united-states-constitution> .
   <https://github.com/john1hsu/usa-graph/id/missouri-compromise> <https://github.com/john1hsu/usa-graph/ontology#resultedFrom> <https://github.com/john1hsu/usa-graph/id/louisiana-purchase> .
+  <https://github.com/john1hsu/usa-graph/id/missouri-river> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/missouri-river> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Place> .
+  <https://github.com/john1hsu/usa-graph/id/missouri-river> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/lewis-and-clark-expedition> .
   <https://github.com/john1hsu/usa-graph/id/missouri-river> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/mississippi-river> .
   <https://github.com/john1hsu/usa-graph/id/missouri-river> <https://github.com/john1hsu/usa-graph/ontology#contrastsWith> <https://github.com/john1hsu/usa-graph/id/mississippi-river> .
+  <https://github.com/john1hsu/usa-graph/id/missouri-river> <https://github.com/john1hsu/usa-graph/ontology#siteOf> <https://github.com/john1hsu/usa-graph/id/lewis-and-clark-expedition> .
   <https://github.com/john1hsu/usa-graph/id/missouri> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/missouri-compromise> .
   <https://github.com/john1hsu/usa-graph/id/missouri> <https://github.com/john1hsu/usa-graph/ontology#affectedBy> <https://github.com/john1hsu/usa-graph/id/missouri-compromise> .
   <https://github.com/john1hsu/usa-graph/id/missouri> <https://github.com/john1hsu/usa-graph/ontology#originOf> <https://github.com/john1hsu/usa-graph/id/okies> .
@@ -32642,6 +32911,7 @@
   <https://github.com/john1hsu/usa-graph/id/native-americans> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/covid-19-pandemic-in-the-united-states> .
   <https://github.com/john1hsu/usa-graph/id/native-americans> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/hayden-geological-survey-of-1871> .
   <https://github.com/john1hsu/usa-graph/id/native-americans> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/jamestown> .
+  <https://github.com/john1hsu/usa-graph/id/native-americans> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/lewis-and-clark-expedition> .
   <https://github.com/john1hsu/usa-graph/id/native-americans> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/mississippi-river> .
   <https://github.com/john1hsu/usa-graph/id/native-americans> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/new-deal> .
   <https://github.com/john1hsu/usa-graph/id/native-americans> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/thanksgiving> .
@@ -32656,6 +32926,7 @@
   <https://github.com/john1hsu/usa-graph/id/native-americans> <https://github.com/john1hsu/usa-graph/ontology#affectedBy> <https://github.com/john1hsu/usa-graph/id/census-and-apportionment> .
   <https://github.com/john1hsu/usa-graph/id/native-americans> <https://github.com/john1hsu/usa-graph/ontology#affectedBy> <https://github.com/john1hsu/usa-graph/id/covid-19-pandemic-in-the-united-states> .
   <https://github.com/john1hsu/usa-graph/id/native-americans> <https://github.com/john1hsu/usa-graph/ontology#affectedBy> <https://github.com/john1hsu/usa-graph/id/dawes-act> .
+  <https://github.com/john1hsu/usa-graph/id/native-americans> <https://github.com/john1hsu/usa-graph/ontology#affectedBy> <https://github.com/john1hsu/usa-graph/id/lewis-and-clark-expedition> .
   <https://github.com/john1hsu/usa-graph/id/native-americans> <https://github.com/john1hsu/usa-graph/ontology#affectedBy> <https://github.com/john1hsu/usa-graph/id/louisiana-purchase> .
   <https://github.com/john1hsu/usa-graph/id/native-americans> <https://github.com/john1hsu/usa-graph/ontology#affectedBy> <https://github.com/john1hsu/usa-graph/id/morrill-land-grant-college-act> .
   <https://github.com/john1hsu/usa-graph/id/native-americans> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/dawes-act> .
@@ -32771,6 +33042,7 @@
   <https://github.com/john1hsu/usa-graph/id/newlands-resolution> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/hawaii> .
   <https://github.com/john1hsu/usa-graph/id/next-generation-lunar-retroreflector> <https://github.com/john1hsu/usa-graph/ontology#resultedFrom> <https://github.com/john1hsu/usa-graph/id/lunar-laser-ranging-experiment> .
   <https://github.com/john1hsu/usa-graph/id/nez-perce-war> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/yellowstone-national-park> .
+  <https://github.com/john1hsu/usa-graph/id/nez-perce> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/lewis-and-clark-expedition> .
   <https://github.com/john1hsu/usa-graph/id/nfib-v-sebelius> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/affordable-care-act> .
   <https://github.com/john1hsu/usa-graph/id/nfib-v-sebelius> <https://github.com/john1hsu/usa-graph/ontology#resultedFrom> <https://github.com/john1hsu/usa-graph/id/affordable-care-act> .
   <https://github.com/john1hsu/usa-graph/id/nineteenth-amendment> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/fifteenth-amendment> .
@@ -33395,6 +33667,7 @@
   <https://github.com/john1hsu/usa-graph/id/russian-america> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/alaska> .
   <https://github.com/john1hsu/usa-graph/id/rutherford-b-hayes> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/great-railroad-strike-of-1877> .
   <https://github.com/john1hsu/usa-graph/id/rutherford-b-hayes> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/reconstruction-era> .
+  <https://github.com/john1hsu/usa-graph/id/sacagawea> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/lewis-and-clark-expedition> .
   <https://github.com/john1hsu/usa-graph/id/sally-hemings> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/thomas-jefferson> .
   <https://github.com/john1hsu/usa-graph/id/same-sex-marriage-in-the-united-states> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/usa-graph/id/obergefell-v-hodges> .
   <https://github.com/john1hsu/usa-graph/id/same-sex-marriage-in-the-united-states> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/obergefell-v-hodges> .
@@ -33645,6 +33918,7 @@
   <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/jamestown> .
   <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/jazz> .
   <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/john-marshall> .
+  <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/lewis-and-clark-expedition> .
   <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/louisiana-purchase> .
   <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/mexican-american-war> .
   <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/sojourner-truth> .
@@ -33968,10 +34242,12 @@
   <https://github.com/john1hsu/usa-graph/id/termination-policy> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/tribal-sovereignty> .
   <https://github.com/john1hsu/usa-graph/id/termination-policy> <https://github.com/john1hsu/usa-graph/ontology#contrastsWith> <https://github.com/john1hsu/usa-graph/id/tribal-sovereignty> .
   <https://github.com/john1hsu/usa-graph/id/territorial-expansion-of-the-united-states> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/usa-graph/id/california-gold-rush> .
+  <https://github.com/john1hsu/usa-graph/id/territorial-expansion-of-the-united-states> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/usa-graph/id/lewis-and-clark-expedition> .
   <https://github.com/john1hsu/usa-graph/id/territorial-expansion-of-the-united-states> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/usa-graph/id/louisiana-purchase> .
   <https://github.com/john1hsu/usa-graph/id/territorial-expansion-of-the-united-states> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/usa-graph/id/mexican-american-war> .
   <https://github.com/john1hsu/usa-graph/id/territorial-expansion-of-the-united-states> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/usa-graph/id/missouri-compromise> .
   <https://github.com/john1hsu/usa-graph/id/territorial-expansion-of-the-united-states> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/california-gold-rush> .
+  <https://github.com/john1hsu/usa-graph/id/territorial-expansion-of-the-united-states> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/lewis-and-clark-expedition> .
   <https://github.com/john1hsu/usa-graph/id/territorial-expansion-of-the-united-states> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/louisiana-purchase> .
   <https://github.com/john1hsu/usa-graph/id/territorial-expansion-of-the-united-states> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/mexican-american-war> .
   <https://github.com/john1hsu/usa-graph/id/territorial-expansion-of-the-united-states> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/missouri-compromise> .
@@ -34062,6 +34338,7 @@
   <https://github.com/john1hsu/usa-graph/id/the-west> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/yellowstone-national-park> .
   <https://github.com/john1hsu/usa-graph/id/the-west> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/california-gold-rush> .
   <https://github.com/john1hsu/usa-graph/id/the-west> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/dawes-act> .
+  <https://github.com/john1hsu/usa-graph/id/the-west> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/lewis-and-clark-expedition> .
   <https://github.com/john1hsu/usa-graph/id/the-west> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/wyoming> .
   <https://github.com/john1hsu/usa-graph/id/the-west> <https://github.com/john1hsu/usa-graph/ontology#contains> <https://github.com/john1hsu/usa-graph/id/wyoming> .
   <https://github.com/john1hsu/usa-graph/id/the-west> <https://github.com/john1hsu/usa-graph/ontology#contains> <https://github.com/john1hsu/usa-graph/id/yellowstone-national-park> .
@@ -34153,6 +34430,7 @@
   <https://github.com/john1hsu/usa-graph/id/thirteen-colonies> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/james-madison> .
   <https://github.com/john1hsu/usa-graph/id/thirteen-colonies> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/john-marshall> .
   <https://github.com/john1hsu/usa-graph/id/thirteen-colonies> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/judicial-review> .
+  <https://github.com/john1hsu/usa-graph/id/thirteen-colonies> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/lewis-and-clark-expedition> .
   <https://github.com/john1hsu/usa-graph/id/thirteen-colonies> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/liberty-bell> .
   <https://github.com/john1hsu/usa-graph/id/thirteen-colonies> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/louisiana-purchase> .
   <https://github.com/john1hsu/usa-graph/id/thirteen-colonies> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/marbury-v-madison> .
@@ -34260,6 +34538,7 @@
   <https://github.com/john1hsu/usa-graph/id/thomas-jefferson> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/winged-figures-of-the-republic> .
   <https://github.com/john1hsu/usa-graph/id/thomas-jefferson> <https://github.com/john1hsu/usa-graph/ontology#authored> <https://github.com/john1hsu/usa-graph/id/declaration-of-independence> .
   <https://github.com/john1hsu/usa-graph/id/thomas-jefferson> <https://github.com/john1hsu/usa-graph/ontology#challenges> <https://github.com/john1hsu/usa-graph/id/marbury-v-madison> .
+  <https://github.com/john1hsu/usa-graph/id/thomas-jefferson> <https://github.com/john1hsu/usa-graph/ontology#introduced> <https://github.com/john1hsu/usa-graph/id/lewis-and-clark-expedition> .
   <https://github.com/john1hsu/usa-graph/id/thomas-jefferson> <https://github.com/john1hsu/usa-graph/ontology#requires> <https://github.com/john1hsu/usa-graph/id/thirteen-colonies> .
   <https://github.com/john1hsu/usa-graph/id/thomas-moran> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/hayden-geological-survey-of-1871> .
   <https://github.com/john1hsu/usa-graph/id/three-fifths-clause> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/census-and-apportionment> .
@@ -34593,6 +34872,7 @@
   <https://github.com/john1hsu/usa-graph/id/united-states-constitution> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/indian-removal-act> .
   <https://github.com/john1hsu/usa-graph/id/united-states-constitution> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/john-marshall> .
   <https://github.com/john1hsu/usa-graph/id/united-states-constitution> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/judicial-review> .
+  <https://github.com/john1hsu/usa-graph/id/united-states-constitution> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/lewis-and-clark-expedition> .
   <https://github.com/john1hsu/usa-graph/id/united-states-constitution> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/louisiana-purchase> .
   <https://github.com/john1hsu/usa-graph/id/united-states-constitution> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/marbury-v-madison> .
   <https://github.com/john1hsu/usa-graph/id/united-states-constitution> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/mcculloch-v-maryland> .
@@ -34914,6 +35194,10 @@
   <https://github.com/john1hsu/usa-graph/id/william-barton> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Person> .
   <https://github.com/john1hsu/usa-graph/id/william-barton> <https://github.com/john1hsu/usa-graph/ontology#introduced> <https://github.com/john1hsu/usa-graph/id/great-seal-of-the-united-states> .
   <https://github.com/john1hsu/usa-graph/id/william-c-gorgas> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/panama-canal> .
+  <https://github.com/john1hsu/usa-graph/id/william-clark> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/william-clark> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Person> .
+  <https://github.com/john1hsu/usa-graph/id/william-clark> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/lewis-and-clark-expedition> .
+  <https://github.com/john1hsu/usa-graph/id/william-clark> <https://github.com/john1hsu/usa-graph/ontology#led> <https://github.com/john1hsu/usa-graph/id/lewis-and-clark-expedition> .
   <https://github.com/john1hsu/usa-graph/id/william-h-seward> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/alaska> .
   <https://github.com/john1hsu/usa-graph/id/william-henry-harrison> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/william-henry-harrison> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Person> .
@@ -35200,6 +35484,7 @@
   <https://github.com/john1hsu/usa-graph/id/yellowstone-national-park> <https://github.com/john1hsu/usa-graph/ontology#locatedIn> <https://github.com/john1hsu/usa-graph/id/the-west> .
   <https://github.com/john1hsu/usa-graph/id/yellowstone-national-park> <https://github.com/john1hsu/usa-graph/ontology#locatedIn> <https://github.com/john1hsu/usa-graph/id/united-states> .
   <https://github.com/john1hsu/usa-graph/id/yellowstone-national-park> <https://github.com/john1hsu/usa-graph/ontology#siteOf> <https://github.com/john1hsu/usa-graph/id/hayden-geological-survey-of-1871> .
+  <https://github.com/john1hsu/usa-graph/id/york-of-the-corps-of-discovery> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/lewis-and-clark-expedition> .
   <https://github.com/john1hsu/usa-graph/id/youth-franchise-coalition> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/twenty-sixth-amendment> .
   <https://github.com/john1hsu/usa-graph/id/zachary-taylor> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/zachary-taylor> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Person> .

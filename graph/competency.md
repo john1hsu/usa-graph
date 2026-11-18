@@ -57,7 +57,7 @@ _Which nodes led to, established or affected the most other things in the graph?
 | `us:census-and-apportionment` | 3 | Native Americans, United States House of Representatives, redistricting-in-the-united-states |
 | `us:cherokee-nation-v-georgia` | 3 | cherokee-nation, federal-trust-responsibility, worcester-v-georgia |
 
-…and 95 more.
+…and 96 more.
 
 ## Happenings by era
 
@@ -72,6 +72,7 @@ _For each era, which events, conflicts, laws and movements took place during it?
 | `us:cold-war` | `us:mccarthyism` | 1947 |
 | `us:early-republic` | `us:marbury-v-madison` | 1803-02-24 |
 | `us:early-republic` | `us:louisiana-purchase` | 1803-04-30 |
+| `us:early-republic` | `us:lewis-and-clark-expedition` | 1804-05-14 |
 | `us:early-republic` | `us:war-of-1812` | 1812-06-18 |
 | `us:gilded-age` | `us:panic-of-1873` | 1873-09-18 |
 | `us:gilded-age` | `us:great-railroad-strike-of-1877` | 1877-07-16 |
@@ -122,7 +123,7 @@ _Which nodes are myths, contested or open to competing interpretations, and what
 | `us:great-railroad-strike-of-1877` | interpretive |  |
 | `us:great-recession` | interpretive |  |
 
-…and 44 more.
+…and 45 more.
 
 ## Places with nothing tied to them (gap)
 
