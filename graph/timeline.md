@@ -942,6 +942,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1889-05-13 | In Chae Chan Ping v. United States the Supreme Court upholds the Scott Act under Congress's plenary power over immigration. — [Chinese Exclusion Act](../articles/gilded-age-and-progressive-era/chinese-exclusion-act.md) |
 | 1889-11-05 | Voters ratify the state constitution, which keeps equal suffrage for women. — [Wyoming](../articles/states-and-territories/wyoming.md) |
 | 1890 | A second Morrill Act adds annual appropriations and leads to the founding of separate land-grant institutions for Black students in the segregated South. — [Morrill Land-Grant College Act](../articles/science-and-innovation/morrill-land-grant-college-act.md) |
+| 1890 | Jacob Riis publishes How the Other Half Lives, using photographs to expose New York City tenement conditions. — [Muckrakers](../articles/gilded-age-and-progressive-era/muckrakers.md) |
 | 1890 | Louisiana passes the Separate Car Act, one of nine state laws of 1887–1892 separating passengers by race. — [Jim Crow laws](../articles/gilded-age-and-progressive-era/jim-crow-laws.md) |
 | 1890 | Louisiana's legislature passes the Separate Car Act (Act No. 111), requiring separate railroad cars for Black and white passengers. — [Plessy v. Ferguson](../articles/gilded-age-and-progressive-era/plessy-v-ferguson.md) |
 | 1890 | New York State takes the Onondaga Nation's wampum belts. — [Haudenosaunee](../articles/native-nations/haudenosaunee.md) |
@@ -953,6 +954,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1890-12-29 | U.S. troops kill between 150 and 300 Lakota men, women and children at Wounded Knee. — [The West](../articles/regions-cities-and-landmarks/the-west.md) |
 | 1891 | Eighteen New Orleans residents form the Comité des Citoyens to challenge the law in court. — [Plessy v. Ferguson](../articles/gilded-age-and-progressive-era/plessy-v-ferguson.md) |
 | 1891-09-05 | Creole of color activists announce the Comité des Citoyens to challenge Louisiana's Separate Car Law. — [New Orleans](../articles/regions-cities-and-landmarks/new-orleans.md) |
+| 1892 | After the lynching of her friend Thomas Moss in Memphis, Ida B. Wells investigates lynchings across the South and publishes Southern Horrors; a mob destroys her newspaper office. — [Muckrakers](../articles/gilded-age-and-progressive-era/muckrakers.md) |
 | 1892 | Becomes president of NAWSA, serving until Carrie Chapman Catt succeeds her in 1900. — [Susan B. Anthony](../articles/people-who-shaped-america/susan-b-anthony.md) |
 | 1892 | The Geary Act extends exclusion for ten more years and requires Chinese residents to carry certificates of residence. — [Chinese Exclusion Act](../articles/gilded-age-and-progressive-era/chinese-exclusion-act.md) |
 | 1892 | The Homestead Strike ends in defeat for the steelworkers' union. — [Pennsylvania](../articles/states-and-territories/pennsylvania.md) |
@@ -966,6 +968,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1893 | Chicago hosts the World's Columbian Exposition. — [Chicago](../articles/regions-cities-and-landmarks/chicago.md) |
 | 1893 | Colorado becomes the first state to adopt a state amendment enfranchising women. — [Women's suffrage movement](../articles/gilded-age-and-progressive-era/womens-suffrage-movement.md) |
 | 1893 | Frederick Jackson Turner presents his frontier thesis to the American Historical Association in Chicago. — [The West](../articles/regions-cities-and-landmarks/the-west.md) |
+| 1893 | S. S. McClure and John S. Phillips launch McClure's Magazine at fifteen cents a copy. — [Muckrakers](../articles/gilded-age-and-progressive-era/muckrakers.md) |
 | 1893-01-17 | A Committee of Safety, backed by U.S. Minister John L. Stevens and U.S. naval forces landed the day before, overthrows Queen Liliʻuokalani. — [Hawaii](../articles/states-and-territories/hawaii.md) |
 | 1894 | After soldiers arrest the bison poacher Ed Howell, Congress passes the National Park Protection Act (Lacey Act) banning hunting in the park. — [Yellowstone National Park](../articles/geography-and-environment/yellowstone-national-park.md) |
 | 1894 | Federal troops break the Pullman sympathy strike led by the American Railway Union, and Eugene Debs is jailed. — [Gilded Age](../articles/gilded-age-and-progressive-era/gilded-age.md) |
@@ -1016,7 +1019,10 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1902-06-19 | The U.S. Senate votes to build the canal through Panama rather than Nicaragua. — [Panama Canal](../articles/foreign-relations-and-military/panama-canal.md) |
 | 1902-10 | Wilbur glides 622 feet in 21 seconds, setting American distance and time records for gliders. — [Wright brothers' first flight](../articles/science-and-innovation/wright-brothers-first-flight.md) |
 | 1902-10-23 | Miners return to work after the five-month anthracite strike of 1902. — [Lattimer massacre](../articles/economy-and-work/lattimer-massacre.md) |
+| 1902-11 | **[Muckrakers](../articles/gilded-age-and-progressive-era/muckrakers.md)** (Movement) |
+| 1902-11 | Ida Tarbell's History of the Standard Oil Company begins appearing in McClure's. — [Muckrakers](../articles/gilded-age-and-progressive-era/muckrakers.md) |
 | 1903 | Bandleader W. C. Handy settles in Clarksdale, Mississippi, and around this year hears a slide guitarist playing a blues at the Tutwiler railroad station. — [Blues](../articles/culture-and-arts/blues.md) |
+| 1903-01 | McClure's prints exposés by Tarbell, Lincoln Steffens and Ray Stannard Baker in one issue, with an editorial linking them. — [Muckrakers](../articles/gilded-age-and-progressive-era/muckrakers.md) |
 | 1903-03-23 | The brothers file their patent application for a "Flying-Machine". — [Wright brothers' first flight](../articles/science-and-innovation/wright-brothers-first-flight.md) |
 | 1903-11-03 | Panama declares independence from Colombia while U.S. warships stand off Colón and Panama City. — [Panama Canal](../articles/foreign-relations-and-military/panama-canal.md) |
 | 1903-11-06 | The United States recognizes the Republic of Panama. — [Panama Canal](../articles/foreign-relations-and-military/panama-canal.md) |
@@ -1047,17 +1053,22 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1906 | Awarded the Nobel Peace Prize for his role in ending the Russo-Japanese War. — [Theodore Roosevelt](../articles/presidents-and-founders/theodore-roosevelt.md) |
 | 1906 | The San Francisco earthquake and fire destroy many birth and immigration records, opening the way for "paper son" identities. — [Angel Island Immigration Station](../articles/society-and-people/angel-island-immigration-station.md) |
 | 1906-02 | Attends her last NAWSA convention, in Baltimore, and gives her final public remarks. — [Susan B. Anthony](../articles/people-who-shaped-america/susan-b-anthony.md) |
+| 1906-02 | Cosmopolitan begins David Graham Phillips's nine-part series The Treason of the Senate. — [Muckrakers](../articles/gilded-age-and-progressive-era/muckrakers.md) |
 | 1906-03-13 | Dies at her home in Rochester; she is buried in Mount Hope Cemetery. — [Susan B. Anthony](../articles/people-who-shaped-america/susan-b-anthony.md) |
+| 1906-03-21 | A split at McClure's comes to a head; Tarbell, Steffens, Baker and John Phillips leave and take over The American Magazine. — [Muckrakers](../articles/gilded-age-and-progressive-era/muckrakers.md) |
+| 1906-04-14 | Theodore Roosevelt delivers The Man with the Muck-Rake at the cornerstone laying of the House office building in Washington. — [Muckrakers](../articles/gilded-age-and-progressive-era/muckrakers.md) |
 | 1906-04-18 | A major earthquake on the San Andreas Fault strikes San Francisco. — [California](../articles/states-and-territories/california.md) |
 | 1906-05-22 | U.S. Patent 821,393 for the Wrights' flying machine is granted. — [Wright brothers' first flight](../articles/science-and-innovation/wright-brothers-first-flight.md) |
 | 1906-06-08 | Signs the Antiquities Act, which he then uses to proclaim 18 national monuments. — [Theodore Roosevelt](../articles/presidents-and-founders/theodore-roosevelt.md) |
 | 1906-06-27 | The House follows the Senate in choosing a lock canal over a sea-level design. — [Panama Canal](../articles/foreign-relations-and-military/panama-canal.md) |
+| 1906-06-30 | Roosevelt signs the Food and Drugs Act; the Meat Inspection Act also becomes law that year after The Jungle. — [Muckrakers](../articles/gilded-age-and-progressive-era/muckrakers.md) |
 | 1906-08-13 | A shooting in Brownsville, Texas, is blamed on Black soldiers of the 25th Infantry; Roosevelt later discharges 167 of them without honor or trial. — [Theodore Roosevelt](../articles/presidents-and-founders/theodore-roosevelt.md) |
 | 1907 | Pianist and composer Jelly Roll Morton begins touring outside New Orleans. — [Jazz](../articles/culture-and-arts/jazz.md) |
 | 1907-02-08 | The United States and the Dominican Republic sign a convention at Santo Domingo making the receivership formal. — [Roosevelt Corollary](../articles/foreign-relations-and-military/roosevelt-corollary.md) |
 | 1907-02-25 | The U.S. Senate advises ratification of the Dominican convention. — [Roosevelt Corollary](../articles/foreign-relations-and-military/roosevelt-corollary.md) |
 | 1907-04-01 | Chief engineer John F. Stevens resigns and George Washington Goethals succeeds him. — [Panama Canal](../articles/foreign-relations-and-military/panama-canal.md) |
 | 1907-07-25 | Roosevelt proclaims the convention in force. — [Roosevelt Corollary](../articles/foreign-relations-and-military/roosevelt-corollary.md) |
+| 1908 | Ray Stannard Baker publishes Following the Color Line, on the oppression of Black Americans. — [Muckrakers](../articles/gilded-age-and-progressive-era/muckrakers.md) |
 | 1908 | The AME Zion Church opens the Harriet Tubman Home for aged and poor African Americans on land she had transferred to it in 1903. — [Harriet Tubman](../articles/people-who-shaped-america/harriet-tubman.md) |
 | 1909 | Canby's brother and nephew publish The Evolution of the American Flag, fixing the story in public memory. — [Betsy Ross flag myth](../articles/symbols-and-national-identity/betsy-ross-flag-myth.md) |
 | 1909 | Leaves the presidency after keeping a pledge not to seek another term. — [Theodore Roosevelt](../articles/presidents-and-founders/theodore-roosevelt.md) |
@@ -1079,6 +1090,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1910-05 | The school moves its permanent operations to Huffman Field (Simms Station) east of Dayton. — [Wright Company School of Aviation](../articles/science-and-innovation/wright-company-school-of-aviation.md) |
 | 1910-05-06 | Walter Brookins flies solo for about 12 minutes, the Montgomery camp's only graduate. — [Wright Company School of Aviation](../articles/science-and-innovation/wright-company-school-of-aviation.md) |
 | 1911 | A federal law fixes the House at 433 seats, plus one each for Arizona and New Mexico on statehood. — [United States Congress](../articles/constitution-and-government/united-states-congress.md) |
+| 1911 | Deep in debt, S. S. McClure surrenders McClure's Magazine to creditors in the autumn. — [Muckrakers](../articles/gilded-age-and-progressive-era/muckrakers.md) |
 | 1911-03-25 | **[Triangle Shirtwaist Factory fire](../articles/economy-and-work/triangle-shirtwaist-factory-fire.md)** (Event) |
 | 1911-03-25 | Fire breaks out on the eighth floor near closing time; the first alarm goes out at 4:45 p.m. and 146 workers die. — [Triangle Shirtwaist Factory fire](../articles/economy-and-work/triangle-shirtwaist-factory-fire.md) |
 | 1911-04-05 | The ILGWU organizes a funeral procession; about 100,000 people march behind the hearses on Fifth Avenue. — [Triangle Shirtwaist Factory fire](../articles/economy-and-work/triangle-shirtwaist-factory-fire.md) |
@@ -1098,6 +1110,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1912-10-14 | Shot in Milwaukee before a speech; his folded speech and spectacle case slow the bullet. — [Theodore Roosevelt](../articles/presidents-and-founders/theodore-roosevelt.md) |
 | 1913 | AT&T gives up its stake in Western Union under federal antitrust pressure (the Kingsbury Commitment). — [Electric telegraph](../articles/science-and-innovation/telegraph.md) |
 | 1913 | Charles Beard makes Federalist No. 10 the centrepiece of his economic critique of the framers. — [The Federalist Papers](../articles/constitution-and-government/federalist-papers.md) |
+| 1913 | The Seventeenth Amendment, providing for direct election of senators, is ratified. — [Muckrakers](../articles/gilded-age-and-progressive-era/muckrakers.md) |
 | 1913-03-03 | Alice Paul's suffrage procession in Washington, held the day before Woodrow Wilson's inauguration, is attacked by hostile crowds. — [Women's suffrage movement](../articles/gilded-age-and-progressive-era/womens-suffrage-movement.md) |
 | 1913-03-10 | Dies of pneumonia in Auburn and is buried at Fort Hill Cemetery. — [Harriet Tubman](../articles/people-who-shaped-america/harriet-tubman.md) |
 | 1913-03-17 | Sworn in as assistant secretary of the Navy. — [Franklin D. Roosevelt](../articles/presidents-and-founders/franklin-d-roosevelt.md) |

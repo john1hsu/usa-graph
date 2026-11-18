@@ -12301,6 +12301,148 @@
    }
   },
   {
+   "@id": "https://github.com/john1hsu/usa-graph/id/muckrakers/misconception",
+   "@type": "uso:Misconception",
+   "uso:fact": "Sinclair, a socialist, wrote to expose the exploitation of immigrant packinghouse workers and complained that readers fixed on the tainted meat instead; Roosevelt borrowed the muck-rake image from Bunyan's Pilgrim's Progress as a rebuke to journalists who saw only filth.",
+   "uso:myth": "Upton Sinclair wrote The Jungle to campaign for food-safety laws, and Roosevelt coined \"muckraker\" as a compliment.",
+   "uso:why": "The reforms that followed (food and meat laws) and the later pride journalists took in the label have reshaped memory of both, hiding Sinclair's labor message and the political tension between Roosevelt and the press."
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/muckrakers/review/1",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "Why did magazines rather than newspapers or Congress become the main vehicle for muckraking after 1900?",
+   "uso:answer": "Cheap, nationally circulated magazines such as McClure's, sold at fifteen cents and reaching hundreds of thousands of readers, could publish long, researched series on a national audience quickly, and exposés sold copies—Cosmopolitan's circulation doubled within two months of The Treason of the Senate.",
+   "uso:questionFor": {
+    "@id": "us:muckrakers"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/muckrakers/review/2",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "How did The Jungle lead to federal law, and why was Sinclair disappointed by the result?",
+   "uso:answer": "Sinclair sent Roosevelt the novel, Roosevelt had the packinghouses investigated, inspectors found the unsanitary conditions it described, and Congress passed the Meat Inspection Act and the Food and Drugs Act in 1906; Sinclair had aimed to expose the exploitation of immigrant workers and capitalism, so laws protecting consumers rather than workers missed his main point.",
+   "uso:questionFor": {
+    "@id": "us:muckrakers"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/muckrakers/review/3",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "Why do historians disagree about whether Roosevelt's 1906 speech ended the muckraking era?",
+   "uso:answer": "Steffens told Roosevelt the speech had put an end to the investigations and it was vague enough to tar all reform writers, but the McClure's staff split had already come to a head for internal reasons, including McClure's risky expansion plans, and the magazine's later decline owed much to debt and the 1907 depression.",
+   "uso:questionFor": {
+    "@id": "us:muckrakers"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/muckrakers/timeline/1",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Jacob Riis publishes How the Other Half Lives, using photographs to expose New York City tenement conditions.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1890"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/muckrakers/timeline/10",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Ray Stannard Baker publishes Following the Color Line, on the oppression of Black Americans.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1908"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/muckrakers/timeline/11",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Deep in debt, S. S. McClure surrenders McClure's Magazine to creditors in the autumn.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1911"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/muckrakers/timeline/12",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The Seventeenth Amendment, providing for direct election of senators, is ratified.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1913"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/muckrakers/timeline/2",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "After the lynching of her friend Thomas Moss in Memphis, Ida B. Wells investigates lynchings across the South and publishes Southern Horrors; a mob destroys her newspaper office.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1892"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/muckrakers/timeline/3",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "S. S. McClure and John S. Phillips launch McClure's Magazine at fifteen cents a copy.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1893"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/muckrakers/timeline/4",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Ida Tarbell's History of the Standard Oil Company begins appearing in McClure's.",
+   "uso:date": {
+    "@type": "xsd:gYearMonth",
+    "@value": "1902-11"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/muckrakers/timeline/5",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "McClure's prints exposés by Tarbell, Lincoln Steffens and Ray Stannard Baker in one issue, with an editorial linking them.",
+   "uso:date": {
+    "@type": "xsd:gYearMonth",
+    "@value": "1903-01"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/muckrakers/timeline/6",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Cosmopolitan begins David Graham Phillips's nine-part series The Treason of the Senate.",
+   "uso:date": {
+    "@type": "xsd:gYearMonth",
+    "@value": "1906-02"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/muckrakers/timeline/7",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "A split at McClure's comes to a head; Tarbell, Steffens, Baker and John Phillips leave and take over The American Magazine.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1906-03-21"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/muckrakers/timeline/8",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Theodore Roosevelt delivers The Man with the Muck-Rake at the cornerstone laying of the House office building in Washington.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1906-04-14"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/muckrakers/timeline/9",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Roosevelt signs the Food and Drugs Act; the Meat Inspection Act also becomes law that year after The Jungle.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1906-06-30"
+   }
+  },
+  {
    "@id": "https://github.com/john1hsu/usa-graph/id/national-symbols-of-the-united-states/misconception",
    "@type": "uso:Misconception",
    "uso:fact": "Franklin's 1776 seal proposal showed Moses and Pharaoh at the Red Sea, with no bird at all. His praise of the turkey comes from a January 1784 letter to his daughter, written after the seal was adopted, that mocked the eagle on the Society of the Cincinnati's badge; he never sent it, and the full English text was not printed until 1817.",
@@ -26074,6 +26216,132 @@
     "@id": "https://ipo.lib.niu.edu/1998/iht519842.html"
    },
    "uso:sourceType": "academic"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/muckrakers/s1",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "OpenStax (Rice University), U.S. History",
+   "dcterms:title": "21.1 The Origins of the Progressive Spirit in America",
+   "schema:url": {
+    "@id": "https://openstax.org/books/us-history/pages/21-1-the-origins-of-the-progressive-spirit-in-america"
+   },
+   "uso:sourceType": "textbook"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/muckrakers/s2",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Theodore Roosevelt Center at Dickinson State University",
+   "dcterms:title": "Muckraker",
+   "schema:url": {
+    "@id": "https://www.theodorerooseveltcenter.org/encyclopedia/culture-and-society/muckraker/"
+   },
+   "uso:sourceType": "academic"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/muckrakers/s3",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Theodore Roosevelt Center at Dickinson State University",
+   "dcterms:title": "The Jungle",
+   "schema:url": {
+    "@id": "https://www.theodorerooseveltcenter.org/encyclopedia/reading-and-writing/the-jungle/"
+   },
+   "uso:sourceType": "academic"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/muckrakers/s4",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Allegheny College, Ida M. Tarbell site",
+   "dcterms:title": "The Rise of McClure's",
+   "schema:url": {
+    "@id": "https://sites.allegheny.edu/tarbell/?p=71"
+   },
+   "uso:sourceType": "academic"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/muckrakers/s5",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Allegheny College, Ida M. Tarbell site",
+   "dcterms:title": "The McClure's Schism",
+   "schema:url": {
+    "@id": "https://sites.allegheny.edu/tarbell/?p=77"
+   },
+   "uso:sourceType": "academic"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/muckrakers/s6",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "United States Senate",
+   "dcterms:title": "Treason of the Senate",
+   "schema:url": {
+    "@id": "https://www.senate.gov/about/origins-foundations/electing-appointing-senators/treason-of-the-senate.htm"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/muckrakers/s7",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "U.S. Food and Drug Administration",
+   "dcterms:title": "Part I: The 1906 Food and Drugs Act and Its Enforcement",
+   "schema:url": {
+    "@id": "https://www.fda.gov/about-fda/changes-science-law-and-regulatory-authorities/part-i-1906-food-and-drugs-act-and-its-enforcement"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/muckrakers/s8",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Library of Congress, Headlines & Heroes blog",
+   "dcterms:title": "Ida B. Wells and the Activism of Investigative Journalism",
+   "schema:url": {
+    "@id": "https://blogs.loc.gov/headlinesandheroes/2020/02/ida-b-wells-and-the-activism-of-investigative-journalism/"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/muckrakers/s9",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Independence Hall Association, U.S. History Online Textbook",
+   "dcterms:title": "The Muckrakers",
+   "schema:url": {
+    "@id": "https://www.ushistory.org/US/42b.asp"
+   },
+   "uso:sourceType": "institutional"
   },
   {
    "@id": "https://github.com/john1hsu/usa-graph/id/source/national-symbols-of-the-united-states/s1",
@@ -50272,6 +50540,175 @@
     },
     {
      "@id": "https://github.com/john1hsu/usa-graph/id/morrill-land-grant-college-act/timeline/9"
+    }
+   ]
+  },
+  {
+   "@id": "us:muckrakers",
+   "@type": "uso:Movement",
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/muckrakers/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/muckrakers/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/muckrakers/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/muckrakers/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/muckrakers/s5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/muckrakers/s6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/muckrakers/s7"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/muckrakers/s8"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/muckrakers/s9"
+    }
+   ],
+   "rdfs:label": "Muckrakers",
+   "schema:startDate": {
+    "@type": "xsd:gYearMonth",
+    "@value": "1902-11"
+   },
+   "skos:altLabel": [
+    "Muckraker movement",
+    "Muckraking journalism",
+    "Muckraking"
+   ],
+   "skos:broader": [
+    {
+     "@id": "us:investigative-journalism"
+    },
+    {
+     "@id": "us:progressive-movement"
+    }
+   ],
+   "skos:definition": "The investigative journalists of the early 1900s, writing mainly in cheap mass-circulation magazines such as McClure's and Cosmopolitan, who exposed monopolies, political corruption, dangerous work and adulterated food, helping spark Progressive Era reforms; Theodore Roosevelt gave them their name in 1906 as a rebuke.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/usa-graph/id/scheme/gilded-age-and-progressive-era"
+   },
+   "skos:prefLabel": "Muckrakers",
+   "skos:related": [
+    {
+     "@id": "us:chicago"
+    },
+    {
+     "@id": "us:david-graham-phillips"
+    },
+    {
+     "@id": "us:gilded-age"
+    },
+    {
+     "@id": "us:ida-b-wells"
+    },
+    {
+     "@id": "us:ida-tarbell"
+    },
+    {
+     "@id": "us:jacob-riis"
+    },
+    {
+     "@id": "us:lincoln-steffens"
+    },
+    {
+     "@id": "us:mcclures-magazine"
+    },
+    {
+     "@id": "us:ray-stannard-baker"
+    },
+    {
+     "@id": "us:samuel-hopkins-adams"
+    },
+    {
+     "@id": "us:standard-oil"
+    },
+    {
+     "@id": "us:the-jungle"
+    },
+    {
+     "@id": "us:theodore-roosevelt"
+    },
+    {
+     "@id": "us:triangle-shirtwaist-factory-fire"
+    },
+    {
+     "@id": "us:upton-sinclair"
+    }
+   ],
+   "uso:domain": "gilded-age-and-progressive-era",
+   "uso:evidenceStatus": "interpretive",
+   "uso:file": "articles/gilded-age-and-progressive-era/muckrakers.md",
+   "uso:ledTo": [
+    {
+     "@id": "us:meat-inspection-act"
+    },
+    {
+     "@id": "us:pure-food-and-drug-act"
+    },
+    {
+     "@id": "us:seventeenth-amendment"
+    }
+   ],
+   "uso:level": "introductory",
+   "uso:misconception": {
+    "@id": "https://github.com/john1hsu/usa-graph/id/muckrakers/misconception"
+   },
+   "uso:occurredDuring": {
+    "@id": "us:progressive-era"
+   },
+   "uso:requires": {
+    "@id": "us:gilded-age"
+   },
+   "uso:timelineEntry": [
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/muckrakers/timeline/1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/muckrakers/timeline/10"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/muckrakers/timeline/11"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/muckrakers/timeline/12"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/muckrakers/timeline/2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/muckrakers/timeline/3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/muckrakers/timeline/4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/muckrakers/timeline/5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/muckrakers/timeline/6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/muckrakers/timeline/7"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/muckrakers/timeline/8"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/muckrakers/timeline/9"
     }
    ]
   },

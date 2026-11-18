@@ -1299,6 +1299,21 @@ Every review question (with its answer) and every myth-versus-fact in the graph,
 - **Q:** Which federal actions dismantled the Jim Crow system?
   **A:** Court rulings such as Brown v. Board of Education (1954), Harper v. Virginia State Board of Elections (1966) and Loving v. Virginia (1967), together with the Civil Rights Act of 1964, the Voting Rights Act of 1965 and the Civil Rights Act of 1968.
 
+### [Muckrakers](../articles/gilded-age-and-progressive-era/muckrakers.md) — Movement
+
+| Myth | Fact |
+|---|---|
+| Upton Sinclair wrote The Jungle to campaign for food-safety laws, and Roosevelt coined "muckraker" as a compliment. | Sinclair, a socialist, wrote to expose the exploitation of immigrant packinghouse workers and complained that readers fixed on the tainted meat instead; Roosevelt borrowed the muck-rake image from Bunyan's Pilgrim's Progress as a rebuke to journalists who saw only filth. |
+
+**Why it matters:** The reforms that followed (food and meat laws) and the later pride journalists took in the label have reshaped memory of both, hiding Sinclair's labor message and the political tension between Roosevelt and the press.
+
+- **Q:** Why did magazines rather than newspapers or Congress become the main vehicle for muckraking after 1900?
+  **A:** Cheap, nationally circulated magazines such as McClure's, sold at fifteen cents and reaching hundreds of thousands of readers, could publish long, researched series on a national audience quickly, and exposés sold copies—Cosmopolitan's circulation doubled within two months of The Treason of the Senate.
+- **Q:** How did The Jungle lead to federal law, and why was Sinclair disappointed by the result?
+  **A:** Sinclair sent Roosevelt the novel, Roosevelt had the packinghouses investigated, inspectors found the unsanitary conditions it described, and Congress passed the Meat Inspection Act and the Food and Drugs Act in 1906; Sinclair had aimed to expose the exploitation of immigrant workers and capitalism, so laws protecting consumers rather than workers missed his main point.
+- **Q:** Why do historians disagree about whether Roosevelt's 1906 speech ended the muckraking era?
+  **A:** Steffens told Roosevelt the speech had put an end to the investigations and it was vague enough to tar all reform writers, but the McClure's staff split had already come to a head for internal reasons, including McClure's risky expansion plans, and the magazine's later decline owed much to debt and the 1907 depression.
+
 ### [Plessy v. Ferguson](../articles/gilded-age-and-progressive-era/plessy-v-ferguson.md) — CourtCase
 
 | Myth | Fact |

@@ -15190,6 +15190,202 @@
   ]
  },
  {
+  "id": "us:muckrakers",
+  "title": "Muckrakers",
+  "aliases": [
+   "Muckraking",
+   "Muckraking journalism",
+   "Muckraker movement"
+  ],
+  "type": "Movement",
+  "domain": "gilded-age-and-progressive-era",
+  "level": "introductory",
+  "evidenceStatus": "interpretive",
+  "file": "articles/gilded-age-and-progressive-era/muckrakers.md",
+  "created": "2026-11-18",
+  "summary": "The investigative journalists of the early 1900s, writing mainly in cheap mass-circulation magazines such as McClure's and Cosmopolitan, who exposed monopolies, political corruption, dangerous work and adulterated food, helping spark Progressive Era reforms; Theodore Roosevelt gave them their name in 1906 as a rebuke.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "us:investigative-journalism"
+   },
+   {
+    "predicate": "skos:broader",
+    "object": "us:progressive-movement"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:theodore-roosevelt"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:ida-tarbell"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:lincoln-steffens"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:ray-stannard-baker"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:upton-sinclair"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:the-jungle"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:jacob-riis"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:ida-b-wells"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:david-graham-phillips"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:samuel-hopkins-adams"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:mcclures-magazine"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:standard-oil"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:gilded-age"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:chicago"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:triangle-shirtwaist-factory-fire"
+   },
+   {
+    "predicate": "uso:requires",
+    "object": "us:gilded-age"
+   },
+   {
+    "predicate": "uso:occurredDuring",
+    "object": "us:progressive-era",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:ledTo",
+    "object": "us:pure-food-and-drug-act",
+    "source": "s7",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:ledTo",
+    "object": "us:meat-inspection-act",
+    "source": "s3",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:ledTo",
+    "object": "us:seventeenth-amendment",
+    "source": "s6",
+    "confidence": "medium"
+   }
+  ],
+  "start": "1902-11",
+  "end": null,
+  "review": [
+   {
+    "question": "Why did magazines rather than newspapers or Congress become the main vehicle for muckraking after 1900?",
+    "answer": "Cheap, nationally circulated magazines such as McClure's, sold at fifteen cents and reaching hundreds of thousands of readers, could publish long, researched series on a national audience quickly, and exposés sold copies—Cosmopolitan's circulation doubled within two months of The Treason of the Senate."
+   },
+   {
+    "question": "How did The Jungle lead to federal law, and why was Sinclair disappointed by the result?",
+    "answer": "Sinclair sent Roosevelt the novel, Roosevelt had the packinghouses investigated, inspectors found the unsanitary conditions it described, and Congress passed the Meat Inspection Act and the Food and Drugs Act in 1906; Sinclair had aimed to expose the exploitation of immigrant workers and capitalism, so laws protecting consumers rather than workers missed his main point."
+   },
+   {
+    "question": "Why do historians disagree about whether Roosevelt's 1906 speech ended the muckraking era?",
+    "answer": "Steffens told Roosevelt the speech had put an end to the investigations and it was vague enough to tar all reform writers, but the McClure's staff split had already come to a head for internal reasons, including McClure's risky expansion plans, and the magazine's later decline owed much to debt and the 1907 depression."
+   }
+  ],
+  "timeline": [
+   {
+    "date": "1890",
+    "event": "Jacob Riis publishes How the Other Half Lives, using photographs to expose New York City tenement conditions."
+   },
+   {
+    "date": "1892",
+    "event": "After the lynching of her friend Thomas Moss in Memphis, Ida B. Wells investigates lynchings across the South and publishes Southern Horrors; a mob destroys her newspaper office."
+   },
+   {
+    "date": "1893",
+    "event": "S. S. McClure and John S. Phillips launch McClure's Magazine at fifteen cents a copy."
+   },
+   {
+    "date": "1902-11",
+    "event": "Ida Tarbell's History of the Standard Oil Company begins appearing in McClure's."
+   },
+   {
+    "date": "1903-01",
+    "event": "McClure's prints exposés by Tarbell, Lincoln Steffens and Ray Stannard Baker in one issue, with an editorial linking them."
+   },
+   {
+    "date": "1906-02",
+    "event": "Cosmopolitan begins David Graham Phillips's nine-part series The Treason of the Senate."
+   },
+   {
+    "date": "1906-03-21",
+    "event": "A split at McClure's comes to a head; Tarbell, Steffens, Baker and John Phillips leave and take over The American Magazine."
+   },
+   {
+    "date": "1906-04-14",
+    "event": "Theodore Roosevelt delivers The Man with the Muck-Rake at the cornerstone laying of the House office building in Washington."
+   },
+   {
+    "date": "1906-06-30",
+    "event": "Roosevelt signs the Food and Drugs Act; the Meat Inspection Act also becomes law that year after The Jungle."
+   },
+   {
+    "date": "1908",
+    "event": "Ray Stannard Baker publishes Following the Color Line, on the oppression of Black Americans."
+   },
+   {
+    "date": "1911",
+    "event": "Deep in debt, S. S. McClure surrenders McClure's Magazine to creditors in the autumn."
+   },
+   {
+    "date": "1913",
+    "event": "The Seventeenth Amendment, providing for direct election of senators, is ratified."
+   }
+  ],
+  "misconception": {
+   "myth": "Upton Sinclair wrote The Jungle to campaign for food-safety laws, and Roosevelt coined \"muckraker\" as a compliment.",
+   "fact": "Sinclair, a socialist, wrote to expose the exploitation of immigrant packinghouse workers and complained that readers fixed on the tainted meat instead; Roosevelt borrowed the muck-rake image from Bunyan's Pilgrim's Progress as a rebuke to journalists who saw only filth.",
+   "why": "The reforms that followed (food and meat laws) and the later pride journalists took in the label have reshaped memory of both, hiding Sinclair's labor message and the political tension between Roosevelt and the press."
+  },
+  "source_urls": [
+   "https://openstax.org/books/us-history/pages/21-1-the-origins-of-the-progressive-spirit-in-america",
+   "https://www.theodorerooseveltcenter.org/encyclopedia/culture-and-society/muckraker/",
+   "https://www.theodorerooseveltcenter.org/encyclopedia/reading-and-writing/the-jungle/",
+   "https://sites.allegheny.edu/tarbell/?p=71",
+   "https://sites.allegheny.edu/tarbell/?p=77",
+   "https://www.senate.gov/about/origins-foundations/electing-appointing-senators/treason-of-the-senate.htm",
+   "https://www.fda.gov/about-fda/changes-science-law-and-regulatory-authorities/part-i-1906-food-and-drugs-act-and-its-enforcement",
+   "https://blogs.loc.gov/headlinesandheroes/2020/02/ida-b-wells-and-the-activism-of-investigative-journalism/",
+   "https://www.ushistory.org/US/42b.asp"
+  ]
+ },
+ {
   "id": "us:national-symbols-of-the-united-states",
   "title": "National symbols of the United States",
   "aliases": [

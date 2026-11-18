@@ -57,7 +57,7 @@ _Which nodes led to, established or affected the most other things in the graph?
 | `us:covid-19-pandemic-in-the-united-states` | 3 | Native Americans, cares-act, operation-warp-speed |
 | `us:desegregation-of-little-rock-central-high-school` | 3 | cooper-v-aaron, executive-order-10730, lost-year |
 
-…and 82 more.
+…and 83 more.
 
 ## Happenings by era
 
@@ -79,6 +79,7 @@ _For each era, which events, conflicts, laws and movements took place during it?
 | `us:great-depression` | `us:dust-bowl` | 1931 |
 | `us:great-depression` | `us:new-deal` | 1933-03 |
 | `us:progressive-era` | `us:womens-suffrage-movement` | 1848-07-19 |
+| `us:progressive-era` | `us:muckrakers` | 1902-11 |
 
 ## Myths, contested claims and debated interpretations
 
@@ -117,7 +118,7 @@ _Which nodes are myths, contested or open to competing interpretations, and what
 | `us:john-marshall` | interpretive |  |
 | `us:judicial-review` | interpretive |  |
 
-…and 31 more.
+…and 32 more.
 
 ## Places with nothing tied to them (gap)
 
