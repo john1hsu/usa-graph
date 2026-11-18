@@ -466,6 +466,11 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1814-09-11 | A U.S. naval victory on Lake Champlain leads British land forces to abandon their attack at Plattsburgh, New York. — [War of 1812](../articles/early-republic-and-expansion/war-of-1812.md) |
 | 1814-09-13 | British ships begin a 25-hour bombardment of Fort McHenry at Baltimore but fail to force its surrender. — [Chesapeake Bay](../articles/geography-and-environment/chesapeake-bay.md) |
 | 1814-09-13 | The Royal Navy begins a 25-hour bombardment of Fort McHenry at Baltimore, which Francis Scott Key watches. — [War of 1812](../articles/early-republic-and-expansion/war-of-1812.md) |
+| 1814-09-13 | The Royal Navy begins bombarding Fort McHenry; Francis Scott Key watches from an American truce boat held under British guard. — [The Star-Spangled Banner](../articles/symbols-and-national-identity/star-spangled-banner.md) |
+| 1814-09-14 | **[The Star-Spangled Banner](../articles/symbols-and-national-identity/star-spangled-banner.md)** (Symbol) |
+| 1814-09-14 | At dawn the British break off the attack; Key, released hours later, completes his verses in Baltimore. — [The Star-Spangled Banner](../articles/symbols-and-national-identity/star-spangled-banner.md) |
+| 1814-09-17 | Printed copies of the verses, headed 'Defence of Fort M'Henry', are handed out at the fort and in Baltimore. — [The Star-Spangled Banner](../articles/symbols-and-national-identity/star-spangled-banner.md) |
+| 1814-10-19 | The song is first performed on stage, at Baltimore's Holliday Street Theatre. — [The Star-Spangled Banner](../articles/symbols-and-national-identity/star-spangled-banner.md) |
 | 1814-12-24 | American and British commissioners sign the Treaty of Ghent in present-day Belgium. — [War of 1812](../articles/early-republic-and-expansion/war-of-1812.md) |
 | 1814-12-24 | The Treaty of Ghent ends the War of 1812 on the basis of prewar boundaries. — [James Madison](../articles/presidents-and-founders/james-madison.md) |
 | 1815-01-08 | American forces defeat a British assault at New Orleans, the last major land battle of the war. — [War of 1812](../articles/early-republic-and-expansion/war-of-1812.md) |
@@ -1020,6 +1025,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1888-10-01 | The Scott Act voids the return certificates of Chinese laborers abroad, stranding about 20,000 people. — [Chinese Exclusion Act](../articles/gilded-age-and-progressive-era/chinese-exclusion-act.md) |
 | 1889 | Appointed U.S. minister resident and consul general to Haiti, serving until 1891. — [Frederick Douglass](../articles/people-who-shaped-america/frederick-douglass.md) |
 | 1889 | Appointed to the U.S. Civil Service Commission by President Benjamin Harrison. — [Theodore Roosevelt](../articles/presidents-and-founders/theodore-roosevelt.md) |
+| 1889 | The U.S. Navy adopts the song for flag ceremonies. — [The Star-Spangled Banner](../articles/symbols-and-national-identity/star-spangled-banner.md) |
 | 1889-05-13 | In Chae Chan Ping v. United States the Supreme Court upholds the Scott Act under Congress's plenary power over immigration. — [Chinese Exclusion Act](../articles/gilded-age-and-progressive-era/chinese-exclusion-act.md) |
 | 1889-11-05 | Voters ratify the state constitution, which keeps equal suffrage for women. — [Wyoming](../articles/states-and-territories/wyoming.md) |
 | 1890 | A second Morrill Act adds annual appropriations and leads to the founding of separate land-grant institutions for Black students in the segregated South. — [Morrill Land-Grant College Act](../articles/science-and-innovation/morrill-land-grant-college-act.md) |
@@ -1231,6 +1237,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1915-07 | U.S. Marines land in Haiti after the assassination of President Jean Vilbrun Guillaume Sam, beginning a nineteen-year occupation. — [Good Neighbor Policy](../articles/foreign-relations-and-military/good-neighbor-policy.md) |
 | 1915-07-05 | The bell leaves on its last journey, a tour of more than 10,000 miles to the Panama-Pacific Exposition in San Francisco. — [Liberty Bell](../articles/symbols-and-national-identity/liberty-bell.md) |
 | 1915-10 | Orville Wright sells the Wright Company to New York financiers. — [Wright Company School of Aviation](../articles/science-and-innovation/wright-company-school-of-aviation.md) |
+| 1916 | President Woodrow Wilson names it the anthem of the armed forces; Congress does not act. — [The Star-Spangled Banner](../articles/symbols-and-national-identity/star-spangled-banner.md) |
 | 1916 | President Woodrow Wilson proclaims a national Flag Day on June 14. — [Betsy Ross flag myth](../articles/symbols-and-national-identity/betsy-ross-flag-myth.md) |
 | 1916 | President Woodrow Wilson proclaims a national Flag Day on June 14. — [National symbols of the United States](../articles/symbols-and-national-identity/national-symbols-of-the-united-states.md) |
 | 1916 | The Wright Company stops using the field after training 119 students there. — [Huffman Prairie Flying Field](../articles/science-and-innovation/huffman-prairie.md) |
@@ -1243,6 +1250,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1917-04-02 | Jeannette Rankin of Montana is sworn in as the first woman elected to Congress. — [United States House of Representatives](../articles/constitution-and-government/house-of-representatives.md) |
 | 1917-11 | New Orleans closes its Storyville red-light district. — [Jazz](../articles/culture-and-arts/jazz.md) |
 | 1917-11 | New York adopts woman suffrage. — [Women's suffrage movement](../articles/gilded-age-and-progressive-era/womens-suffrage-movement.md) |
+| 1918 | A Navy band plays it at Game 1 of the World Series, starting a ballpark tradition. — [The Star-Spangled Banner](../articles/symbols-and-national-identity/star-spangled-banner.md) |
 | 1918 | Congress passes a minimum wage law for women and minors in the District of Columbia. — [Minimum wage](../articles/economy-and-work/minimum-wage.md) |
 | 1918 | The new National Park Service takes over management and the Army leaves. — [Yellowstone National Park](../articles/geography-and-environment/yellowstone-national-park.md) |
 | 1918-09-30 | President Wilson addresses the Senate to urge passage of the amendment, which fails the next day. — [Women's suffrage movement](../articles/gilded-age-and-progressive-era/womens-suffrage-movement.md) |
@@ -1285,6 +1293,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1929-01-15 – 1968-04-04 | **[Martin Luther King Jr.](../articles/people-who-shaped-america/martin-luther-king-jr.md)** (Person) |
 | 1929-01-15 | Born Michael King Jr. in Atlanta, Georgia; in 1934 his father changes both their names to Martin Luther King. — [Martin Luther King Jr.](../articles/people-who-shaped-america/martin-luther-king-jr.md) |
 | 1929-02-02 | The Federal Reserve Board asks reserve banks to deny credit to member banks that lend to stock speculators. — [Stock market crash of 1929](../articles/economy-and-work/stock-market-crash-of-1929.md) |
+| 1929-04-15 | Representative John Linthicum of Maryland introduces H.R. 14 to make it the national anthem. — [The Star-Spangled Banner](../articles/symbols-and-national-identity/star-spangled-banner.md) |
 | 1929-06-18 | The Reapportionment and Census Act makes apportionment automatic after the 1930 census and keeps 435 seats. — [Census and apportionment](../articles/democracy-and-elections/census-and-apportionment.md) |
 | 1929-08 – 1941 | **[Great Depression](../articles/depression-and-world-war/great-depression.md)** (Era) |
 | 1929-08 | The Board approves a rise in the New York Fed's discount rate to 6 percent. — [Stock market crash of 1929](../articles/economy-and-work/stock-market-crash-of-1929.md) |
@@ -1300,12 +1309,14 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1929-10-30 | Before trading opens, the New York Fed announces it will buy $100 million in government securities. — [Stock market crash of 1929](../articles/economy-and-work/stock-market-crash-of-1929.md) |
 | 1929-11 | By mid-November the Dow has lost almost half its value. — [Stock market crash of 1929](../articles/economy-and-work/stock-market-crash-of-1929.md) |
 | 1930 | Son House records for Paramount. — [Blues](../articles/culture-and-arts/blues.md) |
+| 1930-04-21 | The House of Representatives passes H.R. 14. — [The Star-Spangled Banner](../articles/symbols-and-national-identity/star-spangled-banner.md) |
 | 1930-06 | Hoover signs the Smoot-Hawley Tariff, raising duties on farm and industrial imports to historic highs. — [Great Depression](../articles/depression-and-world-war/great-depression.md) |
 | 1930-09-17 | At a ceremony opening work on the project, Interior Secretary Ray Lyman Wilbur announces the name Hoover Dam. — [Hoover Dam](../articles/regions-cities-and-landmarks/hoover-dam.md) |
 | 1931 – 1940 | **[Dust Bowl](../articles/depression-and-world-war/dust-bowl.md)** (Event) |
 | 1931 | Detainee Smiley Jann (Jann Mon Fong) copies 99 poems from the walls. — [Chinese detention-barracks poetry](../articles/culture-and-arts/chinese-detention-barracks-poetry.md) |
 | 1931 | Drought ruins the Southern Plains wheat crop in the autumn, leaving fields bare. — [Dust Bowl](../articles/depression-and-world-war/dust-bowl.md) |
 | 1931-03-03 | Congress makes The Star-Spangled Banner the national anthem. — [National symbols of the United States](../articles/symbols-and-national-identity/national-symbols-of-the-united-states.md) |
+| 1931-03-03 | The Senate passes the bill and President Herbert Hoover signs it into law. — [The Star-Spangled Banner](../articles/symbols-and-national-identity/star-spangled-banner.md) |
 | 1931-03-11 | The construction contract is awarded to Six Companies on a bid of about $48.9 million. — [Hoover Dam](../articles/regions-cities-and-landmarks/hoover-dam.md) |
 | 1931-04-20 | **[Hoover Dam](../articles/regions-cities-and-landmarks/hoover-dam.md)** (Landmark) |
 | 1931-04-20 | Six Companies receives notice to proceed, the formal start of construction. — [Hoover Dam](../articles/regions-cities-and-landmarks/hoover-dam.md) |
@@ -1462,6 +1473,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1942-05-23 | Secretary of War Henry Stimson terminates the Third Locks Project. — [Gatun Locks](../articles/regions-cities-and-landmarks/gatun-locks.md) |
 | 1942-05-27 | Admiral Chester Nimitz presents the Navy Cross to Mess Attendant Doris Miller for his conduct aboard USS West Virginia during the attack. — [Attack on Pearl Harbor](../articles/depression-and-world-war/attack-on-pearl-harbor.md) |
 | 1942-06-04 | The Battle of Midway begins; by June 6 U.S. aircraft have wrecked four Japanese carriers, and USS Yorktown sinks on June 7. — [World War II and the United States](../articles/depression-and-world-war/world-war-ii-and-the-united-states.md) |
+| 1942-06-22 | A federal act sets out how people should stand and salute while the anthem is played. — [The Star-Spangled Banner](../articles/symbols-and-national-identity/star-spangled-banner.md) |
 | 1942-08-04 | The bracero program begins bringing Mexican farm workers to the United States. — [World War II and the United States](../articles/depression-and-world-war/world-war-ii-and-the-united-states.md) |
 | 1942-08-12 | The first Japanese Americans arrive at the Heart Mountain incarceration camp between Cody and Powell. — [Wyoming](../articles/states-and-territories/wyoming.md) |
 | 1942-11 | American combat troops land in French Morocco, opening the campaign in North Africa. — [World War II and the United States](../articles/depression-and-world-war/world-war-ii-and-the-united-states.md) |
@@ -1889,6 +1901,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 2006-10-04 | Bush signs the Post-Katrina Emergency Management Reform Act, reorganizing FEMA after Hurricane Katrina. — [Department of Homeland Security](../articles/contemporary-america/department-of-homeland-security.md) |
 | 2006-10-12 | The National Heritage Areas Act of 2006 designates the Gullah Geechee Cultural Heritage Corridor and its federal commission. — [Gullah Geechee](../articles/society-and-people/gullah-geechee.md) |
 | 2007-09-03 | Panama breaks ground on its own Third Set of Locks Project, reusing the Atlantic-side excavations. — [Third Locks Project](../articles/foreign-relations-and-military/third-locks-project.md) |
+| 2008-10-14 | Congress lets veterans and service members out of uniform give the military salute during the anthem. — [The Star-Spangled Banner](../articles/symbols-and-national-identity/star-spangled-banner.md) |
 | 2009 | In Northwest Austin the Court lets a Texas utility district seek bailout and avoids the constitutional question while voicing serious doubts about the Act. — [Shelby County v. Holder](../articles/democracy-and-elections/shelby-county-v-holder.md) |
 | 2009-07-24 | The federal minimum rises to $7.25 an hour, its rate since. — [Minimum wage](../articles/economy-and-work/minimum-wage.md) |
 | 2009-09-09 | President Obama addresses a joint session of Congress to press for health care reform. — [Affordable Care Act](../articles/contemporary-america/affordable-care-act.md) |

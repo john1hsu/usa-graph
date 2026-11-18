@@ -2371,3 +2371,18 @@ Every review question (with its answer) and every myth-versus-fact in the graph,
 - **Q:** How is the origin of Uncle Sam different from that of the flag or the national anthem?
   **A:** The flag and anthem were adopted by acts of Congress, while Uncle Sam grew out of popular usage during the War of 1812 and was shaped by cartoonists and poster artists; Congress only honored Samuel Wilson as the figure's progenitor in 1961, and the National Park Service still calls the name's origin disputed.
 
+### [The Star-Spangled Banner](../articles/symbols-and-national-identity/star-spangled-banner.md) — Symbol
+
+| Myth | Fact |
+|---|---|
+| The anthem's tune was an old English drinking song. | 'To Anacreon in Heaven' was the club song of the Anacreontic Society, a London gentlemen's music society; it was sung in four-part harmony with harpsichord after the society's dinners and concerts. Its words toast wine and the members drank, but musicologist Mark Clague notes it was far too sophisticated for a pub. Key chose the tune himself and had used it for an earlier song. |
+
+**Why it matters:** The lyric's convivial toasts invite the label, and in the 1920s opponents of making it the anthem, especially in dry areas during Prohibition, attacked it as a drinking song.
+
+- **Q:** Why was Francis Scott Key on a boat near Fort McHenry during the bombardment, rather than in the fort or the city?
+  **A:** With President Madison's approval he had sailed under a flag of truce with prisoner-exchange agent John Skinner to win the release of Dr. William Beanes. The British agreed to free Beanes but held all three under guard on their truce boat so they could not warn Baltimore of the coming attack.
+- **Q:** How did the song go from a popular patriotic tune to the legal national anthem?
+  **A:** It spread through newspapers within weeks of the battle, became a Union favourite during the Civil War, was adopted by the Navy in 1889 and the armed forces in 1916, and became a ballpark ritual after the 1918 World Series. Representative John Linthicum's bill, backed by a petition of more than five million signatures, passed the House in 1930 and the Senate in 1931, and Hoover signed it on March 3, 1931.
+- **Q:** Why do historians and critics disagree about the third stanza's line about the "hireling and slave"?
+  **A:** Key never explained it. Some read "slave" as the Colonial Marines, formerly enslaved men fighting for the British, and see the line as hostile to their bid for freedom; Mark Clague agrees it refers to them but argues it condemns the enemy rather than celebrating slavery; others read the phrase as stock language for the whole British force.
+

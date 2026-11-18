@@ -28,7 +28,7 @@ _Which nodes led to, established or affected the most other things in the graph?
 |---|---|---|
 | `us:united-states-constitution` | 11 | Census and apportionment, Electoral College, Federalism, Presidency of the United States, Slavery in the United States, Supreme Court of the United States, The Federalist Papers, United States, United States Congress, United States House of Representatives, bill-of-rights |
 | `us:indian-removal-act` | 7 | cherokee-nation, chickasaw-nation, choctaw-nation, muscogee-creek-nation, second-seminole-war, trail-of-tears, treaty-of-new-echota |
-| `us:war-of-1812` | 7 | Indian Removal Act, hartford-convention, muscogee-creek-nation, shawnee, star-spangled-banner, treaty-of-fort-jackson, treaty-of-ghent |
+| `us:war-of-1812` | 7 | Indian Removal Act, The Star-Spangled Banner, hartford-convention, muscogee-creek-nation, shawnee, treaty-of-fort-jackson, treaty-of-ghent |
 | `us:california-gold-rush` | 5 | Chinese Exclusion Act, Native Americans, act-for-the-government-and-protection-of-indians, compromise-of-1850, foreign-miners-tax-of-1850 |
 | `us:cold-war` | 5 | Civil rights movement, McCarthyism, North Atlantic Treaty Organization, national-security-act-of-1947, space-race |
 | `us:great-depression` | 5 | African Americans, New Deal, agriculture-in-the-united-states, bonus-army, reconstruction-finance-corporation |
@@ -57,7 +57,7 @@ _Which nodes led to, established or affected the most other things in the graph?
 | `us:cherokee-nation-v-georgia` | 3 | cherokee-nation, federal-trust-responsibility, worcester-v-georgia |
 | `us:chesapeake-bay` | 3 | chesapeake-bay-agreement, chesapeake-bay-tmdl, siege-of-yorktown |
 
-…and 92 more.
+…and 93 more.
 
 ## Happenings by era
 
@@ -121,7 +121,7 @@ _Which nodes are myths, contested or open to competing interpretations, and what
 | `us:haudenosaunee` | interpretive |  |
 | `us:hayden-geological-survey-of-1871` | interpretive |  |
 
-…and 38 more.
+…and 39 more.
 
 ## Places with nothing tied to them (gap)
 
@@ -206,6 +206,7 @@ _Which institutions, offices, rights and principles did each document or law est
 | `us:judiciary-act-of-1789` | `us:supreme-court-of-the-united-states` |
 | `us:louisiana-constitution-of-1898` | `us:jim-crow-laws` |
 | `us:marbury-v-madison` | `us:judicial-review` |
+| `us:national-anthem-act-of-1931` | `us:star-spangled-banner` |
 | `us:north-atlantic-treaty` | `us:nato` |
 | `us:secretarial-order-3299` | `us:bureau-of-ocean-energy-management` |
 | `us:separate-car-act` | `us:jim-crow-laws` |
@@ -214,7 +215,6 @@ _Which institutions, offices, rights and principles did each document or law est
 | `us:united-states-code` | `us:national-symbols-of-the-united-states` |
 | `us:united-states-constitution` | `us:census-and-apportionment` |
 | `us:united-states-constitution` | `us:electoral-college` |
-| `us:united-states-constitution` | `us:federalism` |
 
-…and 7 more.
+…and 8 more.
 

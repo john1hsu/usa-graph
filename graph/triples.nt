@@ -19948,6 +19948,78 @@
 <https://github.com/john1hsu/usa-graph/id/source/sojourner-truth/s9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
 <https://github.com/john1hsu/usa-graph/id/source/sojourner-truth/s9> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "museum" .
 <https://github.com/john1hsu/usa-graph/id/source/sojourner-truth/s9> <https://schema.org/url> <https://civilwar.si.edu/slavery_truth.html> .
+<https://github.com/john1hsu/usa-graph/id/source/star-spangled-banner/s10> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/star-spangled-banner/s10> <http://purl.org/dc/terms/publisher> "WGBH News" .
+<https://github.com/john1hsu/usa-graph/id/source/star-spangled-banner/s10> <http://purl.org/dc/terms/title> "Historians Disagree On Whether 'The Star-Spangled Banner' Is Racist" .
+<https://github.com/john1hsu/usa-graph/id/source/star-spangled-banner/s10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/star-spangled-banner/s10> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "news" .
+<https://github.com/john1hsu/usa-graph/id/source/star-spangled-banner/s10> <https://schema.org/url> <https://www.wgbh.org/news/2016-08-30/historians-disagree-on-whether-the-star-spangled-banner-is-racist> .
+<https://github.com/john1hsu/usa-graph/id/source/star-spangled-banner/s11> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/star-spangled-banner/s11> <http://purl.org/dc/terms/publisher> "Smithsonian Magazine" .
+<https://github.com/john1hsu/usa-graph/id/source/star-spangled-banner/s11> <http://purl.org/dc/terms/title> "Where's the Debate on Francis Scott Key's Slave-Holding Legacy?" .
+<https://github.com/john1hsu/usa-graph/id/source/star-spangled-banner/s11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/star-spangled-banner/s11> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "magazine" .
+<https://github.com/john1hsu/usa-graph/id/source/star-spangled-banner/s11> <https://schema.org/url> <https://www.smithsonianmag.com/smithsonian-institution/wheres-debate-francis-scott-keys-slave-holding-legacy-180959550/?no-ist> .
+<https://github.com/john1hsu/usa-graph/id/source/star-spangled-banner/s12> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/star-spangled-banner/s12> <http://purl.org/dc/terms/publisher> "National Park Service" .
+<https://github.com/john1hsu/usa-graph/id/source/star-spangled-banner/s12> <http://purl.org/dc/terms/title> "Star-Spangled Banner National Historic Trail map and guide" .
+<https://github.com/john1hsu/usa-graph/id/source/star-spangled-banner/s12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/star-spangled-banner/s12> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/usa-graph/id/source/star-spangled-banner/s12> <https://schema.org/url> <https://www.nps.gov/stsp/upload/508-StarSpangled-Side1-2.pdf> .
+<https://github.com/john1hsu/usa-graph/id/source/star-spangled-banner/s1> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/star-spangled-banner/s1> <http://purl.org/dc/terms/publisher> "National Park Service, Star-Spangled Banner National Historic Trail" .
+<https://github.com/john1hsu/usa-graph/id/source/star-spangled-banner/s1> <http://purl.org/dc/terms/title> "The Star-Spangled Banner - A Flag and A Song" .
+<https://github.com/john1hsu/usa-graph/id/source/star-spangled-banner/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/star-spangled-banner/s1> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/usa-graph/id/source/star-spangled-banner/s1> <https://schema.org/url> <https://www.nps.gov/stsp/learn/historyculture/the-star-spangled-banner.htm> .
+<https://github.com/john1hsu/usa-graph/id/source/star-spangled-banner/s2> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/star-spangled-banner/s2> <http://purl.org/dc/terms/publisher> "National Park Service, Fort McHenry National Monument and Historic Shrine" .
+<https://github.com/john1hsu/usa-graph/id/source/star-spangled-banner/s2> <http://purl.org/dc/terms/title> "To Anacreon In Heaven" .
+<https://github.com/john1hsu/usa-graph/id/source/star-spangled-banner/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/star-spangled-banner/s2> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/usa-graph/id/source/star-spangled-banner/s2> <https://schema.org/url> <https://www.nps.gov/fomc/learn/historyculture/to-anacreon-in-heaven.htm> .
+<https://github.com/john1hsu/usa-graph/id/source/star-spangled-banner/s3> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/star-spangled-banner/s3> <http://purl.org/dc/terms/publisher> "Smithsonian National Museum of American History, The Star-Spangled Banner" .
+<https://github.com/john1hsu/usa-graph/id/source/star-spangled-banner/s3> <http://purl.org/dc/terms/title> "The Lyrics" .
+<https://github.com/john1hsu/usa-graph/id/source/star-spangled-banner/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/star-spangled-banner/s3> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "museum" .
+<https://github.com/john1hsu/usa-graph/id/source/star-spangled-banner/s3> <https://schema.org/url> <https://amhistory.si.edu/starspangledbanner/the-lyrics.aspx> .
+<https://github.com/john1hsu/usa-graph/id/source/star-spangled-banner/s4> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/star-spangled-banner/s4> <http://purl.org/dc/terms/publisher> "U.S. Government Publishing Office, govinfo" .
+<https://github.com/john1hsu/usa-graph/id/source/star-spangled-banner/s4> <http://purl.org/dc/terms/title> "36 U.S.C. 301: National anthem (2011 edition)" .
+<https://github.com/john1hsu/usa-graph/id/source/star-spangled-banner/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/star-spangled-banner/s4> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/usa-graph/id/source/star-spangled-banner/s4> <https://schema.org/url> <https://www.govinfo.gov/content/pkg/USCODE-2011-title36/html/USCODE-2011-title36-subtitleI-partA-chap3-sec301.htm> .
+<https://github.com/john1hsu/usa-graph/id/source/star-spangled-banner/s5> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/star-spangled-banner/s5> <http://purl.org/dc/terms/publisher> "Herbert Hoover Presidential Library and Museum (National Archives)" .
+<https://github.com/john1hsu/usa-graph/id/source/star-spangled-banner/s5> <http://purl.org/dc/terms/title> "Herbert Hoover and \"The Star Spangled Banner\"" .
+<https://github.com/john1hsu/usa-graph/id/source/star-spangled-banner/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/star-spangled-banner/s5> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "museum" .
+<https://github.com/john1hsu/usa-graph/id/source/star-spangled-banner/s5> <https://schema.org/url> <https://hoover.blogs.archives.gov/2023/03/02/star-spangled-banner> .
+<https://github.com/john1hsu/usa-graph/id/source/star-spangled-banner/s6> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/star-spangled-banner/s6> <http://purl.org/dc/terms/publisher> "Office of the Historian, U.S. House of Representatives" .
+<https://github.com/john1hsu/usa-graph/id/source/star-spangled-banner/s6> <http://purl.org/dc/terms/title> "Historical Highlights: The Star-Spangled Banner becomes the national anthem" .
+<https://github.com/john1hsu/usa-graph/id/source/star-spangled-banner/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/star-spangled-banner/s6> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/usa-graph/id/source/star-spangled-banner/s6> <https://schema.org/url> <https://history.house.gov/HistoricalHighlight/Detail/35621> .
+<https://github.com/john1hsu/usa-graph/id/source/star-spangled-banner/s7> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/star-spangled-banner/s7> <http://purl.org/dc/terms/publisher> "Mark Clague, Chorus America" .
+<https://github.com/john1hsu/usa-graph/id/source/star-spangled-banner/s7> <http://purl.org/dc/terms/title> "Star-Spangled Mythbusting" .
+<https://github.com/john1hsu/usa-graph/id/source/star-spangled-banner/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/star-spangled-banner/s7> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "magazine" .
+<https://github.com/john1hsu/usa-graph/id/source/star-spangled-banner/s7> <https://schema.org/url> <https://www.chorusamerica.org/singers/star-spangled-mythbusting> .
+<https://github.com/john1hsu/usa-graph/id/source/star-spangled-banner/s8> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/star-spangled-banner/s8> <http://purl.org/dc/terms/publisher> "Mark Clague, History News Network" .
+<https://github.com/john1hsu/usa-graph/id/source/star-spangled-banner/s8> <http://purl.org/dc/terms/title> "Star-Spangled Banner Critics Miss the Point" .
+<https://github.com/john1hsu/usa-graph/id/source/star-spangled-banner/s8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/star-spangled-banner/s8> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "magazine" .
+<https://github.com/john1hsu/usa-graph/id/source/star-spangled-banner/s8> <https://schema.org/url> <https://www.historynewsnetwork.org/article/star-spangled-banner-critics-miss-the-point> .
+<https://github.com/john1hsu/usa-graph/id/source/star-spangled-banner/s9> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/star-spangled-banner/s9> <http://purl.org/dc/terms/publisher> "National Park Service, Fort McHenry National Monument and Historic Shrine" .
+<https://github.com/john1hsu/usa-graph/id/source/star-spangled-banner/s9> <http://purl.org/dc/terms/title> "Francis Scott Key" .
+<https://github.com/john1hsu/usa-graph/id/source/star-spangled-banner/s9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/star-spangled-banner/s9> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/usa-graph/id/source/star-spangled-banner/s9> <https://schema.org/url> <https://home.nps.gov/fomc/learn/historyculture/francis-scott-key.htm> .
 <https://github.com/john1hsu/usa-graph/id/source/starving-time/s1> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
 <https://github.com/john1hsu/usa-graph/id/source/starving-time/s1> <http://purl.org/dc/terms/publisher> "Encyclopedia Virginia (Virginia Humanities), by Martha McCartney" .
 <https://github.com/john1hsu/usa-graph/id/source/starving-time/s1> <http://purl.org/dc/terms/title> "The Starving Time" .
@@ -21574,6 +21646,119 @@
 <https://github.com/john1hsu/usa-graph/id/source/yellowstone-national-park/s9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
 <https://github.com/john1hsu/usa-graph/id/source/yellowstone-national-park/s9> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
 <https://github.com/john1hsu/usa-graph/id/source/yellowstone-national-park/s9> <https://schema.org/url> <https://www.nps.gov/yell/learn/historyculture/flightnezperce.htm> .
+<https://github.com/john1hsu/usa-graph/id/star-spangled-banner/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Misconception> .
+<https://github.com/john1hsu/usa-graph/id/star-spangled-banner/misconception> <https://github.com/john1hsu/usa-graph/ontology#fact> "'To Anacreon in Heaven' was the club song of the Anacreontic Society, a London gentlemen's music society; it was sung in four-part harmony with harpsichord after the society's dinners and concerts. Its words toast wine and the members drank, but musicologist Mark Clague notes it was far too sophisticated for a pub. Key chose the tune himself and had used it for an earlier song." .
+<https://github.com/john1hsu/usa-graph/id/star-spangled-banner/misconception> <https://github.com/john1hsu/usa-graph/ontology#myth> "The anthem's tune was an old English drinking song." .
+<https://github.com/john1hsu/usa-graph/id/star-spangled-banner/misconception> <https://github.com/john1hsu/usa-graph/ontology#why> "The lyric's convivial toasts invite the label, and in the 1920s opponents of making it the anthem, especially in dry areas during Prohibition, attacked it as a drinking song." .
+<https://github.com/john1hsu/usa-graph/id/star-spangled-banner/review/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+<https://github.com/john1hsu/usa-graph/id/star-spangled-banner/review/1> <http://www.w3.org/2000/01/rdf-schema#label> "Why was Francis Scott Key on a boat near Fort McHenry during the bombardment, rather than in the fort or the city?" .
+<https://github.com/john1hsu/usa-graph/id/star-spangled-banner/review/1> <https://github.com/john1hsu/usa-graph/ontology#answer> "With President Madison's approval he had sailed under a flag of truce with prisoner-exchange agent John Skinner to win the release of Dr. William Beanes. The British agreed to free Beanes but held all three under guard on their truce boat so they could not warn Baltimore of the coming attack." .
+<https://github.com/john1hsu/usa-graph/id/star-spangled-banner/review/1> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/star-spangled-banner> .
+<https://github.com/john1hsu/usa-graph/id/star-spangled-banner/review/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+<https://github.com/john1hsu/usa-graph/id/star-spangled-banner/review/2> <http://www.w3.org/2000/01/rdf-schema#label> "How did the song go from a popular patriotic tune to the legal national anthem?" .
+<https://github.com/john1hsu/usa-graph/id/star-spangled-banner/review/2> <https://github.com/john1hsu/usa-graph/ontology#answer> "It spread through newspapers within weeks of the battle, became a Union favourite during the Civil War, was adopted by the Navy in 1889 and the armed forces in 1916, and became a ballpark ritual after the 1918 World Series. Representative John Linthicum's bill, backed by a petition of more than five million signatures, passed the House in 1930 and the Senate in 1931, and Hoover signed it on March 3, 1931." .
+<https://github.com/john1hsu/usa-graph/id/star-spangled-banner/review/2> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/star-spangled-banner> .
+<https://github.com/john1hsu/usa-graph/id/star-spangled-banner/review/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+<https://github.com/john1hsu/usa-graph/id/star-spangled-banner/review/3> <http://www.w3.org/2000/01/rdf-schema#label> "Why do historians and critics disagree about the third stanza's line about the \"hireling and slave\"?" .
+<https://github.com/john1hsu/usa-graph/id/star-spangled-banner/review/3> <https://github.com/john1hsu/usa-graph/ontology#answer> "Key never explained it. Some read \"slave\" as the Colonial Marines, formerly enslaved men fighting for the British, and see the line as hostile to their bid for freedom; Mark Clague agrees it refers to them but argues it condemns the enemy rather than celebrating slavery; others read the phrase as stock language for the whole British force." .
+<https://github.com/john1hsu/usa-graph/id/star-spangled-banner/review/3> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/star-spangled-banner> .
+<https://github.com/john1hsu/usa-graph/id/star-spangled-banner/timeline/10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/star-spangled-banner/timeline/10> <http://www.w3.org/2000/01/rdf-schema#label> "The Senate passes the bill and President Herbert Hoover signs it into law." .
+<https://github.com/john1hsu/usa-graph/id/star-spangled-banner/timeline/10> <https://github.com/john1hsu/usa-graph/ontology#date> "1931-03-03"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/star-spangled-banner/timeline/11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/star-spangled-banner/timeline/11> <http://www.w3.org/2000/01/rdf-schema#label> "A federal act sets out how people should stand and salute while the anthem is played." .
+<https://github.com/john1hsu/usa-graph/id/star-spangled-banner/timeline/11> <https://github.com/john1hsu/usa-graph/ontology#date> "1942-06-22"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/star-spangled-banner/timeline/12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/star-spangled-banner/timeline/12> <http://www.w3.org/2000/01/rdf-schema#label> "Congress lets veterans and service members out of uniform give the military salute during the anthem." .
+<https://github.com/john1hsu/usa-graph/id/star-spangled-banner/timeline/12> <https://github.com/john1hsu/usa-graph/ontology#date> "2008-10-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/star-spangled-banner/timeline/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/star-spangled-banner/timeline/1> <http://www.w3.org/2000/01/rdf-schema#label> "The Royal Navy begins bombarding Fort McHenry; Francis Scott Key watches from an American truce boat held under British guard." .
+<https://github.com/john1hsu/usa-graph/id/star-spangled-banner/timeline/1> <https://github.com/john1hsu/usa-graph/ontology#date> "1814-09-13"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/star-spangled-banner/timeline/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/star-spangled-banner/timeline/2> <http://www.w3.org/2000/01/rdf-schema#label> "At dawn the British break off the attack; Key, released hours later, completes his verses in Baltimore." .
+<https://github.com/john1hsu/usa-graph/id/star-spangled-banner/timeline/2> <https://github.com/john1hsu/usa-graph/ontology#date> "1814-09-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/star-spangled-banner/timeline/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/star-spangled-banner/timeline/3> <http://www.w3.org/2000/01/rdf-schema#label> "Printed copies of the verses, headed 'Defence of Fort M'Henry', are handed out at the fort and in Baltimore." .
+<https://github.com/john1hsu/usa-graph/id/star-spangled-banner/timeline/3> <https://github.com/john1hsu/usa-graph/ontology#date> "1814-09-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/star-spangled-banner/timeline/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/star-spangled-banner/timeline/4> <http://www.w3.org/2000/01/rdf-schema#label> "The song is first performed on stage, at Baltimore's Holliday Street Theatre." .
+<https://github.com/john1hsu/usa-graph/id/star-spangled-banner/timeline/4> <https://github.com/john1hsu/usa-graph/ontology#date> "1814-10-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/star-spangled-banner/timeline/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/star-spangled-banner/timeline/5> <http://www.w3.org/2000/01/rdf-schema#label> "The U.S. Navy adopts the song for flag ceremonies." .
+<https://github.com/john1hsu/usa-graph/id/star-spangled-banner/timeline/5> <https://github.com/john1hsu/usa-graph/ontology#date> "1889"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://github.com/john1hsu/usa-graph/id/star-spangled-banner/timeline/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/star-spangled-banner/timeline/6> <http://www.w3.org/2000/01/rdf-schema#label> "President Woodrow Wilson names it the anthem of the armed forces; Congress does not act." .
+<https://github.com/john1hsu/usa-graph/id/star-spangled-banner/timeline/6> <https://github.com/john1hsu/usa-graph/ontology#date> "1916"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://github.com/john1hsu/usa-graph/id/star-spangled-banner/timeline/7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/star-spangled-banner/timeline/7> <http://www.w3.org/2000/01/rdf-schema#label> "A Navy band plays it at Game 1 of the World Series, starting a ballpark tradition." .
+<https://github.com/john1hsu/usa-graph/id/star-spangled-banner/timeline/7> <https://github.com/john1hsu/usa-graph/ontology#date> "1918"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://github.com/john1hsu/usa-graph/id/star-spangled-banner/timeline/8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/star-spangled-banner/timeline/8> <http://www.w3.org/2000/01/rdf-schema#label> "Representative John Linthicum of Maryland introduces H.R. 14 to make it the national anthem." .
+<https://github.com/john1hsu/usa-graph/id/star-spangled-banner/timeline/8> <https://github.com/john1hsu/usa-graph/ontology#date> "1929-04-15"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/star-spangled-banner/timeline/9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/star-spangled-banner/timeline/9> <http://www.w3.org/2000/01/rdf-schema#label> "The House of Representatives passes H.R. 14." .
+<https://github.com/john1hsu/usa-graph/id/star-spangled-banner/timeline/9> <https://github.com/john1hsu/usa-graph/ontology#date> "1930-04-21"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/star-spangled-banner> <http://purl.org/dc/terms/created> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/star-spangled-banner> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Symbol> .
+<https://github.com/john1hsu/usa-graph/id/star-spangled-banner> <http://www.w3.org/2000/01/rdf-schema#label> "The Star-Spangled Banner" .
+<https://github.com/john1hsu/usa-graph/id/star-spangled-banner> <http://www.w3.org/2004/02/skos/core#altLabel> "Defence of Fort M'Henry" .
+<https://github.com/john1hsu/usa-graph/id/star-spangled-banner> <http://www.w3.org/2004/02/skos/core#altLabel> "National anthem of the United States" .
+<https://github.com/john1hsu/usa-graph/id/star-spangled-banner> <http://www.w3.org/2004/02/skos/core#altLabel> "Star-Spangled Banner" .
+<https://github.com/john1hsu/usa-graph/id/star-spangled-banner> <http://www.w3.org/2004/02/skos/core#altLabel> "U.S. national anthem" .
+<https://github.com/john1hsu/usa-graph/id/star-spangled-banner> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/usa-graph/id/national-symbols-of-the-united-states> .
+<https://github.com/john1hsu/usa-graph/id/star-spangled-banner> <http://www.w3.org/2004/02/skos/core#definition> "The national anthem of the United States: Francis Scott Key's 1814 song about the flag that flew over Fort McHenry after a British bombardment of Baltimore, set to the tune of a London club song and designated the anthem by Congress on March 3, 1931." .
+<https://github.com/john1hsu/usa-graph/id/star-spangled-banner> <http://www.w3.org/2004/02/skos/core#inScheme> <https://github.com/john1hsu/usa-graph/id/scheme/symbols-and-national-identity> .
+<https://github.com/john1hsu/usa-graph/id/star-spangled-banner> <http://www.w3.org/2004/02/skos/core#prefLabel> "The Star-Spangled Banner" .
+<https://github.com/john1hsu/usa-graph/id/star-spangled-banner> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/american-colonization-society> .
+<https://github.com/john1hsu/usa-graph/id/star-spangled-banner> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/burning-of-washington> .
+<https://github.com/john1hsu/usa-graph/id/star-spangled-banner> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/chesapeake-bay> .
+<https://github.com/john1hsu/usa-graph/id/star-spangled-banner> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/colonial-marines> .
+<https://github.com/john1hsu/usa-graph/id/star-spangled-banner> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/flag-of-the-united-states> .
+<https://github.com/john1hsu/usa-graph/id/star-spangled-banner> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/fort-mchenry> .
+<https://github.com/john1hsu/usa-graph/id/star-spangled-banner> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/herbert-hoover> .
+<https://github.com/john1hsu/usa-graph/id/star-spangled-banner> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/mary-pickersgill> .
+<https://github.com/john1hsu/usa-graph/id/star-spangled-banner> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/maryland> .
+<https://github.com/john1hsu/usa-graph/id/star-spangled-banner> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/music-of-the-united-states> .
+<https://github.com/john1hsu/usa-graph/id/star-spangled-banner> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> .
+<https://github.com/john1hsu/usa-graph/id/star-spangled-banner> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/smithsonian-institution> .
+<https://github.com/john1hsu/usa-graph/id/star-spangled-banner> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/war-of-1812> .
+<https://github.com/john1hsu/usa-graph/id/star-spangled-banner> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/star-spangled-banner/s10> .
+<https://github.com/john1hsu/usa-graph/id/star-spangled-banner> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/star-spangled-banner/s11> .
+<https://github.com/john1hsu/usa-graph/id/star-spangled-banner> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/star-spangled-banner/s12> .
+<https://github.com/john1hsu/usa-graph/id/star-spangled-banner> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/star-spangled-banner/s1> .
+<https://github.com/john1hsu/usa-graph/id/star-spangled-banner> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/star-spangled-banner/s2> .
+<https://github.com/john1hsu/usa-graph/id/star-spangled-banner> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/star-spangled-banner/s3> .
+<https://github.com/john1hsu/usa-graph/id/star-spangled-banner> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/star-spangled-banner/s4> .
+<https://github.com/john1hsu/usa-graph/id/star-spangled-banner> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/star-spangled-banner/s5> .
+<https://github.com/john1hsu/usa-graph/id/star-spangled-banner> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/star-spangled-banner/s6> .
+<https://github.com/john1hsu/usa-graph/id/star-spangled-banner> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/star-spangled-banner/s7> .
+<https://github.com/john1hsu/usa-graph/id/star-spangled-banner> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/star-spangled-banner/s8> .
+<https://github.com/john1hsu/usa-graph/id/star-spangled-banner> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/star-spangled-banner/s9> .
+<https://github.com/john1hsu/usa-graph/id/star-spangled-banner> <https://github.com/john1hsu/usa-graph/ontology#commemorates> <https://github.com/john1hsu/usa-graph/id/battle-of-baltimore> .
+<https://github.com/john1hsu/usa-graph/id/star-spangled-banner> <https://github.com/john1hsu/usa-graph/ontology#domain> "symbols-and-national-identity" .
+<https://github.com/john1hsu/usa-graph/id/star-spangled-banner> <https://github.com/john1hsu/usa-graph/ontology#establishedBy> <https://github.com/john1hsu/usa-graph/id/national-anthem-act-of-1931> .
+<https://github.com/john1hsu/usa-graph/id/star-spangled-banner> <https://github.com/john1hsu/usa-graph/ontology#evidenceStatus> "interpretive" .
+<https://github.com/john1hsu/usa-graph/id/star-spangled-banner> <https://github.com/john1hsu/usa-graph/ontology#file> "articles/symbols-and-national-identity/star-spangled-banner.md" .
+<https://github.com/john1hsu/usa-graph/id/star-spangled-banner> <https://github.com/john1hsu/usa-graph/ontology#influencedBy> <https://github.com/john1hsu/usa-graph/id/to-anacreon-in-heaven> .
+<https://github.com/john1hsu/usa-graph/id/star-spangled-banner> <https://github.com/john1hsu/usa-graph/ontology#introducedBy> <https://github.com/john1hsu/usa-graph/id/francis-scott-key> .
+<https://github.com/john1hsu/usa-graph/id/star-spangled-banner> <https://github.com/john1hsu/usa-graph/ontology#level> "introductory" .
+<https://github.com/john1hsu/usa-graph/id/star-spangled-banner> <https://github.com/john1hsu/usa-graph/ontology#misconception> <https://github.com/john1hsu/usa-graph/id/star-spangled-banner/misconception> .
+<https://github.com/john1hsu/usa-graph/id/star-spangled-banner> <https://github.com/john1hsu/usa-graph/ontology#originatedIn> <https://github.com/john1hsu/usa-graph/id/baltimore> .
+<https://github.com/john1hsu/usa-graph/id/star-spangled-banner> <https://github.com/john1hsu/usa-graph/ontology#requires> <https://github.com/john1hsu/usa-graph/id/war-of-1812> .
+<https://github.com/john1hsu/usa-graph/id/star-spangled-banner> <https://github.com/john1hsu/usa-graph/ontology#symbolizes> <https://github.com/john1hsu/usa-graph/id/united-states> .
+<https://github.com/john1hsu/usa-graph/id/star-spangled-banner> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/star-spangled-banner/timeline/10> .
+<https://github.com/john1hsu/usa-graph/id/star-spangled-banner> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/star-spangled-banner/timeline/11> .
+<https://github.com/john1hsu/usa-graph/id/star-spangled-banner> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/star-spangled-banner/timeline/12> .
+<https://github.com/john1hsu/usa-graph/id/star-spangled-banner> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/star-spangled-banner/timeline/1> .
+<https://github.com/john1hsu/usa-graph/id/star-spangled-banner> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/star-spangled-banner/timeline/2> .
+<https://github.com/john1hsu/usa-graph/id/star-spangled-banner> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/star-spangled-banner/timeline/3> .
+<https://github.com/john1hsu/usa-graph/id/star-spangled-banner> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/star-spangled-banner/timeline/4> .
+<https://github.com/john1hsu/usa-graph/id/star-spangled-banner> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/star-spangled-banner/timeline/5> .
+<https://github.com/john1hsu/usa-graph/id/star-spangled-banner> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/star-spangled-banner/timeline/6> .
+<https://github.com/john1hsu/usa-graph/id/star-spangled-banner> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/star-spangled-banner/timeline/7> .
+<https://github.com/john1hsu/usa-graph/id/star-spangled-banner> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/star-spangled-banner/timeline/8> .
+<https://github.com/john1hsu/usa-graph/id/star-spangled-banner> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/star-spangled-banner/timeline/9> .
+<https://github.com/john1hsu/usa-graph/id/star-spangled-banner> <https://schema.org/startDate> "1814-09-14"^^<http://www.w3.org/2001/XMLSchema#date> .
 <https://github.com/john1hsu/usa-graph/id/starving-time/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Misconception> .
 <https://github.com/john1hsu/usa-graph/id/starving-time/misconception> <https://github.com/john1hsu/usa-graph/ontology#fact> "Colony leaders such as John Smith, Ralph Hamor and William Strachey blamed idleness, but many historians now accept Karen Ordahl Kupperman's argument that malnutrition and disease produced an apathy that looked like laziness, while a severe drought and a Powhatan siege cut the fort off from food." .
 <https://github.com/john1hsu/usa-graph/id/starving-time/misconception> <https://github.com/john1hsu/usa-graph/ontology#myth> "Jamestown's colonists starved because they were lazy gentlemen who would not work." .

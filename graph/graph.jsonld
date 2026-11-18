@@ -33609,6 +33609,174 @@
    "uso:sourceType": "museum"
   },
   {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/star-spangled-banner/s1",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "National Park Service, Star-Spangled Banner National Historic Trail",
+   "dcterms:title": "The Star-Spangled Banner - A Flag and A Song",
+   "schema:url": {
+    "@id": "https://www.nps.gov/stsp/learn/historyculture/the-star-spangled-banner.htm"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/star-spangled-banner/s10",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "WGBH News",
+   "dcterms:title": "Historians Disagree On Whether 'The Star-Spangled Banner' Is Racist",
+   "schema:url": {
+    "@id": "https://www.wgbh.org/news/2016-08-30/historians-disagree-on-whether-the-star-spangled-banner-is-racist"
+   },
+   "uso:sourceType": "news"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/star-spangled-banner/s11",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Smithsonian Magazine",
+   "dcterms:title": "Where's the Debate on Francis Scott Key's Slave-Holding Legacy?",
+   "schema:url": {
+    "@id": "https://www.smithsonianmag.com/smithsonian-institution/wheres-debate-francis-scott-keys-slave-holding-legacy-180959550/?no-ist"
+   },
+   "uso:sourceType": "magazine"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/star-spangled-banner/s12",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "National Park Service",
+   "dcterms:title": "Star-Spangled Banner National Historic Trail map and guide",
+   "schema:url": {
+    "@id": "https://www.nps.gov/stsp/upload/508-StarSpangled-Side1-2.pdf"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/star-spangled-banner/s2",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "National Park Service, Fort McHenry National Monument and Historic Shrine",
+   "dcterms:title": "To Anacreon In Heaven",
+   "schema:url": {
+    "@id": "https://www.nps.gov/fomc/learn/historyculture/to-anacreon-in-heaven.htm"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/star-spangled-banner/s3",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Smithsonian National Museum of American History, The Star-Spangled Banner",
+   "dcterms:title": "The Lyrics",
+   "schema:url": {
+    "@id": "https://amhistory.si.edu/starspangledbanner/the-lyrics.aspx"
+   },
+   "uso:sourceType": "museum"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/star-spangled-banner/s4",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "U.S. Government Publishing Office, govinfo",
+   "dcterms:title": "36 U.S.C. 301: National anthem (2011 edition)",
+   "schema:url": {
+    "@id": "https://www.govinfo.gov/content/pkg/USCODE-2011-title36/html/USCODE-2011-title36-subtitleI-partA-chap3-sec301.htm"
+   },
+   "uso:sourceType": "primary"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/star-spangled-banner/s5",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Herbert Hoover Presidential Library and Museum (National Archives)",
+   "dcterms:title": "Herbert Hoover and \"The Star Spangled Banner\"",
+   "schema:url": {
+    "@id": "https://hoover.blogs.archives.gov/2023/03/02/star-spangled-banner"
+   },
+   "uso:sourceType": "museum"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/star-spangled-banner/s6",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Office of the Historian, U.S. House of Representatives",
+   "dcterms:title": "Historical Highlights: The Star-Spangled Banner becomes the national anthem",
+   "schema:url": {
+    "@id": "https://history.house.gov/HistoricalHighlight/Detail/35621"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/star-spangled-banner/s7",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Mark Clague, Chorus America",
+   "dcterms:title": "Star-Spangled Mythbusting",
+   "schema:url": {
+    "@id": "https://www.chorusamerica.org/singers/star-spangled-mythbusting"
+   },
+   "uso:sourceType": "magazine"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/star-spangled-banner/s8",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Mark Clague, History News Network",
+   "dcterms:title": "Star-Spangled Banner Critics Miss the Point",
+   "schema:url": {
+    "@id": "https://www.historynewsnetwork.org/article/star-spangled-banner-critics-miss-the-point"
+   },
+   "uso:sourceType": "magazine"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/star-spangled-banner/s9",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "National Park Service, Fort McHenry National Monument and Historic Shrine",
+   "dcterms:title": "Francis Scott Key",
+   "schema:url": {
+    "@id": "https://home.nps.gov/fomc/learn/historyculture/francis-scott-key.htm"
+   },
+   "uso:sourceType": "government"
+  },
+  {
    "@id": "https://github.com/john1hsu/usa-graph/id/source/starving-time/s1",
    "@type": "uso:Source",
    "dcterms:date": {
@@ -37401,6 +37569,148 @@
     "@id": "https://www.nps.gov/yell/learn/historyculture/flightnezperce.htm"
    },
    "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/star-spangled-banner/misconception",
+   "@type": "uso:Misconception",
+   "uso:fact": "'To Anacreon in Heaven' was the club song of the Anacreontic Society, a London gentlemen's music society; it was sung in four-part harmony with harpsichord after the society's dinners and concerts. Its words toast wine and the members drank, but musicologist Mark Clague notes it was far too sophisticated for a pub. Key chose the tune himself and had used it for an earlier song.",
+   "uso:myth": "The anthem's tune was an old English drinking song.",
+   "uso:why": "The lyric's convivial toasts invite the label, and in the 1920s opponents of making it the anthem, especially in dry areas during Prohibition, attacked it as a drinking song."
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/star-spangled-banner/review/1",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "Why was Francis Scott Key on a boat near Fort McHenry during the bombardment, rather than in the fort or the city?",
+   "uso:answer": "With President Madison's approval he had sailed under a flag of truce with prisoner-exchange agent John Skinner to win the release of Dr. William Beanes. The British agreed to free Beanes but held all three under guard on their truce boat so they could not warn Baltimore of the coming attack.",
+   "uso:questionFor": {
+    "@id": "us:star-spangled-banner"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/star-spangled-banner/review/2",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "How did the song go from a popular patriotic tune to the legal national anthem?",
+   "uso:answer": "It spread through newspapers within weeks of the battle, became a Union favourite during the Civil War, was adopted by the Navy in 1889 and the armed forces in 1916, and became a ballpark ritual after the 1918 World Series. Representative John Linthicum's bill, backed by a petition of more than five million signatures, passed the House in 1930 and the Senate in 1931, and Hoover signed it on March 3, 1931.",
+   "uso:questionFor": {
+    "@id": "us:star-spangled-banner"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/star-spangled-banner/review/3",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "Why do historians and critics disagree about the third stanza's line about the \"hireling and slave\"?",
+   "uso:answer": "Key never explained it. Some read \"slave\" as the Colonial Marines, formerly enslaved men fighting for the British, and see the line as hostile to their bid for freedom; Mark Clague agrees it refers to them but argues it condemns the enemy rather than celebrating slavery; others read the phrase as stock language for the whole British force.",
+   "uso:questionFor": {
+    "@id": "us:star-spangled-banner"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/star-spangled-banner/timeline/1",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The Royal Navy begins bombarding Fort McHenry; Francis Scott Key watches from an American truce boat held under British guard.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1814-09-13"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/star-spangled-banner/timeline/10",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The Senate passes the bill and President Herbert Hoover signs it into law.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1931-03-03"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/star-spangled-banner/timeline/11",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "A federal act sets out how people should stand and salute while the anthem is played.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1942-06-22"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/star-spangled-banner/timeline/12",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Congress lets veterans and service members out of uniform give the military salute during the anthem.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "2008-10-14"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/star-spangled-banner/timeline/2",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "At dawn the British break off the attack; Key, released hours later, completes his verses in Baltimore.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1814-09-14"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/star-spangled-banner/timeline/3",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Printed copies of the verses, headed 'Defence of Fort M'Henry', are handed out at the fort and in Baltimore.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1814-09-17"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/star-spangled-banner/timeline/4",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The song is first performed on stage, at Baltimore's Holliday Street Theatre.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1814-10-19"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/star-spangled-banner/timeline/5",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The U.S. Navy adopts the song for flag ceremonies.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1889"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/star-spangled-banner/timeline/6",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "President Woodrow Wilson names it the anthem of the armed forces; Congress does not act.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1916"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/star-spangled-banner/timeline/7",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "A Navy band plays it at Game 1 of the World Series, starting a ballpark tradition.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1918"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/star-spangled-banner/timeline/8",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Representative John Linthicum of Maryland introduces H.R. 14 to make it the national anthem.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1929-04-15"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/star-spangled-banner/timeline/9",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The House of Representatives passes H.R. 14.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1930-04-21"
+   }
   },
   {
    "@id": "https://github.com/john1hsu/usa-graph/id/starving-time/misconception",
@@ -61237,6 +61547,178 @@
     },
     {
      "@id": "https://github.com/john1hsu/usa-graph/id/sojourner-truth/timeline/9"
+    }
+   ]
+  },
+  {
+   "@id": "us:star-spangled-banner",
+   "@type": "uso:Symbol",
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/star-spangled-banner/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/star-spangled-banner/s10"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/star-spangled-banner/s11"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/star-spangled-banner/s12"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/star-spangled-banner/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/star-spangled-banner/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/star-spangled-banner/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/star-spangled-banner/s5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/star-spangled-banner/s6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/star-spangled-banner/s7"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/star-spangled-banner/s8"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/star-spangled-banner/s9"
+    }
+   ],
+   "rdfs:label": "The Star-Spangled Banner",
+   "schema:startDate": {
+    "@type": "xsd:date",
+    "@value": "1814-09-14"
+   },
+   "skos:altLabel": [
+    "Defence of Fort M'Henry",
+    "National anthem of the United States",
+    "Star-Spangled Banner",
+    "U.S. national anthem"
+   ],
+   "skos:broader": {
+    "@id": "us:national-symbols-of-the-united-states"
+   },
+   "skos:definition": "The national anthem of the United States: Francis Scott Key's 1814 song about the flag that flew over Fort McHenry after a British bombardment of Baltimore, set to the tune of a London club song and designated the anthem by Congress on March 3, 1931.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/usa-graph/id/scheme/symbols-and-national-identity"
+   },
+   "skos:prefLabel": "The Star-Spangled Banner",
+   "skos:related": [
+    {
+     "@id": "us:american-colonization-society"
+    },
+    {
+     "@id": "us:burning-of-washington"
+    },
+    {
+     "@id": "us:chesapeake-bay"
+    },
+    {
+     "@id": "us:colonial-marines"
+    },
+    {
+     "@id": "us:flag-of-the-united-states"
+    },
+    {
+     "@id": "us:fort-mchenry"
+    },
+    {
+     "@id": "us:herbert-hoover"
+    },
+    {
+     "@id": "us:mary-pickersgill"
+    },
+    {
+     "@id": "us:maryland"
+    },
+    {
+     "@id": "us:music-of-the-united-states"
+    },
+    {
+     "@id": "us:slavery-in-the-united-states"
+    },
+    {
+     "@id": "us:smithsonian-institution"
+    },
+    {
+     "@id": "us:war-of-1812"
+    }
+   ],
+   "uso:commemorates": {
+    "@id": "us:battle-of-baltimore"
+   },
+   "uso:domain": "symbols-and-national-identity",
+   "uso:establishedBy": {
+    "@id": "us:national-anthem-act-of-1931"
+   },
+   "uso:evidenceStatus": "interpretive",
+   "uso:file": "articles/symbols-and-national-identity/star-spangled-banner.md",
+   "uso:influencedBy": {
+    "@id": "us:to-anacreon-in-heaven"
+   },
+   "uso:introducedBy": {
+    "@id": "us:francis-scott-key"
+   },
+   "uso:level": "introductory",
+   "uso:misconception": {
+    "@id": "https://github.com/john1hsu/usa-graph/id/star-spangled-banner/misconception"
+   },
+   "uso:originatedIn": {
+    "@id": "us:baltimore"
+   },
+   "uso:requires": {
+    "@id": "us:war-of-1812"
+   },
+   "uso:symbolizes": {
+    "@id": "us:united-states"
+   },
+   "uso:timelineEntry": [
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/star-spangled-banner/timeline/1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/star-spangled-banner/timeline/10"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/star-spangled-banner/timeline/11"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/star-spangled-banner/timeline/12"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/star-spangled-banner/timeline/2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/star-spangled-banner/timeline/3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/star-spangled-banner/timeline/4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/star-spangled-banner/timeline/5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/star-spangled-banner/timeline/6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/star-spangled-banner/timeline/7"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/star-spangled-banner/timeline/8"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/star-spangled-banner/timeline/9"
     }
    ]
   },

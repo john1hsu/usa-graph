@@ -22508,6 +22508,206 @@
   ]
  },
  {
+  "id": "us:star-spangled-banner",
+  "title": "The Star-Spangled Banner",
+  "aliases": [
+   "Star-Spangled Banner",
+   "U.S. national anthem",
+   "National anthem of the United States",
+   "Defence of Fort M'Henry"
+  ],
+  "type": "Symbol",
+  "domain": "symbols-and-national-identity",
+  "level": "introductory",
+  "evidenceStatus": "interpretive",
+  "file": "articles/symbols-and-national-identity/star-spangled-banner.md",
+  "created": "2026-11-18",
+  "summary": "The national anthem of the United States: Francis Scott Key's 1814 song about the flag that flew over Fort McHenry after a British bombardment of Baltimore, set to the tune of a London club song and designated the anthem by Congress on March 3, 1931.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "us:national-symbols-of-the-united-states"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:war-of-1812"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:fort-mchenry"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:flag-of-the-united-states"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:mary-pickersgill"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:colonial-marines"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:herbert-hoover"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:american-colonization-society"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:slavery-in-the-united-states"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:chesapeake-bay"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:burning-of-washington"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:maryland"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:music-of-the-united-states"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:smithsonian-institution"
+   },
+   {
+    "predicate": "uso:requires",
+    "object": "us:war-of-1812"
+   },
+   {
+    "predicate": "uso:symbolizes",
+    "object": "us:united-states",
+    "source": "s4",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:establishedBy",
+    "object": "us:national-anthem-act-of-1931",
+    "source": "s4",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:introducedBy",
+    "object": "us:francis-scott-key",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:influencedBy",
+    "object": "us:to-anacreon-in-heaven",
+    "source": "s2",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:originatedIn",
+    "object": "us:baltimore",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:commemorates",
+    "object": "us:battle-of-baltimore",
+    "source": "s1",
+    "confidence": "high"
+   }
+  ],
+  "start": "1814-09-14",
+  "end": null,
+  "review": [
+   {
+    "question": "Why was Francis Scott Key on a boat near Fort McHenry during the bombardment, rather than in the fort or the city?",
+    "answer": "With President Madison's approval he had sailed under a flag of truce with prisoner-exchange agent John Skinner to win the release of Dr. William Beanes. The British agreed to free Beanes but held all three under guard on their truce boat so they could not warn Baltimore of the coming attack."
+   },
+   {
+    "question": "How did the song go from a popular patriotic tune to the legal national anthem?",
+    "answer": "It spread through newspapers within weeks of the battle, became a Union favourite during the Civil War, was adopted by the Navy in 1889 and the armed forces in 1916, and became a ballpark ritual after the 1918 World Series. Representative John Linthicum's bill, backed by a petition of more than five million signatures, passed the House in 1930 and the Senate in 1931, and Hoover signed it on March 3, 1931."
+   },
+   {
+    "question": "Why do historians and critics disagree about the third stanza's line about the \"hireling and slave\"?",
+    "answer": "Key never explained it. Some read \"slave\" as the Colonial Marines, formerly enslaved men fighting for the British, and see the line as hostile to their bid for freedom; Mark Clague agrees it refers to them but argues it condemns the enemy rather than celebrating slavery; others read the phrase as stock language for the whole British force."
+   }
+  ],
+  "timeline": [
+   {
+    "date": "1814-09-13",
+    "event": "The Royal Navy begins bombarding Fort McHenry; Francis Scott Key watches from an American truce boat held under British guard."
+   },
+   {
+    "date": "1814-09-14",
+    "event": "At dawn the British break off the attack; Key, released hours later, completes his verses in Baltimore."
+   },
+   {
+    "date": "1814-09-17",
+    "event": "Printed copies of the verses, headed 'Defence of Fort M'Henry', are handed out at the fort and in Baltimore."
+   },
+   {
+    "date": "1814-10-19",
+    "event": "The song is first performed on stage, at Baltimore's Holliday Street Theatre."
+   },
+   {
+    "date": "1889",
+    "event": "The U.S. Navy adopts the song for flag ceremonies."
+   },
+   {
+    "date": "1916",
+    "event": "President Woodrow Wilson names it the anthem of the armed forces; Congress does not act."
+   },
+   {
+    "date": "1918",
+    "event": "A Navy band plays it at Game 1 of the World Series, starting a ballpark tradition."
+   },
+   {
+    "date": "1929-04-15",
+    "event": "Representative John Linthicum of Maryland introduces H.R. 14 to make it the national anthem."
+   },
+   {
+    "date": "1930-04-21",
+    "event": "The House of Representatives passes H.R. 14."
+   },
+   {
+    "date": "1931-03-03",
+    "event": "The Senate passes the bill and President Herbert Hoover signs it into law."
+   },
+   {
+    "date": "1942-06-22",
+    "event": "A federal act sets out how people should stand and salute while the anthem is played."
+   },
+   {
+    "date": "2008-10-14",
+    "event": "Congress lets veterans and service members out of uniform give the military salute during the anthem."
+   }
+  ],
+  "misconception": {
+   "myth": "The anthem's tune was an old English drinking song.",
+   "fact": "'To Anacreon in Heaven' was the club song of the Anacreontic Society, a London gentlemen's music society; it was sung in four-part harmony with harpsichord after the society's dinners and concerts. Its words toast wine and the members drank, but musicologist Mark Clague notes it was far too sophisticated for a pub. Key chose the tune himself and had used it for an earlier song.",
+   "why": "The lyric's convivial toasts invite the label, and in the 1920s opponents of making it the anthem, especially in dry areas during Prohibition, attacked it as a drinking song."
+  },
+  "source_urls": [
+   "https://www.nps.gov/stsp/learn/historyculture/the-star-spangled-banner.htm",
+   "https://www.nps.gov/fomc/learn/historyculture/to-anacreon-in-heaven.htm",
+   "https://amhistory.si.edu/starspangledbanner/the-lyrics.aspx",
+   "https://www.govinfo.gov/content/pkg/USCODE-2011-title36/html/USCODE-2011-title36-subtitleI-partA-chap3-sec301.htm",
+   "https://hoover.blogs.archives.gov/2023/03/02/star-spangled-banner",
+   "https://history.house.gov/HistoricalHighlight/Detail/35621",
+   "https://www.chorusamerica.org/singers/star-spangled-mythbusting",
+   "https://www.historynewsnetwork.org/article/star-spangled-banner-critics-miss-the-point",
+   "https://home.nps.gov/fomc/learn/historyculture/francis-scott-key.htm",
+   "https://www.wgbh.org/news/2016-08-30/historians-disagree-on-whether-the-star-spangled-banner-is-racist",
+   "https://www.smithsonianmag.com/smithsonian-institution/wheres-debate-francis-scott-keys-slave-holding-legacy-180959550/?no-ist",
+   "https://www.nps.gov/stsp/upload/508-StarSpangled-Side1-2.pdf"
+  ]
+ },
+ {
   "id": "us:starving-time",
   "title": "Starving Time of 1609–1610",
   "aliases": [
