@@ -11409,6 +11409,229 @@
   ]
  },
  {
+  "id": "us:great-recession",
+  "title": "Great Recession",
+  "aliases": [
+   "Recession of 2007–2009",
+   "2007–2009 recession"
+  ],
+  "type": "Event",
+  "domain": "contemporary-america",
+  "level": "introductory",
+  "evidenceStatus": "interpretive",
+  "file": "articles/contemporary-america/great-recession.md",
+  "created": "2026-11-18",
+  "summary": "The U.S. economic downturn from December 2007 to June 2009, set off by a housing collapse and a financial crisis, which was the longest and deepest recession since World War II and led to the bank rescue of 2008, the 2009 stimulus law and the Dodd-Frank financial reforms of 2010.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "us:economic-history-of-the-united-states"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:great-depression"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:federal-reserve-system"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:george-w-bush"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:barack-obama"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:troubled-asset-relief-program"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:fannie-mae-and-freddie-mac"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:lehman-brothers"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:consumer-financial-protection-bureau"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:united-states-congress"
+   },
+   {
+    "predicate": "uso:requires",
+    "object": "us:federal-reserve-system"
+   },
+   {
+    "predicate": "uso:occurredIn",
+    "object": "us:united-states",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:occurredDuring",
+    "object": "us:post-cold-war-united-states",
+    "source": "s5",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "uso:ledTo",
+    "object": "us:emergency-economic-stabilization-act-of-2008",
+    "source": "s6",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:ledTo",
+    "object": "us:american-recovery-and-reinvestment-act-of-2009",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:ledTo",
+    "object": "us:dodd-frank-act",
+    "source": "s2",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:ledTo",
+    "object": "us:financial-crisis-inquiry-commission",
+    "source": "s10",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:affected",
+    "object": "us:african-americans",
+    "source": "s13",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:affected",
+    "object": "us:hispanic-and-latino-americans",
+    "source": "s13",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:contrastsWith",
+    "object": "us:great-depression",
+    "source": "s10",
+    "confidence": "medium"
+   }
+  ],
+  "start": "2007-12",
+  "end": "2009-06",
+  "review": [
+   {
+    "question": "How did falling house prices turn into a nationwide recession?",
+    "answer": "Riskier mortgages had been pooled into securities held across the financial system, so when prices fell from 2006–07 mortgage losses spread to banks and funding markets, leading to the failures and rescues of 2008; at the same time falling home values and stock prices cut household wealth sharply, and employment fell 5 percent."
+   },
+   {
+    "question": "Why did the Great Recession widen the wealth gap between white households and Black and Hispanic households?",
+    "answer": "Home equity made up a larger share of Black and Hispanic wealth, and many Hispanic families lived in states where house prices fell most, so the housing collapse cut their median wealth by 53 and 66 percent from 2005 to 2009, compared with 16 percent for white households (Pew, 2011)."
+   },
+   {
+    "question": "How did the majority of the Financial Crisis Inquiry Commission and its dissenters disagree about the causes of the crisis?",
+    "answer": "The majority blamed failures of regulation, corporate governance and risk management and called the crisis avoidable; Hennessey, Holtz-Eakin and Thomas stressed a global credit and housing bubble with several interacting causes; Wallison blamed federal housing policy and the affordable-housing goals of Fannie Mae and Freddie Mac."
+   }
+  ],
+  "timeline": [
+   {
+    "date": "2006",
+    "event": "The housing boom peaks and residential construction begins to fall; home prices peak early the next year."
+   },
+   {
+    "date": "2007-08",
+    "event": "Strains appear in the market for asset-backed commercial paper as mortgage losses mount."
+   },
+   {
+    "date": "2007-12",
+    "event": "The recession begins, according to the National Bureau of Economic Research."
+   },
+   {
+    "date": "2008-03-24",
+    "event": "The Federal Reserve Bank of New York announces financing for JPMorgan Chase's acquisition of Bear Stearns."
+   },
+   {
+    "date": "2008-09-07",
+    "event": "The Federal Housing Finance Agency places Fannie Mae and Freddie Mac in government conservatorship."
+   },
+   {
+    "date": "2008-09-15",
+    "event": "Lehman Brothers files for bankruptcy."
+   },
+   {
+    "date": "2008-09-16",
+    "event": "The New York Fed agrees to lend up to $85 billion to the insurer AIG."
+   },
+   {
+    "date": "2008-09-29",
+    "event": "The House rejects the first version of the bank rescue bill, 205–228."
+   },
+   {
+    "date": "2008-10-03",
+    "event": "President George W. Bush signs the Emergency Economic Stabilization Act, creating the Troubled Asset Relief Program."
+   },
+   {
+    "date": "2008-12",
+    "event": "The Federal Reserve cuts its federal funds rate target to a range of 0 to 0.25 percent."
+   },
+   {
+    "date": "2009-02-17",
+    "event": "President Barack Obama signs the American Recovery and Reinvestment Act."
+   },
+   {
+    "date": "2009-05-07",
+    "event": "Regulators publish the results of the first bank stress tests."
+   },
+   {
+    "date": "2009-06",
+    "event": "The recession ends, after 18 months."
+   },
+   {
+    "date": "2009-10",
+    "event": "Unemployment peaks at 10.0 percent."
+   },
+   {
+    "date": "2010-07-21",
+    "event": "The Dodd-Frank Wall Street Reform and Consumer Protection Act is signed into law."
+   },
+   {
+    "date": "2010-09-20",
+    "event": "The NBER announces that the recession ended in June 2009."
+   },
+   {
+    "date": "2011",
+    "event": "The Financial Crisis Inquiry Commission issues its final report, with two dissents."
+   }
+  ],
+  "misconception": {
+   "myth": "When the recession officially ended in June 2009, the hard times were over.",
+   "fact": "The end date marks only the low point of activity. Unemployment kept rising until October 2009, when it peaked at 10 percent, and the NBER said its dating did not mean conditions afterward were favorable.",
+   "why": "Confusing a recession's official end with recovery hides why many families felt the downturn for years, through slow job growth, high long-term unemployment and lost home equity."
+  },
+  "source_urls": [
+   "https://www.federalreservehistory.org/essays/great-recession-of-200709",
+   "https://www.federalreservehistory.org/essays/great-recession-and-its-aftermath",
+   "https://www.bls.gov/spotlight/2012/recession/pdf/recession_bls_spotlight.pdf",
+   "https://www.nber.org/cycles/sept2010.html",
+   "https://www.americanyawp.com/commentpress/30-the-recent-past/",
+   "https://www.everycrsreport.com/reports/RL34730.html",
+   "https://www.everycrsreport.com/files/20090420_R40537_0845d60f1482e8043ff0c3b793db576775302cb8.html",
+   "https://www.everycrsreport.com/files/20170421_R41350_b02ef75e360993cc7faf780d298b90f9d7a6c434.html",
+   "https://fcic.law.stanford.edu/report/conclusions",
+   "https://www.govinfo.gov/features/financial-crisis-inquiry-report",
+   "https://financialservices.house.gov/uploadedfiles/021611holtzeakin.pdf",
+   "https://financialservices.house.gov/media/pdf/021611wallison.pdf",
+   "https://www.pewresearch.org/social-trends/2011/07/26/wealth-gaps-rise-to-record-highs-between-whites-blacks-hispanics/",
+   "https://www.federalreserve.gov/Pubs/Bulletin/2012/articles/scf/scf.htm",
+   "https://minneapolisfed.org/article/2012/postcrisis-use-of-financial-market-data-in-bank-supervision-timeline"
+  ]
+ },
+ {
   "id": "us:great-seal-of-the-united-states",
   "title": "Great Seal of the United States",
   "aliases": [

@@ -592,6 +592,21 @@ Every review question (with its answer) and every myth-versus-fact in the graph,
 - **Q:** Why did Congress reorganize FEMA in 2006?
   **A:** The response to Hurricane Katrina in August 2005 exposed gaps in federal emergency management, so the Post-Katrina Emergency Management Reform Act gave FEMA substantial new authority and a stronger preparedness mission within the department.
 
+### [Great Recession](../articles/contemporary-america/great-recession.md) — Event
+
+| Myth | Fact |
+|---|---|
+| When the recession officially ended in June 2009, the hard times were over. | The end date marks only the low point of activity. Unemployment kept rising until October 2009, when it peaked at 10 percent, and the NBER said its dating did not mean conditions afterward were favorable. |
+
+**Why it matters:** Confusing a recession's official end with recovery hides why many families felt the downturn for years, through slow job growth, high long-term unemployment and lost home equity.
+
+- **Q:** How did falling house prices turn into a nationwide recession?
+  **A:** Riskier mortgages had been pooled into securities held across the financial system, so when prices fell from 2006–07 mortgage losses spread to banks and funding markets, leading to the failures and rescues of 2008; at the same time falling home values and stock prices cut household wealth sharply, and employment fell 5 percent.
+- **Q:** Why did the Great Recession widen the wealth gap between white households and Black and Hispanic households?
+  **A:** Home equity made up a larger share of Black and Hispanic wealth, and many Hispanic families lived in states where house prices fell most, so the housing collapse cut their median wealth by 53 and 66 percent from 2005 to 2009, compared with 16 percent for white households (Pew, 2011).
+- **Q:** How did the majority of the Financial Crisis Inquiry Commission and its dissenters disagree about the causes of the crisis?
+  **A:** The majority blamed failures of regulation, corporate governance and risk management and called the crisis avoidable; Hennessey, Holtz-Eakin and Thomas stressed a global credit and housing bubble with several interacting causes; Wallison blamed federal housing policy and the affordable-housing goals of Fannie Mae and Freddie Mac.
+
 ### [Obergefell v. Hodges](../articles/contemporary-america/obergefell-v-hodges.md) — CourtCase
 
 | Myth | Fact |

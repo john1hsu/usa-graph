@@ -9148,6 +9148,193 @@
    }
   },
   {
+   "@id": "https://github.com/john1hsu/usa-graph/id/great-recession/misconception",
+   "@type": "uso:Misconception",
+   "uso:fact": "The end date marks only the low point of activity. Unemployment kept rising until October 2009, when it peaked at 10 percent, and the NBER said its dating did not mean conditions afterward were favorable.",
+   "uso:myth": "When the recession officially ended in June 2009, the hard times were over.",
+   "uso:why": "Confusing a recession's official end with recovery hides why many families felt the downturn for years, through slow job growth, high long-term unemployment and lost home equity."
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/great-recession/review/1",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "How did falling house prices turn into a nationwide recession?",
+   "uso:answer": "Riskier mortgages had been pooled into securities held across the financial system, so when prices fell from 2006–07 mortgage losses spread to banks and funding markets, leading to the failures and rescues of 2008; at the same time falling home values and stock prices cut household wealth sharply, and employment fell 5 percent.",
+   "uso:questionFor": {
+    "@id": "us:great-recession"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/great-recession/review/2",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "Why did the Great Recession widen the wealth gap between white households and Black and Hispanic households?",
+   "uso:answer": "Home equity made up a larger share of Black and Hispanic wealth, and many Hispanic families lived in states where house prices fell most, so the housing collapse cut their median wealth by 53 and 66 percent from 2005 to 2009, compared with 16 percent for white households (Pew, 2011).",
+   "uso:questionFor": {
+    "@id": "us:great-recession"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/great-recession/review/3",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "How did the majority of the Financial Crisis Inquiry Commission and its dissenters disagree about the causes of the crisis?",
+   "uso:answer": "The majority blamed failures of regulation, corporate governance and risk management and called the crisis avoidable; Hennessey, Holtz-Eakin and Thomas stressed a global credit and housing bubble with several interacting causes; Wallison blamed federal housing policy and the affordable-housing goals of Fannie Mae and Freddie Mac.",
+   "uso:questionFor": {
+    "@id": "us:great-recession"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/great-recession/timeline/1",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The housing boom peaks and residential construction begins to fall; home prices peak early the next year.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "2006"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/great-recession/timeline/10",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The Federal Reserve cuts its federal funds rate target to a range of 0 to 0.25 percent.",
+   "uso:date": {
+    "@type": "xsd:gYearMonth",
+    "@value": "2008-12"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/great-recession/timeline/11",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "President Barack Obama signs the American Recovery and Reinvestment Act.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "2009-02-17"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/great-recession/timeline/12",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Regulators publish the results of the first bank stress tests.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "2009-05-07"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/great-recession/timeline/13",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The recession ends, after 18 months.",
+   "uso:date": {
+    "@type": "xsd:gYearMonth",
+    "@value": "2009-06"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/great-recession/timeline/14",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Unemployment peaks at 10.0 percent.",
+   "uso:date": {
+    "@type": "xsd:gYearMonth",
+    "@value": "2009-10"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/great-recession/timeline/15",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The Dodd-Frank Wall Street Reform and Consumer Protection Act is signed into law.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "2010-07-21"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/great-recession/timeline/16",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The NBER announces that the recession ended in June 2009.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "2010-09-20"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/great-recession/timeline/17",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The Financial Crisis Inquiry Commission issues its final report, with two dissents.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "2011"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/great-recession/timeline/2",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Strains appear in the market for asset-backed commercial paper as mortgage losses mount.",
+   "uso:date": {
+    "@type": "xsd:gYearMonth",
+    "@value": "2007-08"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/great-recession/timeline/3",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The recession begins, according to the National Bureau of Economic Research.",
+   "uso:date": {
+    "@type": "xsd:gYearMonth",
+    "@value": "2007-12"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/great-recession/timeline/4",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The Federal Reserve Bank of New York announces financing for JPMorgan Chase's acquisition of Bear Stearns.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "2008-03-24"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/great-recession/timeline/5",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The Federal Housing Finance Agency places Fannie Mae and Freddie Mac in government conservatorship.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "2008-09-07"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/great-recession/timeline/6",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Lehman Brothers files for bankruptcy.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "2008-09-15"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/great-recession/timeline/7",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The New York Fed agrees to lend up to $85 billion to the insurer AIG.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "2008-09-16"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/great-recession/timeline/8",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The House rejects the first version of the bank rescue bill, 205–228.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "2008-09-29"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/great-recession/timeline/9",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "President George W. Bush signs the Emergency Economic Stabilization Act, creating the Troubled Asset Relief Program.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "2008-10-03"
+   }
+  },
+  {
    "@id": "https://github.com/john1hsu/usa-graph/id/great-seal-of-the-united-states/misconception",
    "@type": "uso:Misconception",
    "uso:fact": "The Eye of Providence came from artist Pierre Eugène Du Simitière's 1776 design for the first seal committee, the pyramid from William Barton's 1782 reverse, and Charles Thomson finished both; Franklin is the only known Freemason involved at any stage, and the eye-over-pyramid has never been adopted as a symbol by any grand lodge.",
@@ -26355,6 +26542,216 @@
     "@id": "https://www.heinzhistorycenter.org/?p=1110"
    },
    "uso:sourceType": "museum"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/great-recession/s1",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Robert Rich, Federal Reserve History (Federal Reserve System)",
+   "dcterms:title": "The Great Recession",
+   "schema:url": {
+    "@id": "https://www.federalreservehistory.org/essays/great-recession-of-200709"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/great-recession/s10",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "U.S. Government Publishing Office, GovInfo",
+   "dcterms:title": "The Financial Crisis Inquiry Report",
+   "schema:url": {
+    "@id": "https://www.govinfo.gov/features/financial-crisis-inquiry-report"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/great-recession/s11",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "U.S. House Committee on Financial Services",
+   "dcterms:title": "Testimony of Douglas Holtz-Eakin, Commissioner, Financial Crisis Inquiry Commission (February 16, 2011)",
+   "schema:url": {
+    "@id": "https://financialservices.house.gov/uploadedfiles/021611holtzeakin.pdf"
+   },
+   "uso:sourceType": "primary"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/great-recession/s12",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "U.S. House Committee on Financial Services",
+   "dcterms:title": "Testimony of Peter J. Wallison before the House Financial Services Committee (February 16, 2011)",
+   "schema:url": {
+    "@id": "https://financialservices.house.gov/media/pdf/021611wallison.pdf"
+   },
+   "uso:sourceType": "primary"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/great-recession/s13",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Rakesh Kochhar, Richard Fry and Paul Taylor, Pew Research Center (July 26, 2011)",
+   "dcterms:title": "Wealth Gaps Rise to Record Highs Between Whites, Blacks, Hispanics",
+   "schema:url": {
+    "@id": "https://www.pewresearch.org/social-trends/2011/07/26/wealth-gaps-rise-to-record-highs-between-whites-blacks-hispanics/"
+   },
+   "uso:sourceType": "institutional"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/great-recession/s14",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Jesse Bricker, Arthur B. Kennickell, Kevin B. Moore and John Sabelhaus, Federal Reserve Bulletin (2012)",
+   "dcterms:title": "Changes in U.S. Family Finances from 2007 to 2010: Evidence from the Survey of Consumer Finances",
+   "schema:url": {
+    "@id": "https://www.federalreserve.gov/Pubs/Bulletin/2012/articles/scf/scf.htm"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/great-recession/s15",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Federal Reserve Bank of Minneapolis (October 25, 2012)",
+   "dcterms:title": "Post-Crisis Use of Financial Market Data in Bank Supervision: Timeline",
+   "schema:url": {
+    "@id": "https://minneapolisfed.org/article/2012/postcrisis-use-of-financial-market-data-in-bank-supervision-timeline"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/great-recession/s2",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "John Weinberg, Federal Reserve History (Federal Reserve System)",
+   "dcterms:title": "The Great Recession and Its Aftermath",
+   "schema:url": {
+    "@id": "https://www.federalreservehistory.org/essays/great-recession-and-its-aftermath"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/great-recession/s3",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "U.S. Bureau of Labor Statistics, Spotlight on Statistics (February 2012)",
+   "dcterms:title": "The Recession of 2007–2009",
+   "schema:url": {
+    "@id": "https://www.bls.gov/spotlight/2012/recession/pdf/recession_bls_spotlight.pdf"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/great-recession/s4",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "National Bureau of Economic Research",
+   "dcterms:title": "Business Cycle Dating Committee Announcement, September 20, 2010",
+   "schema:url": {
+    "@id": "https://www.nber.org/cycles/sept2010.html"
+   },
+   "uso:sourceType": "academic"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/great-recession/s5",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Eladio Bobadilla et al., ed. Michael Hammond, The American Yawp, ed. Joseph Locke and Ben Wright (Stanford University Press)",
+   "dcterms:title": "30. The Recent Past",
+   "schema:url": {
+    "@id": "https://www.americanyawp.com/commentpress/30-the-recent-past/"
+   },
+   "uso:sourceType": "textbook"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/great-recession/s6",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Congressional Research Service (via EveryCRSReport)",
+   "dcterms:title": "The Emergency Economic Stabilization Act and Recent Financial Turmoil: Issues and Analysis (RL34730)",
+   "schema:url": {
+    "@id": "https://www.everycrsreport.com/reports/RL34730.html"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/great-recession/s7",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Congressional Research Service (via EveryCRSReport)",
+   "dcterms:title": "American Recovery and Reinvestment Act of 2009 (P.L. 111-5): Summary and Legislative History (R40537)",
+   "schema:url": {
+    "@id": "https://www.everycrsreport.com/files/20090420_R40537_0845d60f1482e8043ff0c3b793db576775302cb8.html"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/great-recession/s8",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Congressional Research Service (via EveryCRSReport)",
+   "dcterms:title": "The Dodd-Frank Wall Street Reform and Consumer Protection Act: Background and Summary (R41350)",
+   "schema:url": {
+    "@id": "https://www.everycrsreport.com/files/20170421_R41350_b02ef75e360993cc7faf780d298b90f9d7a6c434.html"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/great-recession/s9",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Financial Crisis Inquiry Commission (official site archived by Stanford Law School)",
+   "dcterms:title": "Conclusions of the Financial Crisis Inquiry Commission",
+   "schema:url": {
+    "@id": "https://fcic.law.stanford.edu/report/conclusions"
+   },
+   "uso:sourceType": "primary"
   },
   {
    "@id": "https://github.com/john1hsu/usa-graph/id/source/great-seal-of-the-united-states/s1",
@@ -52115,6 +52512,205 @@
     },
     {
      "@id": "https://github.com/john1hsu/usa-graph/id/great-railroad-strike-of-1877/timeline/9"
+    }
+   ]
+  },
+  {
+   "@id": "us:great-recession",
+   "@type": "uso:Event",
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/great-recession/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/great-recession/s10"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/great-recession/s11"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/great-recession/s12"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/great-recession/s13"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/great-recession/s14"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/great-recession/s15"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/great-recession/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/great-recession/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/great-recession/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/great-recession/s5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/great-recession/s6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/great-recession/s7"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/great-recession/s8"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/great-recession/s9"
+    }
+   ],
+   "rdfs:label": "Great Recession",
+   "schema:endDate": {
+    "@type": "xsd:gYearMonth",
+    "@value": "2009-06"
+   },
+   "schema:startDate": {
+    "@type": "xsd:gYearMonth",
+    "@value": "2007-12"
+   },
+   "skos:altLabel": [
+    "2007–2009 recession",
+    "Recession of 2007–2009"
+   ],
+   "skos:broader": {
+    "@id": "us:economic-history-of-the-united-states"
+   },
+   "skos:definition": "The U.S. economic downturn from December 2007 to June 2009, set off by a housing collapse and a financial crisis, which was the longest and deepest recession since World War II and led to the bank rescue of 2008, the 2009 stimulus law and the Dodd-Frank financial reforms of 2010.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/usa-graph/id/scheme/contemporary-america"
+   },
+   "skos:prefLabel": "Great Recession",
+   "skos:related": [
+    {
+     "@id": "us:barack-obama"
+    },
+    {
+     "@id": "us:consumer-financial-protection-bureau"
+    },
+    {
+     "@id": "us:fannie-mae-and-freddie-mac"
+    },
+    {
+     "@id": "us:federal-reserve-system"
+    },
+    {
+     "@id": "us:george-w-bush"
+    },
+    {
+     "@id": "us:great-depression"
+    },
+    {
+     "@id": "us:lehman-brothers"
+    },
+    {
+     "@id": "us:troubled-asset-relief-program"
+    },
+    {
+     "@id": "us:united-states-congress"
+    }
+   ],
+   "uso:affected": [
+    {
+     "@id": "us:african-americans"
+    },
+    {
+     "@id": "us:hispanic-and-latino-americans"
+    }
+   ],
+   "uso:contrastsWith": {
+    "@id": "us:great-depression"
+   },
+   "uso:domain": "contemporary-america",
+   "uso:evidenceStatus": "interpretive",
+   "uso:file": "articles/contemporary-america/great-recession.md",
+   "uso:ledTo": [
+    {
+     "@id": "us:american-recovery-and-reinvestment-act-of-2009"
+    },
+    {
+     "@id": "us:dodd-frank-act"
+    },
+    {
+     "@id": "us:emergency-economic-stabilization-act-of-2008"
+    },
+    {
+     "@id": "us:financial-crisis-inquiry-commission"
+    }
+   ],
+   "uso:level": "introductory",
+   "uso:misconception": {
+    "@id": "https://github.com/john1hsu/usa-graph/id/great-recession/misconception"
+   },
+   "uso:occurredDuring": {
+    "@id": "us:post-cold-war-united-states"
+   },
+   "uso:occurredIn": {
+    "@id": "us:united-states"
+   },
+   "uso:requires": {
+    "@id": "us:federal-reserve-system"
+   },
+   "uso:timelineEntry": [
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/great-recession/timeline/1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/great-recession/timeline/10"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/great-recession/timeline/11"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/great-recession/timeline/12"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/great-recession/timeline/13"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/great-recession/timeline/14"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/great-recession/timeline/15"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/great-recession/timeline/16"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/great-recession/timeline/17"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/great-recession/timeline/2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/great-recession/timeline/3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/great-recession/timeline/4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/great-recession/timeline/5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/great-recession/timeline/6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/great-recession/timeline/7"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/great-recession/timeline/8"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/great-recession/timeline/9"
     }
    ]
   },

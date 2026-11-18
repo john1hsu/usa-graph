@@ -1898,13 +1898,28 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 2006 | Congress establishes the Captain John Smith Chesapeake National Historic Trail. — [Chesapeake Bay](../articles/geography-and-environment/chesapeake-bay.md) |
 | 2006 | Congress renews preclearance for 25 years, by votes of 390 to 33 in the House and 98 to 0 in the Senate, without changing the formula. — [Shelby County v. Holder](../articles/democracy-and-elections/shelby-county-v-holder.md) |
 | 2006 | Congress renews the special provisions for 25 more years in the Fannie Lou Hamer, Rosa Parks, Coretta Scott King, Cesar E. Chavez, Barbara Jordan, William Velazquez and Dr. Hector Garcia reauthorization act. — [Voting Rights Act of 1965](../articles/democracy-and-elections/voting-rights-act-of-1965.md) |
+| 2006 | The housing boom peaks and residential construction begins to fall; home prices peak early the next year. — [Great Recession](../articles/contemporary-america/great-recession.md) |
 | 2006-10-04 | Bush signs the Post-Katrina Emergency Management Reform Act, reorganizing FEMA after Hurricane Katrina. — [Department of Homeland Security](../articles/contemporary-america/department-of-homeland-security.md) |
 | 2006-10-12 | The National Heritage Areas Act of 2006 designates the Gullah Geechee Cultural Heritage Corridor and its federal commission. — [Gullah Geechee](../articles/society-and-people/gullah-geechee.md) |
+| 2007-08 | Strains appear in the market for asset-backed commercial paper as mortgage losses mount. — [Great Recession](../articles/contemporary-america/great-recession.md) |
 | 2007-09-03 | Panama breaks ground on its own Third Set of Locks Project, reusing the Atlantic-side excavations. — [Third Locks Project](../articles/foreign-relations-and-military/third-locks-project.md) |
+| 2007-12 – 2009-06 | **[Great Recession](../articles/contemporary-america/great-recession.md)** (Event) |
+| 2007-12 | The recession begins, according to the National Bureau of Economic Research. — [Great Recession](../articles/contemporary-america/great-recession.md) |
+| 2008-03-24 | The Federal Reserve Bank of New York announces financing for JPMorgan Chase's acquisition of Bear Stearns. — [Great Recession](../articles/contemporary-america/great-recession.md) |
+| 2008-09-07 | The Federal Housing Finance Agency places Fannie Mae and Freddie Mac in government conservatorship. — [Great Recession](../articles/contemporary-america/great-recession.md) |
+| 2008-09-15 | Lehman Brothers files for bankruptcy. — [Great Recession](../articles/contemporary-america/great-recession.md) |
+| 2008-09-16 | The New York Fed agrees to lend up to $85 billion to the insurer AIG. — [Great Recession](../articles/contemporary-america/great-recession.md) |
+| 2008-09-29 | The House rejects the first version of the bank rescue bill, 205–228. — [Great Recession](../articles/contemporary-america/great-recession.md) |
+| 2008-10-03 | President George W. Bush signs the Emergency Economic Stabilization Act, creating the Troubled Asset Relief Program. — [Great Recession](../articles/contemporary-america/great-recession.md) |
 | 2008-10-14 | Congress lets veterans and service members out of uniform give the military salute during the anthem. — [The Star-Spangled Banner](../articles/symbols-and-national-identity/star-spangled-banner.md) |
+| 2008-12 | The Federal Reserve cuts its federal funds rate target to a range of 0 to 0.25 percent. — [Great Recession](../articles/contemporary-america/great-recession.md) |
 | 2009 | In Northwest Austin the Court lets a Texas utility district seek bailout and avoids the constitutional question while voicing serious doubts about the Act. — [Shelby County v. Holder](../articles/democracy-and-elections/shelby-county-v-holder.md) |
+| 2009-02-17 | President Barack Obama signs the American Recovery and Reinvestment Act. — [Great Recession](../articles/contemporary-america/great-recession.md) |
+| 2009-05-07 | Regulators publish the results of the first bank stress tests. — [Great Recession](../articles/contemporary-america/great-recession.md) |
+| 2009-06 | The recession ends, after 18 months. — [Great Recession](../articles/contemporary-america/great-recession.md) |
 | 2009-07-24 | The federal minimum rises to $7.25 an hour, its rate since. — [Minimum wage](../articles/economy-and-work/minimum-wage.md) |
 | 2009-09-09 | President Obama addresses a joint session of Congress to press for health care reform. — [Affordable Care Act](../articles/contemporary-america/affordable-care-act.md) |
+| 2009-10 | Unemployment peaks at 10.0 percent. — [Great Recession](../articles/contemporary-america/great-recession.md) |
 | 2009-12-01 | In a speech at West Point, President Obama approves a surge of 33,000 more U.S. troops, with withdrawals to begin in July 2011. — [War in Afghanistan (2001–2021)](../articles/foreign-relations-and-military/war-in-afghanistan.md) |
 | 2009-12-24 | The Senate passes H.R. 3590, as amended, by 60 to 39. — [Affordable Care Act](../articles/contemporary-america/affordable-care-act.md) |
 | 2010 | Shelby County, Alabama, sues the Attorney General in federal court in Washington, D.C., to have Sections 4(b) and 5 declared unconstitutional. — [Shelby County v. Holder](../articles/democracy-and-elections/shelby-county-v-holder.md) |
@@ -1926,10 +1941,13 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 2010-06-18 | Secretarial Order 3302 renames the agency the Bureau of Ocean Energy Management, Regulation and Enforcement (BOEMRE). — [Bureau of Ocean Energy Management](../articles/geography-and-environment/bureau-of-ocean-energy-management.md) |
 | 2010-06-21 | Fishery closures reach about 37 percent of the Gulf of Mexico. — [Deepwater Horizon oil spill](../articles/contemporary-america/deepwater-horizon-oil-spill.md) |
 | 2010-07-15 | BP closes the valves on a new containment cap and the oil stops flowing. — [Deepwater Horizon oil spill](../articles/contemporary-america/deepwater-horizon-oil-spill.md) |
+| 2010-07-21 | The Dodd-Frank Wall Street Reform and Consumer Protection Act is signed into law. — [Great Recession](../articles/contemporary-america/great-recession.md) |
 | 2010-09-19 | After a relief well intercepts the Macondo well, BP confirms it is permanently sealed with cement. — [Deepwater Horizon oil spill](../articles/contemporary-america/deepwater-horizon-oil-spill.md) |
+| 2010-09-20 | The NBER announces that the recession ended in June 2009. — [Great Recession](../articles/contemporary-america/great-recession.md) |
 | 2010-10-01 | Revenue collection moves to a separate Office of Natural Resources Revenue. — [Bureau of Ocean Energy Management](../articles/geography-and-environment/bureau-of-ocean-energy-management.md) |
 | 2010-12-29 | The EPA establishes the Chesapeake Bay Total Maximum Daily Load, a cap on nitrogen, phosphorus and sediment. — [Chesapeake Bay](../articles/geography-and-environment/chesapeake-bay.md) |
 | 2011 | Researcher Michael Hirsch identifies the last six unidentified victims. — [Triangle Shirtwaist Factory fire](../articles/economy-and-work/triangle-shirtwaist-factory-fire.md) |
+| 2011 | The Financial Crisis Inquiry Commission issues its final report, with two dissents. — [Great Recession](../articles/contemporary-america/great-recession.md) |
 | 2011-01-11 | The presidential commission releases its final report, Deep Water. — [Deepwater Horizon oil spill](../articles/contemporary-america/deepwater-horizon-oil-spill.md) |
 | 2011-05-02 | Navy SEALs kill Osama bin Laden at a compound near Abbottabad, Pakistan. — [War in Afghanistan (2001–2021)](../articles/foreign-relations-and-military/war-in-afghanistan.md) |
 | 2011-07 | Afghan forces begin taking over security responsibility from international troops. — [War in Afghanistan (2001–2021)](../articles/foreign-relations-and-military/war-in-afghanistan.md) |

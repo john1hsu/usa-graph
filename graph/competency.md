@@ -29,6 +29,7 @@ _Which nodes led to, established or affected the most other things in the graph?
 | `us:united-states-constitution` | 11 | Census and apportionment, Electoral College, Federalism, Presidency of the United States, Slavery in the United States, Supreme Court of the United States, The Federalist Papers, United States, United States Congress, United States House of Representatives, bill-of-rights |
 | `us:indian-removal-act` | 7 | cherokee-nation, chickasaw-nation, choctaw-nation, muscogee-creek-nation, second-seminole-war, trail-of-tears, treaty-of-new-echota |
 | `us:war-of-1812` | 7 | Indian Removal Act, The Star-Spangled Banner, hartford-convention, muscogee-creek-nation, shawnee, treaty-of-fort-jackson, treaty-of-ghent |
+| `us:great-recession` | 6 | African Americans, american-recovery-and-reinvestment-act-of-2009, dodd-frank-act, emergency-economic-stabilization-act-of-2008, financial-crisis-inquiry-commission, hispanic-and-latino-americans |
 | `us:california-gold-rush` | 5 | Chinese Exclusion Act, Native Americans, act-for-the-government-and-protection-of-indians, compromise-of-1850, foreign-miners-tax-of-1850 |
 | `us:cold-war` | 5 | Civil rights movement, McCarthyism, North Atlantic Treaty Organization, national-security-act-of-1947, space-race |
 | `us:great-depression` | 5 | African Americans, New Deal, agriculture-in-the-united-states, bonus-army, reconstruction-finance-corporation |
@@ -55,9 +56,8 @@ _Which nodes led to, established or affected the most other things in the graph?
 | `us:attack-on-pearl-harbor` | 3 | Japanese American incarceration during World War II, day-of-infamy-speech, pearl-harbor-investigations |
 | `us:census-and-apportionment` | 3 | Native Americans, United States House of Representatives, redistricting-in-the-united-states |
 | `us:cherokee-nation-v-georgia` | 3 | cherokee-nation, federal-trust-responsibility, worcester-v-georgia |
-| `us:chesapeake-bay` | 3 | chesapeake-bay-agreement, chesapeake-bay-tmdl, siege-of-yorktown |
 
-…and 93 more.
+…and 94 more.
 
 ## Happenings by era
 
@@ -81,6 +81,7 @@ _For each era, which events, conflicts, laws and movements took place during it?
 | `us:great-depression` | `us:stock-market-crash-of-1929` | 1929-10-24 |
 | `us:great-depression` | `us:dust-bowl` | 1931 |
 | `us:great-depression` | `us:new-deal` | 1933-03 |
+| `us:post-cold-war-united-states` | `us:great-recession` | 2007-12 |
 | `us:progressive-era` | `us:womens-suffrage-movement` | 1848-07-19 |
 | `us:progressive-era` | `us:muckrakers` | 1902-11 |
 
@@ -118,10 +119,10 @@ _Which nodes are myths, contested or open to competing interpretations, and what
 | `us:good-neighbor-policy` | interpretive |  |
 | `us:great-depression` | interpretive |  |
 | `us:great-railroad-strike-of-1877` | interpretive |  |
+| `us:great-recession` | interpretive |  |
 | `us:haudenosaunee` | interpretive |  |
-| `us:hayden-geological-survey-of-1871` | interpretive |  |
 
-…and 39 more.
+…and 40 more.
 
 ## Places with nothing tied to them (gap)
 

@@ -413,6 +413,24 @@
 <https://github.com/john1hsu/usa-graph/id/department-of-homeland-security#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/department-of-homeland-security/s10> .
 <https://github.com/john1hsu/usa-graph/id/department-of-homeland-security#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/department-of-homeland-security/s11> .
 <https://github.com/john1hsu/usa-graph/id/department-of-homeland-security#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/department-of-homeland-security/s12> .
+<https://github.com/john1hsu/usa-graph/id/great-recession#graph> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity> .
+<https://github.com/john1hsu/usa-graph/id/great-recession#graph> <http://purl.org/dc/terms/subject> <https://github.com/john1hsu/usa-graph/id/great-recession> .
+<https://github.com/john1hsu/usa-graph/id/great-recession#graph> <http://purl.org/dc/terms/source> "https://github.com/john1hsu/usa-graph/blob/main/articles/contemporary-america/great-recession.md" .
+<https://github.com/john1hsu/usa-graph/id/great-recession#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/great-recession/s1> .
+<https://github.com/john1hsu/usa-graph/id/great-recession#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/great-recession/s2> .
+<https://github.com/john1hsu/usa-graph/id/great-recession#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/great-recession/s3> .
+<https://github.com/john1hsu/usa-graph/id/great-recession#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/great-recession/s4> .
+<https://github.com/john1hsu/usa-graph/id/great-recession#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/great-recession/s5> .
+<https://github.com/john1hsu/usa-graph/id/great-recession#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/great-recession/s6> .
+<https://github.com/john1hsu/usa-graph/id/great-recession#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/great-recession/s7> .
+<https://github.com/john1hsu/usa-graph/id/great-recession#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/great-recession/s8> .
+<https://github.com/john1hsu/usa-graph/id/great-recession#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/great-recession/s9> .
+<https://github.com/john1hsu/usa-graph/id/great-recession#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/great-recession/s10> .
+<https://github.com/john1hsu/usa-graph/id/great-recession#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/great-recession/s11> .
+<https://github.com/john1hsu/usa-graph/id/great-recession#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/great-recession/s12> .
+<https://github.com/john1hsu/usa-graph/id/great-recession#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/great-recession/s13> .
+<https://github.com/john1hsu/usa-graph/id/great-recession#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/great-recession/s14> .
+<https://github.com/john1hsu/usa-graph/id/great-recession#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/great-recession/s15> .
 <https://github.com/john1hsu/usa-graph/id/obergefell-v-hodges#graph> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity> .
 <https://github.com/john1hsu/usa-graph/id/obergefell-v-hodges#graph> <http://purl.org/dc/terms/subject> <https://github.com/john1hsu/usa-graph/id/obergefell-v-hodges> .
 <https://github.com/john1hsu/usa-graph/id/obergefell-v-hodges#graph> <http://purl.org/dc/terms/source> "https://github.com/john1hsu/usa-graph/blob/main/articles/contemporary-america/obergefell-v-hodges.md" .
@@ -7793,6 +7811,233 @@
   <https://github.com/john1hsu/usa-graph/id/source/department-of-homeland-security/s9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
   <https://github.com/john1hsu/usa-graph/id/source/department-of-homeland-security/s9> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
   <https://github.com/john1hsu/usa-graph/id/source/department-of-homeland-security/s9> <https://schema.org/url> <https://www.gao.gov/products/GAO-19-475T> .
+}
+
+<https://github.com/john1hsu/usa-graph/id/great-recession#graph> {
+  <https://github.com/john1hsu/usa-graph/id/great-recession/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Misconception> .
+  <https://github.com/john1hsu/usa-graph/id/great-recession/misconception> <https://github.com/john1hsu/usa-graph/ontology#fact> "The end date marks only the low point of activity. Unemployment kept rising until October 2009, when it peaked at 10 percent, and the NBER said its dating did not mean conditions afterward were favorable." .
+  <https://github.com/john1hsu/usa-graph/id/great-recession/misconception> <https://github.com/john1hsu/usa-graph/ontology#myth> "When the recession officially ended in June 2009, the hard times were over." .
+  <https://github.com/john1hsu/usa-graph/id/great-recession/misconception> <https://github.com/john1hsu/usa-graph/ontology#why> "Confusing a recession's official end with recovery hides why many families felt the downturn for years, through slow job growth, high long-term unemployment and lost home equity." .
+  <https://github.com/john1hsu/usa-graph/id/great-recession/review/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+  <https://github.com/john1hsu/usa-graph/id/great-recession/review/1> <http://www.w3.org/2000/01/rdf-schema#label> "How did falling house prices turn into a nationwide recession?" .
+  <https://github.com/john1hsu/usa-graph/id/great-recession/review/1> <https://github.com/john1hsu/usa-graph/ontology#answer> "Riskier mortgages had been pooled into securities held across the financial system, so when prices fell from 2006–07 mortgage losses spread to banks and funding markets, leading to the failures and rescues of 2008; at the same time falling home values and stock prices cut household wealth sharply, and employment fell 5 percent." .
+  <https://github.com/john1hsu/usa-graph/id/great-recession/review/1> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/great-recession> .
+  <https://github.com/john1hsu/usa-graph/id/great-recession/review/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+  <https://github.com/john1hsu/usa-graph/id/great-recession/review/2> <http://www.w3.org/2000/01/rdf-schema#label> "Why did the Great Recession widen the wealth gap between white households and Black and Hispanic households?" .
+  <https://github.com/john1hsu/usa-graph/id/great-recession/review/2> <https://github.com/john1hsu/usa-graph/ontology#answer> "Home equity made up a larger share of Black and Hispanic wealth, and many Hispanic families lived in states where house prices fell most, so the housing collapse cut their median wealth by 53 and 66 percent from 2005 to 2009, compared with 16 percent for white households (Pew, 2011)." .
+  <https://github.com/john1hsu/usa-graph/id/great-recession/review/2> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/great-recession> .
+  <https://github.com/john1hsu/usa-graph/id/great-recession/review/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+  <https://github.com/john1hsu/usa-graph/id/great-recession/review/3> <http://www.w3.org/2000/01/rdf-schema#label> "How did the majority of the Financial Crisis Inquiry Commission and its dissenters disagree about the causes of the crisis?" .
+  <https://github.com/john1hsu/usa-graph/id/great-recession/review/3> <https://github.com/john1hsu/usa-graph/ontology#answer> "The majority blamed failures of regulation, corporate governance and risk management and called the crisis avoidable; Hennessey, Holtz-Eakin and Thomas stressed a global credit and housing bubble with several interacting causes; Wallison blamed federal housing policy and the affordable-housing goals of Fannie Mae and Freddie Mac." .
+  <https://github.com/john1hsu/usa-graph/id/great-recession/review/3> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/great-recession> .
+  <https://github.com/john1hsu/usa-graph/id/great-recession/timeline/10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/great-recession/timeline/10> <http://www.w3.org/2000/01/rdf-schema#label> "The Federal Reserve cuts its federal funds rate target to a range of 0 to 0.25 percent." .
+  <https://github.com/john1hsu/usa-graph/id/great-recession/timeline/10> <https://github.com/john1hsu/usa-graph/ontology#date> "2008-12"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> .
+  <https://github.com/john1hsu/usa-graph/id/great-recession/timeline/11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/great-recession/timeline/11> <http://www.w3.org/2000/01/rdf-schema#label> "President Barack Obama signs the American Recovery and Reinvestment Act." .
+  <https://github.com/john1hsu/usa-graph/id/great-recession/timeline/11> <https://github.com/john1hsu/usa-graph/ontology#date> "2009-02-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/great-recession/timeline/12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/great-recession/timeline/12> <http://www.w3.org/2000/01/rdf-schema#label> "Regulators publish the results of the first bank stress tests." .
+  <https://github.com/john1hsu/usa-graph/id/great-recession/timeline/12> <https://github.com/john1hsu/usa-graph/ontology#date> "2009-05-07"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/great-recession/timeline/13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/great-recession/timeline/13> <http://www.w3.org/2000/01/rdf-schema#label> "The recession ends, after 18 months." .
+  <https://github.com/john1hsu/usa-graph/id/great-recession/timeline/13> <https://github.com/john1hsu/usa-graph/ontology#date> "2009-06"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> .
+  <https://github.com/john1hsu/usa-graph/id/great-recession/timeline/14> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/great-recession/timeline/14> <http://www.w3.org/2000/01/rdf-schema#label> "Unemployment peaks at 10.0 percent." .
+  <https://github.com/john1hsu/usa-graph/id/great-recession/timeline/14> <https://github.com/john1hsu/usa-graph/ontology#date> "2009-10"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> .
+  <https://github.com/john1hsu/usa-graph/id/great-recession/timeline/15> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/great-recession/timeline/15> <http://www.w3.org/2000/01/rdf-schema#label> "The Dodd-Frank Wall Street Reform and Consumer Protection Act is signed into law." .
+  <https://github.com/john1hsu/usa-graph/id/great-recession/timeline/15> <https://github.com/john1hsu/usa-graph/ontology#date> "2010-07-21"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/great-recession/timeline/16> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/great-recession/timeline/16> <http://www.w3.org/2000/01/rdf-schema#label> "The NBER announces that the recession ended in June 2009." .
+  <https://github.com/john1hsu/usa-graph/id/great-recession/timeline/16> <https://github.com/john1hsu/usa-graph/ontology#date> "2010-09-20"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/great-recession/timeline/17> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/great-recession/timeline/17> <http://www.w3.org/2000/01/rdf-schema#label> "The Financial Crisis Inquiry Commission issues its final report, with two dissents." .
+  <https://github.com/john1hsu/usa-graph/id/great-recession/timeline/17> <https://github.com/john1hsu/usa-graph/ontology#date> "2011"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+  <https://github.com/john1hsu/usa-graph/id/great-recession/timeline/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/great-recession/timeline/1> <http://www.w3.org/2000/01/rdf-schema#label> "The housing boom peaks and residential construction begins to fall; home prices peak early the next year." .
+  <https://github.com/john1hsu/usa-graph/id/great-recession/timeline/1> <https://github.com/john1hsu/usa-graph/ontology#date> "2006"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+  <https://github.com/john1hsu/usa-graph/id/great-recession/timeline/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/great-recession/timeline/2> <http://www.w3.org/2000/01/rdf-schema#label> "Strains appear in the market for asset-backed commercial paper as mortgage losses mount." .
+  <https://github.com/john1hsu/usa-graph/id/great-recession/timeline/2> <https://github.com/john1hsu/usa-graph/ontology#date> "2007-08"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> .
+  <https://github.com/john1hsu/usa-graph/id/great-recession/timeline/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/great-recession/timeline/3> <http://www.w3.org/2000/01/rdf-schema#label> "The recession begins, according to the National Bureau of Economic Research." .
+  <https://github.com/john1hsu/usa-graph/id/great-recession/timeline/3> <https://github.com/john1hsu/usa-graph/ontology#date> "2007-12"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> .
+  <https://github.com/john1hsu/usa-graph/id/great-recession/timeline/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/great-recession/timeline/4> <http://www.w3.org/2000/01/rdf-schema#label> "The Federal Reserve Bank of New York announces financing for JPMorgan Chase's acquisition of Bear Stearns." .
+  <https://github.com/john1hsu/usa-graph/id/great-recession/timeline/4> <https://github.com/john1hsu/usa-graph/ontology#date> "2008-03-24"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/great-recession/timeline/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/great-recession/timeline/5> <http://www.w3.org/2000/01/rdf-schema#label> "The Federal Housing Finance Agency places Fannie Mae and Freddie Mac in government conservatorship." .
+  <https://github.com/john1hsu/usa-graph/id/great-recession/timeline/5> <https://github.com/john1hsu/usa-graph/ontology#date> "2008-09-07"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/great-recession/timeline/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/great-recession/timeline/6> <http://www.w3.org/2000/01/rdf-schema#label> "Lehman Brothers files for bankruptcy." .
+  <https://github.com/john1hsu/usa-graph/id/great-recession/timeline/6> <https://github.com/john1hsu/usa-graph/ontology#date> "2008-09-15"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/great-recession/timeline/7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/great-recession/timeline/7> <http://www.w3.org/2000/01/rdf-schema#label> "The New York Fed agrees to lend up to $85 billion to the insurer AIG." .
+  <https://github.com/john1hsu/usa-graph/id/great-recession/timeline/7> <https://github.com/john1hsu/usa-graph/ontology#date> "2008-09-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/great-recession/timeline/8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/great-recession/timeline/8> <http://www.w3.org/2000/01/rdf-schema#label> "The House rejects the first version of the bank rescue bill, 205–228." .
+  <https://github.com/john1hsu/usa-graph/id/great-recession/timeline/8> <https://github.com/john1hsu/usa-graph/ontology#date> "2008-09-29"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/great-recession/timeline/9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/great-recession/timeline/9> <http://www.w3.org/2000/01/rdf-schema#label> "President George W. Bush signs the Emergency Economic Stabilization Act, creating the Troubled Asset Relief Program." .
+  <https://github.com/john1hsu/usa-graph/id/great-recession/timeline/9> <https://github.com/john1hsu/usa-graph/ontology#date> "2008-10-03"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/great-recession> <http://purl.org/dc/terms/created> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/great-recession> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Event> .
+  <https://github.com/john1hsu/usa-graph/id/great-recession> <http://www.w3.org/2000/01/rdf-schema#label> "Great Recession" .
+  <https://github.com/john1hsu/usa-graph/id/great-recession> <http://www.w3.org/2004/02/skos/core#altLabel> "2007–2009 recession" .
+  <https://github.com/john1hsu/usa-graph/id/great-recession> <http://www.w3.org/2004/02/skos/core#altLabel> "Recession of 2007–2009" .
+  <https://github.com/john1hsu/usa-graph/id/great-recession> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/usa-graph/id/economic-history-of-the-united-states> .
+  <https://github.com/john1hsu/usa-graph/id/great-recession> <http://www.w3.org/2004/02/skos/core#definition> "The U.S. economic downturn from December 2007 to June 2009, set off by a housing collapse and a financial crisis, which was the longest and deepest recession since World War II and led to the bank rescue of 2008, the 2009 stimulus law and the Dodd-Frank financial reforms of 2010." .
+  <https://github.com/john1hsu/usa-graph/id/great-recession> <http://www.w3.org/2004/02/skos/core#inScheme> <https://github.com/john1hsu/usa-graph/id/scheme/contemporary-america> .
+  <https://github.com/john1hsu/usa-graph/id/great-recession> <http://www.w3.org/2004/02/skos/core#prefLabel> "Great Recession" .
+  <https://github.com/john1hsu/usa-graph/id/great-recession> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/barack-obama> .
+  <https://github.com/john1hsu/usa-graph/id/great-recession> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/consumer-financial-protection-bureau> .
+  <https://github.com/john1hsu/usa-graph/id/great-recession> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/fannie-mae-and-freddie-mac> .
+  <https://github.com/john1hsu/usa-graph/id/great-recession> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/federal-reserve-system> .
+  <https://github.com/john1hsu/usa-graph/id/great-recession> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/george-w-bush> .
+  <https://github.com/john1hsu/usa-graph/id/great-recession> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/great-depression> .
+  <https://github.com/john1hsu/usa-graph/id/great-recession> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/lehman-brothers> .
+  <https://github.com/john1hsu/usa-graph/id/great-recession> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/troubled-asset-relief-program> .
+  <https://github.com/john1hsu/usa-graph/id/great-recession> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/united-states-congress> .
+  <https://github.com/john1hsu/usa-graph/id/great-recession> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/great-recession/s10> .
+  <https://github.com/john1hsu/usa-graph/id/great-recession> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/great-recession/s11> .
+  <https://github.com/john1hsu/usa-graph/id/great-recession> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/great-recession/s12> .
+  <https://github.com/john1hsu/usa-graph/id/great-recession> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/great-recession/s13> .
+  <https://github.com/john1hsu/usa-graph/id/great-recession> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/great-recession/s14> .
+  <https://github.com/john1hsu/usa-graph/id/great-recession> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/great-recession/s15> .
+  <https://github.com/john1hsu/usa-graph/id/great-recession> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/great-recession/s1> .
+  <https://github.com/john1hsu/usa-graph/id/great-recession> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/great-recession/s2> .
+  <https://github.com/john1hsu/usa-graph/id/great-recession> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/great-recession/s3> .
+  <https://github.com/john1hsu/usa-graph/id/great-recession> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/great-recession/s4> .
+  <https://github.com/john1hsu/usa-graph/id/great-recession> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/great-recession/s5> .
+  <https://github.com/john1hsu/usa-graph/id/great-recession> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/great-recession/s6> .
+  <https://github.com/john1hsu/usa-graph/id/great-recession> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/great-recession/s7> .
+  <https://github.com/john1hsu/usa-graph/id/great-recession> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/great-recession/s8> .
+  <https://github.com/john1hsu/usa-graph/id/great-recession> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/great-recession/s9> .
+  <https://github.com/john1hsu/usa-graph/id/great-recession> <https://github.com/john1hsu/usa-graph/ontology#affected> <https://github.com/john1hsu/usa-graph/id/african-americans> .
+  <https://github.com/john1hsu/usa-graph/id/great-recession> <https://github.com/john1hsu/usa-graph/ontology#affected> <https://github.com/john1hsu/usa-graph/id/hispanic-and-latino-americans> .
+  <https://github.com/john1hsu/usa-graph/id/great-recession> <https://github.com/john1hsu/usa-graph/ontology#contrastsWith> <https://github.com/john1hsu/usa-graph/id/great-depression> .
+  <https://github.com/john1hsu/usa-graph/id/great-recession> <https://github.com/john1hsu/usa-graph/ontology#domain> "contemporary-america" .
+  <https://github.com/john1hsu/usa-graph/id/great-recession> <https://github.com/john1hsu/usa-graph/ontology#evidenceStatus> "interpretive" .
+  <https://github.com/john1hsu/usa-graph/id/great-recession> <https://github.com/john1hsu/usa-graph/ontology#file> "articles/contemporary-america/great-recession.md" .
+  <https://github.com/john1hsu/usa-graph/id/great-recession> <https://github.com/john1hsu/usa-graph/ontology#ledTo> <https://github.com/john1hsu/usa-graph/id/american-recovery-and-reinvestment-act-of-2009> .
+  <https://github.com/john1hsu/usa-graph/id/great-recession> <https://github.com/john1hsu/usa-graph/ontology#ledTo> <https://github.com/john1hsu/usa-graph/id/dodd-frank-act> .
+  <https://github.com/john1hsu/usa-graph/id/great-recession> <https://github.com/john1hsu/usa-graph/ontology#ledTo> <https://github.com/john1hsu/usa-graph/id/emergency-economic-stabilization-act-of-2008> .
+  <https://github.com/john1hsu/usa-graph/id/great-recession> <https://github.com/john1hsu/usa-graph/ontology#ledTo> <https://github.com/john1hsu/usa-graph/id/financial-crisis-inquiry-commission> .
+  <https://github.com/john1hsu/usa-graph/id/great-recession> <https://github.com/john1hsu/usa-graph/ontology#level> "introductory" .
+  <https://github.com/john1hsu/usa-graph/id/great-recession> <https://github.com/john1hsu/usa-graph/ontology#misconception> <https://github.com/john1hsu/usa-graph/id/great-recession/misconception> .
+  <https://github.com/john1hsu/usa-graph/id/great-recession> <https://github.com/john1hsu/usa-graph/ontology#occurredDuring> <https://github.com/john1hsu/usa-graph/id/post-cold-war-united-states> .
+  <https://github.com/john1hsu/usa-graph/id/great-recession> <https://github.com/john1hsu/usa-graph/ontology#occurredIn> <https://github.com/john1hsu/usa-graph/id/united-states> .
+  <https://github.com/john1hsu/usa-graph/id/great-recession> <https://github.com/john1hsu/usa-graph/ontology#requires> <https://github.com/john1hsu/usa-graph/id/federal-reserve-system> .
+  <https://github.com/john1hsu/usa-graph/id/great-recession> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/great-recession/timeline/10> .
+  <https://github.com/john1hsu/usa-graph/id/great-recession> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/great-recession/timeline/11> .
+  <https://github.com/john1hsu/usa-graph/id/great-recession> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/great-recession/timeline/12> .
+  <https://github.com/john1hsu/usa-graph/id/great-recession> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/great-recession/timeline/13> .
+  <https://github.com/john1hsu/usa-graph/id/great-recession> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/great-recession/timeline/14> .
+  <https://github.com/john1hsu/usa-graph/id/great-recession> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/great-recession/timeline/15> .
+  <https://github.com/john1hsu/usa-graph/id/great-recession> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/great-recession/timeline/16> .
+  <https://github.com/john1hsu/usa-graph/id/great-recession> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/great-recession/timeline/17> .
+  <https://github.com/john1hsu/usa-graph/id/great-recession> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/great-recession/timeline/1> .
+  <https://github.com/john1hsu/usa-graph/id/great-recession> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/great-recession/timeline/2> .
+  <https://github.com/john1hsu/usa-graph/id/great-recession> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/great-recession/timeline/3> .
+  <https://github.com/john1hsu/usa-graph/id/great-recession> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/great-recession/timeline/4> .
+  <https://github.com/john1hsu/usa-graph/id/great-recession> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/great-recession/timeline/5> .
+  <https://github.com/john1hsu/usa-graph/id/great-recession> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/great-recession/timeline/6> .
+  <https://github.com/john1hsu/usa-graph/id/great-recession> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/great-recession/timeline/7> .
+  <https://github.com/john1hsu/usa-graph/id/great-recession> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/great-recession/timeline/8> .
+  <https://github.com/john1hsu/usa-graph/id/great-recession> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/great-recession/timeline/9> .
+  <https://github.com/john1hsu/usa-graph/id/great-recession> <https://schema.org/endDate> "2009-06"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> .
+  <https://github.com/john1hsu/usa-graph/id/great-recession> <https://schema.org/startDate> "2007-12"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> .
+  <https://github.com/john1hsu/usa-graph/id/source/great-recession/s10> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/great-recession/s10> <http://purl.org/dc/terms/publisher> "U.S. Government Publishing Office, GovInfo" .
+  <https://github.com/john1hsu/usa-graph/id/source/great-recession/s10> <http://purl.org/dc/terms/title> "The Financial Crisis Inquiry Report" .
+  <https://github.com/john1hsu/usa-graph/id/source/great-recession/s10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/great-recession/s10> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+  <https://github.com/john1hsu/usa-graph/id/source/great-recession/s10> <https://schema.org/url> <https://www.govinfo.gov/features/financial-crisis-inquiry-report> .
+  <https://github.com/john1hsu/usa-graph/id/source/great-recession/s11> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/great-recession/s11> <http://purl.org/dc/terms/publisher> "U.S. House Committee on Financial Services" .
+  <https://github.com/john1hsu/usa-graph/id/source/great-recession/s11> <http://purl.org/dc/terms/title> "Testimony of Douglas Holtz-Eakin, Commissioner, Financial Crisis Inquiry Commission (February 16, 2011)" .
+  <https://github.com/john1hsu/usa-graph/id/source/great-recession/s11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/great-recession/s11> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "primary" .
+  <https://github.com/john1hsu/usa-graph/id/source/great-recession/s11> <https://schema.org/url> <https://financialservices.house.gov/uploadedfiles/021611holtzeakin.pdf> .
+  <https://github.com/john1hsu/usa-graph/id/source/great-recession/s12> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/great-recession/s12> <http://purl.org/dc/terms/publisher> "U.S. House Committee on Financial Services" .
+  <https://github.com/john1hsu/usa-graph/id/source/great-recession/s12> <http://purl.org/dc/terms/title> "Testimony of Peter J. Wallison before the House Financial Services Committee (February 16, 2011)" .
+  <https://github.com/john1hsu/usa-graph/id/source/great-recession/s12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/great-recession/s12> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "primary" .
+  <https://github.com/john1hsu/usa-graph/id/source/great-recession/s12> <https://schema.org/url> <https://financialservices.house.gov/media/pdf/021611wallison.pdf> .
+  <https://github.com/john1hsu/usa-graph/id/source/great-recession/s13> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/great-recession/s13> <http://purl.org/dc/terms/publisher> "Rakesh Kochhar, Richard Fry and Paul Taylor, Pew Research Center (July 26, 2011)" .
+  <https://github.com/john1hsu/usa-graph/id/source/great-recession/s13> <http://purl.org/dc/terms/title> "Wealth Gaps Rise to Record Highs Between Whites, Blacks, Hispanics" .
+  <https://github.com/john1hsu/usa-graph/id/source/great-recession/s13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/great-recession/s13> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "institutional" .
+  <https://github.com/john1hsu/usa-graph/id/source/great-recession/s13> <https://schema.org/url> <https://www.pewresearch.org/social-trends/2011/07/26/wealth-gaps-rise-to-record-highs-between-whites-blacks-hispanics/> .
+  <https://github.com/john1hsu/usa-graph/id/source/great-recession/s14> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/great-recession/s14> <http://purl.org/dc/terms/publisher> "Jesse Bricker, Arthur B. Kennickell, Kevin B. Moore and John Sabelhaus, Federal Reserve Bulletin (2012)" .
+  <https://github.com/john1hsu/usa-graph/id/source/great-recession/s14> <http://purl.org/dc/terms/title> "Changes in U.S. Family Finances from 2007 to 2010: Evidence from the Survey of Consumer Finances" .
+  <https://github.com/john1hsu/usa-graph/id/source/great-recession/s14> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/great-recession/s14> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+  <https://github.com/john1hsu/usa-graph/id/source/great-recession/s14> <https://schema.org/url> <https://www.federalreserve.gov/Pubs/Bulletin/2012/articles/scf/scf.htm> .
+  <https://github.com/john1hsu/usa-graph/id/source/great-recession/s15> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/great-recession/s15> <http://purl.org/dc/terms/publisher> "Federal Reserve Bank of Minneapolis (October 25, 2012)" .
+  <https://github.com/john1hsu/usa-graph/id/source/great-recession/s15> <http://purl.org/dc/terms/title> "Post-Crisis Use of Financial Market Data in Bank Supervision: Timeline" .
+  <https://github.com/john1hsu/usa-graph/id/source/great-recession/s15> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/great-recession/s15> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+  <https://github.com/john1hsu/usa-graph/id/source/great-recession/s15> <https://schema.org/url> <https://minneapolisfed.org/article/2012/postcrisis-use-of-financial-market-data-in-bank-supervision-timeline> .
+  <https://github.com/john1hsu/usa-graph/id/source/great-recession/s1> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/great-recession/s1> <http://purl.org/dc/terms/publisher> "Robert Rich, Federal Reserve History (Federal Reserve System)" .
+  <https://github.com/john1hsu/usa-graph/id/source/great-recession/s1> <http://purl.org/dc/terms/title> "The Great Recession" .
+  <https://github.com/john1hsu/usa-graph/id/source/great-recession/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/great-recession/s1> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+  <https://github.com/john1hsu/usa-graph/id/source/great-recession/s1> <https://schema.org/url> <https://www.federalreservehistory.org/essays/great-recession-of-200709> .
+  <https://github.com/john1hsu/usa-graph/id/source/great-recession/s2> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/great-recession/s2> <http://purl.org/dc/terms/publisher> "John Weinberg, Federal Reserve History (Federal Reserve System)" .
+  <https://github.com/john1hsu/usa-graph/id/source/great-recession/s2> <http://purl.org/dc/terms/title> "The Great Recession and Its Aftermath" .
+  <https://github.com/john1hsu/usa-graph/id/source/great-recession/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/great-recession/s2> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+  <https://github.com/john1hsu/usa-graph/id/source/great-recession/s2> <https://schema.org/url> <https://www.federalreservehistory.org/essays/great-recession-and-its-aftermath> .
+  <https://github.com/john1hsu/usa-graph/id/source/great-recession/s3> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/great-recession/s3> <http://purl.org/dc/terms/publisher> "U.S. Bureau of Labor Statistics, Spotlight on Statistics (February 2012)" .
+  <https://github.com/john1hsu/usa-graph/id/source/great-recession/s3> <http://purl.org/dc/terms/title> "The Recession of 2007–2009" .
+  <https://github.com/john1hsu/usa-graph/id/source/great-recession/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/great-recession/s3> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+  <https://github.com/john1hsu/usa-graph/id/source/great-recession/s3> <https://schema.org/url> <https://www.bls.gov/spotlight/2012/recession/pdf/recession_bls_spotlight.pdf> .
+  <https://github.com/john1hsu/usa-graph/id/source/great-recession/s4> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/great-recession/s4> <http://purl.org/dc/terms/publisher> "National Bureau of Economic Research" .
+  <https://github.com/john1hsu/usa-graph/id/source/great-recession/s4> <http://purl.org/dc/terms/title> "Business Cycle Dating Committee Announcement, September 20, 2010" .
+  <https://github.com/john1hsu/usa-graph/id/source/great-recession/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/great-recession/s4> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "academic" .
+  <https://github.com/john1hsu/usa-graph/id/source/great-recession/s4> <https://schema.org/url> <https://www.nber.org/cycles/sept2010.html> .
+  <https://github.com/john1hsu/usa-graph/id/source/great-recession/s5> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/great-recession/s5> <http://purl.org/dc/terms/publisher> "Eladio Bobadilla et al., ed. Michael Hammond, The American Yawp, ed. Joseph Locke and Ben Wright (Stanford University Press)" .
+  <https://github.com/john1hsu/usa-graph/id/source/great-recession/s5> <http://purl.org/dc/terms/title> "30. The Recent Past" .
+  <https://github.com/john1hsu/usa-graph/id/source/great-recession/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/great-recession/s5> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "textbook" .
+  <https://github.com/john1hsu/usa-graph/id/source/great-recession/s5> <https://schema.org/url> <https://www.americanyawp.com/commentpress/30-the-recent-past/> .
+  <https://github.com/john1hsu/usa-graph/id/source/great-recession/s6> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/great-recession/s6> <http://purl.org/dc/terms/publisher> "Congressional Research Service (via EveryCRSReport)" .
+  <https://github.com/john1hsu/usa-graph/id/source/great-recession/s6> <http://purl.org/dc/terms/title> "The Emergency Economic Stabilization Act and Recent Financial Turmoil: Issues and Analysis (RL34730)" .
+  <https://github.com/john1hsu/usa-graph/id/source/great-recession/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/great-recession/s6> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+  <https://github.com/john1hsu/usa-graph/id/source/great-recession/s6> <https://schema.org/url> <https://www.everycrsreport.com/reports/RL34730.html> .
+  <https://github.com/john1hsu/usa-graph/id/source/great-recession/s7> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/great-recession/s7> <http://purl.org/dc/terms/publisher> "Congressional Research Service (via EveryCRSReport)" .
+  <https://github.com/john1hsu/usa-graph/id/source/great-recession/s7> <http://purl.org/dc/terms/title> "American Recovery and Reinvestment Act of 2009 (P.L. 111-5): Summary and Legislative History (R40537)" .
+  <https://github.com/john1hsu/usa-graph/id/source/great-recession/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/great-recession/s7> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+  <https://github.com/john1hsu/usa-graph/id/source/great-recession/s7> <https://schema.org/url> <https://www.everycrsreport.com/files/20090420_R40537_0845d60f1482e8043ff0c3b793db576775302cb8.html> .
+  <https://github.com/john1hsu/usa-graph/id/source/great-recession/s8> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/great-recession/s8> <http://purl.org/dc/terms/publisher> "Congressional Research Service (via EveryCRSReport)" .
+  <https://github.com/john1hsu/usa-graph/id/source/great-recession/s8> <http://purl.org/dc/terms/title> "The Dodd-Frank Wall Street Reform and Consumer Protection Act: Background and Summary (R41350)" .
+  <https://github.com/john1hsu/usa-graph/id/source/great-recession/s8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/great-recession/s8> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+  <https://github.com/john1hsu/usa-graph/id/source/great-recession/s8> <https://schema.org/url> <https://www.everycrsreport.com/files/20170421_R41350_b02ef75e360993cc7faf780d298b90f9d7a6c434.html> .
+  <https://github.com/john1hsu/usa-graph/id/source/great-recession/s9> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/great-recession/s9> <http://purl.org/dc/terms/publisher> "Financial Crisis Inquiry Commission (official site archived by Stanford Law School)" .
+  <https://github.com/john1hsu/usa-graph/id/source/great-recession/s9> <http://purl.org/dc/terms/title> "Conclusions of the Financial Crisis Inquiry Commission" .
+  <https://github.com/john1hsu/usa-graph/id/source/great-recession/s9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/great-recession/s9> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "primary" .
+  <https://github.com/john1hsu/usa-graph/id/source/great-recession/s9> <https://schema.org/url> <https://fcic.law.stanford.edu/report/conclusions> .
 }
 
 <https://github.com/john1hsu/usa-graph/id/obergefell-v-hodges#graph> {
@@ -27449,6 +27694,7 @@
   <https://github.com/john1hsu/usa-graph/id/african-americans> <https://github.com/john1hsu/usa-graph/ontology#affectedBy> <https://github.com/john1hsu/usa-graph/id/equal-protection> .
   <https://github.com/john1hsu/usa-graph/id/african-americans> <https://github.com/john1hsu/usa-graph/ontology#affectedBy> <https://github.com/john1hsu/usa-graph/id/freedmens-bureau> .
   <https://github.com/john1hsu/usa-graph/id/african-americans> <https://github.com/john1hsu/usa-graph/ontology#affectedBy> <https://github.com/john1hsu/usa-graph/id/great-depression> .
+  <https://github.com/john1hsu/usa-graph/id/african-americans> <https://github.com/john1hsu/usa-graph/ontology#affectedBy> <https://github.com/john1hsu/usa-graph/id/great-recession> .
   <https://github.com/john1hsu/usa-graph/id/african-americans> <https://github.com/john1hsu/usa-graph/ontology#affectedBy> <https://github.com/john1hsu/usa-graph/id/jim-crow-laws> .
   <https://github.com/john1hsu/usa-graph/id/african-americans> <https://github.com/john1hsu/usa-graph/ontology#affectedBy> <https://github.com/john1hsu/usa-graph/id/new-deal> .
   <https://github.com/john1hsu/usa-graph/id/african-americans> <https://github.com/john1hsu/usa-graph/ontology#affectedBy> <https://github.com/john1hsu/usa-graph/id/reconstruction-era> .
@@ -27622,6 +27868,7 @@
   <https://github.com/john1hsu/usa-graph/id/american-national-identity> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/star-spangled-banner> .
   <https://github.com/john1hsu/usa-graph/id/american-poetry> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/usa-graph/id/chinese-detention-barracks-poetry> .
   <https://github.com/john1hsu/usa-graph/id/american-poetry> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/chinese-detention-barracks-poetry> .
+  <https://github.com/john1hsu/usa-graph/id/american-recovery-and-reinvestment-act-of-2009> <https://github.com/john1hsu/usa-graph/ontology#resultedFrom> <https://github.com/john1hsu/usa-graph/id/great-recession> .
   <https://github.com/john1hsu/usa-graph/id/american-revolutionary-war/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/american-revolutionary-war/review/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/american-revolutionary-war/review/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
@@ -27910,6 +28157,7 @@
   <https://github.com/john1hsu/usa-graph/id/barack-obama> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Person> .
   <https://github.com/john1hsu/usa-graph/id/barack-obama> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/affordable-care-act> .
   <https://github.com/john1hsu/usa-graph/id/barack-obama> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/deepwater-horizon-oil-spill> .
+  <https://github.com/john1hsu/usa-graph/id/barack-obama> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/great-recession> .
   <https://github.com/john1hsu/usa-graph/id/barack-obama> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/war-in-afghanistan> .
   <https://github.com/john1hsu/usa-graph/id/barack-obama> <https://github.com/john1hsu/usa-graph/ontology#signed> <https://github.com/john1hsu/usa-graph/id/affordable-care-act> .
   <https://github.com/john1hsu/usa-graph/id/barron-v-baltimore> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/due-process> .
@@ -28691,6 +28939,7 @@
   <https://github.com/john1hsu/usa-graph/id/constitutional-convention> <https://github.com/john1hsu/usa-graph/ontology#requires> <https://github.com/john1hsu/usa-graph/id/declaration-of-independence> .
   <https://github.com/john1hsu/usa-graph/id/constitutional-convention> <https://github.com/john1hsu/usa-graph/ontology#requires> <https://github.com/john1hsu/usa-graph/id/thirteen-colonies> .
   <https://github.com/john1hsu/usa-graph/id/constitutional-convention> <https://github.com/john1hsu/usa-graph/ontology#resultedFrom> <https://github.com/john1hsu/usa-graph/id/articles-of-confederation> .
+  <https://github.com/john1hsu/usa-graph/id/consumer-financial-protection-bureau> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/great-recession> .
   <https://github.com/john1hsu/usa-graph/id/containment> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/cold-war> .
   <https://github.com/john1hsu/usa-graph/id/continental-army> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/american-revolutionary-war> .
   <https://github.com/john1hsu/usa-graph/id/continental-army> <https://github.com/john1hsu/usa-graph/ontology#resultedFrom> <https://github.com/john1hsu/usa-graph/id/second-continental-congress> .
@@ -28960,6 +29209,7 @@
   <https://github.com/john1hsu/usa-graph/id/detroit> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Place> .
   <https://github.com/john1hsu/usa-graph/id/detroit> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/usa-graph/id/the-midwest> .
   <https://github.com/john1hsu/usa-graph/id/detroit> <https://github.com/john1hsu/usa-graph/ontology#siteOf> <https://github.com/john1hsu/usa-graph/id/detroit-race-riot-of-1943> .
+  <https://github.com/john1hsu/usa-graph/id/dodd-frank-act> <https://github.com/john1hsu/usa-graph/ontology#resultedFrom> <https://github.com/john1hsu/usa-graph/id/great-recession> .
   <https://github.com/john1hsu/usa-graph/id/dolley-madison> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/james-madison> .
   <https://github.com/john1hsu/usa-graph/id/dolores-huerta> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/california> .
   <https://github.com/john1hsu/usa-graph/id/dolores-huerta> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/labor-movement> .
@@ -29101,6 +29351,7 @@
   <https://github.com/john1hsu/usa-graph/id/earthquakes-in-the-united-states> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/1964-alaska-earthquake> .
   <https://github.com/john1hsu/usa-graph/id/eastern-shoshone-tribe> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/wyoming> .
   <https://github.com/john1hsu/usa-graph/id/economic-history-of-the-united-states> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/usa-graph/id/great-depression> .
+  <https://github.com/john1hsu/usa-graph/id/economic-history-of-the-united-states> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/usa-graph/id/great-recession> .
   <https://github.com/john1hsu/usa-graph/id/economic-history-of-the-united-states> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/usa-graph/id/labor-movement> .
   <https://github.com/john1hsu/usa-graph/id/economic-history-of-the-united-states> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/usa-graph/id/new-deal> .
   <https://github.com/john1hsu/usa-graph/id/economic-history-of-the-united-states> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/usa-graph/id/panic-of-1873> .
@@ -29108,6 +29359,7 @@
   <https://github.com/john1hsu/usa-graph/id/economic-history-of-the-united-states> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/usa-graph/id/telegraph> .
   <https://github.com/john1hsu/usa-graph/id/economic-history-of-the-united-states> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/dust-bowl> .
   <https://github.com/john1hsu/usa-graph/id/economic-history-of-the-united-states> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/great-depression> .
+  <https://github.com/john1hsu/usa-graph/id/economic-history-of-the-united-states> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/great-recession> .
   <https://github.com/john1hsu/usa-graph/id/economic-history-of-the-united-states> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/hoover-dam> .
   <https://github.com/john1hsu/usa-graph/id/economic-history-of-the-united-states> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/labor-movement> .
   <https://github.com/john1hsu/usa-graph/id/economic-history-of-the-united-states> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/new-deal> .
@@ -29163,6 +29415,7 @@
   <https://github.com/john1hsu/usa-graph/id/emancipation-proclamation> <https://github.com/john1hsu/usa-graph/ontology#influenced> <https://github.com/john1hsu/usa-graph/id/thirteenth-amendment> .
   <https://github.com/john1hsu/usa-graph/id/emancipation-proclamation> <https://github.com/john1hsu/usa-graph/ontology#resultedFrom> <https://github.com/john1hsu/usa-graph/id/american-civil-war> .
   <https://github.com/john1hsu/usa-graph/id/embargo-act-of-1807> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/thomas-jefferson> .
+  <https://github.com/john1hsu/usa-graph/id/emergency-economic-stabilization-act-of-2008> <https://github.com/john1hsu/usa-graph/ontology#resultedFrom> <https://github.com/john1hsu/usa-graph/id/great-recession> .
   <https://github.com/john1hsu/usa-graph/id/enforcement-acts> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/fifteenth-amendment> .
   <https://github.com/john1hsu/usa-graph/id/enforcement-acts> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/reconstruction-era> .
   <https://github.com/john1hsu/usa-graph/id/enforcement-acts> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/susan-b-anthony> .
@@ -29216,6 +29469,7 @@
   <https://github.com/john1hsu/usa-graph/id/fair-labor-standards-act> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/new-deal> .
   <https://github.com/john1hsu/usa-graph/id/fair-labor-standards-act> <https://github.com/john1hsu/usa-graph/ontology#establishes> <https://github.com/john1hsu/usa-graph/id/minimum-wage> .
   <https://github.com/john1hsu/usa-graph/id/fair-labor-standards-act> <https://github.com/john1hsu/usa-graph/ontology#resultedFrom> <https://github.com/john1hsu/usa-graph/id/new-deal> .
+  <https://github.com/john1hsu/usa-graph/id/fannie-mae-and-freddie-mac> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/great-recession> .
   <https://github.com/john1hsu/usa-graph/id/farewell-address> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/george-washington> .
   <https://github.com/john1hsu/usa-graph/id/farewell-address> <https://github.com/john1hsu/usa-graph/ontology#influenced> <https://github.com/john1hsu/usa-graph/id/monroe-doctrine> .
   <https://github.com/john1hsu/usa-graph/id/farm-security-administration> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/okies> .
@@ -29246,7 +29500,9 @@
   <https://github.com/john1hsu/usa-graph/id/federal-indian-law> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/tribal-sovereignty> .
   <https://github.com/john1hsu/usa-graph/id/federal-reconstruction-and-development-planning-commission-for-alaska> <https://github.com/john1hsu/usa-graph/ontology#resultedFrom> <https://github.com/john1hsu/usa-graph/id/1964-alaska-earthquake> .
   <https://github.com/john1hsu/usa-graph/id/federal-reserve-system> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/great-depression> .
+  <https://github.com/john1hsu/usa-graph/id/federal-reserve-system> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/great-recession> .
   <https://github.com/john1hsu/usa-graph/id/federal-reserve-system> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/stock-market-crash-of-1929> .
+  <https://github.com/john1hsu/usa-graph/id/federal-reserve-system> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/great-recession> .
   <https://github.com/john1hsu/usa-graph/id/federal-trust-responsibility> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/dawes-act> .
   <https://github.com/john1hsu/usa-graph/id/federal-trust-responsibility> <https://github.com/john1hsu/usa-graph/ontology#resultedFrom> <https://github.com/john1hsu/usa-graph/id/cherokee-nation-v-georgia> .
   <https://github.com/john1hsu/usa-graph/id/federalism/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
@@ -29353,6 +29609,7 @@
   <https://github.com/john1hsu/usa-graph/id/fifth-amendment> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/mccarthyism> .
   <https://github.com/john1hsu/usa-graph/id/fifth-amendment> <https://github.com/john1hsu/usa-graph/ontology#establishes> <https://github.com/john1hsu/usa-graph/id/due-process> .
   <https://github.com/john1hsu/usa-graph/id/fifth-amendment> <https://github.com/john1hsu/usa-graph/ontology#interpretedIn> <https://github.com/john1hsu/usa-graph/id/dred-scott-v-sandford> .
+  <https://github.com/john1hsu/usa-graph/id/financial-crisis-inquiry-commission> <https://github.com/john1hsu/usa-graph/ontology#resultedFrom> <https://github.com/john1hsu/usa-graph/id/great-recession> .
   <https://github.com/john1hsu/usa-graph/id/first-continental-congress> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/second-continental-congress> .
   <https://github.com/john1hsu/usa-graph/id/first-inaugural-address-of-franklin-d-roosevelt> <https://github.com/john1hsu/usa-graph/ontology#introduces> <https://github.com/john1hsu/usa-graph/id/good-neighbor-policy> .
   <https://github.com/john1hsu/usa-graph/id/first-seminole-war> <https://github.com/john1hsu/usa-graph/ontology#participant> <https://github.com/john1hsu/usa-graph/id/andrew-jackson> .
@@ -29622,6 +29879,7 @@
   <https://github.com/john1hsu/usa-graph/id/george-f-kennan> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/cold-war> .
   <https://github.com/john1hsu/usa-graph/id/george-percy> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/starving-time> .
   <https://github.com/john1hsu/usa-graph/id/george-w-bush> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/department-of-homeland-security> .
+  <https://github.com/john1hsu/usa-graph/id/george-w-bush> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/great-recession> .
   <https://github.com/john1hsu/usa-graph/id/george-w-bush> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/september-11-attacks> .
   <https://github.com/john1hsu/usa-graph/id/george-w-bush> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/war-in-afghanistan> .
   <https://github.com/john1hsu/usa-graph/id/george-w-norris> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/house-of-representatives> .
@@ -29763,7 +30021,9 @@
   <https://github.com/john1hsu/usa-graph/id/great-depression> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/okies> .
   <https://github.com/john1hsu/usa-graph/id/great-depression> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/winged-figures-of-the-republic> .
   <https://github.com/john1hsu/usa-graph/id/great-depression> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/good-neighbor-policy> .
+  <https://github.com/john1hsu/usa-graph/id/great-depression> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/great-recession> .
   <https://github.com/john1hsu/usa-graph/id/great-depression> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/minimum-wage> .
+  <https://github.com/john1hsu/usa-graph/id/great-depression> <https://github.com/john1hsu/usa-graph/ontology#contrastsWith> <https://github.com/john1hsu/usa-graph/id/great-recession> .
   <https://github.com/john1hsu/usa-graph/id/great-depression> <https://github.com/john1hsu/usa-graph/ontology#periodOf> <https://github.com/john1hsu/usa-graph/id/dust-bowl> .
   <https://github.com/john1hsu/usa-graph/id/great-depression> <https://github.com/john1hsu/usa-graph/ontology#periodOf> <https://github.com/john1hsu/usa-graph/id/new-deal> .
   <https://github.com/john1hsu/usa-graph/id/great-depression> <https://github.com/john1hsu/usa-graph/ontology#periodOf> <https://github.com/john1hsu/usa-graph/id/stock-market-crash-of-1929> .
@@ -29809,6 +30069,30 @@
   <https://github.com/john1hsu/usa-graph/id/great-railroad-strike-of-1877> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/triangle-shirtwaist-factory-fire> .
   <https://github.com/john1hsu/usa-graph/id/great-railroad-strike-of-1877> <https://github.com/john1hsu/usa-graph/ontology#requires> <https://github.com/john1hsu/usa-graph/id/railroads-in-the-united-states> .
   <https://github.com/john1hsu/usa-graph/id/great-railroad-strike-of-1877> <https://github.com/john1hsu/usa-graph/ontology#resultedFrom> <https://github.com/john1hsu/usa-graph/id/panic-of-1873> .
+  <https://github.com/john1hsu/usa-graph/id/great-recession/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/great-recession/review/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/great-recession/review/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/great-recession/review/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/great-recession/timeline/10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/great-recession/timeline/11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/great-recession/timeline/12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/great-recession/timeline/13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/great-recession/timeline/14> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/great-recession/timeline/15> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/great-recession/timeline/16> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/great-recession/timeline/17> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/great-recession/timeline/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/great-recession/timeline/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/great-recession/timeline/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/great-recession/timeline/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/great-recession/timeline/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/great-recession/timeline/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/great-recession/timeline/7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/great-recession/timeline/8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/great-recession/timeline/9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/great-recession> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/great-recession> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Happening> .
+  <https://github.com/john1hsu/usa-graph/id/great-recession> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/usa-graph/id/economic-history-of-the-united-states> .
   <https://github.com/john1hsu/usa-graph/id/great-seal-masonic-origin-myth> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/great-seal-of-the-united-states> .
   <https://github.com/john1hsu/usa-graph/id/great-seal-of-the-united-states/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/great-seal-of-the-united-states/review/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
@@ -30040,6 +30324,7 @@
   <https://github.com/john1hsu/usa-graph/id/hiram-revels> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/fifteenth-amendment> .
   <https://github.com/john1hsu/usa-graph/id/hiram-revels> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/reconstruction-era> .
   <https://github.com/john1hsu/usa-graph/id/hiram-revels> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/united-states-congress> .
+  <https://github.com/john1hsu/usa-graph/id/hispanic-and-latino-americans> <https://github.com/john1hsu/usa-graph/ontology#affectedBy> <https://github.com/john1hsu/usa-graph/id/great-recession> .
   <https://github.com/john1hsu/usa-graph/id/historically-black-colleges-and-universities> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/african-americans> .
   <https://github.com/john1hsu/usa-graph/id/historically-black-colleges-and-universities> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/morrill-land-grant-college-act> .
   <https://github.com/john1hsu/usa-graph/id/historically-black-colleges-and-universities> <https://github.com/john1hsu/usa-graph/ontology#affectedBy> <https://github.com/john1hsu/usa-graph/id/servicemens-readjustment-act-of-1944> .
@@ -30693,6 +30978,7 @@
   <https://github.com/john1hsu/usa-graph/id/league-of-women-voters> <https://github.com/john1hsu/usa-graph/ontology#resultedFrom> <https://github.com/john1hsu/usa-graph/id/womens-suffrage-movement> .
   <https://github.com/john1hsu/usa-graph/id/lee-resolution> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/declaration-of-independence> .
   <https://github.com/john1hsu/usa-graph/id/lee-resolution> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/second-continental-congress> .
+  <https://github.com/john1hsu/usa-graph/id/lehman-brothers> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/great-recession> .
   <https://github.com/john1hsu/usa-graph/id/lenape> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/pennsylvania> .
   <https://github.com/john1hsu/usa-graph/id/lend-lease-act> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/world-war-ii-and-the-united-states> .
   <https://github.com/john1hsu/usa-graph/id/let-him-enforce-it-myth> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/andrew-jackson> .
@@ -31845,7 +32131,11 @@
   <https://github.com/john1hsu/usa-graph/id/populist-movement> <https://github.com/john1hsu/usa-graph/ontology#resultedFrom> <https://github.com/john1hsu/usa-graph/id/gilded-age> .
   <https://github.com/john1hsu/usa-graph/id/port-royal-experiment> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/gullah-geechee> .
   <https://github.com/john1hsu/usa-graph/id/port-royal-experiment> <https://github.com/john1hsu/usa-graph/ontology#participant> <https://github.com/john1hsu/usa-graph/id/gullah-geechee> .
+  <https://github.com/john1hsu/usa-graph/id/post-cold-war-united-states> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/post-cold-war-united-states> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Era> .
+  <https://github.com/john1hsu/usa-graph/id/post-cold-war-united-states> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Happening> .
   <https://github.com/john1hsu/usa-graph/id/post-cold-war-united-states> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/cold-war> .
+  <https://github.com/john1hsu/usa-graph/id/post-cold-war-united-states> <https://github.com/john1hsu/usa-graph/ontology#periodOf> <https://github.com/john1hsu/usa-graph/id/great-recession> .
   <https://github.com/john1hsu/usa-graph/id/potawatomi> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/chicago> .
   <https://github.com/john1hsu/usa-graph/id/potomac-river> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/chesapeake-bay> .
   <https://github.com/john1hsu/usa-graph/id/powhatan> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/chesapeake-bay> .
@@ -33092,6 +33382,7 @@
   <https://github.com/john1hsu/usa-graph/id/tribal-sovereignty> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/yellowstone-national-park> .
   <https://github.com/john1hsu/usa-graph/id/tribal-sovereignty> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/dawes-act> .
   <https://github.com/john1hsu/usa-graph/id/tripartite-pact> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/attack-on-pearl-harbor> .
+  <https://github.com/john1hsu/usa-graph/id/troubled-asset-relief-program> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/great-recession> .
   <https://github.com/john1hsu/usa-graph/id/truman-doctrine> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/cold-war> .
   <https://github.com/john1hsu/usa-graph/id/tukudika> <https://github.com/john1hsu/usa-graph/ontology#affectedBy> <https://github.com/john1hsu/usa-graph/id/yellowstone-national-park> .
   <https://github.com/john1hsu/usa-graph/id/tule-lake-segregation-center> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
@@ -33188,6 +33479,7 @@
   <https://github.com/john1hsu/usa-graph/id/united-states-congress> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/covid-19-pandemic-in-the-united-states> .
   <https://github.com/john1hsu/usa-graph/id/united-states-congress> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/department-of-homeland-security> .
   <https://github.com/john1hsu/usa-graph/id/united-states-congress> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/electoral-college> .
+  <https://github.com/john1hsu/usa-graph/id/united-states-congress> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/great-recession> .
   <https://github.com/john1hsu/usa-graph/id/united-states-congress> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/hayden-geological-survey-of-1871> .
   <https://github.com/john1hsu/usa-graph/id/united-states-congress> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/mcculloch-v-maryland> .
   <https://github.com/john1hsu/usa-graph/id/united-states-congress> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/mexican-american-war> .
@@ -33379,6 +33671,7 @@
   <https://github.com/john1hsu/usa-graph/id/united-states> <https://github.com/john1hsu/usa-graph/ontology#siteOf> <https://github.com/john1hsu/usa-graph/id/covid-19-pandemic-in-the-united-states> .
   <https://github.com/john1hsu/usa-graph/id/united-states> <https://github.com/john1hsu/usa-graph/ontology#siteOf> <https://github.com/john1hsu/usa-graph/id/gilded-age> .
   <https://github.com/john1hsu/usa-graph/id/united-states> <https://github.com/john1hsu/usa-graph/ontology#siteOf> <https://github.com/john1hsu/usa-graph/id/great-depression> .
+  <https://github.com/john1hsu/usa-graph/id/united-states> <https://github.com/john1hsu/usa-graph/ontology#siteOf> <https://github.com/john1hsu/usa-graph/id/great-recession> .
   <https://github.com/john1hsu/usa-graph/id/united-states> <https://github.com/john1hsu/usa-graph/ontology#siteOf> <https://github.com/john1hsu/usa-graph/id/japanese-american-incarceration> .
   <https://github.com/john1hsu/usa-graph/id/united-states> <https://github.com/john1hsu/usa-graph/ontology#siteOf> <https://github.com/john1hsu/usa-graph/id/mccarthyism> .
   <https://github.com/john1hsu/usa-graph/id/united-states> <https://github.com/john1hsu/usa-graph/ontology#siteOf> <https://github.com/john1hsu/usa-graph/id/reconstruction-era> .
