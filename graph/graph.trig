@@ -574,6 +574,17 @@
 <https://github.com/john1hsu/usa-graph/id/attack-on-pearl-harbor#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/attack-on-pearl-harbor/s9> .
 <https://github.com/john1hsu/usa-graph/id/attack-on-pearl-harbor#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/attack-on-pearl-harbor/s10> .
 <https://github.com/john1hsu/usa-graph/id/attack-on-pearl-harbor#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/attack-on-pearl-harbor/s11> .
+<https://github.com/john1hsu/usa-graph/id/detroit-race-riot-of-1943#graph> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity> .
+<https://github.com/john1hsu/usa-graph/id/detroit-race-riot-of-1943#graph> <http://purl.org/dc/terms/subject> <https://github.com/john1hsu/usa-graph/id/detroit-race-riot-of-1943> .
+<https://github.com/john1hsu/usa-graph/id/detroit-race-riot-of-1943#graph> <http://purl.org/dc/terms/source> "https://github.com/john1hsu/usa-graph/blob/main/articles/depression-and-world-war/detroit-race-riot-of-1943.md" .
+<https://github.com/john1hsu/usa-graph/id/detroit-race-riot-of-1943#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/detroit-race-riot-of-1943/s1> .
+<https://github.com/john1hsu/usa-graph/id/detroit-race-riot-of-1943#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/detroit-race-riot-of-1943/s2> .
+<https://github.com/john1hsu/usa-graph/id/detroit-race-riot-of-1943#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/detroit-race-riot-of-1943/s3> .
+<https://github.com/john1hsu/usa-graph/id/detroit-race-riot-of-1943#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/detroit-race-riot-of-1943/s4> .
+<https://github.com/john1hsu/usa-graph/id/detroit-race-riot-of-1943#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/detroit-race-riot-of-1943/s5> .
+<https://github.com/john1hsu/usa-graph/id/detroit-race-riot-of-1943#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/detroit-race-riot-of-1943/s6> .
+<https://github.com/john1hsu/usa-graph/id/detroit-race-riot-of-1943#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/detroit-race-riot-of-1943/s7> .
+<https://github.com/john1hsu/usa-graph/id/detroit-race-riot-of-1943#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/detroit-race-riot-of-1943/s8> .
 <https://github.com/john1hsu/usa-graph/id/dust-bowl#graph> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity> .
 <https://github.com/john1hsu/usa-graph/id/dust-bowl#graph> <http://purl.org/dc/terms/subject> <https://github.com/john1hsu/usa-graph/id/dust-bowl> .
 <https://github.com/john1hsu/usa-graph/id/dust-bowl#graph> <http://purl.org/dc/terms/source> "https://github.com/john1hsu/usa-graph/blob/main/articles/depression-and-world-war/dust-bowl.md" .
@@ -9912,6 +9923,144 @@
   <https://github.com/john1hsu/usa-graph/id/source/attack-on-pearl-harbor/s9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
   <https://github.com/john1hsu/usa-graph/id/source/attack-on-pearl-harbor/s9> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
   <https://github.com/john1hsu/usa-graph/id/source/attack-on-pearl-harbor/s9> <https://schema.org/url> <https://www.nps.gov/miin/learn/historyculture/pearl-harbor-and-executive-order-9066.htm> .
+}
+
+<https://github.com/john1hsu/usa-graph/id/detroit-race-riot-of-1943#graph> {
+  <https://github.com/john1hsu/usa-graph/id/detroit-race-riot-of-1943/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Misconception> .
+  <https://github.com/john1hsu/usa-graph/id/detroit-race-riot-of-1943/misconception> <https://github.com/john1hsu/usa-graph/ontology#fact> "The violence grew from a fight on Belle Isle and rumors that inflamed both Black and white crowds; white mobs beat Black people while police looked on, police killed 17 Black people and no white people, and about 85 percent of those arrested were Black. Contemporary analysts traced the riot to segregated, overcrowded housing, hate strikes against Black promotions and discriminatory policing." .
+  <https://github.com/john1hsu/usa-graph/id/detroit-race-riot-of-1943/misconception> <https://github.com/john1hsu/usa-graph/ontology#myth> "The 1943 riot was a Black uprising stirred up by \"agitators\" such as the NAACP and the Black press." .
+  <https://github.com/john1hsu/usa-graph/id/detroit-race-riot-of-1943/misconception> <https://github.com/john1hsu/usa-graph/ontology#why> "Detroit's prosecutor privately blamed the NAACP and the Black weekly Michigan Chronicle, and the governor's committee report put the onus on Black residents while sparing local authorities, so the official story shaped early memory of the event." .
+  <https://github.com/john1hsu/usa-graph/id/detroit-race-riot-of-1943/review/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+  <https://github.com/john1hsu/usa-graph/id/detroit-race-riot-of-1943/review/1> <http://www.w3.org/2000/01/rdf-schema#label> "How did wartime housing and jobs set the stage for the 1943 riot?" .
+  <https://github.com/john1hsu/usa-graph/id/detroit-race-riot-of-1943/review/1> <https://github.com/john1hsu/usa-graph/ontology#answer> "War work drew hundreds of thousands of migrants to Detroit, but Black residents were confined to crowded districts such as Paradise Valley and Black Bottom; white mobs fought Black families moving into the Sojourner Truth Homes in 1942, and white workers staged hate strikes against Black promotions, including a walkout of some 25,000 at Packard in June 1943." .
+  <https://github.com/john1hsu/usa-graph/id/detroit-race-riot-of-1943/review/1> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/detroit-race-riot-of-1943> .
+  <https://github.com/john1hsu/usa-graph/id/detroit-race-riot-of-1943/review/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+  <https://github.com/john1hsu/usa-graph/id/detroit-race-riot-of-1943/review/2> <http://www.w3.org/2000/01/rdf-schema#label> "Why did Black Detroiters see the official response to the riot as unjust?" .
+  <https://github.com/john1hsu/usa-graph/id/detroit-race-riot-of-1943/review/2> <https://github.com/john1hsu/usa-graph/ontology#answer> "Police killed 17 Black people and no white people, about 85 percent of those arrested were Black, police had watched white mobs beat Black men, and the governor's committee and the county prosecutor blamed Black residents and the NAACP rather than the conditions and police conduct behind the violence." .
+  <https://github.com/john1hsu/usa-graph/id/detroit-race-riot-of-1943/review/2> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/detroit-race-riot-of-1943> .
+  <https://github.com/john1hsu/usa-graph/id/detroit-race-riot-of-1943/review/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+  <https://github.com/john1hsu/usa-graph/id/detroit-race-riot-of-1943/review/3> <http://www.w3.org/2000/01/rdf-schema#label> "How did federal troops come to be used, and why did it take so long?" .
+  <https://github.com/john1hsu/usa-graph/id/detroit-race-riot-of-1943/review/3> <https://github.com/john1hsu/usa-graph/ontology#answer> "Black leaders pressed Mayor Jeffries to seek troops; Governor Kelly asked the President, who under the Constitution's domestic-violence guarantee first had to issue Proclamation 2588 ordering rioters to disperse, and the roughly 13-hour delay meant most of the killing and burning had already happened." .
+  <https://github.com/john1hsu/usa-graph/id/detroit-race-riot-of-1943/review/3> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/detroit-race-riot-of-1943> .
+  <https://github.com/john1hsu/usa-graph/id/detroit-race-riot-of-1943/timeline/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/detroit-race-riot-of-1943/timeline/1> <http://www.w3.org/2000/01/rdf-schema#label> "White crowds confront and turn back the first Black families moving into the federally funded Sojourner Truth Homes; the mayor postpones occupancy." .
+  <https://github.com/john1hsu/usa-graph/id/detroit-race-riot-of-1943/timeline/1> <https://github.com/john1hsu/usa-graph/ontology#date> "1942-02-28"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/detroit-race-riot-of-1943/timeline/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/detroit-race-riot-of-1943/timeline/2> <http://www.w3.org/2000/01/rdf-schema#label> "Black families move into Sojourner Truth Homes under the protection of more than 1,500 troopers and police." .
+  <https://github.com/john1hsu/usa-graph/id/detroit-race-riot-of-1943/timeline/2> <https://github.com/john1hsu/usa-graph/ontology#date> "1942-04-29"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/detroit-race-riot-of-1943/timeline/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/detroit-race-riot-of-1943/timeline/3> <http://www.w3.org/2000/01/rdf-schema#label> "White workers at Packard walk off the job to protest the promotion of three Black workers, one of several wartime 'hate strikes' in Detroit plants." .
+  <https://github.com/john1hsu/usa-graph/id/detroit-race-riot-of-1943/timeline/3> <https://github.com/john1hsu/usa-graph/ontology#date> "1943-06"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> .
+  <https://github.com/john1hsu/usa-graph/id/detroit-race-riot-of-1943/timeline/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/detroit-race-riot-of-1943/timeline/4> <http://www.w3.org/2000/01/rdf-schema#label> "On a hot Sunday with nearly 100,000 people on Belle Isle, fighting between Black and white youths breaks out; police quell it by about midnight." .
+  <https://github.com/john1hsu/usa-graph/id/detroit-race-riot-of-1943/timeline/4> <https://github.com/john1hsu/usa-graph/ontology#date> "1943-06-20"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/detroit-race-riot-of-1943/timeline/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/detroit-race-riot-of-1943/timeline/5> <http://www.w3.org/2000/01/rdf-schema#label> "Competing rumors spread overnight; Black crowds loot white-owned stores in Paradise Valley while white mobs on Woodward Avenue beat Black people and burn their cars." .
+  <https://github.com/john1hsu/usa-graph/id/detroit-race-riot-of-1943/timeline/5> <https://github.com/john1hsu/usa-graph/ontology#date> "1943-06-21"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/detroit-race-riot-of-1943/timeline/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/detroit-race-riot-of-1943/timeline/6> <http://www.w3.org/2000/01/rdf-schema#label> "At Governor Harry Kelly's request, President Roosevelt issues Proclamation 2588 and federal troops enter the city that evening." .
+  <https://github.com/john1hsu/usa-graph/id/detroit-race-riot-of-1943/timeline/6> <https://github.com/john1hsu/usa-graph/ontology#date> "1943-06-21"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/detroit-race-riot-of-1943/timeline/7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/detroit-race-riot-of-1943/timeline/7> <http://www.w3.org/2000/01/rdf-schema#label> "Governor Kelly's fact-finding committee issues its report, which critics call a whitewash of local authorities." .
+  <https://github.com/john1hsu/usa-graph/id/detroit-race-riot-of-1943/timeline/7> <https://github.com/john1hsu/usa-graph/ontology#date> "1943-08"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> .
+  <https://github.com/john1hsu/usa-graph/id/detroit-race-riot-of-1943> <http://purl.org/dc/terms/created> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/detroit-race-riot-of-1943> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Event> .
+  <https://github.com/john1hsu/usa-graph/id/detroit-race-riot-of-1943> <http://www.w3.org/2000/01/rdf-schema#label> "1943 Detroit race riot" .
+  <https://github.com/john1hsu/usa-graph/id/detroit-race-riot-of-1943> <http://www.w3.org/2004/02/skos/core#altLabel> "Belle Isle riot of 1943" .
+  <https://github.com/john1hsu/usa-graph/id/detroit-race-riot-of-1943> <http://www.w3.org/2004/02/skos/core#altLabel> "Detroit race riot of 1943" .
+  <https://github.com/john1hsu/usa-graph/id/detroit-race-riot-of-1943> <http://www.w3.org/2004/02/skos/core#altLabel> "Detroit riot of 1943" .
+  <https://github.com/john1hsu/usa-graph/id/detroit-race-riot-of-1943> <http://www.w3.org/2004/02/skos/core#altLabel> "Race Riot of 1943 (Detroit)" .
+  <https://github.com/john1hsu/usa-graph/id/detroit-race-riot-of-1943> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/usa-graph/id/american-home-front-during-world-war-ii> .
+  <https://github.com/john1hsu/usa-graph/id/detroit-race-riot-of-1943> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/usa-graph/id/race-riots-in-the-united-states> .
+  <https://github.com/john1hsu/usa-graph/id/detroit-race-riot-of-1943> <http://www.w3.org/2004/02/skos/core#definition> "Racial violence that began with fighting on Belle Isle on June 20, 1943, and spread across wartime Detroit until federal troops restored order on the night of June 21; 34 people died, 25 of them Black, and police killed 17 Black Detroiters and no white residents." .
+  <https://github.com/john1hsu/usa-graph/id/detroit-race-riot-of-1943> <http://www.w3.org/2004/02/skos/core#inScheme> <https://github.com/john1hsu/usa-graph/id/scheme/depression-and-world-war> .
+  <https://github.com/john1hsu/usa-graph/id/detroit-race-riot-of-1943> <http://www.w3.org/2004/02/skos/core#prefLabel> "1943 Detroit race riot" .
+  <https://github.com/john1hsu/usa-graph/id/detroit-race-riot-of-1943> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/african-americans> .
+  <https://github.com/john1hsu/usa-graph/id/detroit-race-riot-of-1943> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/coleman-young> .
+  <https://github.com/john1hsu/usa-graph/id/detroit-race-riot-of-1943> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/detroit-uprising-of-1967> .
+  <https://github.com/john1hsu/usa-graph/id/detroit-race-riot-of-1943> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/detroit> .
+  <https://github.com/john1hsu/usa-graph/id/detroit-race-riot-of-1943> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/franklin-d-roosevelt> .
+  <https://github.com/john1hsu/usa-graph/id/detroit-race-riot-of-1943> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/labor-movement> .
+  <https://github.com/john1hsu/usa-graph/id/detroit-race-riot-of-1943> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/naacp> .
+  <https://github.com/john1hsu/usa-graph/id/detroit-race-riot-of-1943> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/thurgood-marshall> .
+  <https://github.com/john1hsu/usa-graph/id/detroit-race-riot-of-1943> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/world-war-ii-and-the-united-states> .
+  <https://github.com/john1hsu/usa-graph/id/detroit-race-riot-of-1943> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/detroit-race-riot-of-1943/s1> .
+  <https://github.com/john1hsu/usa-graph/id/detroit-race-riot-of-1943> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/detroit-race-riot-of-1943/s2> .
+  <https://github.com/john1hsu/usa-graph/id/detroit-race-riot-of-1943> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/detroit-race-riot-of-1943/s3> .
+  <https://github.com/john1hsu/usa-graph/id/detroit-race-riot-of-1943> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/detroit-race-riot-of-1943/s4> .
+  <https://github.com/john1hsu/usa-graph/id/detroit-race-riot-of-1943> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/detroit-race-riot-of-1943/s5> .
+  <https://github.com/john1hsu/usa-graph/id/detroit-race-riot-of-1943> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/detroit-race-riot-of-1943/s6> .
+  <https://github.com/john1hsu/usa-graph/id/detroit-race-riot-of-1943> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/detroit-race-riot-of-1943/s7> .
+  <https://github.com/john1hsu/usa-graph/id/detroit-race-riot-of-1943> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/detroit-race-riot-of-1943/s8> .
+  <https://github.com/john1hsu/usa-graph/id/detroit-race-riot-of-1943> <https://github.com/john1hsu/usa-graph/ontology#domain> "depression-and-world-war" .
+  <https://github.com/john1hsu/usa-graph/id/detroit-race-riot-of-1943> <https://github.com/john1hsu/usa-graph/ontology#evidenceStatus> "established" .
+  <https://github.com/john1hsu/usa-graph/id/detroit-race-riot-of-1943> <https://github.com/john1hsu/usa-graph/ontology#file> "articles/depression-and-world-war/detroit-race-riot-of-1943.md" .
+  <https://github.com/john1hsu/usa-graph/id/detroit-race-riot-of-1943> <https://github.com/john1hsu/usa-graph/ontology#influencedBy> <https://github.com/john1hsu/usa-graph/id/great-migration> .
+  <https://github.com/john1hsu/usa-graph/id/detroit-race-riot-of-1943> <https://github.com/john1hsu/usa-graph/ontology#influencedBy> <https://github.com/john1hsu/usa-graph/id/packard-hate-strike-of-1943> .
+  <https://github.com/john1hsu/usa-graph/id/detroit-race-riot-of-1943> <https://github.com/john1hsu/usa-graph/ontology#influencedBy> <https://github.com/john1hsu/usa-graph/id/sojourner-truth-homes-controversy> .
+  <https://github.com/john1hsu/usa-graph/id/detroit-race-riot-of-1943> <https://github.com/john1hsu/usa-graph/ontology#ledTo> <https://github.com/john1hsu/usa-graph/id/detroit-interracial-committee> .
+  <https://github.com/john1hsu/usa-graph/id/detroit-race-riot-of-1943> <https://github.com/john1hsu/usa-graph/ontology#ledTo> <https://github.com/john1hsu/usa-graph/id/proclamation-2588> .
+  <https://github.com/john1hsu/usa-graph/id/detroit-race-riot-of-1943> <https://github.com/john1hsu/usa-graph/ontology#level> "introductory" .
+  <https://github.com/john1hsu/usa-graph/id/detroit-race-riot-of-1943> <https://github.com/john1hsu/usa-graph/ontology#misconception> <https://github.com/john1hsu/usa-graph/id/detroit-race-riot-of-1943/misconception> .
+  <https://github.com/john1hsu/usa-graph/id/detroit-race-riot-of-1943> <https://github.com/john1hsu/usa-graph/ontology#occurredIn> <https://github.com/john1hsu/usa-graph/id/detroit> .
+  <https://github.com/john1hsu/usa-graph/id/detroit-race-riot-of-1943> <https://github.com/john1hsu/usa-graph/ontology#requires> <https://github.com/john1hsu/usa-graph/id/world-war-ii-and-the-united-states> .
+  <https://github.com/john1hsu/usa-graph/id/detroit-race-riot-of-1943> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/detroit-race-riot-of-1943/timeline/1> .
+  <https://github.com/john1hsu/usa-graph/id/detroit-race-riot-of-1943> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/detroit-race-riot-of-1943/timeline/2> .
+  <https://github.com/john1hsu/usa-graph/id/detroit-race-riot-of-1943> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/detroit-race-riot-of-1943/timeline/3> .
+  <https://github.com/john1hsu/usa-graph/id/detroit-race-riot-of-1943> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/detroit-race-riot-of-1943/timeline/4> .
+  <https://github.com/john1hsu/usa-graph/id/detroit-race-riot-of-1943> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/detroit-race-riot-of-1943/timeline/5> .
+  <https://github.com/john1hsu/usa-graph/id/detroit-race-riot-of-1943> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/detroit-race-riot-of-1943/timeline/6> .
+  <https://github.com/john1hsu/usa-graph/id/detroit-race-riot-of-1943> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/detroit-race-riot-of-1943/timeline/7> .
+  <https://github.com/john1hsu/usa-graph/id/detroit-race-riot-of-1943> <https://schema.org/endDate> "1943-06-21"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/detroit-race-riot-of-1943> <https://schema.org/startDate> "1943-06-20"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/detroit-race-riot-of-1943/s1> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/detroit-race-riot-of-1943/s1> <http://purl.org/dc/terms/publisher> "Detroit Historical Society, Encyclopedia of Detroit" .
+  <https://github.com/john1hsu/usa-graph/id/source/detroit-race-riot-of-1943/s1> <http://purl.org/dc/terms/title> "Race Riot of 1943" .
+  <https://github.com/john1hsu/usa-graph/id/source/detroit-race-riot-of-1943/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/detroit-race-riot-of-1943/s1> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "museum" .
+  <https://github.com/john1hsu/usa-graph/id/source/detroit-race-riot-of-1943/s1> <https://schema.org/url> <https://detroithistorical.org/learn/encyclopedia-of-detroit/race-riot-1943> .
+  <https://github.com/john1hsu/usa-graph/id/source/detroit-race-riot-of-1943/s2> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/detroit-race-riot-of-1943/s2> <http://purl.org/dc/terms/publisher> "Walter P. Reuther Library, Archives of Labor and Urban Affairs, Wayne State University, \"Detroit's 12th Street\" exhibit" .
+  <https://github.com/john1hsu/usa-graph/id/source/detroit-race-riot-of-1943/s2> <http://purl.org/dc/terms/title> "1943 Race Riot" .
+  <https://github.com/john1hsu/usa-graph/id/source/detroit-race-riot-of-1943/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/detroit-race-riot-of-1943/s2> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "academic" .
+  <https://github.com/john1hsu/usa-graph/id/source/detroit-race-riot-of-1943/s2> <https://schema.org/url> <https://projects.library.wayne.edu/omeka-s/s/12th-street-detroit/page/1943-race-riot> .
+  <https://github.com/john1hsu/usa-graph/id/source/detroit-race-riot-of-1943/s3> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/detroit-race-riot-of-1943/s3> <http://purl.org/dc/terms/publisher> "Johanna Russ, Walter P. Reuther Library, Wayne State University" .
+  <https://github.com/john1hsu/usa-graph/id/source/detroit-race-riot-of-1943/s3> <http://purl.org/dc/terms/title> "The 1943 Detroit Race Riot" .
+  <https://github.com/john1hsu/usa-graph/id/source/detroit-race-riot-of-1943/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/detroit-race-riot-of-1943/s3> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "academic" .
+  <https://github.com/john1hsu/usa-graph/id/source/detroit-race-riot-of-1943/s3> <https://schema.org/url> <https://reuther.wayne.edu/node/8738> .
+  <https://github.com/john1hsu/usa-graph/id/source/detroit-race-riot-of-1943/s4> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/detroit-race-riot-of-1943/s4> <http://purl.org/dc/terms/publisher> "Franklin D. Roosevelt, via The American Presidency Project, UC Santa Barbara" .
+  <https://github.com/john1hsu/usa-graph/id/source/detroit-race-riot-of-1943/s4> <http://purl.org/dc/terms/title> "Proclamation 2588—Directing Detroit Race Rioters to Disperse" .
+  <https://github.com/john1hsu/usa-graph/id/source/detroit-race-riot-of-1943/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/detroit-race-riot-of-1943/s4> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "primary" .
+  <https://github.com/john1hsu/usa-graph/id/source/detroit-race-riot-of-1943/s4> <https://schema.org/url> <https://www.presidency.ucsb.edu/documents/proclamation-2588-directing-detroit-race-rioters-disperse> .
+  <https://github.com/john1hsu/usa-graph/id/source/detroit-race-riot-of-1943/s5> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/detroit-race-riot-of-1943/s5> <http://purl.org/dc/terms/publisher> "Earl Brown, Public Affairs Committee, 1944, via Distant Reader (University of Notre Dame)" .
+  <https://github.com/john1hsu/usa-graph/id/source/detroit-race-riot-of-1943/s5> <http://purl.org/dc/terms/title> "Why Race Riots? Lessons from Detroit (Public Affairs Pamphlet No. 87)" .
+  <https://github.com/john1hsu/usa-graph/id/source/detroit-race-riot-of-1943/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/detroit-race-riot-of-1943/s5> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "primary" .
+  <https://github.com/john1hsu/usa-graph/id/source/detroit-race-riot-of-1943/s5> <https://schema.org/url> <https://distantreader.org/stacks/pamphlets/pdf/005456904.pdf> .
+  <https://github.com/john1hsu/usa-graph/id/source/detroit-race-riot-of-1943/s6> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/detroit-race-riot-of-1943/s6> <http://purl.org/dc/terms/publisher> "Michigan Advance" .
+  <https://github.com/john1hsu/usa-graph/id/source/detroit-race-riot-of-1943/s6> <http://purl.org/dc/terms/title> "On this day in 1942: Black families move into Detroit housing after protests from white residents" .
+  <https://github.com/john1hsu/usa-graph/id/source/detroit-race-riot-of-1943/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/detroit-race-riot-of-1943/s6> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "news" .
+  <https://github.com/john1hsu/usa-graph/id/source/detroit-race-riot-of-1943/s6> <https://schema.org/url> <https://michiganadvance.com/2023/04/29/on-this-day-in-1942-black-families-move-into-detroit-housing-after-protests-from-white-residents/> .
+  <https://github.com/john1hsu/usa-graph/id/source/detroit-race-riot-of-1943/s7> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/detroit-race-riot-of-1943/s7> <http://purl.org/dc/terms/publisher> "MotorCities National Heritage Area and Charles H. Wright Museum of African American History, Making Tracks" .
+  <https://github.com/john1hsu/usa-graph/id/source/detroit-race-riot-of-1943/s7> <http://purl.org/dc/terms/title> "1943 Packard Motor Company strike" .
+  <https://github.com/john1hsu/usa-graph/id/source/detroit-race-riot-of-1943/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/detroit-race-riot-of-1943/s7> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "institutional" .
+  <https://github.com/john1hsu/usa-graph/id/source/detroit-race-riot-of-1943/s7> <https://schema.org/url> <https://www.motorcities.org/images/making_tracks/1943-Packard-Motor-Company-strike.pdf> .
+  <https://github.com/john1hsu/usa-graph/id/source/detroit-race-riot-of-1943/s8> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/detroit-race-riot-of-1943/s8> <http://purl.org/dc/terms/publisher> "Michigan Public (Stateside)" .
+  <https://github.com/john1hsu/usa-graph/id/source/detroit-race-riot-of-1943/s8> <http://purl.org/dc/terms/title> "1943 race riots paved the way for Detroit's civil rights movement" .
+  <https://github.com/john1hsu/usa-graph/id/source/detroit-race-riot-of-1943/s8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/detroit-race-riot-of-1943/s8> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "news" .
+  <https://github.com/john1hsu/usa-graph/id/source/detroit-race-riot-of-1943/s8> <https://schema.org/url> <https://www.michiganpublic.org/arts-culture/2018-06-22/1943-race-riots-paved-the-way-for-detroits-civil-rights-movement> .
 }
 
 <https://github.com/john1hsu/usa-graph/id/dust-bowl#graph> {
@@ -26115,6 +26264,7 @@
   <https://github.com/john1hsu/usa-graph/id/african-americans> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/usa-graph/id/gullah-geechee> .
   <https://github.com/john1hsu/usa-graph/id/african-americans> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/gullah-geechee> .
   <https://github.com/john1hsu/usa-graph/id/african-americans> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/chesapeake-bay> .
+  <https://github.com/john1hsu/usa-graph/id/african-americans> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/detroit-race-riot-of-1943> .
   <https://github.com/john1hsu/usa-graph/id/african-americans> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/detroit> .
   <https://github.com/john1hsu/usa-graph/id/african-americans> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/hip-hop> .
   <https://github.com/john1hsu/usa-graph/id/african-americans> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/hoover-dam> .
@@ -26240,6 +26390,8 @@
   <https://github.com/john1hsu/usa-graph/id/american-equal-rights-association> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/womens-suffrage-movement> .
   <https://github.com/john1hsu/usa-graph/id/american-equal-rights-association> <https://github.com/john1hsu/usa-graph/ontology#hasMember> <https://github.com/john1hsu/usa-graph/id/susan-b-anthony> .
   <https://github.com/john1hsu/usa-graph/id/american-frontier> <https://github.com/john1hsu/usa-graph/ontology#contrastsWith> <https://github.com/john1hsu/usa-graph/id/the-west> .
+  <https://github.com/john1hsu/usa-graph/id/american-home-front-during-world-war-ii> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/usa-graph/id/detroit-race-riot-of-1943> .
+  <https://github.com/john1hsu/usa-graph/id/american-home-front-during-world-war-ii> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/detroit-race-riot-of-1943> .
   <https://github.com/john1hsu/usa-graph/id/american-indian-movement> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/native-americans> .
   <https://github.com/john1hsu/usa-graph/id/american-legion> <https://github.com/john1hsu/usa-graph/ontology#influenced> <https://github.com/john1hsu/usa-graph/id/servicemens-readjustment-act-of-1944> .
   <https://github.com/john1hsu/usa-graph/id/american-national-identity> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/usa-graph/id/national-symbols-of-the-united-states> .
@@ -27175,6 +27327,7 @@
   <https://github.com/john1hsu/usa-graph/id/cold-war> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/lunar-laser-ranging-experiment> .
   <https://github.com/john1hsu/usa-graph/id/cold-war> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/mccarthyism> .
   <https://github.com/john1hsu/usa-graph/id/cold-war> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/nato> .
+  <https://github.com/john1hsu/usa-graph/id/coleman-young> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/detroit-race-riot-of-1943> .
   <https://github.com/john1hsu/usa-graph/id/coleman-young> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/detroit> .
   <https://github.com/john1hsu/usa-graph/id/college-park-airport> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/wright-company-school-of-aviation> .
   <https://github.com/john1hsu/usa-graph/id/colonial-marines> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/war-of-1812> .
@@ -27519,11 +27672,27 @@
   <https://github.com/john1hsu/usa-graph/id/desegregation-of-little-rock-central-high-school> <https://github.com/john1hsu/usa-graph/ontology#requires> <https://github.com/john1hsu/usa-graph/id/plessy-v-ferguson> .
   <https://github.com/john1hsu/usa-graph/id/desegregation-of-little-rock-central-high-school> <https://github.com/john1hsu/usa-graph/ontology#requires> <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> .
   <https://github.com/john1hsu/usa-graph/id/desegregation-of-little-rock-central-high-school> <https://github.com/john1hsu/usa-graph/ontology#requires> <https://github.com/john1hsu/usa-graph/id/thirteenth-amendment> .
-  <https://github.com/john1hsu/usa-graph/id/detroit-race-riot-of-1943> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/detroit> .
+  <https://github.com/john1hsu/usa-graph/id/detroit-interracial-committee> <https://github.com/john1hsu/usa-graph/ontology#resultedFrom> <https://github.com/john1hsu/usa-graph/id/detroit-race-riot-of-1943> .
+  <https://github.com/john1hsu/usa-graph/id/detroit-race-riot-of-1943/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/detroit-race-riot-of-1943/review/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/detroit-race-riot-of-1943/review/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/detroit-race-riot-of-1943/review/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/detroit-race-riot-of-1943/timeline/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/detroit-race-riot-of-1943/timeline/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/detroit-race-riot-of-1943/timeline/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/detroit-race-riot-of-1943/timeline/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/detroit-race-riot-of-1943/timeline/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/detroit-race-riot-of-1943/timeline/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/detroit-race-riot-of-1943/timeline/7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/detroit-race-riot-of-1943> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/detroit-race-riot-of-1943> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Happening> .
+  <https://github.com/john1hsu/usa-graph/id/detroit-race-riot-of-1943> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/usa-graph/id/american-home-front-during-world-war-ii> .
+  <https://github.com/john1hsu/usa-graph/id/detroit-race-riot-of-1943> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/usa-graph/id/race-riots-in-the-united-states> .
   <https://github.com/john1hsu/usa-graph/id/detroit-river> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/detroit-river> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Place> .
   <https://github.com/john1hsu/usa-graph/id/detroit-river> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/detroit> .
   <https://github.com/john1hsu/usa-graph/id/detroit-river> <https://github.com/john1hsu/usa-graph/ontology#borders> <https://github.com/john1hsu/usa-graph/id/detroit> .
+  <https://github.com/john1hsu/usa-graph/id/detroit-uprising-of-1967> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/detroit-race-riot-of-1943> .
   <https://github.com/john1hsu/usa-graph/id/detroit-uprising-of-1967> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/detroit> .
   <https://github.com/john1hsu/usa-graph/id/detroit/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/detroit/review/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
@@ -27551,6 +27720,7 @@
   <https://github.com/john1hsu/usa-graph/id/detroit> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/detroit> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Place> .
   <https://github.com/john1hsu/usa-graph/id/detroit> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/usa-graph/id/the-midwest> .
+  <https://github.com/john1hsu/usa-graph/id/detroit> <https://github.com/john1hsu/usa-graph/ontology#siteOf> <https://github.com/john1hsu/usa-graph/id/detroit-race-riot-of-1943> .
   <https://github.com/john1hsu/usa-graph/id/dolley-madison> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/james-madison> .
   <https://github.com/john1hsu/usa-graph/id/dolores-huerta> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/california> .
   <https://github.com/john1hsu/usa-graph/id/domestic-slave-trade> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/new-orleans> .
@@ -28074,6 +28244,7 @@
   <https://github.com/john1hsu/usa-graph/id/franklin-d-roosevelt/timeline/9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/franklin-d-roosevelt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/franklin-d-roosevelt> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/usa-graph/id/presidents-of-the-united-states> .
+  <https://github.com/john1hsu/usa-graph/id/franklin-d-roosevelt> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/detroit-race-riot-of-1943> .
   <https://github.com/john1hsu/usa-graph/id/franklin-d-roosevelt> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/detroit> .
   <https://github.com/john1hsu/usa-graph/id/franklin-d-roosevelt> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/dust-bowl> .
   <https://github.com/john1hsu/usa-graph/id/franklin-d-roosevelt> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/great-seal-of-the-united-states> .
@@ -28345,6 +28516,7 @@
   <https://github.com/john1hsu/usa-graph/id/great-migration> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/chicago> .
   <https://github.com/john1hsu/usa-graph/id/great-migration> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/detroit> .
   <https://github.com/john1hsu/usa-graph/id/great-migration> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/okies> .
+  <https://github.com/john1hsu/usa-graph/id/great-migration> <https://github.com/john1hsu/usa-graph/ontology#influenced> <https://github.com/john1hsu/usa-graph/id/detroit-race-riot-of-1943> .
   <https://github.com/john1hsu/usa-graph/id/great-migration> <https://github.com/john1hsu/usa-graph/ontology#participant> <https://github.com/john1hsu/usa-graph/id/african-americans> .
   <https://github.com/john1hsu/usa-graph/id/great-mississippi-flood-of-1927> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/mississippi-river> .
   <https://github.com/john1hsu/usa-graph/id/great-plains> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
@@ -29145,6 +29317,7 @@
   <https://github.com/john1hsu/usa-graph/id/labor-law-in-the-united-states> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/usa-graph/id/minimum-wage> .
   <https://github.com/john1hsu/usa-graph/id/labor-law-in-the-united-states> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/minimum-wage> .
   <https://github.com/john1hsu/usa-graph/id/labor-law-in-the-united-states> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/triangle-shirtwaist-factory-fire> .
+  <https://github.com/john1hsu/usa-graph/id/labor-movement> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/detroit-race-riot-of-1943> .
   <https://github.com/john1hsu/usa-graph/id/labor-movement> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/detroit> .
   <https://github.com/john1hsu/usa-graph/id/labor-movement> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/lattimer-massacre> .
   <https://github.com/john1hsu/usa-graph/id/labor-movement> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/panic-of-1873> .
@@ -29761,6 +29934,7 @@
   <https://github.com/john1hsu/usa-graph/id/music-of-the-united-states> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/jazz> .
   <https://github.com/john1hsu/usa-graph/id/naacp-legal-defense-and-educational-fund> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/brown-v-board-of-education> .
   <https://github.com/john1hsu/usa-graph/id/naacp> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/civil-rights-movement> .
+  <https://github.com/john1hsu/usa-graph/id/naacp> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/detroit-race-riot-of-1943> .
   <https://github.com/john1hsu/usa-graph/id/nasa> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/apollo-11> .
   <https://github.com/john1hsu/usa-graph/id/nasa> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/lunar-laser-ranging-experiment> .
   <https://github.com/john1hsu/usa-graph/id/nat-turners-rebellion> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/abolitionism> .
@@ -30135,6 +30309,7 @@
   <https://github.com/john1hsu/usa-graph/id/pacific-ocean> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/pacific-ocean> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Place> .
   <https://github.com/john1hsu/usa-graph/id/pacific-ocean> <https://github.com/john1hsu/usa-graph/ontology#contains> <https://github.com/john1hsu/usa-graph/id/hawaii> .
+  <https://github.com/john1hsu/usa-graph/id/packard-hate-strike-of-1943> <https://github.com/john1hsu/usa-graph/ontology#influenced> <https://github.com/john1hsu/usa-graph/id/detroit-race-riot-of-1943> .
   <https://github.com/john1hsu/usa-graph/id/page-act-of-1875> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/chinese-americans> .
   <https://github.com/john1hsu/usa-graph/id/page-act-of-1875> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/chinese-exclusion-act> .
   <https://github.com/john1hsu/usa-graph/id/panama-canal-expansion> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/gatun-locks> .
@@ -30382,6 +30557,7 @@
   <https://github.com/john1hsu/usa-graph/id/presidents-of-the-united-states> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/thomas-jefferson> .
   <https://github.com/john1hsu/usa-graph/id/presidents-of-the-united-states> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/presidency-of-the-united-states> .
   <https://github.com/john1hsu/usa-graph/id/prigg-v-pennsylvania> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/underground-railroad> .
+  <https://github.com/john1hsu/usa-graph/id/proclamation-2588> <https://github.com/john1hsu/usa-graph/ontology#resultedFrom> <https://github.com/john1hsu/usa-graph/id/detroit-race-riot-of-1943> .
   <https://github.com/john1hsu/usa-graph/id/progressive-era> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/progressive-era> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Era> .
   <https://github.com/john1hsu/usa-graph/id/progressive-era> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Happening> .
@@ -30409,6 +30585,8 @@
   <https://github.com/john1hsu/usa-graph/id/quakers> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/abolitionism> .
   <https://github.com/john1hsu/usa-graph/id/quakers> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/pennsylvania> .
   <https://github.com/john1hsu/usa-graph/id/quakers> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/underground-railroad> .
+  <https://github.com/john1hsu/usa-graph/id/race-riots-in-the-united-states> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/usa-graph/id/detroit-race-riot-of-1943> .
+  <https://github.com/john1hsu/usa-graph/id/race-riots-in-the-united-states> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/detroit-race-riot-of-1943> .
   <https://github.com/john1hsu/usa-graph/id/racial-and-ethnic-groups-in-the-united-states> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/usa-graph/id/african-americans> .
   <https://github.com/john1hsu/usa-graph/id/racial-and-ethnic-groups-in-the-united-states> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/usa-graph/id/chinese-americans> .
   <https://github.com/john1hsu/usa-graph/id/racial-and-ethnic-groups-in-the-united-states> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/usa-graph/id/native-americans> .
@@ -30882,6 +31060,7 @@
   <https://github.com/john1hsu/usa-graph/id/society-of-the-cincinnati> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/benjamin-franklin> .
   <https://github.com/john1hsu/usa-graph/id/soil-conservation-act-of-1935> <https://github.com/john1hsu/usa-graph/ontology#resultedFrom> <https://github.com/john1hsu/usa-graph/id/dust-bowl> .
   <https://github.com/john1hsu/usa-graph/id/soil-conservation-service> <https://github.com/john1hsu/usa-graph/ontology#resultedFrom> <https://github.com/john1hsu/usa-graph/id/dust-bowl> .
+  <https://github.com/john1hsu/usa-graph/id/sojourner-truth-homes-controversy> <https://github.com/john1hsu/usa-graph/ontology#influenced> <https://github.com/john1hsu/usa-graph/id/detroit-race-riot-of-1943> .
   <https://github.com/john1hsu/usa-graph/id/sojourner-truth/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/sojourner-truth/review/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/sojourner-truth/review/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
@@ -31413,6 +31592,7 @@
   <https://github.com/john1hsu/usa-graph/id/three-fifths-clause> <https://github.com/john1hsu/usa-graph/ontology#influenced> <https://github.com/john1hsu/usa-graph/id/electoral-college> .
   <https://github.com/john1hsu/usa-graph/id/three-fifths-compromise> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/federalist-papers> .
   <https://github.com/john1hsu/usa-graph/id/thurgood-marshall> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/brown-v-board-of-education> .
+  <https://github.com/john1hsu/usa-graph/id/thurgood-marshall> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/detroit-race-riot-of-1943> .
   <https://github.com/john1hsu/usa-graph/id/thurgood-marshall> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/supreme-court-of-the-united-states> .
   <https://github.com/john1hsu/usa-graph/id/tom-ridge> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/tom-ridge> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Person> .
@@ -32132,6 +32312,7 @@
   <https://github.com/john1hsu/usa-graph/id/world-war-ii-and-the-united-states> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/attack-on-pearl-harbor> .
   <https://github.com/john1hsu/usa-graph/id/world-war-ii-and-the-united-states> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/japanese-american-incarceration> .
   <https://github.com/john1hsu/usa-graph/id/world-war-ii-and-the-united-states> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/servicemens-readjustment-act-of-1944> .
+  <https://github.com/john1hsu/usa-graph/id/world-war-ii-and-the-united-states> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/detroit-race-riot-of-1943> .
   <https://github.com/john1hsu/usa-graph/id/world-war-ii-and-the-united-states> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/detroit> .
   <https://github.com/john1hsu/usa-graph/id/world-war-ii-and-the-united-states> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/good-neighbor-policy> .
   <https://github.com/john1hsu/usa-graph/id/world-war-ii-and-the-united-states> <https://github.com/john1hsu/usa-graph/ontology#hasPart> <https://github.com/john1hsu/usa-graph/id/attack-on-pearl-harbor> .
@@ -32139,6 +32320,7 @@
   <https://github.com/john1hsu/usa-graph/id/world-war-ii-and-the-united-states> <https://github.com/john1hsu/usa-graph/ontology#participant> <https://github.com/john1hsu/usa-graph/id/franklin-d-roosevelt> .
   <https://github.com/john1hsu/usa-graph/id/world-war-ii-and-the-united-states> <https://github.com/john1hsu/usa-graph/ontology#participant> <https://github.com/john1hsu/usa-graph/id/native-americans> .
   <https://github.com/john1hsu/usa-graph/id/world-war-ii-and-the-united-states> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/attack-on-pearl-harbor> .
+  <https://github.com/john1hsu/usa-graph/id/world-war-ii-and-the-united-states> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/detroit-race-riot-of-1943> .
   <https://github.com/john1hsu/usa-graph/id/world-war-ii-and-the-united-states> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/japanese-american-incarceration> .
   <https://github.com/john1hsu/usa-graph/id/world-war-ii-and-the-united-states> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/servicemens-readjustment-act-of-1944> .
   <https://github.com/john1hsu/usa-graph/id/world-war-ii> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/usa-graph/id/world-war-ii-and-the-united-states> .

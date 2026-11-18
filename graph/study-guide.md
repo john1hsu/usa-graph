@@ -803,6 +803,21 @@ Every review question (with its answer) and every myth-versus-fact in the graph,
 
 ## depression-and-world-war
 
+### [1943 Detroit race riot](../articles/depression-and-world-war/detroit-race-riot-of-1943.md) — Event
+
+| Myth | Fact |
+|---|---|
+| The 1943 riot was a Black uprising stirred up by "agitators" such as the NAACP and the Black press. | The violence grew from a fight on Belle Isle and rumors that inflamed both Black and white crowds; white mobs beat Black people while police looked on, police killed 17 Black people and no white people, and about 85 percent of those arrested were Black. Contemporary analysts traced the riot to segregated, overcrowded housing, hate strikes against Black promotions and discriminatory policing. |
+
+**Why it matters:** Detroit's prosecutor privately blamed the NAACP and the Black weekly Michigan Chronicle, and the governor's committee report put the onus on Black residents while sparing local authorities, so the official story shaped early memory of the event.
+
+- **Q:** How did wartime housing and jobs set the stage for the 1943 riot?
+  **A:** War work drew hundreds of thousands of migrants to Detroit, but Black residents were confined to crowded districts such as Paradise Valley and Black Bottom; white mobs fought Black families moving into the Sojourner Truth Homes in 1942, and white workers staged hate strikes against Black promotions, including a walkout of some 25,000 at Packard in June 1943.
+- **Q:** Why did Black Detroiters see the official response to the riot as unjust?
+  **A:** Police killed 17 Black people and no white people, about 85 percent of those arrested were Black, police had watched white mobs beat Black men, and the governor's committee and the county prosecutor blamed Black residents and the NAACP rather than the conditions and police conduct behind the violence.
+- **Q:** How did federal troops come to be used, and why did it take so long?
+  **A:** Black leaders pressed Mayor Jeffries to seek troops; Governor Kelly asked the President, who under the Constitution's domestic-violence guarantee first had to issue Proclamation 2588 ordering rioters to disperse, and the roughly 13-hour delay meant most of the killing and burning had already happened.
+
 ### [Attack on Pearl Harbor](../articles/depression-and-world-war/attack-on-pearl-harbor.md) — Conflict
 
 | Myth | Fact |
