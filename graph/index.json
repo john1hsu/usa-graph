@@ -1,5 +1,188 @@
 [
  {
+  "id": "us:1964-alaska-earthquake",
+  "title": "1964 Alaska earthquake",
+  "aliases": [
+   "Great Alaska Earthquake",
+   "Good Friday earthquake",
+   "1964 Prince William Sound earthquake"
+  ],
+  "type": "Event",
+  "domain": "geography-and-environment",
+  "level": "introductory",
+  "evidenceStatus": "established",
+  "file": "articles/geography-and-environment/1964-alaska-earthquake.md",
+  "created": "2026-11-18",
+  "summary": "A magnitude 9.2 megathrust earthquake that struck south-central Alaska on Good Friday, March 27, 1964—the largest earthquake ever recorded in the United States—whose landslides and tsunamis killed about 130 people from Alaska to California and whose study helped confirm how subduction zones work.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "us:earthquakes-in-the-united-states"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:alaska"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:anchorage"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:valdez"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:prince-william-sound"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:aleutian-trench"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:plate-tectonics"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:lyndon-b-johnson"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:hawaii"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:oregon"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:1906-san-francisco-earthquake"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:united-states-geological-survey"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:alutiiq"
+   },
+   {
+    "predicate": "uso:requires",
+    "object": "us:alaska"
+   },
+   {
+    "predicate": "uso:occurredIn",
+    "object": "us:alaska",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:occurredIn",
+    "object": "us:prince-william-sound",
+    "source": "s2",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:affected",
+    "object": "us:california",
+    "source": "s9",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:affected",
+    "object": "us:oregon",
+    "source": "s9",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:ledTo",
+    "object": "us:national-tsunami-warning-center",
+    "source": "s9",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:ledTo",
+    "object": "us:federal-reconstruction-and-development-planning-commission-for-alaska",
+    "source": "s8",
+    "confidence": "high"
+   }
+  ],
+  "start": "1964-03-27",
+  "end": "1964-03-27",
+  "review": [
+   {
+    "question": "Why did the 1964 earthquake have no large fault visible at the surface, and why did that matter for science?",
+    "answer": "It ruptured a subduction zone, where oceanic crust sinks beneath continental crust, so the slip happened deep below Prince William Sound. George Plafker's mapping of coastlines that rose and sank showed that pattern and gave some of the first real-world proof of tectonic plate movement."
+   },
+   {
+    "question": "How did the earthquake cause deaths as far away as California and Oregon?",
+    "answer": "Uplift of the sea floor generated a tsunami that crossed the Pacific in hours, killing 12 people at Crescent City, California, and four children at Beverly Beach, Oregon."
+   },
+   {
+    "question": "Why was the town of Valdez moved after the earthquake?",
+    "answer": "Old Valdez sat on water-saturated silt and sand; liquefaction triggered an underwater landslide that destroyed the waterfront and killed about 30 people, and geologists judged the site unstable, so the town was rebuilt on bedrock a few miles west near Mineral Creek."
+   },
+   {
+    "question": "What lasting warning and monitoring systems resulted from the earthquake?",
+    "answer": "A tsunami warning center was founded at Palmer, Alaska, in 1967 (now the National Tsunami Warning Center), and the USGS credits the event with spurring its Earthquake Hazards Program, the Alaska Earthquake Center and other monitoring networks."
+   }
+  ],
+  "timeline": [
+   {
+    "date": "1964-03-27",
+    "event": "At 5:36 p.m. local time the Aleutian megathrust ruptures beneath Prince William Sound; shaking lasts several minutes."
+   },
+   {
+    "date": "1964-03-27",
+    "event": "Underwater landslides collapse the Valdez waterfront and send waves into Seward, Whittier and Chenega; the Turnagain Heights slide destroys about 75 homes in Anchorage."
+   },
+   {
+    "date": "1964-03-27",
+    "event": "About four hours after the quake the open-ocean tsunami reaches Oregon; it kills four children at Beverly Beach and 12 people at Crescent City, California."
+   },
+   {
+    "date": "1964-03-28",
+    "event": "President Johnson declares Alaska a disaster area and directs federal agencies and the military to assist."
+   },
+   {
+    "date": "1964-04-02",
+    "event": "Executive Order 11150 creates the Federal Reconstruction and Development Planning Commission for Alaska."
+   },
+   {
+    "date": "1965",
+    "event": "USGS geologist George Plafker publishes his map of uplift and subsidence across south-central Alaska in Science."
+   },
+   {
+    "date": "1967",
+    "event": "The West Coast/Alaska Tsunami Warning Center is founded at Palmer because of the earthquake (renamed the National Tsunami Warning Center in 2013)."
+   },
+   {
+    "date": "1984",
+    "event": "Former residents of Chenega resettle at Chenega Bay on Evans Island, twenty years after the tsunami."
+   }
+  ],
+  "misconception": {
+   "myth": "Most of those killed in the 1964 Alaska earthquake died in collapsing buildings during the shaking.",
+   "fact": "The USGS attributes the large majority of deaths—about 119 to 122 of some 131—to tsunamis, many of them local waves raised by underwater landslides at places such as Valdez, Chenega and Seward rather than by the main ocean-crossing wave.",
+   "why": "Photographs of Anchorage's wrecked downtown and the Turnagain Heights slide dominate memory of the disaster, while the deadliest waves struck small coastal towns and Native villages within minutes, far from cameras."
+  },
+  "source_urls": [
+   "https://pubs.usgs.gov/publication/fs20143018",
+   "https://usgs.gov/centers/alaska-science-center/science/1964-great-alaska-earthquake-and-tsunami",
+   "https://earthquake.usgs.gov/earthquakes/statistics/events/alaska1964/largest_in_alaska.php",
+   "https://pubs.usgs.gov/publication/70010602",
+   "https://ready.alaska.gov/64Quake/History",
+   "https://www.mycg.uscg.mil/News/Article/2993041/the-long-blue-line-the-land-turned-to-liquidcoast-guard-operations-in-the-great/",
+   "https://presidency.ucsb.edu/documents/statement-the-president-the-earthquake-alaska",
+   "https://presidency.ucsb.edu/node/306562",
+   "https://oregonencyclopedia.org/articles/oregon_tsunami_hazard_mitigation_program",
+   "https://www.gi.alaska.edu/alaska-science-forum/when-valdez-moved-good-friday-earthquake",
+   "https://ictnews.org/archive/native-history-earthquake-devastates-native-village-of-chenega/",
+   "https://www.sciencenews.org/?p=22635"
+  ]
+ },
+ {
   "id": "us:abolitionism",
   "title": "Abolitionism",
   "aliases": [

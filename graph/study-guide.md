@@ -1235,6 +1235,23 @@ Every review question (with its answer) and every myth-versus-fact in the graph,
 
 ## geography-and-environment
 
+### [1964 Alaska earthquake](../articles/geography-and-environment/1964-alaska-earthquake.md) — Event
+
+| Myth | Fact |
+|---|---|
+| Most of those killed in the 1964 Alaska earthquake died in collapsing buildings during the shaking. | The USGS attributes the large majority of deaths—about 119 to 122 of some 131—to tsunamis, many of them local waves raised by underwater landslides at places such as Valdez, Chenega and Seward rather than by the main ocean-crossing wave. |
+
+**Why it matters:** Photographs of Anchorage's wrecked downtown and the Turnagain Heights slide dominate memory of the disaster, while the deadliest waves struck small coastal towns and Native villages within minutes, far from cameras.
+
+- **Q:** Why did the 1964 earthquake have no large fault visible at the surface, and why did that matter for science?
+  **A:** It ruptured a subduction zone, where oceanic crust sinks beneath continental crust, so the slip happened deep below Prince William Sound. George Plafker's mapping of coastlines that rose and sank showed that pattern and gave some of the first real-world proof of tectonic plate movement.
+- **Q:** How did the earthquake cause deaths as far away as California and Oregon?
+  **A:** Uplift of the sea floor generated a tsunami that crossed the Pacific in hours, killing 12 people at Crescent City, California, and four children at Beverly Beach, Oregon.
+- **Q:** Why was the town of Valdez moved after the earthquake?
+  **A:** Old Valdez sat on water-saturated silt and sand; liquefaction triggered an underwater landslide that destroyed the waterfront and killed about 30 people, and geologists judged the site unstable, so the town was rebuilt on bedrock a few miles west near Mineral Creek.
+- **Q:** What lasting warning and monitoring systems resulted from the earthquake?
+  **A:** A tsunami warning center was founded at Palmer, Alaska, in 1967 (now the National Tsunami Warning Center), and the USGS credits the event with spurring its Earthquake Hazards Program, the Alaska Earthquake Center and other monitoring networks.
+
 ### [Bureau of Ocean Energy Management](../articles/geography-and-environment/bureau-of-ocean-energy-management.md) — Institution
 
 | Myth | Fact |

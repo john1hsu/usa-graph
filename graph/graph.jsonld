@@ -14,6 +14,121 @@
  },
  "@graph": [
   {
+   "@id": "https://github.com/john1hsu/usa-graph/id/1964-alaska-earthquake/misconception",
+   "@type": "uso:Misconception",
+   "uso:fact": "The USGS attributes the large majority of deaths—about 119 to 122 of some 131—to tsunamis, many of them local waves raised by underwater landslides at places such as Valdez, Chenega and Seward rather than by the main ocean-crossing wave.",
+   "uso:myth": "Most of those killed in the 1964 Alaska earthquake died in collapsing buildings during the shaking.",
+   "uso:why": "Photographs of Anchorage's wrecked downtown and the Turnagain Heights slide dominate memory of the disaster, while the deadliest waves struck small coastal towns and Native villages within minutes, far from cameras."
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/1964-alaska-earthquake/review/1",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "Why did the 1964 earthquake have no large fault visible at the surface, and why did that matter for science?",
+   "uso:answer": "It ruptured a subduction zone, where oceanic crust sinks beneath continental crust, so the slip happened deep below Prince William Sound. George Plafker's mapping of coastlines that rose and sank showed that pattern and gave some of the first real-world proof of tectonic plate movement.",
+   "uso:questionFor": {
+    "@id": "us:1964-alaska-earthquake"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/1964-alaska-earthquake/review/2",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "How did the earthquake cause deaths as far away as California and Oregon?",
+   "uso:answer": "Uplift of the sea floor generated a tsunami that crossed the Pacific in hours, killing 12 people at Crescent City, California, and four children at Beverly Beach, Oregon.",
+   "uso:questionFor": {
+    "@id": "us:1964-alaska-earthquake"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/1964-alaska-earthquake/review/3",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "Why was the town of Valdez moved after the earthquake?",
+   "uso:answer": "Old Valdez sat on water-saturated silt and sand; liquefaction triggered an underwater landslide that destroyed the waterfront and killed about 30 people, and geologists judged the site unstable, so the town was rebuilt on bedrock a few miles west near Mineral Creek.",
+   "uso:questionFor": {
+    "@id": "us:1964-alaska-earthquake"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/1964-alaska-earthquake/review/4",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "What lasting warning and monitoring systems resulted from the earthquake?",
+   "uso:answer": "A tsunami warning center was founded at Palmer, Alaska, in 1967 (now the National Tsunami Warning Center), and the USGS credits the event with spurring its Earthquake Hazards Program, the Alaska Earthquake Center and other monitoring networks.",
+   "uso:questionFor": {
+    "@id": "us:1964-alaska-earthquake"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/1964-alaska-earthquake/timeline/1",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "At 5:36 p.m. local time the Aleutian megathrust ruptures beneath Prince William Sound; shaking lasts several minutes.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1964-03-27"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/1964-alaska-earthquake/timeline/2",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Underwater landslides collapse the Valdez waterfront and send waves into Seward, Whittier and Chenega; the Turnagain Heights slide destroys about 75 homes in Anchorage.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1964-03-27"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/1964-alaska-earthquake/timeline/3",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "About four hours after the quake the open-ocean tsunami reaches Oregon; it kills four children at Beverly Beach and 12 people at Crescent City, California.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1964-03-27"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/1964-alaska-earthquake/timeline/4",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "President Johnson declares Alaska a disaster area and directs federal agencies and the military to assist.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1964-03-28"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/1964-alaska-earthquake/timeline/5",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Executive Order 11150 creates the Federal Reconstruction and Development Planning Commission for Alaska.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1964-04-02"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/1964-alaska-earthquake/timeline/6",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "USGS geologist George Plafker publishes his map of uplift and subsidence across south-central Alaska in Science.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1965"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/1964-alaska-earthquake/timeline/7",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The West Coast/Alaska Tsunami Warning Center is founded at Palmer because of the earthquake (renamed the National Tsunami Warning Center in 2013).",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1967"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/1964-alaska-earthquake/timeline/8",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Former residents of Chenega resettle at Chenega Bay on Evans Island, twenty years after the tsunami.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1984"
+   }
+  },
+  {
    "@id": "https://github.com/john1hsu/usa-graph/id/abolitionism/misconception",
    "@type": "uso:Misconception",
    "uso:fact": "Abolitionists were a small minority whom most white Northerners disliked, and mobs attacked them in Boston, Philadelphia and Illinois; Black Americans, free and formerly enslaved, were central from the start, from the 1831 free Black convention and David Walker's Appeal to Frederick Douglass's lectures and writing.",
@@ -18000,6 +18115,174 @@
     "@type": "xsd:date",
     "@value": "1851-06-21"
    }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/1964-alaska-earthquake/s1",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "U.S. Geological Survey",
+   "dcterms:title": "The 1964 Great Alaska Earthquake and tsunamis: a modern perspective and enduring legacies (Fact Sheet 2014-3018)",
+   "schema:url": {
+    "@id": "https://pubs.usgs.gov/publication/fs20143018"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/1964-alaska-earthquake/s10",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "University of Alaska Fairbanks, Geophysical Institute (Ned Rozell, Alaska Science Forum, 1997)",
+   "dcterms:title": "When Valdez moved: the Good Friday earthquake",
+   "schema:url": {
+    "@id": "https://www.gi.alaska.edu/alaska-science-forum/when-valdez-moved-good-friday-earthquake"
+   },
+   "uso:sourceType": "academic"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/1964-alaska-earthquake/s11",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "ICT (Alysa Landry, 2014; updated 2025)",
+   "dcterms:title": "Native History: Earthquake Devastates Native Village of Chenega",
+   "schema:url": {
+    "@id": "https://ictnews.org/archive/native-history-earthquake-devastates-native-village-of-chenega/"
+   },
+   "uso:sourceType": "news"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/1964-alaska-earthquake/s12",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Science News (Emily DeMarco, 2017)",
+   "dcterms:title": "North America's largest recorded earthquake helped confirm plate tectonics",
+   "schema:url": {
+    "@id": "https://www.sciencenews.org/?p=22635"
+   },
+   "uso:sourceType": "magazine"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/1964-alaska-earthquake/s2",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "U.S. Geological Survey, Alaska Science Center",
+   "dcterms:title": "1964 Great Alaska Earthquake and Tsunami",
+   "schema:url": {
+    "@id": "https://usgs.gov/centers/alaska-science-center/science/1964-great-alaska-earthquake-and-tsunami"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/1964-alaska-earthquake/s3",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "U.S. Geological Survey, Earthquake Hazards Program",
+   "dcterms:title": "M9.2 Alaska Earthquake and Tsunami of March 27, 1964",
+   "schema:url": {
+    "@id": "https://earthquake.usgs.gov/earthquakes/statistics/events/alaska1964/largest_in_alaska.php"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/1964-alaska-earthquake/s4",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "George Plafker, Science 148, no. 3678 (1965), 1675–1687, doi:10.1126/science.148.3678.1675 (USGS Publications Warehouse record)",
+   "dcterms:title": "Tectonic deformation associated with the 1964 Alaska earthquake",
+   "schema:url": {
+    "@id": "https://pubs.usgs.gov/publication/70010602"
+   },
+   "uso:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/1964-alaska-earthquake/s5",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "State of Alaska, Division of Homeland Security and Emergency Management",
+   "dcterms:title": "1964 Great Alaska Earthquake: History",
+   "schema:url": {
+    "@id": "https://ready.alaska.gov/64Quake/History"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/1964-alaska-earthquake/s6",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "U.S. Coast Guard (Beth L. Crumley, Assistant Historian)",
+   "dcterms:title": "The Long Blue Line: The land turned to liquid—Coast Guard operations in the Great Alaska Earthquake",
+   "schema:url": {
+    "@id": "https://www.mycg.uscg.mil/News/Article/2993041/the-long-blue-line-the-land-turned-to-liquidcoast-guard-operations-in-the-great/"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/1964-alaska-earthquake/s7",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "The American Presidency Project, University of California, Santa Barbara",
+   "dcterms:title": "Statement by the President on the Earthquake in Alaska (March 28, 1964)",
+   "schema:url": {
+    "@id": "https://presidency.ucsb.edu/documents/statement-the-president-the-earthquake-alaska"
+   },
+   "uso:sourceType": "primary"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/1964-alaska-earthquake/s8",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "The American Presidency Project, University of California, Santa Barbara",
+   "dcterms:title": "Executive Order 11150—Establishing the Federal Reconstruction and Development Planning Commission for Alaska",
+   "schema:url": {
+    "@id": "https://presidency.ucsb.edu/node/306562"
+   },
+   "uso:sourceType": "primary"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/1964-alaska-earthquake/s9",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Oregon Encyclopedia (Oregon Historical Society)",
+   "dcterms:title": "Oregon Tsunami Hazard Mitigation Program",
+   "schema:url": {
+    "@id": "https://oregonencyclopedia.org/articles/oregon_tsunami_hazard_mitigation_program"
+   },
+   "uso:sourceType": "scholarly-encyclopedia"
   },
   {
    "@id": "https://github.com/john1hsu/usa-graph/id/source/abolitionism/s1",
@@ -41475,6 +41758,172 @@
     "@type": "xsd:date",
     "@value": "1886-08-20"
    }
+  },
+  {
+   "@id": "us:1964-alaska-earthquake",
+   "@type": "uso:Event",
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/1964-alaska-earthquake/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/1964-alaska-earthquake/s10"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/1964-alaska-earthquake/s11"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/1964-alaska-earthquake/s12"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/1964-alaska-earthquake/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/1964-alaska-earthquake/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/1964-alaska-earthquake/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/1964-alaska-earthquake/s5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/1964-alaska-earthquake/s6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/1964-alaska-earthquake/s7"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/1964-alaska-earthquake/s8"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/1964-alaska-earthquake/s9"
+    }
+   ],
+   "rdfs:label": "1964 Alaska earthquake",
+   "schema:endDate": {
+    "@type": "xsd:date",
+    "@value": "1964-03-27"
+   },
+   "schema:startDate": {
+    "@type": "xsd:date",
+    "@value": "1964-03-27"
+   },
+   "skos:altLabel": [
+    "1964 Prince William Sound earthquake",
+    "Good Friday earthquake",
+    "Great Alaska Earthquake"
+   ],
+   "skos:broader": {
+    "@id": "us:earthquakes-in-the-united-states"
+   },
+   "skos:definition": "A magnitude 9.2 megathrust earthquake that struck south-central Alaska on Good Friday, March 27, 1964—the largest earthquake ever recorded in the United States—whose landslides and tsunamis killed about 130 people from Alaska to California and whose study helped confirm how subduction zones work.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/usa-graph/id/scheme/geography-and-environment"
+   },
+   "skos:prefLabel": "1964 Alaska earthquake",
+   "skos:related": [
+    {
+     "@id": "us:1906-san-francisco-earthquake"
+    },
+    {
+     "@id": "us:alaska"
+    },
+    {
+     "@id": "us:aleutian-trench"
+    },
+    {
+     "@id": "us:alutiiq"
+    },
+    {
+     "@id": "us:anchorage"
+    },
+    {
+     "@id": "us:hawaii"
+    },
+    {
+     "@id": "us:lyndon-b-johnson"
+    },
+    {
+     "@id": "us:oregon"
+    },
+    {
+     "@id": "us:plate-tectonics"
+    },
+    {
+     "@id": "us:prince-william-sound"
+    },
+    {
+     "@id": "us:united-states-geological-survey"
+    },
+    {
+     "@id": "us:valdez"
+    }
+   ],
+   "uso:affected": [
+    {
+     "@id": "us:california"
+    },
+    {
+     "@id": "us:oregon"
+    }
+   ],
+   "uso:domain": "geography-and-environment",
+   "uso:evidenceStatus": "established",
+   "uso:file": "articles/geography-and-environment/1964-alaska-earthquake.md",
+   "uso:ledTo": [
+    {
+     "@id": "us:federal-reconstruction-and-development-planning-commission-for-alaska"
+    },
+    {
+     "@id": "us:national-tsunami-warning-center"
+    }
+   ],
+   "uso:level": "introductory",
+   "uso:misconception": {
+    "@id": "https://github.com/john1hsu/usa-graph/id/1964-alaska-earthquake/misconception"
+   },
+   "uso:occurredIn": [
+    {
+     "@id": "us:alaska"
+    },
+    {
+     "@id": "us:prince-william-sound"
+    }
+   ],
+   "uso:requires": {
+    "@id": "us:alaska"
+   },
+   "uso:timelineEntry": [
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/1964-alaska-earthquake/timeline/1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/1964-alaska-earthquake/timeline/2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/1964-alaska-earthquake/timeline/3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/1964-alaska-earthquake/timeline/4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/1964-alaska-earthquake/timeline/5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/1964-alaska-earthquake/timeline/6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/1964-alaska-earthquake/timeline/7"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/1964-alaska-earthquake/timeline/8"
+    }
+   ]
   },
   {
    "@id": "us:abolitionism",

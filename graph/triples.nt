@@ -1,3 +1,103 @@
+<https://github.com/john1hsu/usa-graph/id/1964-alaska-earthquake/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Misconception> .
+<https://github.com/john1hsu/usa-graph/id/1964-alaska-earthquake/misconception> <https://github.com/john1hsu/usa-graph/ontology#fact> "The USGS attributes the large majority of deaths—about 119 to 122 of some 131—to tsunamis, many of them local waves raised by underwater landslides at places such as Valdez, Chenega and Seward rather than by the main ocean-crossing wave." .
+<https://github.com/john1hsu/usa-graph/id/1964-alaska-earthquake/misconception> <https://github.com/john1hsu/usa-graph/ontology#myth> "Most of those killed in the 1964 Alaska earthquake died in collapsing buildings during the shaking." .
+<https://github.com/john1hsu/usa-graph/id/1964-alaska-earthquake/misconception> <https://github.com/john1hsu/usa-graph/ontology#why> "Photographs of Anchorage's wrecked downtown and the Turnagain Heights slide dominate memory of the disaster, while the deadliest waves struck small coastal towns and Native villages within minutes, far from cameras." .
+<https://github.com/john1hsu/usa-graph/id/1964-alaska-earthquake/review/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+<https://github.com/john1hsu/usa-graph/id/1964-alaska-earthquake/review/1> <http://www.w3.org/2000/01/rdf-schema#label> "Why did the 1964 earthquake have no large fault visible at the surface, and why did that matter for science?" .
+<https://github.com/john1hsu/usa-graph/id/1964-alaska-earthquake/review/1> <https://github.com/john1hsu/usa-graph/ontology#answer> "It ruptured a subduction zone, where oceanic crust sinks beneath continental crust, so the slip happened deep below Prince William Sound. George Plafker's mapping of coastlines that rose and sank showed that pattern and gave some of the first real-world proof of tectonic plate movement." .
+<https://github.com/john1hsu/usa-graph/id/1964-alaska-earthquake/review/1> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/1964-alaska-earthquake> .
+<https://github.com/john1hsu/usa-graph/id/1964-alaska-earthquake/review/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+<https://github.com/john1hsu/usa-graph/id/1964-alaska-earthquake/review/2> <http://www.w3.org/2000/01/rdf-schema#label> "How did the earthquake cause deaths as far away as California and Oregon?" .
+<https://github.com/john1hsu/usa-graph/id/1964-alaska-earthquake/review/2> <https://github.com/john1hsu/usa-graph/ontology#answer> "Uplift of the sea floor generated a tsunami that crossed the Pacific in hours, killing 12 people at Crescent City, California, and four children at Beverly Beach, Oregon." .
+<https://github.com/john1hsu/usa-graph/id/1964-alaska-earthquake/review/2> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/1964-alaska-earthquake> .
+<https://github.com/john1hsu/usa-graph/id/1964-alaska-earthquake/review/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+<https://github.com/john1hsu/usa-graph/id/1964-alaska-earthquake/review/3> <http://www.w3.org/2000/01/rdf-schema#label> "Why was the town of Valdez moved after the earthquake?" .
+<https://github.com/john1hsu/usa-graph/id/1964-alaska-earthquake/review/3> <https://github.com/john1hsu/usa-graph/ontology#answer> "Old Valdez sat on water-saturated silt and sand; liquefaction triggered an underwater landslide that destroyed the waterfront and killed about 30 people, and geologists judged the site unstable, so the town was rebuilt on bedrock a few miles west near Mineral Creek." .
+<https://github.com/john1hsu/usa-graph/id/1964-alaska-earthquake/review/3> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/1964-alaska-earthquake> .
+<https://github.com/john1hsu/usa-graph/id/1964-alaska-earthquake/review/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+<https://github.com/john1hsu/usa-graph/id/1964-alaska-earthquake/review/4> <http://www.w3.org/2000/01/rdf-schema#label> "What lasting warning and monitoring systems resulted from the earthquake?" .
+<https://github.com/john1hsu/usa-graph/id/1964-alaska-earthquake/review/4> <https://github.com/john1hsu/usa-graph/ontology#answer> "A tsunami warning center was founded at Palmer, Alaska, in 1967 (now the National Tsunami Warning Center), and the USGS credits the event with spurring its Earthquake Hazards Program, the Alaska Earthquake Center and other monitoring networks." .
+<https://github.com/john1hsu/usa-graph/id/1964-alaska-earthquake/review/4> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/1964-alaska-earthquake> .
+<https://github.com/john1hsu/usa-graph/id/1964-alaska-earthquake/timeline/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/1964-alaska-earthquake/timeline/1> <http://www.w3.org/2000/01/rdf-schema#label> "At 5:36 p.m. local time the Aleutian megathrust ruptures beneath Prince William Sound; shaking lasts several minutes." .
+<https://github.com/john1hsu/usa-graph/id/1964-alaska-earthquake/timeline/1> <https://github.com/john1hsu/usa-graph/ontology#date> "1964-03-27"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/1964-alaska-earthquake/timeline/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/1964-alaska-earthquake/timeline/2> <http://www.w3.org/2000/01/rdf-schema#label> "Underwater landslides collapse the Valdez waterfront and send waves into Seward, Whittier and Chenega; the Turnagain Heights slide destroys about 75 homes in Anchorage." .
+<https://github.com/john1hsu/usa-graph/id/1964-alaska-earthquake/timeline/2> <https://github.com/john1hsu/usa-graph/ontology#date> "1964-03-27"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/1964-alaska-earthquake/timeline/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/1964-alaska-earthquake/timeline/3> <http://www.w3.org/2000/01/rdf-schema#label> "About four hours after the quake the open-ocean tsunami reaches Oregon; it kills four children at Beverly Beach and 12 people at Crescent City, California." .
+<https://github.com/john1hsu/usa-graph/id/1964-alaska-earthquake/timeline/3> <https://github.com/john1hsu/usa-graph/ontology#date> "1964-03-27"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/1964-alaska-earthquake/timeline/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/1964-alaska-earthquake/timeline/4> <http://www.w3.org/2000/01/rdf-schema#label> "President Johnson declares Alaska a disaster area and directs federal agencies and the military to assist." .
+<https://github.com/john1hsu/usa-graph/id/1964-alaska-earthquake/timeline/4> <https://github.com/john1hsu/usa-graph/ontology#date> "1964-03-28"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/1964-alaska-earthquake/timeline/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/1964-alaska-earthquake/timeline/5> <http://www.w3.org/2000/01/rdf-schema#label> "Executive Order 11150 creates the Federal Reconstruction and Development Planning Commission for Alaska." .
+<https://github.com/john1hsu/usa-graph/id/1964-alaska-earthquake/timeline/5> <https://github.com/john1hsu/usa-graph/ontology#date> "1964-04-02"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/1964-alaska-earthquake/timeline/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/1964-alaska-earthquake/timeline/6> <http://www.w3.org/2000/01/rdf-schema#label> "USGS geologist George Plafker publishes his map of uplift and subsidence across south-central Alaska in Science." .
+<https://github.com/john1hsu/usa-graph/id/1964-alaska-earthquake/timeline/6> <https://github.com/john1hsu/usa-graph/ontology#date> "1965"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://github.com/john1hsu/usa-graph/id/1964-alaska-earthquake/timeline/7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/1964-alaska-earthquake/timeline/7> <http://www.w3.org/2000/01/rdf-schema#label> "The West Coast/Alaska Tsunami Warning Center is founded at Palmer because of the earthquake (renamed the National Tsunami Warning Center in 2013)." .
+<https://github.com/john1hsu/usa-graph/id/1964-alaska-earthquake/timeline/7> <https://github.com/john1hsu/usa-graph/ontology#date> "1967"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://github.com/john1hsu/usa-graph/id/1964-alaska-earthquake/timeline/8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/1964-alaska-earthquake/timeline/8> <http://www.w3.org/2000/01/rdf-schema#label> "Former residents of Chenega resettle at Chenega Bay on Evans Island, twenty years after the tsunami." .
+<https://github.com/john1hsu/usa-graph/id/1964-alaska-earthquake/timeline/8> <https://github.com/john1hsu/usa-graph/ontology#date> "1984"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://github.com/john1hsu/usa-graph/id/1964-alaska-earthquake> <http://purl.org/dc/terms/created> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/1964-alaska-earthquake> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Event> .
+<https://github.com/john1hsu/usa-graph/id/1964-alaska-earthquake> <http://www.w3.org/2000/01/rdf-schema#label> "1964 Alaska earthquake" .
+<https://github.com/john1hsu/usa-graph/id/1964-alaska-earthquake> <http://www.w3.org/2004/02/skos/core#altLabel> "1964 Prince William Sound earthquake" .
+<https://github.com/john1hsu/usa-graph/id/1964-alaska-earthquake> <http://www.w3.org/2004/02/skos/core#altLabel> "Good Friday earthquake" .
+<https://github.com/john1hsu/usa-graph/id/1964-alaska-earthquake> <http://www.w3.org/2004/02/skos/core#altLabel> "Great Alaska Earthquake" .
+<https://github.com/john1hsu/usa-graph/id/1964-alaska-earthquake> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/usa-graph/id/earthquakes-in-the-united-states> .
+<https://github.com/john1hsu/usa-graph/id/1964-alaska-earthquake> <http://www.w3.org/2004/02/skos/core#definition> "A magnitude 9.2 megathrust earthquake that struck south-central Alaska on Good Friday, March 27, 1964—the largest earthquake ever recorded in the United States—whose landslides and tsunamis killed about 130 people from Alaska to California and whose study helped confirm how subduction zones work." .
+<https://github.com/john1hsu/usa-graph/id/1964-alaska-earthquake> <http://www.w3.org/2004/02/skos/core#inScheme> <https://github.com/john1hsu/usa-graph/id/scheme/geography-and-environment> .
+<https://github.com/john1hsu/usa-graph/id/1964-alaska-earthquake> <http://www.w3.org/2004/02/skos/core#prefLabel> "1964 Alaska earthquake" .
+<https://github.com/john1hsu/usa-graph/id/1964-alaska-earthquake> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/1906-san-francisco-earthquake> .
+<https://github.com/john1hsu/usa-graph/id/1964-alaska-earthquake> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/alaska> .
+<https://github.com/john1hsu/usa-graph/id/1964-alaska-earthquake> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/aleutian-trench> .
+<https://github.com/john1hsu/usa-graph/id/1964-alaska-earthquake> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/alutiiq> .
+<https://github.com/john1hsu/usa-graph/id/1964-alaska-earthquake> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/anchorage> .
+<https://github.com/john1hsu/usa-graph/id/1964-alaska-earthquake> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/hawaii> .
+<https://github.com/john1hsu/usa-graph/id/1964-alaska-earthquake> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/lyndon-b-johnson> .
+<https://github.com/john1hsu/usa-graph/id/1964-alaska-earthquake> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/oregon> .
+<https://github.com/john1hsu/usa-graph/id/1964-alaska-earthquake> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/plate-tectonics> .
+<https://github.com/john1hsu/usa-graph/id/1964-alaska-earthquake> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/prince-william-sound> .
+<https://github.com/john1hsu/usa-graph/id/1964-alaska-earthquake> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/united-states-geological-survey> .
+<https://github.com/john1hsu/usa-graph/id/1964-alaska-earthquake> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/valdez> .
+<https://github.com/john1hsu/usa-graph/id/1964-alaska-earthquake> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/1964-alaska-earthquake/s10> .
+<https://github.com/john1hsu/usa-graph/id/1964-alaska-earthquake> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/1964-alaska-earthquake/s11> .
+<https://github.com/john1hsu/usa-graph/id/1964-alaska-earthquake> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/1964-alaska-earthquake/s12> .
+<https://github.com/john1hsu/usa-graph/id/1964-alaska-earthquake> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/1964-alaska-earthquake/s1> .
+<https://github.com/john1hsu/usa-graph/id/1964-alaska-earthquake> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/1964-alaska-earthquake/s2> .
+<https://github.com/john1hsu/usa-graph/id/1964-alaska-earthquake> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/1964-alaska-earthquake/s3> .
+<https://github.com/john1hsu/usa-graph/id/1964-alaska-earthquake> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/1964-alaska-earthquake/s4> .
+<https://github.com/john1hsu/usa-graph/id/1964-alaska-earthquake> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/1964-alaska-earthquake/s5> .
+<https://github.com/john1hsu/usa-graph/id/1964-alaska-earthquake> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/1964-alaska-earthquake/s6> .
+<https://github.com/john1hsu/usa-graph/id/1964-alaska-earthquake> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/1964-alaska-earthquake/s7> .
+<https://github.com/john1hsu/usa-graph/id/1964-alaska-earthquake> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/1964-alaska-earthquake/s8> .
+<https://github.com/john1hsu/usa-graph/id/1964-alaska-earthquake> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/1964-alaska-earthquake/s9> .
+<https://github.com/john1hsu/usa-graph/id/1964-alaska-earthquake> <https://github.com/john1hsu/usa-graph/ontology#affected> <https://github.com/john1hsu/usa-graph/id/california> .
+<https://github.com/john1hsu/usa-graph/id/1964-alaska-earthquake> <https://github.com/john1hsu/usa-graph/ontology#affected> <https://github.com/john1hsu/usa-graph/id/oregon> .
+<https://github.com/john1hsu/usa-graph/id/1964-alaska-earthquake> <https://github.com/john1hsu/usa-graph/ontology#domain> "geography-and-environment" .
+<https://github.com/john1hsu/usa-graph/id/1964-alaska-earthquake> <https://github.com/john1hsu/usa-graph/ontology#evidenceStatus> "established" .
+<https://github.com/john1hsu/usa-graph/id/1964-alaska-earthquake> <https://github.com/john1hsu/usa-graph/ontology#file> "articles/geography-and-environment/1964-alaska-earthquake.md" .
+<https://github.com/john1hsu/usa-graph/id/1964-alaska-earthquake> <https://github.com/john1hsu/usa-graph/ontology#ledTo> <https://github.com/john1hsu/usa-graph/id/federal-reconstruction-and-development-planning-commission-for-alaska> .
+<https://github.com/john1hsu/usa-graph/id/1964-alaska-earthquake> <https://github.com/john1hsu/usa-graph/ontology#ledTo> <https://github.com/john1hsu/usa-graph/id/national-tsunami-warning-center> .
+<https://github.com/john1hsu/usa-graph/id/1964-alaska-earthquake> <https://github.com/john1hsu/usa-graph/ontology#level> "introductory" .
+<https://github.com/john1hsu/usa-graph/id/1964-alaska-earthquake> <https://github.com/john1hsu/usa-graph/ontology#misconception> <https://github.com/john1hsu/usa-graph/id/1964-alaska-earthquake/misconception> .
+<https://github.com/john1hsu/usa-graph/id/1964-alaska-earthquake> <https://github.com/john1hsu/usa-graph/ontology#occurredIn> <https://github.com/john1hsu/usa-graph/id/alaska> .
+<https://github.com/john1hsu/usa-graph/id/1964-alaska-earthquake> <https://github.com/john1hsu/usa-graph/ontology#occurredIn> <https://github.com/john1hsu/usa-graph/id/prince-william-sound> .
+<https://github.com/john1hsu/usa-graph/id/1964-alaska-earthquake> <https://github.com/john1hsu/usa-graph/ontology#requires> <https://github.com/john1hsu/usa-graph/id/alaska> .
+<https://github.com/john1hsu/usa-graph/id/1964-alaska-earthquake> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/1964-alaska-earthquake/timeline/1> .
+<https://github.com/john1hsu/usa-graph/id/1964-alaska-earthquake> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/1964-alaska-earthquake/timeline/2> .
+<https://github.com/john1hsu/usa-graph/id/1964-alaska-earthquake> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/1964-alaska-earthquake/timeline/3> .
+<https://github.com/john1hsu/usa-graph/id/1964-alaska-earthquake> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/1964-alaska-earthquake/timeline/4> .
+<https://github.com/john1hsu/usa-graph/id/1964-alaska-earthquake> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/1964-alaska-earthquake/timeline/5> .
+<https://github.com/john1hsu/usa-graph/id/1964-alaska-earthquake> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/1964-alaska-earthquake/timeline/6> .
+<https://github.com/john1hsu/usa-graph/id/1964-alaska-earthquake> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/1964-alaska-earthquake/timeline/7> .
+<https://github.com/john1hsu/usa-graph/id/1964-alaska-earthquake> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/1964-alaska-earthquake/timeline/8> .
+<https://github.com/john1hsu/usa-graph/id/1964-alaska-earthquake> <https://schema.org/endDate> "1964-03-27"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/1964-alaska-earthquake> <https://schema.org/startDate> "1964-03-27"^^<http://www.w3.org/2001/XMLSchema#date> .
 <https://github.com/john1hsu/usa-graph/id/abolitionism/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Misconception> .
 <https://github.com/john1hsu/usa-graph/id/abolitionism/misconception> <https://github.com/john1hsu/usa-graph/ontology#fact> "Abolitionists were a small minority whom most white Northerners disliked, and mobs attacked them in Boston, Philadelphia and Illinois; Black Americans, free and formerly enslaved, were central from the start, from the 1831 free Black convention and David Walker's Appeal to Frederick Douglass's lectures and writing." .
 <https://github.com/john1hsu/usa-graph/id/abolitionism/misconception> <https://github.com/john1hsu/usa-graph/ontology#myth> "Abolitionism was a popular Northern cause, led by white reformers on behalf of enslaved people." .
@@ -13165,6 +13265,78 @@
 <https://github.com/john1hsu/usa-graph/id/sojourner-truth> <https://schema.org/deathDate> "1883-11-26"^^<http://www.w3.org/2001/XMLSchema#date> .
 <https://github.com/john1hsu/usa-graph/id/sojourner-truth> <https://schema.org/endDate> "1883-11-26"^^<http://www.w3.org/2001/XMLSchema#date> .
 <https://github.com/john1hsu/usa-graph/id/sojourner-truth> <https://schema.org/startDate> "1797"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://github.com/john1hsu/usa-graph/id/source/1964-alaska-earthquake/s10> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/1964-alaska-earthquake/s10> <http://purl.org/dc/terms/publisher> "University of Alaska Fairbanks, Geophysical Institute (Ned Rozell, Alaska Science Forum, 1997)" .
+<https://github.com/john1hsu/usa-graph/id/source/1964-alaska-earthquake/s10> <http://purl.org/dc/terms/title> "When Valdez moved: the Good Friday earthquake" .
+<https://github.com/john1hsu/usa-graph/id/source/1964-alaska-earthquake/s10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/1964-alaska-earthquake/s10> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/usa-graph/id/source/1964-alaska-earthquake/s10> <https://schema.org/url> <https://www.gi.alaska.edu/alaska-science-forum/when-valdez-moved-good-friday-earthquake> .
+<https://github.com/john1hsu/usa-graph/id/source/1964-alaska-earthquake/s11> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/1964-alaska-earthquake/s11> <http://purl.org/dc/terms/publisher> "ICT (Alysa Landry, 2014; updated 2025)" .
+<https://github.com/john1hsu/usa-graph/id/source/1964-alaska-earthquake/s11> <http://purl.org/dc/terms/title> "Native History: Earthquake Devastates Native Village of Chenega" .
+<https://github.com/john1hsu/usa-graph/id/source/1964-alaska-earthquake/s11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/1964-alaska-earthquake/s11> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "news" .
+<https://github.com/john1hsu/usa-graph/id/source/1964-alaska-earthquake/s11> <https://schema.org/url> <https://ictnews.org/archive/native-history-earthquake-devastates-native-village-of-chenega/> .
+<https://github.com/john1hsu/usa-graph/id/source/1964-alaska-earthquake/s12> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/1964-alaska-earthquake/s12> <http://purl.org/dc/terms/publisher> "Science News (Emily DeMarco, 2017)" .
+<https://github.com/john1hsu/usa-graph/id/source/1964-alaska-earthquake/s12> <http://purl.org/dc/terms/title> "North America's largest recorded earthquake helped confirm plate tectonics" .
+<https://github.com/john1hsu/usa-graph/id/source/1964-alaska-earthquake/s12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/1964-alaska-earthquake/s12> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "magazine" .
+<https://github.com/john1hsu/usa-graph/id/source/1964-alaska-earthquake/s12> <https://schema.org/url> <https://www.sciencenews.org/?p=22635> .
+<https://github.com/john1hsu/usa-graph/id/source/1964-alaska-earthquake/s1> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/1964-alaska-earthquake/s1> <http://purl.org/dc/terms/publisher> "U.S. Geological Survey" .
+<https://github.com/john1hsu/usa-graph/id/source/1964-alaska-earthquake/s1> <http://purl.org/dc/terms/title> "The 1964 Great Alaska Earthquake and tsunamis: a modern perspective and enduring legacies (Fact Sheet 2014-3018)" .
+<https://github.com/john1hsu/usa-graph/id/source/1964-alaska-earthquake/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/1964-alaska-earthquake/s1> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/usa-graph/id/source/1964-alaska-earthquake/s1> <https://schema.org/url> <https://pubs.usgs.gov/publication/fs20143018> .
+<https://github.com/john1hsu/usa-graph/id/source/1964-alaska-earthquake/s2> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/1964-alaska-earthquake/s2> <http://purl.org/dc/terms/publisher> "U.S. Geological Survey, Alaska Science Center" .
+<https://github.com/john1hsu/usa-graph/id/source/1964-alaska-earthquake/s2> <http://purl.org/dc/terms/title> "1964 Great Alaska Earthquake and Tsunami" .
+<https://github.com/john1hsu/usa-graph/id/source/1964-alaska-earthquake/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/1964-alaska-earthquake/s2> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/usa-graph/id/source/1964-alaska-earthquake/s2> <https://schema.org/url> <https://usgs.gov/centers/alaska-science-center/science/1964-great-alaska-earthquake-and-tsunami> .
+<https://github.com/john1hsu/usa-graph/id/source/1964-alaska-earthquake/s3> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/1964-alaska-earthquake/s3> <http://purl.org/dc/terms/publisher> "U.S. Geological Survey, Earthquake Hazards Program" .
+<https://github.com/john1hsu/usa-graph/id/source/1964-alaska-earthquake/s3> <http://purl.org/dc/terms/title> "M9.2 Alaska Earthquake and Tsunami of March 27, 1964" .
+<https://github.com/john1hsu/usa-graph/id/source/1964-alaska-earthquake/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/1964-alaska-earthquake/s3> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/usa-graph/id/source/1964-alaska-earthquake/s3> <https://schema.org/url> <https://earthquake.usgs.gov/earthquakes/statistics/events/alaska1964/largest_in_alaska.php> .
+<https://github.com/john1hsu/usa-graph/id/source/1964-alaska-earthquake/s4> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/1964-alaska-earthquake/s4> <http://purl.org/dc/terms/publisher> "George Plafker, Science 148, no. 3678 (1965), 1675–1687, doi:10.1126/science.148.3678.1675 (USGS Publications Warehouse record)" .
+<https://github.com/john1hsu/usa-graph/id/source/1964-alaska-earthquake/s4> <http://purl.org/dc/terms/title> "Tectonic deformation associated with the 1964 Alaska earthquake" .
+<https://github.com/john1hsu/usa-graph/id/source/1964-alaska-earthquake/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/1964-alaska-earthquake/s4> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/usa-graph/id/source/1964-alaska-earthquake/s4> <https://schema.org/url> <https://pubs.usgs.gov/publication/70010602> .
+<https://github.com/john1hsu/usa-graph/id/source/1964-alaska-earthquake/s5> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/1964-alaska-earthquake/s5> <http://purl.org/dc/terms/publisher> "State of Alaska, Division of Homeland Security and Emergency Management" .
+<https://github.com/john1hsu/usa-graph/id/source/1964-alaska-earthquake/s5> <http://purl.org/dc/terms/title> "1964 Great Alaska Earthquake: History" .
+<https://github.com/john1hsu/usa-graph/id/source/1964-alaska-earthquake/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/1964-alaska-earthquake/s5> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/usa-graph/id/source/1964-alaska-earthquake/s5> <https://schema.org/url> <https://ready.alaska.gov/64Quake/History> .
+<https://github.com/john1hsu/usa-graph/id/source/1964-alaska-earthquake/s6> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/1964-alaska-earthquake/s6> <http://purl.org/dc/terms/publisher> "U.S. Coast Guard (Beth L. Crumley, Assistant Historian)" .
+<https://github.com/john1hsu/usa-graph/id/source/1964-alaska-earthquake/s6> <http://purl.org/dc/terms/title> "The Long Blue Line: The land turned to liquid—Coast Guard operations in the Great Alaska Earthquake" .
+<https://github.com/john1hsu/usa-graph/id/source/1964-alaska-earthquake/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/1964-alaska-earthquake/s6> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/usa-graph/id/source/1964-alaska-earthquake/s6> <https://schema.org/url> <https://www.mycg.uscg.mil/News/Article/2993041/the-long-blue-line-the-land-turned-to-liquidcoast-guard-operations-in-the-great/> .
+<https://github.com/john1hsu/usa-graph/id/source/1964-alaska-earthquake/s7> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/1964-alaska-earthquake/s7> <http://purl.org/dc/terms/publisher> "The American Presidency Project, University of California, Santa Barbara" .
+<https://github.com/john1hsu/usa-graph/id/source/1964-alaska-earthquake/s7> <http://purl.org/dc/terms/title> "Statement by the President on the Earthquake in Alaska (March 28, 1964)" .
+<https://github.com/john1hsu/usa-graph/id/source/1964-alaska-earthquake/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/1964-alaska-earthquake/s7> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/usa-graph/id/source/1964-alaska-earthquake/s7> <https://schema.org/url> <https://presidency.ucsb.edu/documents/statement-the-president-the-earthquake-alaska> .
+<https://github.com/john1hsu/usa-graph/id/source/1964-alaska-earthquake/s8> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/1964-alaska-earthquake/s8> <http://purl.org/dc/terms/publisher> "The American Presidency Project, University of California, Santa Barbara" .
+<https://github.com/john1hsu/usa-graph/id/source/1964-alaska-earthquake/s8> <http://purl.org/dc/terms/title> "Executive Order 11150—Establishing the Federal Reconstruction and Development Planning Commission for Alaska" .
+<https://github.com/john1hsu/usa-graph/id/source/1964-alaska-earthquake/s8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/1964-alaska-earthquake/s8> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/usa-graph/id/source/1964-alaska-earthquake/s8> <https://schema.org/url> <https://presidency.ucsb.edu/node/306562> .
+<https://github.com/john1hsu/usa-graph/id/source/1964-alaska-earthquake/s9> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/1964-alaska-earthquake/s9> <http://purl.org/dc/terms/publisher> "Oregon Encyclopedia (Oregon Historical Society)" .
+<https://github.com/john1hsu/usa-graph/id/source/1964-alaska-earthquake/s9> <http://purl.org/dc/terms/title> "Oregon Tsunami Hazard Mitigation Program" .
+<https://github.com/john1hsu/usa-graph/id/source/1964-alaska-earthquake/s9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/1964-alaska-earthquake/s9> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "scholarly-encyclopedia" .
+<https://github.com/john1hsu/usa-graph/id/source/1964-alaska-earthquake/s9> <https://schema.org/url> <https://oregonencyclopedia.org/articles/oregon_tsunami_hazard_mitigation_program> .
 <https://github.com/john1hsu/usa-graph/id/source/abolitionism/s10> <http://purl.org/dc/terms/date> "2026-11-15"^^<http://www.w3.org/2001/XMLSchema#date> .
 <https://github.com/john1hsu/usa-graph/id/source/abolitionism/s10> <http://purl.org/dc/terms/publisher> "African American Intellectual History Society (Black Perspectives)" .
 <https://github.com/john1hsu/usa-graph/id/source/abolitionism/s10> <http://purl.org/dc/terms/title> "Abolitionism and Slave Resistance: An Interview with Manisha Sinha and Sasha Turner" .

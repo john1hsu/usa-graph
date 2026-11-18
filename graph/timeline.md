@@ -1661,7 +1661,13 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1964 | A riot over flying Panama's flag in the Canal Zone briefly breaks U.S.-Panamanian relations. — [Panama Canal](../articles/foreign-relations-and-military/panama-canal.md) |
 | 1964 | B.B. King records the album Live at the Regal at Chicago's Regal Theater. — [Blues](../articles/culture-and-arts/blues.md) |
 | 1964 | In Wesberry v. Sanders the Court requires congressional districts to be as equal in population as practicable. — [Reynolds v. Sims](../articles/democracy-and-elections/reynolds-v-sims.md) |
+| 1964-03-27 | **[1964 Alaska earthquake](../articles/geography-and-environment/1964-alaska-earthquake.md)** (Event) |
 | 1964-03-27 | A magnitude 9.2 earthquake, the largest recorded in U.S. history, and its tsunamis kill 129 people. — [Alaska](../articles/states-and-territories/alaska.md) |
+| 1964-03-27 | About four hours after the quake the open-ocean tsunami reaches Oregon; it kills four children at Beverly Beach and 12 people at Crescent City, California. — [1964 Alaska earthquake](../articles/geography-and-environment/1964-alaska-earthquake.md) |
+| 1964-03-27 | At 5:36 p.m. local time the Aleutian megathrust ruptures beneath Prince William Sound; shaking lasts several minutes. — [1964 Alaska earthquake](../articles/geography-and-environment/1964-alaska-earthquake.md) |
+| 1964-03-27 | Underwater landslides collapse the Valdez waterfront and send waves into Seward, Whittier and Chenega; the Turnagain Heights slide destroys about 75 homes in Anchorage. — [1964 Alaska earthquake](../articles/geography-and-environment/1964-alaska-earthquake.md) |
+| 1964-03-28 | President Johnson declares Alaska a disaster area and directs federal agencies and the military to assist. — [1964 Alaska earthquake](../articles/geography-and-environment/1964-alaska-earthquake.md) |
+| 1964-04-02 | Executive Order 11150 creates the Federal Reconstruction and Development Planning Commission for Alaska. — [1964 Alaska earthquake](../articles/geography-and-environment/1964-alaska-earthquake.md) |
 | 1964-06-15 | **[Reynolds v. Sims](../articles/democracy-and-elections/reynolds-v-sims.md)** (CourtCase) |
 | 1964-06-15 | The Court decides Reynolds 8 to 1 along with companion cases from New York, Maryland, Virginia, Delaware and Colorado. — [Reynolds v. Sims](../articles/democracy-and-elections/reynolds-v-sims.md) |
 | 1964-06-21 | Mississippi Freedom Summer begins; James Chaney, Andrew Goodman and Michael Schwerner are murdered by Klansmen in Neshoba County. — [Civil rights movement](../articles/cold-war-and-civil-rights/civil-rights-movement.md) |
@@ -1674,6 +1680,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1965 | The Kinzua Dam on the Allegheny River is completed, flooding about 10,000 acres of the Seneca Allegany Reservation and forcing about 700 people to move. — [Haudenosaunee](../articles/native-nations/haudenosaunee.md) |
 | 1965 | The Voting Rights Act and Great Society grant programs expand the federal role under cooperative federalism. — [Federalism](../articles/constitution-and-government/federalism.md) |
 | 1965 | The Voting Rights Act's Section 4 formula covers Alabama, Georgia, Louisiana, Mississippi, South Carolina and Virginia, plus 39 North Carolina counties and one Arizona county. — [Shelby County v. Holder](../articles/democracy-and-elections/shelby-county-v-holder.md) |
+| 1965 | USGS geologist George Plafker publishes his map of uplift and subsidence across south-central Alaska in Science. — [1964 Alaska earthquake](../articles/geography-and-environment/1964-alaska-earthquake.md) |
 | 1965-02-26 | Voting rights activist Jimmie Lee Jackson dies of a gunshot wound inflicted by a white man in Alabama, prompting calls for a march from Selma to Montgomery. — [Voting Rights Act of 1965](../articles/democracy-and-elections/voting-rights-act-of-1965.md) |
 | 1965-03-07 | On "Bloody Sunday," law enforcement officers attack about 600 marchers leaving Selma for Montgomery. — [Voting Rights Act of 1965](../articles/democracy-and-elections/voting-rights-act-of-1965.md) |
 | 1965-03-07 | State troopers and local officers attack about 600 voting-rights marchers on the Edmund Pettus Bridge in Selma, Alabama (Bloody Sunday). — [Civil rights movement](../articles/cold-war-and-civil-rights/civil-rights-movement.md) |
@@ -1696,6 +1703,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1966 | The Veterans Readjustment Benefits Act provides education benefits and home and farm loans for Vietnam-era veterans. — [Servicemen's Readjustment Act of 1944](../articles/cold-war-and-civil-rights/servicemens-readjustment-act-of-1944.md) |
 | 1966-06-16 | Stokely Carmichael of SNCC makes Black Power a public slogan at a rally in Greenwood, Mississippi. — [Civil rights movement](../articles/cold-war-and-civil-rights/civil-rights-movement.md) |
 | 1966-08-26 | The Chicago Freedom Movement reaches an open-housing summit agreement with city officials and lenders. — [Civil rights movement](../articles/cold-war-and-civil-rights/civil-rights-movement.md) |
+| 1967 | The West Coast/Alaska Tsunami Warning Center is founded at Palmer because of the earthquake (renamed the National Tsunami Warning Center in 2013). — [1964 Alaska earthquake](../articles/geography-and-environment/1964-alaska-earthquake.md) |
 | 1967-02-01 | Under the 1966 amendments, farmworkers are covered by the federal minimum for the first time, at $1.00 an hour. — [Minimum wage](../articles/economy-and-work/minimum-wage.md) |
 | 1967-02-10 | The Twenty-fifth Amendment is ratified, setting rules for succession and presidential disability. — [Presidency of the United States](../articles/constitution-and-government/presidency-of-the-united-states.md) |
 | 1967-04-04 | Denounces the Vietnam War at Riverside Church in New York. — [Martin Luther King Jr.](../articles/people-who-shaped-america/martin-luther-king-jr.md) |
@@ -1781,6 +1789,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1983 | The restored barracks open to the public as a museum in Angel Island State Park. — [Chinese detention-barracks poetry](../articles/culture-and-arts/chinese-detention-barracks-poetry.md) |
 | 1983-04-12 | Harold Washington wins the general election with 51.8 percent, becoming the city's first Black mayor. — [Chicago](../articles/regions-cities-and-landmarks/chicago.md) |
 | 1983-11-10 | A federal court in San Francisco vacates Fred Korematsu's conviction, citing government misconduct. — [Japanese American incarceration during World War II](../articles/depression-and-world-war/japanese-american-incarceration.md) |
+| 1984 | Former residents of Chenega resettle at Chenega Bay on Evans Island, twenty years after the tsunami. — [1964 Alaska earthquake](../articles/geography-and-environment/1964-alaska-earthquake.md) |
 | 1984 | The "Montgomery GI Bill" creates an education program for the all-volunteer force, funded partly by a pay reduction during a recruit's first year. — [Servicemen's Readjustment Act of 1944](../articles/cold-war-and-civil-rights/servicemens-readjustment-act-of-1944.md) |
 | 1984 | Video Music Box becomes the first music-video program devoted to hip hop. — [Hip hop](../articles/culture-and-arts/hip-hop.md) |
 | 1985 | The Interior Department designates the dam a National Historic Landmark. — [Hoover Dam](../articles/regions-cities-and-landmarks/hoover-dam.md) |
