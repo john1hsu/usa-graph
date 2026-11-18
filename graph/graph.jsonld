@@ -10268,6 +10268,193 @@
    }
   },
   {
+   "@id": "https://github.com/john1hsu/usa-graph/id/herbert-hoover/misconception",
+   "@type": "uso:Misconception",
+   "uso:fact": "Hoover called business and labor conferences in November 1929, pressed for public works, created the Reconstruction Finance Corporation in 1932 and signed a law providing $2 billion for public works and $300 million for state relief; what he refused was large-scale direct federal relief to the unemployed.",
+   "uso:myth": "Herbert Hoover did nothing to fight the Great Depression.",
+   "uso:why": "Unemployment kept rising throughout his term, and shantytowns nicknamed \"Hoovervilles,\" the rout of the Bonus Army and the contrast with Roosevelt's New Deal fixed an image of an indifferent president that historians have since revised."
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/herbert-hoover/review/1",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "How did Hoover's World War I relief work prepare the way for his presidency?",
+   "uso:answer": "Organizing the Commission for Relief in Belgium, which fed more than nine million Belgian and French civilians, and then the U.S. Food Administration and the American Relief Administration made him famous as a humanitarian and organizer, which led to his appointment as commerce secretary and, after he ran the 1927 flood relief as a \"master of emergencies,\" to the 1928 Republican nomination.",
+   "uso:questionFor": {
+    "@id": "us:herbert-hoover"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/herbert-hoover/review/2",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "Why is it inaccurate to say Hoover did nothing about the Depression, and what do historians still criticize?",
+   "uso:answer": "He organized wage pledges, pushed public works, created the Reconstruction Finance Corporation and approved $2 billion for public works and $300 million for state relief. Historians still fault him for refusing large-scale direct relief to the unemployed, for limited federal spending and for misjudging the depth of the crisis.",
+   "uso:questionFor": {
+    "@id": "us:herbert-hoover"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/herbert-hoover/review/3",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "Why do economists such as Lee Ohanian argue that one of Hoover's interventions made the Depression worse?",
+   "uso:answer": "Hoover persuaded big industrial firms to keep wages up after the 1929 crash; as prices fell, real wages rose, and Ohanian argues firms cut employment instead, a labor-market failure he estimates reduced output and hours worked by about 20 percent.",
+   "uso:questionFor": {
+    "@id": "us:herbert-hoover"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/herbert-hoover/review/4",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "What did the 1927 flood reveal about the treatment of Black Mississippians, and how did Hoover respond?",
+   "uso:answer": "In Greenville, Black families were held in levee camps under National Guard watch and about 500 Black men were made to repair the levee without pay under threat of losing Red Cross food. Hoover set up a Colored Advisory Committee under Robert Moton, but when it delivered a harsh report he took no action.",
+   "uso:questionFor": {
+    "@id": "us:herbert-hoover"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/herbert-hoover/timeline/1",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Born in a two-room cottage in West Branch, Iowa, to a Quaker family.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1874-08-10"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/herbert-hoover/timeline/10",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "After the stock market crash, asks business leaders to hold wages and labor leaders not to press for raises.",
+   "uso:date": {
+    "@type": "xsd:gYearMonth",
+    "@value": "1929-11"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/herbert-hoover/timeline/11",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Signs the Smoot-Hawley Tariff.",
+   "uso:date": {
+    "@type": "xsd:gYearMonth",
+    "@value": "1930-06"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/herbert-hoover/timeline/12",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Creates the Reconstruction Finance Corporation to lend to banks, railroads and farm groups.",
+   "uso:date": {
+    "@type": "xsd:gYearMonth",
+    "@value": "1932-01"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/herbert-hoover/timeline/13",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Troops under Douglas MacArthur, exceeding Hoover's orders, drive the Bonus Army out of Washington.",
+   "uso:date": {
+    "@type": "xsd:gYearMonth",
+    "@value": "1932-07"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/herbert-hoover/timeline/14",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Leaves office after losing the 1932 election to Franklin D. Roosevelt.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1933-03-04"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/herbert-hoover/timeline/15",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Named chairman of the first Hoover Commission on executive-branch organization.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1947"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/herbert-hoover/timeline/16",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Dies in New York City at age 90; buried at West Branch, Iowa.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1964-10-20"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/herbert-hoover/timeline/2",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Orphaned, he moves at 11 to live with his uncle Henry Minthorn in Oregon.",
+   "uso:date": {
+    "@type": "xsd:gYearMonth",
+    "@value": "1885-11"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/herbert-hoover/timeline/3",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Graduates in geology from the new Stanford University, where he met Lou Henry.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1895"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/herbert-hoover/timeline/4",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Founds the Commission for Relief in Belgium to feed civilians in German-occupied Belgium, later northern France as well.",
+   "uso:date": {
+    "@type": "xsd:gYearMonth",
+    "@value": "1914-10"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/herbert-hoover/timeline/5",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Appointed by Woodrow Wilson to head the U.S. Food Administration.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1917"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/herbert-hoover/timeline/6",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Congress creates the American Relief Administration, which Hoover directs, with a $100 million budget.",
+   "uso:date": {
+    "@type": "xsd:gYearMonth",
+    "@value": "1919-02"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/herbert-hoover/timeline/7",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Becomes secretary of commerce under Warren Harding, a post he keeps under Calvin Coolidge.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1921"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/herbert-hoover/timeline/8",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The Mound Landing levee breaks during the Mississippi River flood; Hoover chairs the relief effort.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1927-04-21"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/herbert-hoover/timeline/9",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Inaugurated as president after defeating Alfred E. Smith, 444 electoral votes to 87.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1929-03-04"
+   }
+  },
+  {
    "@id": "https://github.com/john1hsu/usa-graph/id/hip-hop/misconception",
    "@type": "uso:Misconception",
    "uso:fact": "The Fatback Band's \"King Tim III (Personality Jock)\" was released about two months earlier in 1979, and DJs, MCs and dancers had been building hip hop at Bronx parties since the early-to-mid 1970s; \"Rapper's Delight\" was the first hip hop song to reach the Billboard Hot 100.",
@@ -27578,6 +27765,202 @@
     "@id": "https://www.npshistory.com/publications/yell/cramton/sec5.htm"
    },
    "uso:sourceType": "institutional"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/herbert-hoover/s1",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Herbert Hoover Presidential Library and Museum, National Archives and Records Administration",
+   "dcterms:title": "President Herbert Hoover",
+   "schema:url": {
+    "@id": "https://hoover.archives.gov/hoovers/president-herbert-hoover"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/herbert-hoover/s10",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "State Historical Society of Iowa",
+   "dcterms:title": "What was Herbert Hoover's legacy?",
+   "schema:url": {
+    "@id": "https://history.iowa.gov/history/education/educator-resources/primary-source-sets/herbert-hoovers-legacy"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/herbert-hoover/s11",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Hoover Heads blog, Herbert Hoover Presidential Library and Museum",
+   "dcterms:title": "Hoover on Immigration",
+   "schema:url": {
+    "@id": "https://hoover.blogs.archives.gov/2016/08/04/hoover-on-immigration"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/herbert-hoover/s12",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "EBSCO Research Starters",
+   "dcterms:title": "Mexican Deportations (1931) (Sara A. Ramírez)",
+   "schema:url": {
+    "@id": "https://www.ebsco.com/research-starters/history/mexican-deportations-1931"
+   },
+   "uso:sourceType": "encyclopedia"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/herbert-hoover/s13",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "National Bureau of Economic Research",
+   "dcterms:title": "What – or Who – Started the Great Depression? (Lee E. Ohanian), NBER Working Paper 15258",
+   "schema:url": {
+    "@id": "https://www.nber.org/papers/w15258.pdf"
+   },
+   "uso:sourceType": "academic"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/herbert-hoover/s14",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "National Park Service",
+   "dcterms:title": "Herbert Hoover",
+   "schema:url": {
+    "@id": "https://www.nps.gov/people/herbert-hoover.htm"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/herbert-hoover/s2",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Miller Center of Public Affairs, University of Virginia (David E. Hamilton)",
+   "dcterms:title": "Herbert Hoover: Life in Brief",
+   "schema:url": {
+    "@id": "https://millercenter.org/node/302"
+   },
+   "uso:sourceType": "academic"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/herbert-hoover/s3",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Miller Center of Public Affairs, University of Virginia (David E. Hamilton)",
+   "dcterms:title": "Herbert Hoover: Domestic Affairs",
+   "schema:url": {
+    "@id": "https://millercenter.org/president/hoover/domestic-affairs"
+   },
+   "uso:sourceType": "academic"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/herbert-hoover/s4",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Miller Center of Public Affairs, University of Virginia (David E. Hamilton)",
+   "dcterms:title": "Herbert Hoover: Impact and Legacy",
+   "schema:url": {
+    "@id": "https://millercenter.org/president/hoover/impact-and-legacy"
+   },
+   "uso:sourceType": "academic"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/herbert-hoover/s5",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Miller Center of Public Affairs, University of Virginia (David E. Hamilton)",
+   "dcterms:title": "Herbert Hoover: Life After the Presidency",
+   "schema:url": {
+    "@id": "https://millercenter.org/node/307"
+   },
+   "uso:sourceType": "academic"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/herbert-hoover/s6",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "National Archives and Records Administration",
+   "dcterms:title": "1928 Electoral College Results",
+   "schema:url": {
+    "@id": "https://www.archives.gov/electoral-college/1928"
+   },
+   "uso:sourceType": "primary"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/herbert-hoover/s7",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "National Park Service, Herbert Hoover National Historic Site",
+   "dcterms:title": "Emergence of the Great Humanitarian",
+   "schema:url": {
+    "@id": "https://www.nps.gov/articles/emergence-of-the-great-humanitarian.htm"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/herbert-hoover/s8",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Mississippi History Now, Mississippi Department of Archives and History",
+   "dcterms:title": "The Flood of 1927 and Its Impact in Greenville, Mississippi (Princella Wilkerson Nowell)",
+   "schema:url": {
+    "@id": "https://mshistory.mdah.ms.gov/issue/the-flood-of-1927-and-its-impact-in-greenville-mississippi"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/herbert-hoover/s9",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "CALS Encyclopedia of Arkansas",
+   "dcterms:title": "Flood of 1927 (Nancy Hendricks)",
+   "schema:url": {
+    "@id": "https://encyclopediaofarkansas.net/entries/flood-of-1927-2202/"
+   },
+   "uso:sourceType": "scholarly-encyclopedia"
   },
   {
    "@id": "https://github.com/john1hsu/usa-graph/id/source/hip-hop/s1",
@@ -53660,6 +54043,211 @@
     },
     {
      "@id": "https://github.com/john1hsu/usa-graph/id/hayden-geological-survey-of-1871/timeline/9"
+    }
+   ]
+  },
+  {
+   "@id": "us:herbert-hoover",
+   "@type": "uso:Person",
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/herbert-hoover/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/herbert-hoover/s10"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/herbert-hoover/s11"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/herbert-hoover/s12"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/herbert-hoover/s13"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/herbert-hoover/s14"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/herbert-hoover/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/herbert-hoover/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/herbert-hoover/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/herbert-hoover/s5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/herbert-hoover/s6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/herbert-hoover/s7"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/herbert-hoover/s8"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/herbert-hoover/s9"
+    }
+   ],
+   "rdfs:label": "Herbert Hoover",
+   "schema:birthDate": {
+    "@type": "xsd:date",
+    "@value": "1874-08-10"
+   },
+   "schema:deathDate": {
+    "@type": "xsd:date",
+    "@value": "1964-10-20"
+   },
+   "schema:endDate": {
+    "@type": "xsd:date",
+    "@value": "1964-10-20"
+   },
+   "schema:startDate": {
+    "@type": "xsd:date",
+    "@value": "1874-08-10"
+   },
+   "skos:altLabel": [
+    "31st President of the United States",
+    "Herbert C. Hoover"
+   ],
+   "skos:broader": {
+    "@id": "us:presidents-of-the-united-states"
+   },
+   "skos:definition": "The 31st president of the United States (1929–1933), an Iowa-born Quaker orphan turned mining engineer who won fame organizing food relief in World War I, served as secretary of commerce, and was president when the Great Depression began; he lost the 1932 election to Franklin D. Roosevelt and later led two commissions on reorganizing the federal government.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/usa-graph/id/scheme/presidents-and-founders"
+   },
+   "skos:prefLabel": "Herbert Hoover",
+   "skos:related": [
+    {
+     "@id": "us:american-relief-administration"
+    },
+    {
+     "@id": "us:bonus-army"
+    },
+    {
+     "@id": "us:franklin-d-roosevelt"
+    },
+    {
+     "@id": "us:good-neighbor-policy"
+    },
+    {
+     "@id": "us:great-depression"
+    },
+    {
+     "@id": "us:great-mississippi-flood-of-1927"
+    },
+    {
+     "@id": "us:hoover-commission"
+    },
+    {
+     "@id": "us:hoover-dam"
+    },
+    {
+     "@id": "us:lou-henry-hoover"
+    },
+    {
+     "@id": "us:mexican-repatriation"
+    },
+    {
+     "@id": "us:new-deal"
+    },
+    {
+     "@id": "us:reconstruction-finance-corporation"
+    },
+    {
+     "@id": "us:smoot-hawley-tariff"
+    },
+    {
+     "@id": "us:stock-market-crash-of-1929"
+    }
+   ],
+   "uso:domain": "presidents-and-founders",
+   "uso:evidenceStatus": "interpretive",
+   "uso:file": "articles/presidents-and-founders/herbert-hoover.md",
+   "uso:heldOffice": {
+    "@id": "us:presidency-of-the-united-states"
+   },
+   "uso:level": "introductory",
+   "uso:memberOf": {
+    "@id": "us:republican-party"
+   },
+   "uso:misconception": {
+    "@id": "https://github.com/john1hsu/usa-graph/id/herbert-hoover/misconception"
+   },
+   "uso:participatedIn": [
+    {
+     "@id": "us:election-of-1928"
+    },
+    {
+     "@id": "us:election-of-1932"
+    },
+    {
+     "@id": "us:great-mississippi-flood-of-1927"
+    },
+    {
+     "@id": "us:world-war-i"
+    }
+   ],
+   "uso:requires": {
+    "@id": "us:world-war-i"
+   },
+   "uso:timelineEntry": [
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/herbert-hoover/timeline/1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/herbert-hoover/timeline/10"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/herbert-hoover/timeline/11"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/herbert-hoover/timeline/12"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/herbert-hoover/timeline/13"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/herbert-hoover/timeline/14"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/herbert-hoover/timeline/15"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/herbert-hoover/timeline/16"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/herbert-hoover/timeline/2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/herbert-hoover/timeline/3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/herbert-hoover/timeline/4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/herbert-hoover/timeline/5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/herbert-hoover/timeline/6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/herbert-hoover/timeline/7"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/herbert-hoover/timeline/8"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/herbert-hoover/timeline/9"
     }
    ]
   },

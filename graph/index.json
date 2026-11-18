@@ -12732,6 +12732,230 @@
   ]
  },
  {
+  "id": "us:herbert-hoover",
+  "title": "Herbert Hoover",
+  "aliases": [
+   "Herbert C. Hoover",
+   "31st President of the United States"
+  ],
+  "type": "Person",
+  "domain": "presidents-and-founders",
+  "level": "introductory",
+  "evidenceStatus": "interpretive",
+  "file": "articles/presidents-and-founders/herbert-hoover.md",
+  "created": "2026-11-18",
+  "summary": "The 31st president of the United States (1929–1933), an Iowa-born Quaker orphan turned mining engineer who won fame organizing food relief in World War I, served as secretary of commerce, and was president when the Great Depression began; he lost the 1932 election to Franklin D. Roosevelt and later led two commissions on reorganizing the federal government.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "us:presidents-of-the-united-states"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:great-depression"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:stock-market-crash-of-1929"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:franklin-d-roosevelt"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:new-deal"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:hoover-dam"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:good-neighbor-policy"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:reconstruction-finance-corporation"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:smoot-hawley-tariff"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:bonus-army"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:mexican-repatriation"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:great-mississippi-flood-of-1927"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:hoover-commission"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:lou-henry-hoover"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:american-relief-administration"
+   },
+   {
+    "predicate": "uso:requires",
+    "object": "us:world-war-i"
+   },
+   {
+    "predicate": "uso:heldOffice",
+    "object": "us:presidency-of-the-united-states",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:memberOf",
+    "object": "us:republican-party",
+    "source": "s2",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:participatedIn",
+    "object": "us:world-war-i",
+    "source": "s7",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:participatedIn",
+    "object": "us:great-mississippi-flood-of-1927",
+    "source": "s8",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:participatedIn",
+    "object": "us:election-of-1928",
+    "source": "s6",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:participatedIn",
+    "object": "us:election-of-1932",
+    "source": "s1",
+    "confidence": "high"
+   }
+  ],
+  "start": "1874-08-10",
+  "end": "1964-10-20",
+  "review": [
+   {
+    "question": "How did Hoover's World War I relief work prepare the way for his presidency?",
+    "answer": "Organizing the Commission for Relief in Belgium, which fed more than nine million Belgian and French civilians, and then the U.S. Food Administration and the American Relief Administration made him famous as a humanitarian and organizer, which led to his appointment as commerce secretary and, after he ran the 1927 flood relief as a \"master of emergencies,\" to the 1928 Republican nomination."
+   },
+   {
+    "question": "Why is it inaccurate to say Hoover did nothing about the Depression, and what do historians still criticize?",
+    "answer": "He organized wage pledges, pushed public works, created the Reconstruction Finance Corporation and approved $2 billion for public works and $300 million for state relief. Historians still fault him for refusing large-scale direct relief to the unemployed, for limited federal spending and for misjudging the depth of the crisis."
+   },
+   {
+    "question": "Why do economists such as Lee Ohanian argue that one of Hoover's interventions made the Depression worse?",
+    "answer": "Hoover persuaded big industrial firms to keep wages up after the 1929 crash; as prices fell, real wages rose, and Ohanian argues firms cut employment instead, a labor-market failure he estimates reduced output and hours worked by about 20 percent."
+   },
+   {
+    "question": "What did the 1927 flood reveal about the treatment of Black Mississippians, and how did Hoover respond?",
+    "answer": "In Greenville, Black families were held in levee camps under National Guard watch and about 500 Black men were made to repair the levee without pay under threat of losing Red Cross food. Hoover set up a Colored Advisory Committee under Robert Moton, but when it delivered a harsh report he took no action."
+   }
+  ],
+  "timeline": [
+   {
+    "date": "1874-08-10",
+    "event": "Born in a two-room cottage in West Branch, Iowa, to a Quaker family."
+   },
+   {
+    "date": "1885-11",
+    "event": "Orphaned, he moves at 11 to live with his uncle Henry Minthorn in Oregon."
+   },
+   {
+    "date": "1895",
+    "event": "Graduates in geology from the new Stanford University, where he met Lou Henry."
+   },
+   {
+    "date": "1914-10",
+    "event": "Founds the Commission for Relief in Belgium to feed civilians in German-occupied Belgium, later northern France as well."
+   },
+   {
+    "date": "1917",
+    "event": "Appointed by Woodrow Wilson to head the U.S. Food Administration."
+   },
+   {
+    "date": "1919-02",
+    "event": "Congress creates the American Relief Administration, which Hoover directs, with a $100 million budget."
+   },
+   {
+    "date": "1921",
+    "event": "Becomes secretary of commerce under Warren Harding, a post he keeps under Calvin Coolidge."
+   },
+   {
+    "date": "1927-04-21",
+    "event": "The Mound Landing levee breaks during the Mississippi River flood; Hoover chairs the relief effort."
+   },
+   {
+    "date": "1929-03-04",
+    "event": "Inaugurated as president after defeating Alfred E. Smith, 444 electoral votes to 87."
+   },
+   {
+    "date": "1929-11",
+    "event": "After the stock market crash, asks business leaders to hold wages and labor leaders not to press for raises."
+   },
+   {
+    "date": "1930-06",
+    "event": "Signs the Smoot-Hawley Tariff."
+   },
+   {
+    "date": "1932-01",
+    "event": "Creates the Reconstruction Finance Corporation to lend to banks, railroads and farm groups."
+   },
+   {
+    "date": "1932-07",
+    "event": "Troops under Douglas MacArthur, exceeding Hoover's orders, drive the Bonus Army out of Washington."
+   },
+   {
+    "date": "1933-03-04",
+    "event": "Leaves office after losing the 1932 election to Franklin D. Roosevelt."
+   },
+   {
+    "date": "1947",
+    "event": "Named chairman of the first Hoover Commission on executive-branch organization."
+   },
+   {
+    "date": "1964-10-20",
+    "event": "Dies in New York City at age 90; buried at West Branch, Iowa."
+   }
+  ],
+  "misconception": {
+   "myth": "Herbert Hoover did nothing to fight the Great Depression.",
+   "fact": "Hoover called business and labor conferences in November 1929, pressed for public works, created the Reconstruction Finance Corporation in 1932 and signed a law providing $2 billion for public works and $300 million for state relief; what he refused was large-scale direct federal relief to the unemployed.",
+   "why": "Unemployment kept rising throughout his term, and shantytowns nicknamed \"Hoovervilles,\" the rout of the Bonus Army and the contrast with Roosevelt's New Deal fixed an image of an indifferent president that historians have since revised."
+  },
+  "source_urls": [
+   "https://hoover.archives.gov/hoovers/president-herbert-hoover",
+   "https://millercenter.org/node/302",
+   "https://millercenter.org/president/hoover/domestic-affairs",
+   "https://millercenter.org/president/hoover/impact-and-legacy",
+   "https://millercenter.org/node/307",
+   "https://www.archives.gov/electoral-college/1928",
+   "https://www.nps.gov/articles/emergence-of-the-great-humanitarian.htm",
+   "https://mshistory.mdah.ms.gov/issue/the-flood-of-1927-and-its-impact-in-greenville-mississippi",
+   "https://encyclopediaofarkansas.net/entries/flood-of-1927-2202/",
+   "https://history.iowa.gov/history/education/educator-resources/primary-source-sets/herbert-hoovers-legacy",
+   "https://hoover.blogs.archives.gov/2016/08/04/hoover-on-immigration",
+   "https://www.ebsco.com/research-starters/history/mexican-deportations-1931",
+   "https://www.nber.org/papers/w15258.pdf",
+   "https://www.nps.gov/people/herbert-hoover.htm"
+  ]
+ },
+ {
   "id": "us:hip-hop",
   "title": "Hip hop",
   "aliases": [

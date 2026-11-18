@@ -122,7 +122,7 @@ _Which nodes are myths, contested or open to competing interpretations, and what
 | `us:great-recession` | interpretive |  |
 | `us:haudenosaunee` | interpretive |  |
 
-…and 40 more.
+…and 41 more.
 
 ## Places with nothing tied to them (gap)
 
@@ -157,6 +157,7 @@ _Which people in the graph held each public office?_ — `queries/10-offices-and
 | `us:presidency-of-the-united-states` | `us:andrew-jackson` | 1767-03-15 |
 | `us:presidency-of-the-united-states` | `us:abraham-lincoln` | 1809-02-12 |
 | `us:presidency-of-the-united-states` | `us:theodore-roosevelt` | 1858-10-27 |
+| `us:presidency-of-the-united-states` | `us:herbert-hoover` | 1874-08-10 |
 | `us:presidency-of-the-united-states` | `us:franklin-d-roosevelt` | 1882-01-30 |
 | `us:united-states-minister-to-france` | `us:benjamin-franklin` | 1706-01-17 |
 | `us:united-states-minister-to-haiti` | `us:frederick-douglass` | 1818-02 |

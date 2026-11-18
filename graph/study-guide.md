@@ -1745,6 +1745,23 @@ Every review question (with its answer) and every myth-versus-fact in the graph,
 - **Q:** Why do historians disagree about whether Washington stood above party politics?
   **A:** He warned in his Farewell Address against the spirit of party and never joined a party, yet he sided with Hamilton against Jefferson and, in Encyclopedia Virginia's account, led a Federalist faction that voters rejected in 1800.
 
+### [Herbert Hoover](../articles/presidents-and-founders/herbert-hoover.md) — Person
+
+| Myth | Fact |
+|---|---|
+| Herbert Hoover did nothing to fight the Great Depression. | Hoover called business and labor conferences in November 1929, pressed for public works, created the Reconstruction Finance Corporation in 1932 and signed a law providing $2 billion for public works and $300 million for state relief; what he refused was large-scale direct federal relief to the unemployed. |
+
+**Why it matters:** Unemployment kept rising throughout his term, and shantytowns nicknamed "Hoovervilles," the rout of the Bonus Army and the contrast with Roosevelt's New Deal fixed an image of an indifferent president that historians have since revised.
+
+- **Q:** How did Hoover's World War I relief work prepare the way for his presidency?
+  **A:** Organizing the Commission for Relief in Belgium, which fed more than nine million Belgian and French civilians, and then the U.S. Food Administration and the American Relief Administration made him famous as a humanitarian and organizer, which led to his appointment as commerce secretary and, after he ran the 1927 flood relief as a "master of emergencies," to the 1928 Republican nomination.
+- **Q:** Why is it inaccurate to say Hoover did nothing about the Depression, and what do historians still criticize?
+  **A:** He organized wage pledges, pushed public works, created the Reconstruction Finance Corporation and approved $2 billion for public works and $300 million for state relief. Historians still fault him for refusing large-scale direct relief to the unemployed, for limited federal spending and for misjudging the depth of the crisis.
+- **Q:** Why do economists such as Lee Ohanian argue that one of Hoover's interventions made the Depression worse?
+  **A:** Hoover persuaded big industrial firms to keep wages up after the 1929 crash; as prices fell, real wages rose, and Ohanian argues firms cut employment instead, a labor-market failure he estimates reduced output and hours worked by about 20 percent.
+- **Q:** What did the 1927 flood reveal about the treatment of Black Mississippians, and how did Hoover respond?
+  **A:** In Greenville, Black families were held in levee camps under National Guard watch and about 500 Black men were made to repair the levee without pay under threat of losing Red Cross food. Hoover set up a Colored Advisory Committee under Robert Moton, but when it delivered a harsh report he took no action.
+
 ### [James Madison](../articles/presidents-and-founders/james-madison.md) — Person
 
 | Myth | Fact |

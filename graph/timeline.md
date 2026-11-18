@@ -945,6 +945,8 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1873-10 | The acute panic subsides by mid-October, but a long depression follows. — [Panic of 1873](../articles/economy-and-work/panic-of-1873.md) |
 | 1874-03 | Frederick Douglass is elected president of the struggling Freedman's Savings and Trust Company; Congress passes a bill to issue more greenback currency, which President Grant vetoes. — [Panic of 1873](../articles/economy-and-work/panic-of-1873.md) |
 | 1874-06-29 | The Freedman's Savings and Trust Company closes, days after Congress puts its assets under a three-member board. — [Panic of 1873](../articles/economy-and-work/panic-of-1873.md) |
+| 1874-08-10 – 1964-10-20 | **[Herbert Hoover](../articles/presidents-and-founders/herbert-hoover.md)** (Person) |
+| 1874-08-10 | Born in a two-room cottage in West Branch, Iowa, to a Quaker family. — [Herbert Hoover](../articles/presidents-and-founders/herbert-hoover.md) |
 | 1875 | Congress passes a Civil Rights Act requiring equal treatment in public places and on juries. — [Reconstruction era](../articles/civil-war-and-reconstruction/reconstruction-era.md) |
 | 1875 | Tennessee's Chapter 130 permits discrimination in hotels, theaters, trains and streetcars. — [Jim Crow laws](../articles/gilded-age-and-progressive-era/jim-crow-laws.md) |
 | 1875 | The Page Act bars contract laborers, prostitutes and felons from China and Japan; its enforcement keeps most Chinese women out. — [Chinese Exclusion Act](../articles/gilded-age-and-progressive-era/chinese-exclusion-act.md) |
@@ -1007,6 +1009,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1885-09-02 | White miners in Rock Springs kill 28 Chinese coal miners and wound 15. — [Wyoming](../articles/states-and-territories/wyoming.md) |
 | 1885-09-02 | White miners kill 28 Chinese miners and burn the Chinatown of Rock Springs, Wyoming Territory. — [Chinese Americans](../articles/society-and-people/chinese-americans.md) |
 | 1885-09-02 | White miners who had met at a Knights of Labor hall kill 28 Chinese miners at Rock Springs, Wyoming Territory. — [Labor movement](../articles/economy-and-work/labor-movement.md) |
+| 1885-11 | Orphaned, he moves at 11 to live with his uncle Henry Minthorn in Oregon. — [Herbert Hoover](../articles/presidents-and-founders/herbert-hoover.md) |
 | 1886 | United States v. Kagama upholds federal criminal laws on reservations as a power to protect dependent peoples. — [Tribal sovereignty](../articles/native-nations/tribal-sovereignty.md) |
 | 1886 | Yick Wo v. Hopkins applies equal protection beyond race to discriminatory enforcement of an ordinance. — [Equal protection](../articles/rights-and-law/equal-protection.md) |
 | 1886-05 | A bomb at a labor rally in Chicago's Haymarket Square kills seven policemen; four anarchists are later hanged. — [Gilded Age](../articles/gilded-age-and-progressive-era/gilded-age.md) |
@@ -1066,6 +1069,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1894-06-28 | Congress makes the first Monday in September a national Labor Day holiday. — [Labor movement](../articles/economy-and-work/labor-movement.md) |
 | 1895 | Around this time uptown cornetist Charles "Buddy" Bolden begins improvising on the blues and speeding up dance tunes, a style many early musicians later called the first jazz. — [Jazz](../articles/culture-and-arts/jazz.md) |
 | 1895 | Cornetist Buddy Bolden forms his own band, an early landmark of New Orleans jazz. — [New Orleans](../articles/regions-cities-and-landmarks/new-orleans.md) |
+| 1895 | Graduates in geology from the new Stanford University, where he met Lou Henry. — [Herbert Hoover](../articles/presidents-and-founders/herbert-hoover.md) |
 | 1895 | In United States v. E. C. Knight the Supreme Court holds that the national government cannot regulate manufacturing, a hallmark of dual federalism. — [Federalism](../articles/constitution-and-government/federalism.md) |
 | 1895 | Resigns from the Civil Service Commission and becomes a New York City police commissioner. — [Theodore Roosevelt](../articles/presidents-and-founders/theodore-roosevelt.md) |
 | 1895 | Southern states begin adopting grandfather clauses that exempt mostly white voters from literacy tests. — [Fifteenth Amendment](../articles/democracy-and-elections/fifteenth-amendment.md) |
@@ -1231,6 +1235,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1914-08-15 | **[Panama Canal](../articles/foreign-relations-and-military/panama-canal.md)** (Landmark) |
 | 1914-08-15 | The Ancon makes the canal's first official transit. — [Gatun Locks](../articles/regions-cities-and-landmarks/gatun-locks.md) |
 | 1914-08-15 | The cement boat Ancon makes the first official transit, opening the canal. — [Panama Canal](../articles/foreign-relations-and-military/panama-canal.md) |
+| 1914-10 | Founds the Commission for Relief in Belgium to feed civilians in German-occupied Belgium, later northern France as well. — [Herbert Hoover](../articles/presidents-and-founders/herbert-hoover.md) |
 | 1915 | Guinn v. United States unanimously strikes down Oklahoma's grandfather clause. — [Fifteenth Amendment](../articles/democracy-and-elections/fifteenth-amendment.md) |
 | 1915 | Tom Brown's band leaves New Orleans for Chicago. — [Jazz](../articles/culture-and-arts/jazz.md) |
 | 1915-06 | In Guinn v. United States the Supreme Court rules Oklahoma's grandfather clause violates the Fifteenth Amendment. — [Jim Crow laws](../articles/gilded-age-and-progressive-era/jim-crow-laws.md) |
@@ -1243,6 +1248,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1916 | The Wright Company stops using the field after training 119 students there. — [Huffman Prairie Flying Field](../articles/science-and-innovation/huffman-prairie.md) |
 | 1916 | The flying school at Huffman Field closes after training 119 students since May 1910. — [Wright Company School of Aviation](../articles/science-and-innovation/wright-company-school-of-aviation.md) |
 | 1916-09 | Carrie Chapman Catt unveils NAWSA's Winning Plan at its Atlantic City convention. — [Women's suffrage movement](../articles/gilded-age-and-progressive-era/womens-suffrage-movement.md) |
+| 1917 | Appointed by Woodrow Wilson to head the U.S. Food Administration. — [Herbert Hoover](../articles/presidents-and-founders/herbert-hoover.md) |
 | 1917 | The Army leases the land around the field for Wilbur Wright Field, a World War I training post. — [Huffman Prairie Flying Field](../articles/science-and-innovation/huffman-prairie.md) |
 | 1917 | The Senate adopts its first cloture rule to limit filibusters. — [United States Congress](../articles/constitution-and-government/united-states-congress.md) |
 | 1917-01 | The National Woman's Party's Silent Sentinels begin picketing the White House. — [Women's suffrage movement](../articles/gilded-age-and-progressive-era/womens-suffrage-movement.md) |
@@ -1256,6 +1262,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1918-09-30 | President Wilson addresses the Senate to urge passage of the amendment, which fails the next day. — [Women's suffrage movement](../articles/gilded-age-and-progressive-era/womens-suffrage-movement.md) |
 | 1919 | Five days of racial violence leave 23 Black Chicagoans dead and about 300 wounded. — [Chicago](../articles/regions-cities-and-landmarks/chicago.md) |
 | 1919-01-06 | Dies at Oyster Bay, New York. — [Theodore Roosevelt](../articles/presidents-and-founders/theodore-roosevelt.md) |
+| 1919-02 | Congress creates the American Relief Administration, which Hoover directs, with a $100 million budget. — [Herbert Hoover](../articles/presidents-and-founders/herbert-hoover.md) |
 | 1919-05-21 | The House of Representatives passes the amendment. — [Women's suffrage movement](../articles/gilded-age-and-progressive-era/womens-suffrage-movement.md) |
 | 1919-06-04 | The Senate passes the amendment 56 to 25, sending it to the states. — [Women's suffrage movement](../articles/gilded-age-and-progressive-era/womens-suffrage-movement.md) |
 | 1919-06-10 | Wisconsin becomes the first state to ratify. — [Women's suffrage movement](../articles/gilded-age-and-progressive-era/womens-suffrage-movement.md) |
@@ -1266,6 +1273,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1920-08-26 | Secretary of State Bainbridge Colby certifies the Nineteenth Amendment. — [Women's suffrage movement](../articles/gilded-age-and-progressive-era/womens-suffrage-movement.md) |
 | 1920-09-25 | Pennsylvania suffragists first ring their replica Justice Bell at Independence Square after the Nineteenth Amendment. — [Liberty Bell](../articles/symbols-and-national-identity/liberty-bell.md) |
 | 1920-11-02 | Loses the vice-presidential election on the Democratic ticket headed by James Cox. — [Franklin D. Roosevelt](../articles/presidents-and-founders/franklin-d-roosevelt.md) |
+| 1921 | Becomes secretary of commerce under Warren Harding, a post he keeps under Calvin Coolidge. — [Herbert Hoover](../articles/presidents-and-founders/herbert-hoover.md) |
 | 1921-08 | Stricken with polio at Campobello, New Brunswick; he never again walks unaided. — [Franklin D. Roosevelt](../articles/presidents-and-founders/franklin-d-roosevelt.md) |
 | 1921-08 | The Dow Jones Industrial Average stands at 63. — [Stock market crash of 1929](../articles/economy-and-work/stock-market-crash-of-1929.md) |
 | 1922 | Kid Ory's band records in California, the first recording by a Black New Orleans jazz band; Louis Armstrong joins King Oliver's Creole Jazz Band in Chicago. — [Jazz](../articles/culture-and-arts/jazz.md) |
@@ -1283,6 +1291,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1926 | U.S. Marines return to Nicaragua amid renewed fighting, a year after an earlier deployment ended. — [Good Neighbor Policy](../articles/foreign-relations-and-military/good-neighbor-policy.md) |
 | 1927 | Duke Ellington's band begins its engagement at Harlem's whites-only Cotton Club, with nightly radio broadcasts. — [Jazz](../articles/culture-and-arts/jazz.md) |
 | 1927-03-02 | President Calvin Coolidge signs the act creating the Kill Devil Hill National Memorial. — [Wright brothers' first flight](../articles/science-and-innovation/wright-brothers-first-flight.md) |
+| 1927-04-21 | The Mound Landing levee breaks during the Mississippi River flood; Hoover chairs the relief effort. — [Herbert Hoover](../articles/presidents-and-founders/herbert-hoover.md) |
 | 1927-04-29 | During the Great Flood of 1927, engineers begin dynamiting the levee at Caernarvon, Louisiana, below New Orleans. — [Mississippi River](../articles/geography-and-environment/mississippi-river.md) |
 | 1928 | Amid a feud with the Smithsonian, Orville ships the 1903 Flyer to the Science Museum in London. — [Wright brothers' first flight](../articles/science-and-innovation/wright-brothers-first-flight.md) |
 | 1928 | Congress passes the Flood Control Act, shifting federal policy from levees alone to spillways and floodways. — [Mississippi River](../articles/geography-and-environment/mississippi-river.md) |
@@ -1293,6 +1302,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1929-01-15 – 1968-04-04 | **[Martin Luther King Jr.](../articles/people-who-shaped-america/martin-luther-king-jr.md)** (Person) |
 | 1929-01-15 | Born Michael King Jr. in Atlanta, Georgia; in 1934 his father changes both their names to Martin Luther King. — [Martin Luther King Jr.](../articles/people-who-shaped-america/martin-luther-king-jr.md) |
 | 1929-02-02 | The Federal Reserve Board asks reserve banks to deny credit to member banks that lend to stock speculators. — [Stock market crash of 1929](../articles/economy-and-work/stock-market-crash-of-1929.md) |
+| 1929-03-04 | Inaugurated as president after defeating Alfred E. Smith, 444 electoral votes to 87. — [Herbert Hoover](../articles/presidents-and-founders/herbert-hoover.md) |
 | 1929-04-15 | Representative John Linthicum of Maryland introduces H.R. 14 to make it the national anthem. — [The Star-Spangled Banner](../articles/symbols-and-national-identity/star-spangled-banner.md) |
 | 1929-06-18 | The Reapportionment and Census Act makes apportionment automatic after the 1930 census and keeps 435 seats. — [Census and apportionment](../articles/democracy-and-elections/census-and-apportionment.md) |
 | 1929-08 – 1941 | **[Great Depression](../articles/depression-and-world-war/great-depression.md)** (Era) |
@@ -1307,10 +1317,12 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1929-10-29 | Black Tuesday: more than 16 million shares change hands and over $14 billion in wealth is lost in a day. — [Great Depression](../articles/depression-and-world-war/great-depression.md) |
 | 1929-10-29 | Black Tuesday: the Dow falls nearly 12 percent on record trading of over 16 million shares. — [Stock market crash of 1929](../articles/economy-and-work/stock-market-crash-of-1929.md) |
 | 1929-10-30 | Before trading opens, the New York Fed announces it will buy $100 million in government securities. — [Stock market crash of 1929](../articles/economy-and-work/stock-market-crash-of-1929.md) |
+| 1929-11 | After the stock market crash, asks business leaders to hold wages and labor leaders not to press for raises. — [Herbert Hoover](../articles/presidents-and-founders/herbert-hoover.md) |
 | 1929-11 | By mid-November the Dow has lost almost half its value. — [Stock market crash of 1929](../articles/economy-and-work/stock-market-crash-of-1929.md) |
 | 1930 | Son House records for Paramount. — [Blues](../articles/culture-and-arts/blues.md) |
 | 1930-04-21 | The House of Representatives passes H.R. 14. — [The Star-Spangled Banner](../articles/symbols-and-national-identity/star-spangled-banner.md) |
 | 1930-06 | Hoover signs the Smoot-Hawley Tariff, raising duties on farm and industrial imports to historic highs. — [Great Depression](../articles/depression-and-world-war/great-depression.md) |
+| 1930-06 | Signs the Smoot-Hawley Tariff. — [Herbert Hoover](../articles/presidents-and-founders/herbert-hoover.md) |
 | 1930-09-17 | At a ceremony opening work on the project, Interior Secretary Ray Lyman Wilbur announces the name Hoover Dam. — [Hoover Dam](../articles/regions-cities-and-landmarks/hoover-dam.md) |
 | 1931 – 1940 | **[Dust Bowl](../articles/depression-and-world-war/dust-bowl.md)** (Event) |
 | 1931 | Detainee Smiley Jann (Jann Mon Fong) copies 99 poems from the walls. — [Chinese detention-barracks poetry](../articles/culture-and-arts/chinese-detention-barracks-poetry.md) |
@@ -1325,9 +1337,11 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1932 | Detainee Tet Yee (Yee Tet Ming) copies 96 poems from the walls. — [Chinese detention-barracks poetry](../articles/culture-and-arts/chinese-detention-barracks-poetry.md) |
 | 1932 | Thousands of World War I veterans march on Washington as the Bonus Army to demand early payment of promised bonuses, a precedent planners later wanted to avoid. — [Servicemen's Readjustment Act of 1944](../articles/cold-war-and-civil-rights/servicemens-readjustment-act-of-1944.md) |
 | 1932-01 | By late January winds are lifting loose soil into dust storms. — [Dust Bowl](../articles/depression-and-world-war/dust-bowl.md) |
+| 1932-01 | Creates the Reconstruction Finance Corporation to lend to banks, railroads and farm groups. — [Herbert Hoover](../articles/presidents-and-founders/herbert-hoover.md) |
 | 1932-01-12 | Hattie Caraway becomes the first woman elected to the Senate. — [United States Congress](../articles/constitution-and-government/united-states-congress.md) |
 | 1932-03-02 | The Senate authorizes its Banking and Currency Committee to investigate stock exchange practices. — [Stock market crash of 1929](../articles/economy-and-work/stock-market-crash-of-1929.md) |
 | 1932-07 | Federal troops drive the Bonus Army of unemployed World War I veterans out of their camps in Washington, D.C. — [Great Depression](../articles/depression-and-world-war/great-depression.md) |
+| 1932-07 | Troops under Douglas MacArthur, exceeding Hoover's orders, drive the Bonus Army out of Washington. — [Herbert Hoover](../articles/presidents-and-founders/herbert-hoover.md) |
 | 1932-07-02 | Accepting the Democratic nomination in Chicago, Franklin D. Roosevelt pledges a new deal for the American people. — [New Deal](../articles/depression-and-world-war/new-deal.md) |
 | 1932-07-08 | The Dow bottoms at 41.22, about 89 percent below its 1929 peak. — [Stock market crash of 1929](../articles/economy-and-work/stock-market-crash-of-1929.md) |
 | 1932-10-13 | Chief Justice Charles Evans Hughes lays the cornerstone of the Supreme Court Building. — [Supreme Court of the United States](../articles/constitution-and-government/supreme-court-of-the-united-states.md) |
@@ -1341,6 +1355,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1933-03 – 1938 | **[New Deal](../articles/depression-and-world-war/new-deal.md)** (Policy) |
 | 1933-03-04 | **[Good Neighbor Policy](../articles/foreign-relations-and-military/good-neighbor-policy.md)** (Policy) |
 | 1933-03-04 | Franklin D. Roosevelt is inaugurated with nearly 25 percent of the labor force jobless, and soon declares a national bank holiday. — [Great Depression](../articles/depression-and-world-war/great-depression.md) |
+| 1933-03-04 | Leaves office after losing the 1932 election to Franklin D. Roosevelt. — [Herbert Hoover](../articles/presidents-and-founders/herbert-hoover.md) |
 | 1933-03-04 | Roosevelt's first inaugural address dedicates the nation to the policy of the good neighbor. — [Good Neighbor Policy](../articles/foreign-relations-and-military/good-neighbor-policy.md) |
 | 1933-03-09 | Days after Roosevelt declares a bank holiday, he signs the Emergency Banking Act hours after Congress first sees it. — [New Deal](../articles/depression-and-world-war/new-deal.md) |
 | 1933-03-12 | Gives his first radio fireside chat, on the banking crisis. — [Franklin D. Roosevelt](../articles/presidents-and-founders/franklin-d-roosevelt.md) |
@@ -1523,6 +1538,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1946-03-20 | Tule Lake closes, the last of the ten WRA camps; the WRA is disbanded on June 30, 1946. — [Japanese American incarceration during World War II](../articles/depression-and-world-war/japanese-american-incarceration.md) |
 | 1947 – 1957 | **[McCarthyism](../articles/cold-war-and-civil-rights/mccarthyism.md)** (Era) |
 | 1947 | Muddy Waters, now in Chicago, is recording for the Aristocrat label (later Chess). — [Blues](../articles/culture-and-arts/blues.md) |
+| 1947 | Named chairman of the first Hoover Commission on executive-branch organization. — [Herbert Hoover](../articles/presidents-and-founders/herbert-hoover.md) |
 | 1947 | The Speaker becomes second in the line of presidential succession, after the vice president. — [United States House of Representatives](../articles/constitution-and-government/house-of-representatives.md) |
 | 1947 | Veterans make up 49 percent of students at American colleges. — [Servicemen's Readjustment Act of 1944](../articles/cold-war-and-civil-rights/servicemens-readjustment-act-of-1944.md) |
 | 1947-03 | President Harry S. Truman issues Executive Order 9835, creating loyalty reviews for federal employees. — [McCarthyism](../articles/cold-war-and-civil-rights/mccarthyism.md) |
@@ -1694,6 +1710,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1964-07-02 | President Lyndon B. Johnson signs the Civil Rights Act of 1964. — [Civil rights movement](../articles/cold-war-and-civil-rights/civil-rights-movement.md) |
 | 1964-07-02 | The Civil Rights Act outlaws segregation in businesses such as theaters, restaurants and hotels. — [Jim Crow laws](../articles/gilded-age-and-progressive-era/jim-crow-laws.md) |
 | 1964-09-08 | Prince Edward County's public schools reopen after the Supreme Court's Griffin decision. — [Brown v. Board of Education](../articles/cold-war-and-civil-rights/brown-v-board-of-education.md) |
+| 1964-10-20 | Dies in New York City at age 90; buried at West Branch, Iowa. — [Herbert Hoover](../articles/presidents-and-founders/herbert-hoover.md) |
 | 1964-12 | Receives the Nobel Peace Prize. — [Martin Luther King Jr.](../articles/people-who-shaped-america/martin-luther-king-jr.md) |
 | 1965 | The Immigration and Nationality Act ends the national-origins quota system. — [Chinese Exclusion Act](../articles/gilded-age-and-progressive-era/chinese-exclusion-act.md) |
 | 1965 | The Immigration and Nationality Act makes family reunification the main basis for admission, opening the way for large-scale immigration from China, Hong Kong and Taiwan. — [Chinese Americans](../articles/society-and-people/chinese-americans.md) |

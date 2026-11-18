@@ -7561,6 +7561,143 @@
 <https://github.com/john1hsu/usa-graph/id/hayden-geological-survey-of-1871> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/hayden-geological-survey-of-1871/timeline/9> .
 <https://github.com/john1hsu/usa-graph/id/hayden-geological-survey-of-1871> <https://schema.org/endDate> "1871-10-02"^^<http://www.w3.org/2001/XMLSchema#date> .
 <https://github.com/john1hsu/usa-graph/id/hayden-geological-survey-of-1871> <https://schema.org/startDate> "1871-06"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> .
+<https://github.com/john1hsu/usa-graph/id/herbert-hoover/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Misconception> .
+<https://github.com/john1hsu/usa-graph/id/herbert-hoover/misconception> <https://github.com/john1hsu/usa-graph/ontology#fact> "Hoover called business and labor conferences in November 1929, pressed for public works, created the Reconstruction Finance Corporation in 1932 and signed a law providing $2 billion for public works and $300 million for state relief; what he refused was large-scale direct federal relief to the unemployed." .
+<https://github.com/john1hsu/usa-graph/id/herbert-hoover/misconception> <https://github.com/john1hsu/usa-graph/ontology#myth> "Herbert Hoover did nothing to fight the Great Depression." .
+<https://github.com/john1hsu/usa-graph/id/herbert-hoover/misconception> <https://github.com/john1hsu/usa-graph/ontology#why> "Unemployment kept rising throughout his term, and shantytowns nicknamed \"Hoovervilles,\" the rout of the Bonus Army and the contrast with Roosevelt's New Deal fixed an image of an indifferent president that historians have since revised." .
+<https://github.com/john1hsu/usa-graph/id/herbert-hoover/review/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+<https://github.com/john1hsu/usa-graph/id/herbert-hoover/review/1> <http://www.w3.org/2000/01/rdf-schema#label> "How did Hoover's World War I relief work prepare the way for his presidency?" .
+<https://github.com/john1hsu/usa-graph/id/herbert-hoover/review/1> <https://github.com/john1hsu/usa-graph/ontology#answer> "Organizing the Commission for Relief in Belgium, which fed more than nine million Belgian and French civilians, and then the U.S. Food Administration and the American Relief Administration made him famous as a humanitarian and organizer, which led to his appointment as commerce secretary and, after he ran the 1927 flood relief as a \"master of emergencies,\" to the 1928 Republican nomination." .
+<https://github.com/john1hsu/usa-graph/id/herbert-hoover/review/1> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/herbert-hoover> .
+<https://github.com/john1hsu/usa-graph/id/herbert-hoover/review/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+<https://github.com/john1hsu/usa-graph/id/herbert-hoover/review/2> <http://www.w3.org/2000/01/rdf-schema#label> "Why is it inaccurate to say Hoover did nothing about the Depression, and what do historians still criticize?" .
+<https://github.com/john1hsu/usa-graph/id/herbert-hoover/review/2> <https://github.com/john1hsu/usa-graph/ontology#answer> "He organized wage pledges, pushed public works, created the Reconstruction Finance Corporation and approved $2 billion for public works and $300 million for state relief. Historians still fault him for refusing large-scale direct relief to the unemployed, for limited federal spending and for misjudging the depth of the crisis." .
+<https://github.com/john1hsu/usa-graph/id/herbert-hoover/review/2> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/herbert-hoover> .
+<https://github.com/john1hsu/usa-graph/id/herbert-hoover/review/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+<https://github.com/john1hsu/usa-graph/id/herbert-hoover/review/3> <http://www.w3.org/2000/01/rdf-schema#label> "Why do economists such as Lee Ohanian argue that one of Hoover's interventions made the Depression worse?" .
+<https://github.com/john1hsu/usa-graph/id/herbert-hoover/review/3> <https://github.com/john1hsu/usa-graph/ontology#answer> "Hoover persuaded big industrial firms to keep wages up after the 1929 crash; as prices fell, real wages rose, and Ohanian argues firms cut employment instead, a labor-market failure he estimates reduced output and hours worked by about 20 percent." .
+<https://github.com/john1hsu/usa-graph/id/herbert-hoover/review/3> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/herbert-hoover> .
+<https://github.com/john1hsu/usa-graph/id/herbert-hoover/review/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+<https://github.com/john1hsu/usa-graph/id/herbert-hoover/review/4> <http://www.w3.org/2000/01/rdf-schema#label> "What did the 1927 flood reveal about the treatment of Black Mississippians, and how did Hoover respond?" .
+<https://github.com/john1hsu/usa-graph/id/herbert-hoover/review/4> <https://github.com/john1hsu/usa-graph/ontology#answer> "In Greenville, Black families were held in levee camps under National Guard watch and about 500 Black men were made to repair the levee without pay under threat of losing Red Cross food. Hoover set up a Colored Advisory Committee under Robert Moton, but when it delivered a harsh report he took no action." .
+<https://github.com/john1hsu/usa-graph/id/herbert-hoover/review/4> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/herbert-hoover> .
+<https://github.com/john1hsu/usa-graph/id/herbert-hoover/timeline/10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/herbert-hoover/timeline/10> <http://www.w3.org/2000/01/rdf-schema#label> "After the stock market crash, asks business leaders to hold wages and labor leaders not to press for raises." .
+<https://github.com/john1hsu/usa-graph/id/herbert-hoover/timeline/10> <https://github.com/john1hsu/usa-graph/ontology#date> "1929-11"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> .
+<https://github.com/john1hsu/usa-graph/id/herbert-hoover/timeline/11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/herbert-hoover/timeline/11> <http://www.w3.org/2000/01/rdf-schema#label> "Signs the Smoot-Hawley Tariff." .
+<https://github.com/john1hsu/usa-graph/id/herbert-hoover/timeline/11> <https://github.com/john1hsu/usa-graph/ontology#date> "1930-06"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> .
+<https://github.com/john1hsu/usa-graph/id/herbert-hoover/timeline/12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/herbert-hoover/timeline/12> <http://www.w3.org/2000/01/rdf-schema#label> "Creates the Reconstruction Finance Corporation to lend to banks, railroads and farm groups." .
+<https://github.com/john1hsu/usa-graph/id/herbert-hoover/timeline/12> <https://github.com/john1hsu/usa-graph/ontology#date> "1932-01"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> .
+<https://github.com/john1hsu/usa-graph/id/herbert-hoover/timeline/13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/herbert-hoover/timeline/13> <http://www.w3.org/2000/01/rdf-schema#label> "Troops under Douglas MacArthur, exceeding Hoover's orders, drive the Bonus Army out of Washington." .
+<https://github.com/john1hsu/usa-graph/id/herbert-hoover/timeline/13> <https://github.com/john1hsu/usa-graph/ontology#date> "1932-07"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> .
+<https://github.com/john1hsu/usa-graph/id/herbert-hoover/timeline/14> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/herbert-hoover/timeline/14> <http://www.w3.org/2000/01/rdf-schema#label> "Leaves office after losing the 1932 election to Franklin D. Roosevelt." .
+<https://github.com/john1hsu/usa-graph/id/herbert-hoover/timeline/14> <https://github.com/john1hsu/usa-graph/ontology#date> "1933-03-04"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/herbert-hoover/timeline/15> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/herbert-hoover/timeline/15> <http://www.w3.org/2000/01/rdf-schema#label> "Named chairman of the first Hoover Commission on executive-branch organization." .
+<https://github.com/john1hsu/usa-graph/id/herbert-hoover/timeline/15> <https://github.com/john1hsu/usa-graph/ontology#date> "1947"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://github.com/john1hsu/usa-graph/id/herbert-hoover/timeline/16> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/herbert-hoover/timeline/16> <http://www.w3.org/2000/01/rdf-schema#label> "Dies in New York City at age 90; buried at West Branch, Iowa." .
+<https://github.com/john1hsu/usa-graph/id/herbert-hoover/timeline/16> <https://github.com/john1hsu/usa-graph/ontology#date> "1964-10-20"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/herbert-hoover/timeline/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/herbert-hoover/timeline/1> <http://www.w3.org/2000/01/rdf-schema#label> "Born in a two-room cottage in West Branch, Iowa, to a Quaker family." .
+<https://github.com/john1hsu/usa-graph/id/herbert-hoover/timeline/1> <https://github.com/john1hsu/usa-graph/ontology#date> "1874-08-10"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/herbert-hoover/timeline/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/herbert-hoover/timeline/2> <http://www.w3.org/2000/01/rdf-schema#label> "Orphaned, he moves at 11 to live with his uncle Henry Minthorn in Oregon." .
+<https://github.com/john1hsu/usa-graph/id/herbert-hoover/timeline/2> <https://github.com/john1hsu/usa-graph/ontology#date> "1885-11"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> .
+<https://github.com/john1hsu/usa-graph/id/herbert-hoover/timeline/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/herbert-hoover/timeline/3> <http://www.w3.org/2000/01/rdf-schema#label> "Graduates in geology from the new Stanford University, where he met Lou Henry." .
+<https://github.com/john1hsu/usa-graph/id/herbert-hoover/timeline/3> <https://github.com/john1hsu/usa-graph/ontology#date> "1895"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://github.com/john1hsu/usa-graph/id/herbert-hoover/timeline/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/herbert-hoover/timeline/4> <http://www.w3.org/2000/01/rdf-schema#label> "Founds the Commission for Relief in Belgium to feed civilians in German-occupied Belgium, later northern France as well." .
+<https://github.com/john1hsu/usa-graph/id/herbert-hoover/timeline/4> <https://github.com/john1hsu/usa-graph/ontology#date> "1914-10"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> .
+<https://github.com/john1hsu/usa-graph/id/herbert-hoover/timeline/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/herbert-hoover/timeline/5> <http://www.w3.org/2000/01/rdf-schema#label> "Appointed by Woodrow Wilson to head the U.S. Food Administration." .
+<https://github.com/john1hsu/usa-graph/id/herbert-hoover/timeline/5> <https://github.com/john1hsu/usa-graph/ontology#date> "1917"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://github.com/john1hsu/usa-graph/id/herbert-hoover/timeline/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/herbert-hoover/timeline/6> <http://www.w3.org/2000/01/rdf-schema#label> "Congress creates the American Relief Administration, which Hoover directs, with a $100 million budget." .
+<https://github.com/john1hsu/usa-graph/id/herbert-hoover/timeline/6> <https://github.com/john1hsu/usa-graph/ontology#date> "1919-02"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> .
+<https://github.com/john1hsu/usa-graph/id/herbert-hoover/timeline/7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/herbert-hoover/timeline/7> <http://www.w3.org/2000/01/rdf-schema#label> "Becomes secretary of commerce under Warren Harding, a post he keeps under Calvin Coolidge." .
+<https://github.com/john1hsu/usa-graph/id/herbert-hoover/timeline/7> <https://github.com/john1hsu/usa-graph/ontology#date> "1921"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://github.com/john1hsu/usa-graph/id/herbert-hoover/timeline/8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/herbert-hoover/timeline/8> <http://www.w3.org/2000/01/rdf-schema#label> "The Mound Landing levee breaks during the Mississippi River flood; Hoover chairs the relief effort." .
+<https://github.com/john1hsu/usa-graph/id/herbert-hoover/timeline/8> <https://github.com/john1hsu/usa-graph/ontology#date> "1927-04-21"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/herbert-hoover/timeline/9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/herbert-hoover/timeline/9> <http://www.w3.org/2000/01/rdf-schema#label> "Inaugurated as president after defeating Alfred E. Smith, 444 electoral votes to 87." .
+<https://github.com/john1hsu/usa-graph/id/herbert-hoover/timeline/9> <https://github.com/john1hsu/usa-graph/ontology#date> "1929-03-04"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/herbert-hoover> <http://purl.org/dc/terms/created> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/herbert-hoover> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Person> .
+<https://github.com/john1hsu/usa-graph/id/herbert-hoover> <http://www.w3.org/2000/01/rdf-schema#label> "Herbert Hoover" .
+<https://github.com/john1hsu/usa-graph/id/herbert-hoover> <http://www.w3.org/2004/02/skos/core#altLabel> "31st President of the United States" .
+<https://github.com/john1hsu/usa-graph/id/herbert-hoover> <http://www.w3.org/2004/02/skos/core#altLabel> "Herbert C. Hoover" .
+<https://github.com/john1hsu/usa-graph/id/herbert-hoover> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/usa-graph/id/presidents-of-the-united-states> .
+<https://github.com/john1hsu/usa-graph/id/herbert-hoover> <http://www.w3.org/2004/02/skos/core#definition> "The 31st president of the United States (1929–1933), an Iowa-born Quaker orphan turned mining engineer who won fame organizing food relief in World War I, served as secretary of commerce, and was president when the Great Depression began; he lost the 1932 election to Franklin D. Roosevelt and later led two commissions on reorganizing the federal government." .
+<https://github.com/john1hsu/usa-graph/id/herbert-hoover> <http://www.w3.org/2004/02/skos/core#inScheme> <https://github.com/john1hsu/usa-graph/id/scheme/presidents-and-founders> .
+<https://github.com/john1hsu/usa-graph/id/herbert-hoover> <http://www.w3.org/2004/02/skos/core#prefLabel> "Herbert Hoover" .
+<https://github.com/john1hsu/usa-graph/id/herbert-hoover> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/american-relief-administration> .
+<https://github.com/john1hsu/usa-graph/id/herbert-hoover> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/bonus-army> .
+<https://github.com/john1hsu/usa-graph/id/herbert-hoover> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/franklin-d-roosevelt> .
+<https://github.com/john1hsu/usa-graph/id/herbert-hoover> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/good-neighbor-policy> .
+<https://github.com/john1hsu/usa-graph/id/herbert-hoover> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/great-depression> .
+<https://github.com/john1hsu/usa-graph/id/herbert-hoover> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/great-mississippi-flood-of-1927> .
+<https://github.com/john1hsu/usa-graph/id/herbert-hoover> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/hoover-commission> .
+<https://github.com/john1hsu/usa-graph/id/herbert-hoover> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/hoover-dam> .
+<https://github.com/john1hsu/usa-graph/id/herbert-hoover> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/lou-henry-hoover> .
+<https://github.com/john1hsu/usa-graph/id/herbert-hoover> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/mexican-repatriation> .
+<https://github.com/john1hsu/usa-graph/id/herbert-hoover> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/new-deal> .
+<https://github.com/john1hsu/usa-graph/id/herbert-hoover> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/reconstruction-finance-corporation> .
+<https://github.com/john1hsu/usa-graph/id/herbert-hoover> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/smoot-hawley-tariff> .
+<https://github.com/john1hsu/usa-graph/id/herbert-hoover> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/stock-market-crash-of-1929> .
+<https://github.com/john1hsu/usa-graph/id/herbert-hoover> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/herbert-hoover/s10> .
+<https://github.com/john1hsu/usa-graph/id/herbert-hoover> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/herbert-hoover/s11> .
+<https://github.com/john1hsu/usa-graph/id/herbert-hoover> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/herbert-hoover/s12> .
+<https://github.com/john1hsu/usa-graph/id/herbert-hoover> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/herbert-hoover/s13> .
+<https://github.com/john1hsu/usa-graph/id/herbert-hoover> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/herbert-hoover/s14> .
+<https://github.com/john1hsu/usa-graph/id/herbert-hoover> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/herbert-hoover/s1> .
+<https://github.com/john1hsu/usa-graph/id/herbert-hoover> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/herbert-hoover/s2> .
+<https://github.com/john1hsu/usa-graph/id/herbert-hoover> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/herbert-hoover/s3> .
+<https://github.com/john1hsu/usa-graph/id/herbert-hoover> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/herbert-hoover/s4> .
+<https://github.com/john1hsu/usa-graph/id/herbert-hoover> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/herbert-hoover/s5> .
+<https://github.com/john1hsu/usa-graph/id/herbert-hoover> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/herbert-hoover/s6> .
+<https://github.com/john1hsu/usa-graph/id/herbert-hoover> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/herbert-hoover/s7> .
+<https://github.com/john1hsu/usa-graph/id/herbert-hoover> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/herbert-hoover/s8> .
+<https://github.com/john1hsu/usa-graph/id/herbert-hoover> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/herbert-hoover/s9> .
+<https://github.com/john1hsu/usa-graph/id/herbert-hoover> <https://github.com/john1hsu/usa-graph/ontology#domain> "presidents-and-founders" .
+<https://github.com/john1hsu/usa-graph/id/herbert-hoover> <https://github.com/john1hsu/usa-graph/ontology#evidenceStatus> "interpretive" .
+<https://github.com/john1hsu/usa-graph/id/herbert-hoover> <https://github.com/john1hsu/usa-graph/ontology#file> "articles/presidents-and-founders/herbert-hoover.md" .
+<https://github.com/john1hsu/usa-graph/id/herbert-hoover> <https://github.com/john1hsu/usa-graph/ontology#heldOffice> <https://github.com/john1hsu/usa-graph/id/presidency-of-the-united-states> .
+<https://github.com/john1hsu/usa-graph/id/herbert-hoover> <https://github.com/john1hsu/usa-graph/ontology#level> "introductory" .
+<https://github.com/john1hsu/usa-graph/id/herbert-hoover> <https://github.com/john1hsu/usa-graph/ontology#memberOf> <https://github.com/john1hsu/usa-graph/id/republican-party> .
+<https://github.com/john1hsu/usa-graph/id/herbert-hoover> <https://github.com/john1hsu/usa-graph/ontology#misconception> <https://github.com/john1hsu/usa-graph/id/herbert-hoover/misconception> .
+<https://github.com/john1hsu/usa-graph/id/herbert-hoover> <https://github.com/john1hsu/usa-graph/ontology#participatedIn> <https://github.com/john1hsu/usa-graph/id/election-of-1928> .
+<https://github.com/john1hsu/usa-graph/id/herbert-hoover> <https://github.com/john1hsu/usa-graph/ontology#participatedIn> <https://github.com/john1hsu/usa-graph/id/election-of-1932> .
+<https://github.com/john1hsu/usa-graph/id/herbert-hoover> <https://github.com/john1hsu/usa-graph/ontology#participatedIn> <https://github.com/john1hsu/usa-graph/id/great-mississippi-flood-of-1927> .
+<https://github.com/john1hsu/usa-graph/id/herbert-hoover> <https://github.com/john1hsu/usa-graph/ontology#participatedIn> <https://github.com/john1hsu/usa-graph/id/world-war-i> .
+<https://github.com/john1hsu/usa-graph/id/herbert-hoover> <https://github.com/john1hsu/usa-graph/ontology#requires> <https://github.com/john1hsu/usa-graph/id/world-war-i> .
+<https://github.com/john1hsu/usa-graph/id/herbert-hoover> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/herbert-hoover/timeline/10> .
+<https://github.com/john1hsu/usa-graph/id/herbert-hoover> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/herbert-hoover/timeline/11> .
+<https://github.com/john1hsu/usa-graph/id/herbert-hoover> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/herbert-hoover/timeline/12> .
+<https://github.com/john1hsu/usa-graph/id/herbert-hoover> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/herbert-hoover/timeline/13> .
+<https://github.com/john1hsu/usa-graph/id/herbert-hoover> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/herbert-hoover/timeline/14> .
+<https://github.com/john1hsu/usa-graph/id/herbert-hoover> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/herbert-hoover/timeline/15> .
+<https://github.com/john1hsu/usa-graph/id/herbert-hoover> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/herbert-hoover/timeline/16> .
+<https://github.com/john1hsu/usa-graph/id/herbert-hoover> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/herbert-hoover/timeline/1> .
+<https://github.com/john1hsu/usa-graph/id/herbert-hoover> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/herbert-hoover/timeline/2> .
+<https://github.com/john1hsu/usa-graph/id/herbert-hoover> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/herbert-hoover/timeline/3> .
+<https://github.com/john1hsu/usa-graph/id/herbert-hoover> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/herbert-hoover/timeline/4> .
+<https://github.com/john1hsu/usa-graph/id/herbert-hoover> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/herbert-hoover/timeline/5> .
+<https://github.com/john1hsu/usa-graph/id/herbert-hoover> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/herbert-hoover/timeline/6> .
+<https://github.com/john1hsu/usa-graph/id/herbert-hoover> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/herbert-hoover/timeline/7> .
+<https://github.com/john1hsu/usa-graph/id/herbert-hoover> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/herbert-hoover/timeline/8> .
+<https://github.com/john1hsu/usa-graph/id/herbert-hoover> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/herbert-hoover/timeline/9> .
+<https://github.com/john1hsu/usa-graph/id/herbert-hoover> <https://schema.org/birthDate> "1874-08-10"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/herbert-hoover> <https://schema.org/deathDate> "1964-10-20"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/herbert-hoover> <https://schema.org/endDate> "1964-10-20"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/herbert-hoover> <https://schema.org/startDate> "1874-08-10"^^<http://www.w3.org/2001/XMLSchema#date> .
 <https://github.com/john1hsu/usa-graph/id/hip-hop/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Misconception> .
 <https://github.com/john1hsu/usa-graph/id/hip-hop/misconception> <https://github.com/john1hsu/usa-graph/ontology#fact> "The Fatback Band's \"King Tim III (Personality Jock)\" was released about two months earlier in 1979, and DJs, MCs and dancers had been building hip hop at Bronx parties since the early-to-mid 1970s; \"Rapper's Delight\" was the first hip hop song to reach the Billboard Hot 100." .
 <https://github.com/john1hsu/usa-graph/id/hip-hop/misconception> <https://github.com/john1hsu/usa-graph/ontology#myth> "The Sugarhill Gang's \"Rapper's Delight\" (1979) was the first rap record, and hip hop began when it was released." .
@@ -17418,6 +17555,90 @@
 <https://github.com/john1hsu/usa-graph/id/source/hayden-geological-survey-of-1871/s9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
 <https://github.com/john1hsu/usa-graph/id/source/hayden-geological-survey-of-1871/s9> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "institutional" .
 <https://github.com/john1hsu/usa-graph/id/source/hayden-geological-survey-of-1871/s9> <https://schema.org/url> <https://www.npshistory.com/publications/yell/cramton/sec5.htm> .
+<https://github.com/john1hsu/usa-graph/id/source/herbert-hoover/s10> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/herbert-hoover/s10> <http://purl.org/dc/terms/publisher> "State Historical Society of Iowa" .
+<https://github.com/john1hsu/usa-graph/id/source/herbert-hoover/s10> <http://purl.org/dc/terms/title> "What was Herbert Hoover's legacy?" .
+<https://github.com/john1hsu/usa-graph/id/source/herbert-hoover/s10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/herbert-hoover/s10> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/usa-graph/id/source/herbert-hoover/s10> <https://schema.org/url> <https://history.iowa.gov/history/education/educator-resources/primary-source-sets/herbert-hoovers-legacy> .
+<https://github.com/john1hsu/usa-graph/id/source/herbert-hoover/s11> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/herbert-hoover/s11> <http://purl.org/dc/terms/publisher> "Hoover Heads blog, Herbert Hoover Presidential Library and Museum" .
+<https://github.com/john1hsu/usa-graph/id/source/herbert-hoover/s11> <http://purl.org/dc/terms/title> "Hoover on Immigration" .
+<https://github.com/john1hsu/usa-graph/id/source/herbert-hoover/s11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/herbert-hoover/s11> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/usa-graph/id/source/herbert-hoover/s11> <https://schema.org/url> <https://hoover.blogs.archives.gov/2016/08/04/hoover-on-immigration> .
+<https://github.com/john1hsu/usa-graph/id/source/herbert-hoover/s12> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/herbert-hoover/s12> <http://purl.org/dc/terms/publisher> "EBSCO Research Starters" .
+<https://github.com/john1hsu/usa-graph/id/source/herbert-hoover/s12> <http://purl.org/dc/terms/title> "Mexican Deportations (1931) (Sara A. Ramírez)" .
+<https://github.com/john1hsu/usa-graph/id/source/herbert-hoover/s12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/herbert-hoover/s12> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "encyclopedia" .
+<https://github.com/john1hsu/usa-graph/id/source/herbert-hoover/s12> <https://schema.org/url> <https://www.ebsco.com/research-starters/history/mexican-deportations-1931> .
+<https://github.com/john1hsu/usa-graph/id/source/herbert-hoover/s13> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/herbert-hoover/s13> <http://purl.org/dc/terms/publisher> "National Bureau of Economic Research" .
+<https://github.com/john1hsu/usa-graph/id/source/herbert-hoover/s13> <http://purl.org/dc/terms/title> "What – or Who – Started the Great Depression? (Lee E. Ohanian), NBER Working Paper 15258" .
+<https://github.com/john1hsu/usa-graph/id/source/herbert-hoover/s13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/herbert-hoover/s13> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/usa-graph/id/source/herbert-hoover/s13> <https://schema.org/url> <https://www.nber.org/papers/w15258.pdf> .
+<https://github.com/john1hsu/usa-graph/id/source/herbert-hoover/s14> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/herbert-hoover/s14> <http://purl.org/dc/terms/publisher> "National Park Service" .
+<https://github.com/john1hsu/usa-graph/id/source/herbert-hoover/s14> <http://purl.org/dc/terms/title> "Herbert Hoover" .
+<https://github.com/john1hsu/usa-graph/id/source/herbert-hoover/s14> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/herbert-hoover/s14> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/usa-graph/id/source/herbert-hoover/s14> <https://schema.org/url> <https://www.nps.gov/people/herbert-hoover.htm> .
+<https://github.com/john1hsu/usa-graph/id/source/herbert-hoover/s1> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/herbert-hoover/s1> <http://purl.org/dc/terms/publisher> "Herbert Hoover Presidential Library and Museum, National Archives and Records Administration" .
+<https://github.com/john1hsu/usa-graph/id/source/herbert-hoover/s1> <http://purl.org/dc/terms/title> "President Herbert Hoover" .
+<https://github.com/john1hsu/usa-graph/id/source/herbert-hoover/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/herbert-hoover/s1> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/usa-graph/id/source/herbert-hoover/s1> <https://schema.org/url> <https://hoover.archives.gov/hoovers/president-herbert-hoover> .
+<https://github.com/john1hsu/usa-graph/id/source/herbert-hoover/s2> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/herbert-hoover/s2> <http://purl.org/dc/terms/publisher> "Miller Center of Public Affairs, University of Virginia (David E. Hamilton)" .
+<https://github.com/john1hsu/usa-graph/id/source/herbert-hoover/s2> <http://purl.org/dc/terms/title> "Herbert Hoover: Life in Brief" .
+<https://github.com/john1hsu/usa-graph/id/source/herbert-hoover/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/herbert-hoover/s2> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/usa-graph/id/source/herbert-hoover/s2> <https://schema.org/url> <https://millercenter.org/node/302> .
+<https://github.com/john1hsu/usa-graph/id/source/herbert-hoover/s3> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/herbert-hoover/s3> <http://purl.org/dc/terms/publisher> "Miller Center of Public Affairs, University of Virginia (David E. Hamilton)" .
+<https://github.com/john1hsu/usa-graph/id/source/herbert-hoover/s3> <http://purl.org/dc/terms/title> "Herbert Hoover: Domestic Affairs" .
+<https://github.com/john1hsu/usa-graph/id/source/herbert-hoover/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/herbert-hoover/s3> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/usa-graph/id/source/herbert-hoover/s3> <https://schema.org/url> <https://millercenter.org/president/hoover/domestic-affairs> .
+<https://github.com/john1hsu/usa-graph/id/source/herbert-hoover/s4> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/herbert-hoover/s4> <http://purl.org/dc/terms/publisher> "Miller Center of Public Affairs, University of Virginia (David E. Hamilton)" .
+<https://github.com/john1hsu/usa-graph/id/source/herbert-hoover/s4> <http://purl.org/dc/terms/title> "Herbert Hoover: Impact and Legacy" .
+<https://github.com/john1hsu/usa-graph/id/source/herbert-hoover/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/herbert-hoover/s4> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/usa-graph/id/source/herbert-hoover/s4> <https://schema.org/url> <https://millercenter.org/president/hoover/impact-and-legacy> .
+<https://github.com/john1hsu/usa-graph/id/source/herbert-hoover/s5> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/herbert-hoover/s5> <http://purl.org/dc/terms/publisher> "Miller Center of Public Affairs, University of Virginia (David E. Hamilton)" .
+<https://github.com/john1hsu/usa-graph/id/source/herbert-hoover/s5> <http://purl.org/dc/terms/title> "Herbert Hoover: Life After the Presidency" .
+<https://github.com/john1hsu/usa-graph/id/source/herbert-hoover/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/herbert-hoover/s5> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/usa-graph/id/source/herbert-hoover/s5> <https://schema.org/url> <https://millercenter.org/node/307> .
+<https://github.com/john1hsu/usa-graph/id/source/herbert-hoover/s6> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/herbert-hoover/s6> <http://purl.org/dc/terms/publisher> "National Archives and Records Administration" .
+<https://github.com/john1hsu/usa-graph/id/source/herbert-hoover/s6> <http://purl.org/dc/terms/title> "1928 Electoral College Results" .
+<https://github.com/john1hsu/usa-graph/id/source/herbert-hoover/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/herbert-hoover/s6> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/usa-graph/id/source/herbert-hoover/s6> <https://schema.org/url> <https://www.archives.gov/electoral-college/1928> .
+<https://github.com/john1hsu/usa-graph/id/source/herbert-hoover/s7> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/herbert-hoover/s7> <http://purl.org/dc/terms/publisher> "National Park Service, Herbert Hoover National Historic Site" .
+<https://github.com/john1hsu/usa-graph/id/source/herbert-hoover/s7> <http://purl.org/dc/terms/title> "Emergence of the Great Humanitarian" .
+<https://github.com/john1hsu/usa-graph/id/source/herbert-hoover/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/herbert-hoover/s7> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/usa-graph/id/source/herbert-hoover/s7> <https://schema.org/url> <https://www.nps.gov/articles/emergence-of-the-great-humanitarian.htm> .
+<https://github.com/john1hsu/usa-graph/id/source/herbert-hoover/s8> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/herbert-hoover/s8> <http://purl.org/dc/terms/publisher> "Mississippi History Now, Mississippi Department of Archives and History" .
+<https://github.com/john1hsu/usa-graph/id/source/herbert-hoover/s8> <http://purl.org/dc/terms/title> "The Flood of 1927 and Its Impact in Greenville, Mississippi (Princella Wilkerson Nowell)" .
+<https://github.com/john1hsu/usa-graph/id/source/herbert-hoover/s8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/herbert-hoover/s8> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/usa-graph/id/source/herbert-hoover/s8> <https://schema.org/url> <https://mshistory.mdah.ms.gov/issue/the-flood-of-1927-and-its-impact-in-greenville-mississippi> .
+<https://github.com/john1hsu/usa-graph/id/source/herbert-hoover/s9> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/herbert-hoover/s9> <http://purl.org/dc/terms/publisher> "CALS Encyclopedia of Arkansas" .
+<https://github.com/john1hsu/usa-graph/id/source/herbert-hoover/s9> <http://purl.org/dc/terms/title> "Flood of 1927 (Nancy Hendricks)" .
+<https://github.com/john1hsu/usa-graph/id/source/herbert-hoover/s9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/herbert-hoover/s9> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "scholarly-encyclopedia" .
+<https://github.com/john1hsu/usa-graph/id/source/herbert-hoover/s9> <https://schema.org/url> <https://encyclopediaofarkansas.net/entries/flood-of-1927-2202/> .
 <https://github.com/john1hsu/usa-graph/id/source/hip-hop/s1> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
 <https://github.com/john1hsu/usa-graph/id/source/hip-hop/s1> <http://purl.org/dc/terms/publisher> "U.S. Senate, via GovInfo (U.S. Government Publishing Office)" .
 <https://github.com/john1hsu/usa-graph/id/source/hip-hop/s1> <http://purl.org/dc/terms/title> "S.Res. 305 (118th Congress): A resolution commemorating the 50th anniversary of hip hop (agreed to in Senate)" .
