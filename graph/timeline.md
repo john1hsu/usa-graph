@@ -957,7 +957,9 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1887 | The Hatch Act funds agricultural experiment stations at the land-grant colleges. — [Morrill Land-Grant College Act](../articles/science-and-innovation/morrill-land-grant-college-act.md) |
 | 1887 | White landowners and businessmen force King Kalākaua to sign a constitution that strips him of power. — [Hawaii](../articles/states-and-territories/hawaii.md) |
 | 1887-01-25 | The Senate takes its first vote on the amendment and defeats it, 16 to 34. — [Women's suffrage movement](../articles/gilded-age-and-progressive-era/womens-suffrage-movement.md) |
+| 1887-02-08 | **[Dawes Act](../articles/native-nations/dawes-act.md)** (Law) |
 | 1887-02-08 | Congress approves the Dawes Act, dividing reservation land held in common into individual allotments. — [Gilded Age](../articles/gilded-age-and-progressive-era/gilded-age.md) |
+| 1887-02-08 | President Grover Cleveland signs the General Allotment Act, drafted by Senator Henry L. Dawes of Massachusetts. — [Dawes Act](../articles/native-nations/dawes-act.md) |
 | 1887-02-08 | The Dawes General Allotment Act divides reservation land into individual allotments and opens the 'surplus' to settlers. — [The West](../articles/regions-cities-and-landmarks/the-west.md) |
 | 1888-10-01 | The Scott Act voids the return certificates of Chinese laborers abroad, stranding about 20,000 people. — [Chinese Exclusion Act](../articles/gilded-age-and-progressive-era/chinese-exclusion-act.md) |
 | 1889 | Appointed U.S. minister resident and consul general to Haiti, serving until 1891. — [Frederick Douglass](../articles/people-who-shaped-america/frederick-douglass.md) |
@@ -993,6 +995,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1893 | Frederick Jackson Turner presents his frontier thesis to the American Historical Association in Chicago. — [The West](../articles/regions-cities-and-landmarks/the-west.md) |
 | 1893 | S. S. McClure and John S. Phillips launch McClure's Magazine at fifteen cents a copy. — [Muckrakers](../articles/gilded-age-and-progressive-era/muckrakers.md) |
 | 1893-01-17 | A Committee of Safety, backed by U.S. Minister John L. Stevens and U.S. naval forces landed the day before, overthrows Queen Liliʻuokalani. — [Hawaii](../articles/states-and-territories/hawaii.md) |
+| 1893-11-01 | Dawes, now retired, is appointed to head a commission to negotiate the end of common landholding with the Five Tribes, whom the 1887 act had exempted. — [Dawes Act](../articles/native-nations/dawes-act.md) |
 | 1894 | After soldiers arrest the bison poacher Ed Howell, Congress passes the National Park Protection Act (Lacey Act) banning hunting in the park. — [Yellowstone National Park](../articles/geography-and-environment/yellowstone-national-park.md) |
 | 1894 | Federal troops break the Pullman sympathy strike led by the American Railway Union, and Eugene Debs is jailed. — [Gilded Age](../articles/gilded-age-and-progressive-era/gilded-age.md) |
 | 1894-05-11 | Pullman factory workers strike; the American Railway Union's boycott of Pullman cars follows. — [Chicago](../articles/regions-cities-and-landmarks/chicago.md) |
@@ -1019,6 +1022,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1898 | Wilbur H. Siebert publishes The Underground Railroad from Slavery to Freedom, long the standard account. — [Underground Railroad](../articles/civil-war-and-reconstruction/underground-railroad.md) |
 | 1898-02-01 | Martin and his deputies go on trial for murder at the Luzerne County Courthouse in Wilkes-Barre. — [Lattimer massacre](../articles/economy-and-work/lattimer-massacre.md) |
 | 1898-03-02 | The jury acquits all the defendants. — [Lattimer massacre](../articles/economy-and-work/lattimer-massacre.md) |
+| 1898-06-28 | The Curtis Act ratifies the Choctaw-Chickasaw and Creek allotment agreements and gives the Dawes Commission power over tribal enrollment. — [Dawes Act](../articles/native-nations/dawes-act.md) |
 | 1898-07-01 | Leads the Rough Riders in the fighting for the San Juan Heights in Cuba, alongside Black regulars of the 9th and 10th Cavalry. — [Theodore Roosevelt](../articles/presidents-and-founders/theodore-roosevelt.md) |
 | 1898-07-07 | President McKinley signs the Newlands Resolution annexing Hawaiʻi by joint resolution, after an annexation treaty failed in the Senate. — [Hawaii](../articles/states-and-territories/hawaii.md) |
 | 1898-08-12 | The United States formally annexes Hawaiʻi. — [Hawaii](../articles/states-and-territories/hawaii.md) |
@@ -1034,6 +1038,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1901 | Alabama's new constitution requires legislative seats to be reapportioned by population after each federal census; no statewide reapportionment follows the 1900 census. — [Reynolds v. Sims](../articles/democracy-and-elections/reynolds-v-sims.md) |
 | 1901 | The Hay-Pauncefote Treaty supersedes Clayton-Bulwer, letting the United States build and run its own canal. — [Panama Canal](../articles/foreign-relations-and-military/panama-canal.md) |
 | 1901 | The ten-story Asch Building is completed at 23–29 Washington Place in Greenwich Village; the Triangle Waist Company later occupies its eighth, ninth and tenth floors. — [Triangle Shirtwaist Factory fire](../articles/economy-and-work/triangle-shirtwaist-factory-fire.md) |
+| 1901-03 | Congress extends the allotment law to the Five Tribes and other nations of Indian Territory. — [Dawes Act](../articles/native-nations/dawes-act.md) |
 | 1901-09-14 | Sworn in as president at 42 after the assassination of William McKinley. — [Theodore Roosevelt](../articles/presidents-and-founders/theodore-roosevelt.md) |
 | 1901-10 | Dines with Booker T. Washington at the White House, provoking a storm of criticism from white Southerners. — [Theodore Roosevelt](../articles/presidents-and-founders/theodore-roosevelt.md) |
 | 1902 | Brings coal operators and miners' leaders to the White House and pushes them into arbitration to end the anthracite coal strike. — [Theodore Roosevelt](../articles/presidents-and-founders/theodore-roosevelt.md) |
@@ -1046,6 +1051,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1902-11 | **[Muckrakers](../articles/gilded-age-and-progressive-era/muckrakers.md)** (Movement) |
 | 1902-11 | Ida Tarbell's History of the Standard Oil Company begins appearing in McClure's. — [Muckrakers](../articles/gilded-age-and-progressive-era/muckrakers.md) |
 | 1903 | Bandleader W. C. Handy settles in Clarksdale, Mississippi, and around this year hears a slide guitarist playing a blues at the Tutwiler railroad station. — [Blues](../articles/culture-and-arts/blues.md) |
+| 1903 | In Lone Wolf v. Hitchcock the Supreme Court rejects a Kiowa challenge to allotment, holding that a treaty cannot limit Congress's power over tribal land. — [Dawes Act](../articles/native-nations/dawes-act.md) |
 | 1903-01 | McClure's prints exposés by Tarbell, Lincoln Steffens and Ray Stannard Baker in one issue, with an editorial linking them. — [Muckrakers](../articles/gilded-age-and-progressive-era/muckrakers.md) |
 | 1903-03-23 | The brothers file their patent application for a "Flying-Machine". — [Wright brothers' first flight](../articles/science-and-innovation/wright-brothers-first-flight.md) |
 | 1903-11-03 | Panama declares independence from Colombia while U.S. warships stand off Colón and Panama City. — [Panama Canal](../articles/foreign-relations-and-military/panama-canal.md) |
@@ -1075,6 +1081,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1905-10-05 | Wilbur flies about 24 miles in some 39 minutes, a world record. — [Huffman Prairie Flying Field](../articles/science-and-innovation/huffman-prairie.md) |
 | 1905-11-11 | The last case of yellow fever in Panama City is reported. — [Panama Canal](../articles/foreign-relations-and-military/panama-canal.md) |
 | 1906 | Awarded the Nobel Peace Prize for his role in ending the Russo-Japanese War. — [Theodore Roosevelt](../articles/presidents-and-founders/theodore-roosevelt.md) |
+| 1906 | The Burke Act withholds citizenship until an allottee receives a fee patent and lets the Interior secretary declare allottees competent. — [Dawes Act](../articles/native-nations/dawes-act.md) |
 | 1906 | The San Francisco earthquake and fire destroy many birth and immigration records, opening the way for "paper son" identities. — [Angel Island Immigration Station](../articles/society-and-people/angel-island-immigration-station.md) |
 | 1906-02 | Attends her last NAWSA convention, in Baltimore, and gives her final public remarks. — [Susan B. Anthony](../articles/people-who-shaped-america/susan-b-anthony.md) |
 | 1906-02 | Cosmopolitan begins David Graham Phillips's nine-part series The Treason of the Senate. — [Muckrakers](../articles/gilded-age-and-progressive-era/muckrakers.md) |
@@ -1090,6 +1097,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1907 | Pianist and composer Jelly Roll Morton begins touring outside New Orleans. — [Jazz](../articles/culture-and-arts/jazz.md) |
 | 1907-02-08 | The United States and the Dominican Republic sign a convention at Santo Domingo making the receivership formal. — [Roosevelt Corollary](../articles/foreign-relations-and-military/roosevelt-corollary.md) |
 | 1907-02-25 | The U.S. Senate advises ratification of the Dominican convention. — [Roosevelt Corollary](../articles/foreign-relations-and-military/roosevelt-corollary.md) |
+| 1907-03-04 | Enrollment closes on the Dawes Rolls of the Five Tribes. — [Dawes Act](../articles/native-nations/dawes-act.md) |
 | 1907-04-01 | Chief engineer John F. Stevens resigns and George Washington Goethals succeeds him. — [Panama Canal](../articles/foreign-relations-and-military/panama-canal.md) |
 | 1907-07-25 | Roosevelt proclaims the convention in force. — [Roosevelt Corollary](../articles/foreign-relations-and-military/roosevelt-corollary.md) |
 | 1908 | Ray Stannard Baker publishes Following the Color Line, on the oppression of Black Americans. — [Muckrakers](../articles/gilded-age-and-progressive-era/muckrakers.md) |
@@ -1269,6 +1277,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1933-12-26 | The Convention on Rights and Duties of States, whose Article 8 forbids intervention, is signed at Montevideo. — [Good Neighbor Policy](../articles/foreign-relations-and-military/good-neighbor-policy.md) |
 | 1934 | Franklin D. Roosevelt's Good Neighbor policy officially abandons the corollary. — [Roosevelt Corollary](../articles/foreign-relations-and-military/roosevelt-corollary.md) |
 | 1934 | The 1903 treaty with Cuba based on the Platt Amendment is abrogated, U.S. forces withdraw from Haiti, and Congress passes the Reciprocal Trade Agreements Act. — [Good Neighbor Policy](../articles/foreign-relations-and-military/good-neighbor-policy.md) |
+| 1934 | The Indian Reorganization Act ends allotment; about 48 million acres remain in Native hands, down from about 138 million in 1887. — [Dawes Act](../articles/native-nations/dawes-act.md) |
 | 1934 | The Indian Reorganization Act ends the Dawes-era allotment policy and encourages tribal self-government. — [Great Depression](../articles/depression-and-world-war/great-depression.md) |
 | 1934 | The Indian Reorganization Act ends the allotment policy of the Dawes Act and encourages tribal self-government. — [New Deal](../articles/depression-and-world-war/new-deal.md) |
 | 1934 | The Indian Reorganization Act establishes modern tribal governments. — [Native Americans](../articles/native-nations/native-americans.md) |
@@ -1836,6 +1845,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 2022 | The Angel Island Immigration Museum opens in the restored hospital building. — [Angel Island Immigration Station](../articles/society-and-people/angel-island-immigration-station.md) |
 | 2022-01-05 | Louisiana Governor John Bel Edwards grants Plessy a posthumous pardon. — [Plessy v. Ferguson](../articles/gilded-age-and-progressive-era/plessy-v-ferguson.md) |
 | 2022-05-12 | Recorded U.S. COVID-19 deaths reach 1 million. — [COVID-19 pandemic in the United States](../articles/contemporary-america/covid-19-pandemic-in-the-united-states.md) |
+| 2022-11 | Funding ends for the Interior Department's Land Buy-Back Program, which restored nearly 3 million fractionated acres to tribal trust ownership. — [Dawes Act](../articles/native-nations/dawes-act.md) |
 | 2022-12-13 | The Respect for Marriage Act is signed into law, repealing the Defense of Marriage Act's marriage definition and requiring interstate recognition of marriages. — [Obergefell v. Hodges](../articles/contemporary-america/obergefell-v-hodges.md) |
 | 2023-05-11 | The federal COVID-19 public health emergency expires at the end of the day. — [COVID-19 pandemic in the United States](../articles/contemporary-america/covid-19-pandemic-in-the-united-states.md) |
 | 2023-07 | Preservationists launch a Save the Star Map campaign after the terrazzo work stalls. — [Winged Figures of the Republic](../articles/culture-and-arts/winged-figures-of-the-republic.md) |

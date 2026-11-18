@@ -3421,6 +3421,107 @@
 <https://github.com/john1hsu/usa-graph/id/covid-19-pandemic-in-the-united-states> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/covid-19-pandemic-in-the-united-states/timeline/9> .
 <https://github.com/john1hsu/usa-graph/id/covid-19-pandemic-in-the-united-states> <https://schema.org/endDate> "2023-05-11"^^<http://www.w3.org/2001/XMLSchema#date> .
 <https://github.com/john1hsu/usa-graph/id/covid-19-pandemic-in-the-united-states> <https://schema.org/startDate> "2020-01-20"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/dawes-act/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Misconception> .
+<https://github.com/john1hsu/usa-graph/id/dawes-act/misconception> <https://github.com/john1hsu/usa-graph/ontology#fact> "Section 8 of the 1887 act exempted the Cherokee, Creek (Muscogee), Choctaw, Chickasaw and Seminole nations, the Osage and several other nations in Indian Territory, as well as the Seneca reservations in New York. The Five Tribes were allotted later through the Dawes Commission of 1893, the Curtis Act of 1898 and negotiated agreements, and the Dawes Rolls, closed in 1907, were that commission's enrollment lists." .
+<https://github.com/john1hsu/usa-graph/id/dawes-act/misconception> <https://github.com/john1hsu/usa-graph/ontology#myth> "The Dawes Act divided the lands of every Native nation, including the Cherokee, and the Dawes Rolls were drawn up under it." .
+<https://github.com/john1hsu/usa-graph/id/dawes-act/misconception> <https://github.com/john1hsu/usa-graph/ontology#why> "Because Henry Dawes chaired the later commission and the rolls carry his name, the 1887 law, the commission and the rolls are often treated as one thing, hiding how the Five Tribes resisted allotment and how it was imposed on them separately." .
+<https://github.com/john1hsu/usa-graph/id/dawes-act/review/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+<https://github.com/john1hsu/usa-graph/id/dawes-act/review/1> <http://www.w3.org/2000/01/rdf-schema#label> "How did the Dawes Act reduce Native landholding even though it gave land to individual Native people?" .
+<https://github.com/john1hsu/usa-graph/id/dawes-act/review/1> <https://github.com/john1hsu/usa-graph/ontology#answer> "After each tribal member received an allotment, the reservation land left over was declared \"surplus\" and could be bought by the government and sold to non-Indians; allottees later lost more land through tax foreclosures, distressed sales and leases once trust protections were weakened, so Native-held land fell from about 138 million acres in 1887 to 48 million by 1934." .
+<https://github.com/john1hsu/usa-graph/id/dawes-act/review/1> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/dawes-act> .
+<https://github.com/john1hsu/usa-graph/id/dawes-act/review/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+<https://github.com/john1hsu/usa-graph/id/dawes-act/review/2> <http://www.w3.org/2000/01/rdf-schema#label> "Why did reformers and western developers both support allotment?" .
+<https://github.com/john1hsu/usa-graph/id/dawes-act/review/2> <https://github.com/john1hsu/usa-graph/ontology#answer> "Reformers believed private property and farming would assimilate Native people into American society, while western interests wanted the \"surplus\" land opened for settlement, mining, ranching and forestry; historians call their partnership an uneasy alliance that got the bill through Congress." .
+<https://github.com/john1hsu/usa-graph/id/dawes-act/review/2> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/dawes-act> .
+<https://github.com/john1hsu/usa-graph/id/dawes-act/review/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+<https://github.com/john1hsu/usa-graph/id/dawes-act/review/3> <http://www.w3.org/2000/01/rdf-schema#label> "Why does allotment still cause problems for tribes and landowners today?" .
+<https://github.com/john1hsu/usa-graph/id/dawes-act/review/3> <https://github.com/john1hsu/usa-graph/ontology#answer> "When an allottee died, the land was not divided but passed to heirs as undivided shares, so over generations single tracts came to have hundreds of owners; this fractionation, together with checkerboarded trust and non-Indian land, makes the land hard to use, govern or develop, which the Interior Department's Land Buy-Back Program tried to address." .
+<https://github.com/john1hsu/usa-graph/id/dawes-act/review/3> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/dawes-act> .
+<https://github.com/john1hsu/usa-graph/id/dawes-act/timeline/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/dawes-act/timeline/1> <http://www.w3.org/2000/01/rdf-schema#label> "President Grover Cleveland signs the General Allotment Act, drafted by Senator Henry L. Dawes of Massachusetts." .
+<https://github.com/john1hsu/usa-graph/id/dawes-act/timeline/1> <https://github.com/john1hsu/usa-graph/ontology#date> "1887-02-08"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/dawes-act/timeline/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/dawes-act/timeline/2> <http://www.w3.org/2000/01/rdf-schema#label> "Dawes, now retired, is appointed to head a commission to negotiate the end of common landholding with the Five Tribes, whom the 1887 act had exempted." .
+<https://github.com/john1hsu/usa-graph/id/dawes-act/timeline/2> <https://github.com/john1hsu/usa-graph/ontology#date> "1893-11-01"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/dawes-act/timeline/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/dawes-act/timeline/3> <http://www.w3.org/2000/01/rdf-schema#label> "The Curtis Act ratifies the Choctaw-Chickasaw and Creek allotment agreements and gives the Dawes Commission power over tribal enrollment." .
+<https://github.com/john1hsu/usa-graph/id/dawes-act/timeline/3> <https://github.com/john1hsu/usa-graph/ontology#date> "1898-06-28"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/dawes-act/timeline/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/dawes-act/timeline/4> <http://www.w3.org/2000/01/rdf-schema#label> "Congress extends the allotment law to the Five Tribes and other nations of Indian Territory." .
+<https://github.com/john1hsu/usa-graph/id/dawes-act/timeline/4> <https://github.com/john1hsu/usa-graph/ontology#date> "1901-03"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> .
+<https://github.com/john1hsu/usa-graph/id/dawes-act/timeline/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/dawes-act/timeline/5> <http://www.w3.org/2000/01/rdf-schema#label> "In Lone Wolf v. Hitchcock the Supreme Court rejects a Kiowa challenge to allotment, holding that a treaty cannot limit Congress's power over tribal land." .
+<https://github.com/john1hsu/usa-graph/id/dawes-act/timeline/5> <https://github.com/john1hsu/usa-graph/ontology#date> "1903"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://github.com/john1hsu/usa-graph/id/dawes-act/timeline/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/dawes-act/timeline/6> <http://www.w3.org/2000/01/rdf-schema#label> "The Burke Act withholds citizenship until an allottee receives a fee patent and lets the Interior secretary declare allottees competent." .
+<https://github.com/john1hsu/usa-graph/id/dawes-act/timeline/6> <https://github.com/john1hsu/usa-graph/ontology#date> "1906"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://github.com/john1hsu/usa-graph/id/dawes-act/timeline/7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/dawes-act/timeline/7> <http://www.w3.org/2000/01/rdf-schema#label> "Enrollment closes on the Dawes Rolls of the Five Tribes." .
+<https://github.com/john1hsu/usa-graph/id/dawes-act/timeline/7> <https://github.com/john1hsu/usa-graph/ontology#date> "1907-03-04"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/dawes-act/timeline/8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/dawes-act/timeline/8> <http://www.w3.org/2000/01/rdf-schema#label> "The Indian Reorganization Act ends allotment; about 48 million acres remain in Native hands, down from about 138 million in 1887." .
+<https://github.com/john1hsu/usa-graph/id/dawes-act/timeline/8> <https://github.com/john1hsu/usa-graph/ontology#date> "1934"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://github.com/john1hsu/usa-graph/id/dawes-act/timeline/9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/dawes-act/timeline/9> <http://www.w3.org/2000/01/rdf-schema#label> "Funding ends for the Interior Department's Land Buy-Back Program, which restored nearly 3 million fractionated acres to tribal trust ownership." .
+<https://github.com/john1hsu/usa-graph/id/dawes-act/timeline/9> <https://github.com/john1hsu/usa-graph/ontology#date> "2022-11"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> .
+<https://github.com/john1hsu/usa-graph/id/dawes-act> <http://purl.org/dc/terms/created> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/dawes-act> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Law> .
+<https://github.com/john1hsu/usa-graph/id/dawes-act> <http://www.w3.org/2000/01/rdf-schema#label> "Dawes Act" .
+<https://github.com/john1hsu/usa-graph/id/dawes-act> <http://www.w3.org/2004/02/skos/core#altLabel> "Dawes Act of 1887" .
+<https://github.com/john1hsu/usa-graph/id/dawes-act> <http://www.w3.org/2004/02/skos/core#altLabel> "Dawes General Allotment Act" .
+<https://github.com/john1hsu/usa-graph/id/dawes-act> <http://www.w3.org/2004/02/skos/core#altLabel> "Dawes Severalty Act" .
+<https://github.com/john1hsu/usa-graph/id/dawes-act> <http://www.w3.org/2004/02/skos/core#altLabel> "General Allotment Act of 1887" .
+<https://github.com/john1hsu/usa-graph/id/dawes-act> <http://www.w3.org/2004/02/skos/core#altLabel> "General Allotment Act" .
+<https://github.com/john1hsu/usa-graph/id/dawes-act> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/usa-graph/id/federal-indian-law> .
+<https://github.com/john1hsu/usa-graph/id/dawes-act> <http://www.w3.org/2004/02/skos/core#definition> "The federal law signed by President Grover Cleveland on February 8, 1887, that authorized the president to divide reservation land held in common by Native nations into individual allotments, held in trust for twenty-five years, and to sell the remaining \"surplus\" to non-Indians; by 1934, when the policy ended, land held by Native people had fallen from about 138 million acres to 48 million." .
+<https://github.com/john1hsu/usa-graph/id/dawes-act> <http://www.w3.org/2004/02/skos/core#inScheme> <https://github.com/john1hsu/usa-graph/id/scheme/native-nations> .
+<https://github.com/john1hsu/usa-graph/id/dawes-act> <http://www.w3.org/2004/02/skos/core#prefLabel> "Dawes Act" .
+<https://github.com/john1hsu/usa-graph/id/dawes-act> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/burke-act> .
+<https://github.com/john1hsu/usa-graph/id/dawes-act> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/curtis-act> .
+<https://github.com/john1hsu/usa-graph/id/dawes-act> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/federal-indian-boarding-schools> .
+<https://github.com/john1hsu/usa-graph/id/dawes-act> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/federal-trust-responsibility> .
+<https://github.com/john1hsu/usa-graph/id/dawes-act> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/gilded-age> .
+<https://github.com/john1hsu/usa-graph/id/dawes-act> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/indian-citizenship-act-of-1924> .
+<https://github.com/john1hsu/usa-graph/id/dawes-act> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/indian-removal-act> .
+<https://github.com/john1hsu/usa-graph/id/dawes-act> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/indian-reorganization-act> .
+<https://github.com/john1hsu/usa-graph/id/dawes-act> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/indian-territory> .
+<https://github.com/john1hsu/usa-graph/id/dawes-act> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/native-americans> .
+<https://github.com/john1hsu/usa-graph/id/dawes-act> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/the-west> .
+<https://github.com/john1hsu/usa-graph/id/dawes-act> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/tribal-sovereignty> .
+<https://github.com/john1hsu/usa-graph/id/dawes-act> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/dawes-act/s10> .
+<https://github.com/john1hsu/usa-graph/id/dawes-act> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/dawes-act/s11> .
+<https://github.com/john1hsu/usa-graph/id/dawes-act> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/dawes-act/s1> .
+<https://github.com/john1hsu/usa-graph/id/dawes-act> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/dawes-act/s2> .
+<https://github.com/john1hsu/usa-graph/id/dawes-act> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/dawes-act/s3> .
+<https://github.com/john1hsu/usa-graph/id/dawes-act> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/dawes-act/s4> .
+<https://github.com/john1hsu/usa-graph/id/dawes-act> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/dawes-act/s5> .
+<https://github.com/john1hsu/usa-graph/id/dawes-act> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/dawes-act/s6> .
+<https://github.com/john1hsu/usa-graph/id/dawes-act> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/dawes-act/s7> .
+<https://github.com/john1hsu/usa-graph/id/dawes-act> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/dawes-act/s8> .
+<https://github.com/john1hsu/usa-graph/id/dawes-act> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/dawes-act/s9> .
+<https://github.com/john1hsu/usa-graph/id/dawes-act> <https://github.com/john1hsu/usa-graph/ontology#affected> <https://github.com/john1hsu/usa-graph/id/native-americans> .
+<https://github.com/john1hsu/usa-graph/id/dawes-act> <https://github.com/john1hsu/usa-graph/ontology#domain> "native-nations" .
+<https://github.com/john1hsu/usa-graph/id/dawes-act> <https://github.com/john1hsu/usa-graph/ontology#enactedBy> <https://github.com/john1hsu/usa-graph/id/united-states-congress> .
+<https://github.com/john1hsu/usa-graph/id/dawes-act> <https://github.com/john1hsu/usa-graph/ontology#evidenceStatus> "interpretive" .
+<https://github.com/john1hsu/usa-graph/id/dawes-act> <https://github.com/john1hsu/usa-graph/ontology#file> "articles/native-nations/dawes-act.md" .
+<https://github.com/john1hsu/usa-graph/id/dawes-act> <https://github.com/john1hsu/usa-graph/ontology#introducedBy> <https://github.com/john1hsu/usa-graph/id/henry-l-dawes> .
+<https://github.com/john1hsu/usa-graph/id/dawes-act> <https://github.com/john1hsu/usa-graph/ontology#ledTo> <https://github.com/john1hsu/usa-graph/id/dawes-commission> .
+<https://github.com/john1hsu/usa-graph/id/dawes-act> <https://github.com/john1hsu/usa-graph/ontology#ledTo> <https://github.com/john1hsu/usa-graph/id/indian-land-fractionation> .
+<https://github.com/john1hsu/usa-graph/id/dawes-act> <https://github.com/john1hsu/usa-graph/ontology#ledTo> <https://github.com/john1hsu/usa-graph/id/lone-wolf-v-hitchcock> .
+<https://github.com/john1hsu/usa-graph/id/dawes-act> <https://github.com/john1hsu/usa-graph/ontology#level> "introductory" .
+<https://github.com/john1hsu/usa-graph/id/dawes-act> <https://github.com/john1hsu/usa-graph/ontology#misconception> <https://github.com/john1hsu/usa-graph/id/dawes-act/misconception> .
+<https://github.com/john1hsu/usa-graph/id/dawes-act> <https://github.com/john1hsu/usa-graph/ontology#requires> <https://github.com/john1hsu/usa-graph/id/tribal-sovereignty> .
+<https://github.com/john1hsu/usa-graph/id/dawes-act> <https://github.com/john1hsu/usa-graph/ontology#signedBy> <https://github.com/john1hsu/usa-graph/id/grover-cleveland> .
+<https://github.com/john1hsu/usa-graph/id/dawes-act> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/dawes-act/timeline/1> .
+<https://github.com/john1hsu/usa-graph/id/dawes-act> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/dawes-act/timeline/2> .
+<https://github.com/john1hsu/usa-graph/id/dawes-act> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/dawes-act/timeline/3> .
+<https://github.com/john1hsu/usa-graph/id/dawes-act> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/dawes-act/timeline/4> .
+<https://github.com/john1hsu/usa-graph/id/dawes-act> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/dawes-act/timeline/5> .
+<https://github.com/john1hsu/usa-graph/id/dawes-act> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/dawes-act/timeline/6> .
+<https://github.com/john1hsu/usa-graph/id/dawes-act> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/dawes-act/timeline/7> .
+<https://github.com/john1hsu/usa-graph/id/dawes-act> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/dawes-act/timeline/8> .
+<https://github.com/john1hsu/usa-graph/id/dawes-act> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/dawes-act/timeline/9> .
+<https://github.com/john1hsu/usa-graph/id/dawes-act> <https://schema.org/startDate> "1887-02-08"^^<http://www.w3.org/2001/XMLSchema#date> .
 <https://github.com/john1hsu/usa-graph/id/declaration-of-independence/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Misconception> .
 <https://github.com/john1hsu/usa-graph/id/declaration-of-independence/misconception> <https://github.com/john1hsu/usa-graph/ontology#fact> "Congress approved the text on July 4, but it ordered a parchment copy for signing only on July 19; most delegates signed on August 2, 1776, a few signed later that year, and Thomas McKean signed sometime after January 1777." .
 <https://github.com/john1hsu/usa-graph/id/declaration-of-independence/misconception> <https://github.com/john1hsu/usa-graph/ontology#myth> "The delegates signed the Declaration of Independence on July 4, 1776." .
@@ -13633,6 +13734,72 @@
 <https://github.com/john1hsu/usa-graph/id/source/covid-19-pandemic-in-the-united-states/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
 <https://github.com/john1hsu/usa-graph/id/source/covid-19-pandemic-in-the-united-states/s6> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
 <https://github.com/john1hsu/usa-graph/id/source/covid-19-pandemic-in-the-united-states/s6> <https://schema.org/url> <https://archive.cdc.gov/www_cdc_gov/flu/pandemic-resources/1918-pandemic-h1n1.html> .
+<https://github.com/john1hsu/usa-graph/id/source/dawes-act/s10> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/dawes-act/s10> <http://purl.org/dc/terms/publisher> "Clara Sue Kidwell, The Encyclopedia of Oklahoma History and Culture (Oklahoma Historical Society)" .
+<https://github.com/john1hsu/usa-graph/id/source/dawes-act/s10> <http://purl.org/dc/terms/title> "Allotment" .
+<https://github.com/john1hsu/usa-graph/id/source/dawes-act/s10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/dawes-act/s10> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "scholarly-encyclopedia" .
+<https://github.com/john1hsu/usa-graph/id/source/dawes-act/s10> <https://schema.org/url> <https://www.okhistory.org/publications/enc/entry?entry=AL011> .
+<https://github.com/john1hsu/usa-graph/id/source/dawes-act/s11> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/dawes-act/s11> <http://purl.org/dc/terms/publisher> "U.S. Department of the Interior (press release, December 4, 2023)" .
+<https://github.com/john1hsu/usa-graph/id/source/dawes-act/s11> <http://purl.org/dc/terms/title> "Three Million Acres of Land Returned to Tribes Through Interior Department's Land Buy-Back Program for Tribal Nations" .
+<https://github.com/john1hsu/usa-graph/id/source/dawes-act/s11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/dawes-act/s11> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/usa-graph/id/source/dawes-act/s11> <https://schema.org/url> <https://www.doi.gov/pressreleases/three-million-acres-land-returned-tribes-through-interior-departments-land-buy-back> .
+<https://github.com/john1hsu/usa-graph/id/source/dawes-act/s1> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/dawes-act/s1> <http://purl.org/dc/terms/publisher> "National Archives and Records Administration, Milestone Documents" .
+<https://github.com/john1hsu/usa-graph/id/source/dawes-act/s1> <http://purl.org/dc/terms/title> "Dawes Act (1887)" .
+<https://github.com/john1hsu/usa-graph/id/source/dawes-act/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/dawes-act/s1> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/usa-graph/id/source/dawes-act/s1> <https://schema.org/url> <https://www.archives.gov/milestone-documents/dawes-act> .
+<https://github.com/john1hsu/usa-graph/id/source/dawes-act/s2> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/dawes-act/s2> <http://purl.org/dc/terms/publisher> "Miller Center of Public Affairs, University of Virginia" .
+<https://github.com/john1hsu/usa-graph/id/source/dawes-act/s2> <http://purl.org/dc/terms/title> "Grover Cleveland: Key Events" .
+<https://github.com/john1hsu/usa-graph/id/source/dawes-act/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/dawes-act/s2> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/usa-graph/id/source/dawes-act/s2> <https://schema.org/url> <https://millercenter.org/president/cleveland/key-events> .
+<https://github.com/john1hsu/usa-graph/id/source/dawes-act/s3> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/dawes-act/s3> <http://purl.org/dc/terms/publisher> "U.S. Department of the Interior, Indian Affairs" .
+<https://github.com/john1hsu/usa-graph/id/source/dawes-act/s3> <http://purl.org/dc/terms/title> "Federal Law and Indian Policy Overview" .
+<https://github.com/john1hsu/usa-graph/id/source/dawes-act/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/dawes-act/s3> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/usa-graph/id/source/dawes-act/s3> <https://schema.org/url> <https://www.bia.gov/bia/history/IndianLawPolicy> .
+<https://github.com/john1hsu/usa-graph/id/source/dawes-act/s4> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/dawes-act/s4> <http://purl.org/dc/terms/publisher> "Mark R. Scherer, Encyclopedia of the Great Plains (University of Nebraska–Lincoln)" .
+<https://github.com/john1hsu/usa-graph/id/source/dawes-act/s4> <http://purl.org/dc/terms/title> "Dawes Act" .
+<https://github.com/john1hsu/usa-graph/id/source/dawes-act/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/dawes-act/s4> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "scholarly-encyclopedia" .
+<https://github.com/john1hsu/usa-graph/id/source/dawes-act/s4> <https://schema.org/url> <https://plainshumanities.unl.edu/encyclopedia/doc/egp.law.015.html> .
+<https://github.com/john1hsu/usa-graph/id/source/dawes-act/s5> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/dawes-act/s5> <http://purl.org/dc/terms/publisher> "Emily Greenwald, Encyclopedia of the Great Plains (University of Nebraska–Lincoln)" .
+<https://github.com/john1hsu/usa-graph/id/source/dawes-act/s5> <http://purl.org/dc/terms/title> "Allotment" .
+<https://github.com/john1hsu/usa-graph/id/source/dawes-act/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/dawes-act/s5> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "scholarly-encyclopedia" .
+<https://github.com/john1hsu/usa-graph/id/source/dawes-act/s5> <https://schema.org/url> <https://plainshumanities.unl.edu/encyclopedia/doc/egp.na.002.html> .
+<https://github.com/john1hsu/usa-graph/id/source/dawes-act/s6> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/dawes-act/s6> <http://purl.org/dc/terms/publisher> "Kent Carter, The Encyclopedia of Oklahoma History and Culture (Oklahoma Historical Society)" .
+<https://github.com/john1hsu/usa-graph/id/source/dawes-act/s6> <http://purl.org/dc/terms/title> "Dawes Commission" .
+<https://github.com/john1hsu/usa-graph/id/source/dawes-act/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/dawes-act/s6> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "scholarly-encyclopedia" .
+<https://github.com/john1hsu/usa-graph/id/source/dawes-act/s6> <https://schema.org/url> <https://www.okhistory.org/publications/enc/entry?entry=DA018> .
+<https://github.com/john1hsu/usa-graph/id/source/dawes-act/s7> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/dawes-act/s7> <http://purl.org/dc/terms/publisher> "M. Kaye Tatro, The Encyclopedia of Oklahoma History and Culture (Oklahoma Historical Society)" .
+<https://github.com/john1hsu/usa-graph/id/source/dawes-act/s7> <http://purl.org/dc/terms/title> "Burke Act (1906)" .
+<https://github.com/john1hsu/usa-graph/id/source/dawes-act/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/dawes-act/s7> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "scholarly-encyclopedia" .
+<https://github.com/john1hsu/usa-graph/id/source/dawes-act/s7> <https://schema.org/url> <https://www.okhistory.org/publications/enc/entry?entry=BU010> .
+<https://github.com/john1hsu/usa-graph/id/source/dawes-act/s8> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/dawes-act/s8> <http://purl.org/dc/terms/publisher> "U.S. Department of the Interior, Land Buy-Back Program for Tribal Nations" .
+<https://github.com/john1hsu/usa-graph/id/source/dawes-act/s8> <http://purl.org/dc/terms/title> "Fractionation" .
+<https://github.com/john1hsu/usa-graph/id/source/dawes-act/s8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/dawes-act/s8> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/usa-graph/id/source/dawes-act/s8> <https://schema.org/url> <https://www.doi.gov/buybackprogram/fractionation> .
+<https://github.com/john1hsu/usa-graph/id/source/dawes-act/s9> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/dawes-act/s9> <http://purl.org/dc/terms/publisher> "C. Blue Clark, Encyclopedia of the Great Plains (University of Nebraska–Lincoln)" .
+<https://github.com/john1hsu/usa-graph/id/source/dawes-act/s9> <http://purl.org/dc/terms/title> "Lone Wolf v. Hitchcock" .
+<https://github.com/john1hsu/usa-graph/id/source/dawes-act/s9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/dawes-act/s9> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "scholarly-encyclopedia" .
+<https://github.com/john1hsu/usa-graph/id/source/dawes-act/s9> <https://schema.org/url> <https://plainshumanities.unl.edu/encyclopedia/doc/egp.law.027.html> .
 <https://github.com/john1hsu/usa-graph/id/source/declaration-of-independence/s1> <http://purl.org/dc/terms/date> "2026-11-12"^^<http://www.w3.org/2001/XMLSchema#date> .
 <https://github.com/john1hsu/usa-graph/id/source/declaration-of-independence/s1> <http://purl.org/dc/terms/publisher> "National Archives (Milestone Documents)" .
 <https://github.com/john1hsu/usa-graph/id/source/declaration-of-independence/s1> <http://purl.org/dc/terms/title> "Declaration of Independence (1776)" .

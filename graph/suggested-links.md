@@ -7,11 +7,12 @@ Pairs of written nodes that share many neighbours but are not yet connected (Ada
 | 3.69 | `us:abolitionism` | `us:pennsylvania` | `us:benjamin-franklin`, `us:harriet-tubman`, `us:liberty-bell`, `us:pennsylvania-gradual-abolition-act`, `us:quakers` |
 | 3.36 | `us:louisiana-purchase` | `us:monroe-doctrine` | `us:adams-onis-treaty`, `us:early-republic`, `us:james-monroe`, `us:war-of-1812` |
 | 3.30 | `us:declaration-of-independence` | `us:treaty-of-paris-1783` | `us:american-revolutionary-war`, `us:articles-of-confederation`, `us:benjamin-franklin`, `us:founding-documents-of-the-united-states`, `us:second-continental-congress` |
-| 3.27 | `us:united-states` | `us:united-states-congress` | `us:articles-of-confederation`, `us:census-and-apportionment`, `us:covid-19-pandemic-in-the-united-states`, `us:indian-removal-act`, `us:national-symbols-of-the-united-states` |
+| 3.26 | `us:united-states` | `us:united-states-congress` | `us:articles-of-confederation`, `us:census-and-apportionment`, `us:covid-19-pandemic-in-the-united-states`, `us:indian-removal-act`, `us:national-symbols-of-the-united-states` |
+| 3.26 | `us:cherokee-nation-v-georgia` | `us:dawes-act` | `us:federal-indian-law`, `us:federal-trust-responsibility`, `us:indian-removal-act`, `us:native-americans`, `us:tribal-sovereignty` |
 | 3.21 | `us:thomas-jefferson` | `us:united-states-constitution` | `us:census-and-apportionment`, `us:declaration-of-independence`, `us:electoral-college`, `us:john-marshall`, `us:judicial-review` |
 | 3.17 | `us:slavery-in-the-united-states` | `us:united-states-congress` | `us:census-and-apportionment`, `us:constitutional-convention`, `us:electoral-college`, `us:indian-removal-act`, `us:mexican-american-war` |
 | 3.16 | `us:constitutional-convention` | `us:second-continental-congress` | `us:articles-of-confederation`, `us:benjamin-franklin`, `us:confederation-period`, `us:declaration-of-independence`, `us:george-washington` |
-| 3.09 | `us:united-states` | `us:war-of-1812` | `us:canada`, `us:chesapeake-bay`, `us:indian-removal-act`, `us:louisiana-purchase`, `us:national-symbols-of-the-united-states` |
+| 3.08 | `us:united-states` | `us:war-of-1812` | `us:canada`, `us:chesapeake-bay`, `us:indian-removal-act`, `us:louisiana-purchase`, `us:national-symbols-of-the-united-states` |
 | 3.03 | `us:american-revolutionary-war` | `us:slavery-in-the-united-states` | `us:african-americans`, `us:andrew-jackson`, `us:benjamin-franklin`, `us:chesapeake-bay`, `us:declaration-of-independence` |
 | 2.78 | `us:native-americans` | `us:slavery-in-the-united-states` | `us:andrew-jackson`, `us:census-and-apportionment`, `us:chesapeake-bay`, `us:indian-removal-act`, `us:jamestown` |
 | 2.74 | `us:federalism` | `us:united-states-congress` | `us:articles-of-confederation`, `us:electoral-college`, `us:fourteenth-amendment`, `us:mcculloch-v-maryland`, `us:separation-of-powers` |
@@ -21,11 +22,10 @@ Pairs of written nodes that share many neighbours but are not yet connected (Ada
 | 2.51 | `us:constitutional-convention` | `us:thomas-jefferson` | `us:benjamin-franklin`, `us:census-and-apportionment`, `us:declaration-of-independence`, `us:electoral-college`, `us:george-washington` |
 | 2.50 | `us:mexican-american-war` | `us:missouri-compromise` | `us:american-civil-war`, `us:california-gold-rush`, `us:compromise-of-1850`, `us:slavery-in-the-united-states`, `us:territorial-expansion-of-the-united-states` |
 | 2.49 | `us:federalist-papers` | `us:mcculloch-v-maryland` | `us:alexander-hamilton`, `us:articles-of-confederation`, `us:federalism`, `us:james-madison`, `us:judicial-review` |
+| 2.48 | `us:native-americans` | `us:united-states-congress` | `us:census-and-apportionment`, `us:covid-19-pandemic-in-the-united-states`, `us:dawes-act`, `us:hayden-geological-survey-of-1871`, `us:indian-removal-act` |
 | 2.45 | `us:brown-v-board-of-education` | `us:reynolds-v-sims` | `us:earl-warren`, `us:equal-protection`, `us:fourteenth-amendment`, `us:supreme-court-of-the-united-states` |
 | 2.45 | `us:george-washington` | `us:pennsylvania` | `us:benjamin-franklin`, `us:betsy-ross-flag-myth`, `us:constitutional-convention`, `us:whiskey-rebellion` |
-| 2.45 | `us:morrill-land-grant-college-act` | `us:servicemens-readjustment-act-of-1944` | `us:higher-education-in-the-united-states`, `us:historically-black-colleges-and-universities`, `us:united-states-congress` |
+| 2.44 | `us:morrill-land-grant-college-act` | `us:servicemens-readjustment-act-of-1944` | `us:higher-education-in-the-united-states`, `us:historically-black-colleges-and-universities`, `us:united-states-congress` |
 | 2.42 | `us:new-orleans` | `us:slavery-in-the-united-states` | `us:domestic-slave-trade`, `us:jazz`, `us:louisiana-purchase`, `us:war-of-1812` |
 | 2.40 | `us:judicial-review` | `us:presidency-of-the-united-states` | `us:abraham-lincoln`, `us:constitutional-convention`, `us:federalist-papers`, `us:separation-of-powers`, `us:supreme-court-of-the-united-states` |
-| 2.40 | `us:andrew-jackson` | `us:federalism` | `us:john-marshall`, `us:mcculloch-v-maryland`, `us:nullification-crisis`, `us:tribal-sovereignty` |
-| 2.37 | `us:civil-rights-movement` | `us:servicemens-readjustment-act-of-1944` | `us:fair-housing-act-of-1968`, `us:jim-crow-laws`, `us:racial-segregation-in-the-united-states` |
-| 2.35 | `us:great-depression` | `us:servicemens-readjustment-act-of-1944` | `us:bonus-army`, `us:franklin-d-roosevelt`, `us:new-deal`, `us:world-war-ii-and-the-united-states` |
+| 2.39 | `us:andrew-jackson` | `us:federalism` | `us:john-marshall`, `us:mcculloch-v-maryland`, `us:nullification-crisis`, `us:tribal-sovereignty` |

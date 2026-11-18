@@ -4699,6 +4699,121 @@
    }
   },
   {
+   "@id": "https://github.com/john1hsu/usa-graph/id/dawes-act/misconception",
+   "@type": "uso:Misconception",
+   "uso:fact": "Section 8 of the 1887 act exempted the Cherokee, Creek (Muscogee), Choctaw, Chickasaw and Seminole nations, the Osage and several other nations in Indian Territory, as well as the Seneca reservations in New York. The Five Tribes were allotted later through the Dawes Commission of 1893, the Curtis Act of 1898 and negotiated agreements, and the Dawes Rolls, closed in 1907, were that commission's enrollment lists.",
+   "uso:myth": "The Dawes Act divided the lands of every Native nation, including the Cherokee, and the Dawes Rolls were drawn up under it.",
+   "uso:why": "Because Henry Dawes chaired the later commission and the rolls carry his name, the 1887 law, the commission and the rolls are often treated as one thing, hiding how the Five Tribes resisted allotment and how it was imposed on them separately."
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/dawes-act/review/1",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "How did the Dawes Act reduce Native landholding even though it gave land to individual Native people?",
+   "uso:answer": "After each tribal member received an allotment, the reservation land left over was declared \"surplus\" and could be bought by the government and sold to non-Indians; allottees later lost more land through tax foreclosures, distressed sales and leases once trust protections were weakened, so Native-held land fell from about 138 million acres in 1887 to 48 million by 1934.",
+   "uso:questionFor": {
+    "@id": "us:dawes-act"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/dawes-act/review/2",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "Why did reformers and western developers both support allotment?",
+   "uso:answer": "Reformers believed private property and farming would assimilate Native people into American society, while western interests wanted the \"surplus\" land opened for settlement, mining, ranching and forestry; historians call their partnership an uneasy alliance that got the bill through Congress.",
+   "uso:questionFor": {
+    "@id": "us:dawes-act"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/dawes-act/review/3",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "Why does allotment still cause problems for tribes and landowners today?",
+   "uso:answer": "When an allottee died, the land was not divided but passed to heirs as undivided shares, so over generations single tracts came to have hundreds of owners; this fractionation, together with checkerboarded trust and non-Indian land, makes the land hard to use, govern or develop, which the Interior Department's Land Buy-Back Program tried to address.",
+   "uso:questionFor": {
+    "@id": "us:dawes-act"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/dawes-act/timeline/1",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "President Grover Cleveland signs the General Allotment Act, drafted by Senator Henry L. Dawes of Massachusetts.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1887-02-08"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/dawes-act/timeline/2",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Dawes, now retired, is appointed to head a commission to negotiate the end of common landholding with the Five Tribes, whom the 1887 act had exempted.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1893-11-01"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/dawes-act/timeline/3",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The Curtis Act ratifies the Choctaw-Chickasaw and Creek allotment agreements and gives the Dawes Commission power over tribal enrollment.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1898-06-28"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/dawes-act/timeline/4",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Congress extends the allotment law to the Five Tribes and other nations of Indian Territory.",
+   "uso:date": {
+    "@type": "xsd:gYearMonth",
+    "@value": "1901-03"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/dawes-act/timeline/5",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "In Lone Wolf v. Hitchcock the Supreme Court rejects a Kiowa challenge to allotment, holding that a treaty cannot limit Congress's power over tribal land.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1903"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/dawes-act/timeline/6",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The Burke Act withholds citizenship until an allottee receives a fee patent and lets the Interior secretary declare allottees competent.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1906"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/dawes-act/timeline/7",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Enrollment closes on the Dawes Rolls of the Five Tribes.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1907-03-04"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/dawes-act/timeline/8",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The Indian Reorganization Act ends allotment; about 48 million acres remain in Native hands, down from about 138 million in 1887.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1934"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/dawes-act/timeline/9",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Funding ends for the Interior Department's Land Buy-Back Program, which restored nearly 3 million fractionated acres to tribal trust ownership.",
+   "uso:date": {
+    "@type": "xsd:gYearMonth",
+    "@value": "2022-11"
+   }
+  },
+  {
    "@id": "https://github.com/john1hsu/usa-graph/id/declaration-of-independence/misconception",
    "@type": "uso:Misconception",
    "uso:fact": "Congress approved the text on July 4, but it ordered a parchment copy for signing only on July 19; most delegates signed on August 2, 1776, a few signed later that year, and Thomas McKean signed sometime after January 1777.",
@@ -20380,6 +20495,160 @@
     "@id": "https://archive.cdc.gov/www_cdc_gov/flu/pandemic-resources/1918-pandemic-h1n1.html"
    },
    "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/dawes-act/s1",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "National Archives and Records Administration, Milestone Documents",
+   "dcterms:title": "Dawes Act (1887)",
+   "schema:url": {
+    "@id": "https://www.archives.gov/milestone-documents/dawes-act"
+   },
+   "uso:sourceType": "primary"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/dawes-act/s10",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Clara Sue Kidwell, The Encyclopedia of Oklahoma History and Culture (Oklahoma Historical Society)",
+   "dcterms:title": "Allotment",
+   "schema:url": {
+    "@id": "https://www.okhistory.org/publications/enc/entry?entry=AL011"
+   },
+   "uso:sourceType": "scholarly-encyclopedia"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/dawes-act/s11",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "U.S. Department of the Interior (press release, December 4, 2023)",
+   "dcterms:title": "Three Million Acres of Land Returned to Tribes Through Interior Department's Land Buy-Back Program for Tribal Nations",
+   "schema:url": {
+    "@id": "https://www.doi.gov/pressreleases/three-million-acres-land-returned-tribes-through-interior-departments-land-buy-back"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/dawes-act/s2",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Miller Center of Public Affairs, University of Virginia",
+   "dcterms:title": "Grover Cleveland: Key Events",
+   "schema:url": {
+    "@id": "https://millercenter.org/president/cleveland/key-events"
+   },
+   "uso:sourceType": "academic"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/dawes-act/s3",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "U.S. Department of the Interior, Indian Affairs",
+   "dcterms:title": "Federal Law and Indian Policy Overview",
+   "schema:url": {
+    "@id": "https://www.bia.gov/bia/history/IndianLawPolicy"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/dawes-act/s4",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Mark R. Scherer, Encyclopedia of the Great Plains (University of Nebraska–Lincoln)",
+   "dcterms:title": "Dawes Act",
+   "schema:url": {
+    "@id": "https://plainshumanities.unl.edu/encyclopedia/doc/egp.law.015.html"
+   },
+   "uso:sourceType": "scholarly-encyclopedia"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/dawes-act/s5",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Emily Greenwald, Encyclopedia of the Great Plains (University of Nebraska–Lincoln)",
+   "dcterms:title": "Allotment",
+   "schema:url": {
+    "@id": "https://plainshumanities.unl.edu/encyclopedia/doc/egp.na.002.html"
+   },
+   "uso:sourceType": "scholarly-encyclopedia"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/dawes-act/s6",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Kent Carter, The Encyclopedia of Oklahoma History and Culture (Oklahoma Historical Society)",
+   "dcterms:title": "Dawes Commission",
+   "schema:url": {
+    "@id": "https://www.okhistory.org/publications/enc/entry?entry=DA018"
+   },
+   "uso:sourceType": "scholarly-encyclopedia"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/dawes-act/s7",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "M. Kaye Tatro, The Encyclopedia of Oklahoma History and Culture (Oklahoma Historical Society)",
+   "dcterms:title": "Burke Act (1906)",
+   "schema:url": {
+    "@id": "https://www.okhistory.org/publications/enc/entry?entry=BU010"
+   },
+   "uso:sourceType": "scholarly-encyclopedia"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/dawes-act/s8",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "U.S. Department of the Interior, Land Buy-Back Program for Tribal Nations",
+   "dcterms:title": "Fractionation",
+   "schema:url": {
+    "@id": "https://www.doi.gov/buybackprogram/fractionation"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/dawes-act/s9",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "C. Blue Clark, Encyclopedia of the Great Plains (University of Nebraska–Lincoln)",
+   "dcterms:title": "Lone Wolf v. Hitchcock",
+   "schema:url": {
+    "@id": "https://plainshumanities.unl.edu/encyclopedia/doc/egp.law.027.html"
+   },
+   "uso:sourceType": "scholarly-encyclopedia"
   },
   {
    "@id": "https://github.com/john1hsu/usa-graph/id/source/declaration-of-independence/s1",
@@ -43048,6 +43317,169 @@
     },
     {
      "@id": "https://github.com/john1hsu/usa-graph/id/covid-19-pandemic-in-the-united-states/timeline/9"
+    }
+   ]
+  },
+  {
+   "@id": "us:dawes-act",
+   "@type": "uso:Law",
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/dawes-act/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/dawes-act/s10"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/dawes-act/s11"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/dawes-act/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/dawes-act/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/dawes-act/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/dawes-act/s5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/dawes-act/s6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/dawes-act/s7"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/dawes-act/s8"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/dawes-act/s9"
+    }
+   ],
+   "rdfs:label": "Dawes Act",
+   "schema:startDate": {
+    "@type": "xsd:date",
+    "@value": "1887-02-08"
+   },
+   "skos:altLabel": [
+    "Dawes Act of 1887",
+    "Dawes General Allotment Act",
+    "Dawes Severalty Act",
+    "General Allotment Act of 1887",
+    "General Allotment Act"
+   ],
+   "skos:broader": {
+    "@id": "us:federal-indian-law"
+   },
+   "skos:definition": "The federal law signed by President Grover Cleveland on February 8, 1887, that authorized the president to divide reservation land held in common by Native nations into individual allotments, held in trust for twenty-five years, and to sell the remaining \"surplus\" to non-Indians; by 1934, when the policy ended, land held by Native people had fallen from about 138 million acres to 48 million.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/usa-graph/id/scheme/native-nations"
+   },
+   "skos:prefLabel": "Dawes Act",
+   "skos:related": [
+    {
+     "@id": "us:burke-act"
+    },
+    {
+     "@id": "us:curtis-act"
+    },
+    {
+     "@id": "us:federal-indian-boarding-schools"
+    },
+    {
+     "@id": "us:federal-trust-responsibility"
+    },
+    {
+     "@id": "us:gilded-age"
+    },
+    {
+     "@id": "us:indian-citizenship-act-of-1924"
+    },
+    {
+     "@id": "us:indian-removal-act"
+    },
+    {
+     "@id": "us:indian-reorganization-act"
+    },
+    {
+     "@id": "us:indian-territory"
+    },
+    {
+     "@id": "us:native-americans"
+    },
+    {
+     "@id": "us:the-west"
+    },
+    {
+     "@id": "us:tribal-sovereignty"
+    }
+   ],
+   "uso:affected": {
+    "@id": "us:native-americans"
+   },
+   "uso:domain": "native-nations",
+   "uso:enactedBy": {
+    "@id": "us:united-states-congress"
+   },
+   "uso:evidenceStatus": "interpretive",
+   "uso:file": "articles/native-nations/dawes-act.md",
+   "uso:introducedBy": {
+    "@id": "us:henry-l-dawes"
+   },
+   "uso:ledTo": [
+    {
+     "@id": "us:dawes-commission"
+    },
+    {
+     "@id": "us:indian-land-fractionation"
+    },
+    {
+     "@id": "us:lone-wolf-v-hitchcock"
+    }
+   ],
+   "uso:level": "introductory",
+   "uso:misconception": {
+    "@id": "https://github.com/john1hsu/usa-graph/id/dawes-act/misconception"
+   },
+   "uso:requires": {
+    "@id": "us:tribal-sovereignty"
+   },
+   "uso:signedBy": {
+    "@id": "us:grover-cleveland"
+   },
+   "uso:timelineEntry": [
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/dawes-act/timeline/1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/dawes-act/timeline/2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/dawes-act/timeline/3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/dawes-act/timeline/4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/dawes-act/timeline/5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/dawes-act/timeline/6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/dawes-act/timeline/7"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/dawes-act/timeline/8"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/dawes-act/timeline/9"
     }
    ]
   },

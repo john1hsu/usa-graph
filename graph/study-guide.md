@@ -1395,6 +1395,21 @@ Every review question (with its answer) and every myth-versus-fact in the graph,
 - **Q:** Why is the case's guardian-and-ward language still important in federal Indian law?
   **A:** Marshall's description of the tribes' relation to the United States as resembling that of a ward to its guardian became a root of the federal trust responsibility, the duty the federal government owes tribes to protect their remaining lands and provide services.
 
+### [Dawes Act](../articles/native-nations/dawes-act.md) — Law
+
+| Myth | Fact |
+|---|---|
+| The Dawes Act divided the lands of every Native nation, including the Cherokee, and the Dawes Rolls were drawn up under it. | Section 8 of the 1887 act exempted the Cherokee, Creek (Muscogee), Choctaw, Chickasaw and Seminole nations, the Osage and several other nations in Indian Territory, as well as the Seneca reservations in New York. The Five Tribes were allotted later through the Dawes Commission of 1893, the Curtis Act of 1898 and negotiated agreements, and the Dawes Rolls, closed in 1907, were that commission's enrollment lists. |
+
+**Why it matters:** Because Henry Dawes chaired the later commission and the rolls carry his name, the 1887 law, the commission and the rolls are often treated as one thing, hiding how the Five Tribes resisted allotment and how it was imposed on them separately.
+
+- **Q:** How did the Dawes Act reduce Native landholding even though it gave land to individual Native people?
+  **A:** After each tribal member received an allotment, the reservation land left over was declared "surplus" and could be bought by the government and sold to non-Indians; allottees later lost more land through tax foreclosures, distressed sales and leases once trust protections were weakened, so Native-held land fell from about 138 million acres in 1887 to 48 million by 1934.
+- **Q:** Why did reformers and western developers both support allotment?
+  **A:** Reformers believed private property and farming would assimilate Native people into American society, while western interests wanted the "surplus" land opened for settlement, mining, ranching and forestry; historians call their partnership an uneasy alliance that got the bill through Congress.
+- **Q:** Why does allotment still cause problems for tribes and landowners today?
+  **A:** When an allottee died, the land was not divided but passed to heirs as undivided shares, so over generations single tracts came to have hundreds of owners; this fractionation, together with checkerboarded trust and non-Indian land, makes the land hard to use, govern or develop, which the Interior Department's Land Buy-Back Program tried to address.
+
 ### [Haudenosaunee](../articles/native-nations/haudenosaunee.md) — TribalNation
 
 | Myth | Fact |

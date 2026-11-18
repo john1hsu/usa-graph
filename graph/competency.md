@@ -37,6 +37,7 @@ _Which nodes led to, established or affected the most other things in the graph?
 | `us:chinese-exclusion-act` | 4 | Chinese Americans, chae-chan-ping-v-united-states, geary-act, paper-sons |
 | `us:civil-rights-movement` | 4 | Voting Rights Act of 1965, black-power-movement, civil-rights-act-of-1964, racial-segregation-in-the-united-states |
 | `us:colorado-river` | 4 | California, arizona-v-california, colorado-river-compact, colorado-river-indian-tribes |
+| `us:dawes-act` | 4 | Native Americans, dawes-commission, indian-land-fractionation, lone-wolf-v-hitchcock |
 | `us:deepwater-horizon-oil-spill` | 4 | Bureau of Ocean Energy Management, louisiana, national-commission-on-the-bp-deepwater-horizon-oil-spill-and-offshore-drilling, restore-act |
 | `us:japanese-american-incarceration` | 4 | civil-liberties-act-of-1988, commission-on-wartime-relocation-and-internment-of-civilians, japanese-americans, korematsu-v-united-states |
 | `us:louisiana-purchase` | 4 | Missouri Compromise, Native Americans, adams-onis-treaty, territory-of-orleans |
@@ -55,9 +56,8 @@ _Which nodes led to, established or affected the most other things in the graph?
 | `us:chesapeake-bay` | 3 | chesapeake-bay-agreement, chesapeake-bay-tmdl, siege-of-yorktown |
 | `us:constitutional-convention` | 3 | Slavery in the United States, United States Constitution, ratification-of-the-constitution |
 | `us:covid-19-pandemic-in-the-united-states` | 3 | Native Americans, cares-act, operation-warp-speed |
-| `us:desegregation-of-little-rock-central-high-school` | 3 | cooper-v-aaron, executive-order-10730, lost-year |
 
-…and 84 more.
+…and 85 more.
 
 ## Happenings by era
 
@@ -98,6 +98,7 @@ _Which nodes are myths, contested or open to competing interpretations, and what
 | `us:chinese-exclusion-act` | interpretive |  |
 | `us:civil-rights-movement` | interpretive |  |
 | `us:constitutional-convention` | interpretive |  |
+| `us:dawes-act` | interpretive |  |
 | `us:desegregation-of-little-rock-central-high-school` | interpretive |  |
 | `us:dust-bowl` | interpretive |  |
 | `us:e-pluribus-unum` | interpretive |  |
@@ -116,9 +117,8 @@ _Which nodes are myths, contested or open to competing interpretations, and what
 | `us:haudenosaunee` | interpretive |  |
 | `us:hayden-geological-survey-of-1871` | interpretive |  |
 | `us:indian-removal-act` | interpretive |  |
-| `us:jim-crow-laws` | interpretive |  |
 
-…and 34 more.
+…and 35 more.
 
 ## Places with nothing tied to them (gap)
 
