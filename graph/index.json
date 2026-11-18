@@ -1597,6 +1597,208 @@
   ]
  },
  {
+  "id": "us:apollo-11",
+  "title": "Apollo 11",
+  "aliases": [
+   "First Moon landing",
+   "First crewed Moon landing",
+   "Apollo 11 Moon landing"
+  ],
+  "type": "Event",
+  "domain": "science-and-innovation",
+  "level": "introductory",
+  "evidenceStatus": "established",
+  "file": "articles/science-and-innovation/apollo-11.md",
+  "created": "2026-11-18",
+  "summary": "The NASA mission of July 16–24, 1969, in which Neil Armstrong and Edwin \"Buzz\" Aldrin landed the lunar module Eagle on the Moon's Sea of Tranquility while Michael Collins orbited in Columbia — the first time human beings walked on another world.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "us:apollo-program"
+   },
+   {
+    "predicate": "skos:broader",
+    "object": "us:space-race"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:nasa"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:neil-armstrong"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:buzz-aldrin"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:michael-collins"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:john-f-kennedy"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:cold-war"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:soviet-union"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:poor-peoples-campaign"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:ralph-abernathy"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:wernher-von-braun"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:national-air-and-space-museum"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:smithsonian-institution"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:moon-landing-hoax-myth"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:wright-brothers-first-flight"
+   },
+   {
+    "predicate": "uso:requires",
+    "object": "us:cold-war"
+   },
+   {
+    "predicate": "uso:partOf",
+    "object": "us:apollo-program",
+    "source": "s3",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:occurredDuring",
+    "object": "us:cold-war",
+    "source": "s3",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:ledBy",
+    "object": "us:neil-armstrong",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:occurredIn",
+    "object": "us:florida",
+    "source": "s1",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "uso:influencedBy",
+    "object": "us:john-f-kennedy",
+    "source": "s4",
+    "confidence": "high"
+   }
+  ],
+  "start": "1969-07-16",
+  "end": "1969-07-24",
+  "review": [
+   {
+    "question": "Why did the United States set out to land astronauts on the Moon in the 1960s?",
+    "answer": "Soviet firsts — Sputnik in 1957 and Yuri Gagarin's orbit in April 1961 — fed fears that America was falling behind in the Cold War, and in May 1961 Kennedy asked Congress to fund a crewed landing by the end of the decade."
+   },
+   {
+    "question": "How did the three crew members divide the work of the landing?",
+    "answer": "Commander Neil Armstrong and lunar module pilot Buzz Aldrin flew Eagle to the surface and walked on the Moon, while command module pilot Michael Collins stayed in lunar orbit in Columbia, which carried all three home."
+   },
+   {
+    "question": "What evidence from Apollo 11 is still being used by scientists today, and what does it show?",
+    "answer": "The laser ranging retroreflector the crew left behind still returns laser pulses from Earth-based telescopes, letting scientists measure the Earth–Moon distance to about a millimetre and study gravity and the Moon's interior; it also refutes claims that the landing was faked."
+   },
+   {
+    "question": "Why was the Moon program not universally celebrated at the time?",
+    "answer": "Critics argued that federal money spent on space was needed for Americans facing hunger and poverty — a point the Poor People's Campaign made at the launch site — and polls showed public support for paying any cost was limited."
+   }
+  ],
+  "timeline": [
+   {
+    "date": "1957",
+    "event": "The Soviet Union launches Sputnik 1, the first artificial satellite to orbit Earth."
+   },
+   {
+    "date": "1961-04",
+    "event": "Soviet cosmonaut Yuri Gagarin becomes the first person to orbit Earth."
+   },
+   {
+    "date": "1961-05-25",
+    "event": "President John F. Kennedy asks Congress to commit to a crewed Moon landing before the decade is out."
+   },
+   {
+    "date": "1962-09-12",
+    "event": "Kennedy defends the Moon goal in a speech at Rice University."
+   },
+   {
+    "date": "1969-07-15",
+    "event": "Ralph Abernathy leads hundreds of Poor People's Campaign demonstrators demanding aid for Americans facing hunger and poverty."
+   },
+   {
+    "date": "1969-07-16",
+    "event": "A Saturn V rocket lifts Apollo 11 off Launch Pad 39A at Cape Kennedy, Florida, at 9:32 a.m. EDT."
+   },
+   {
+    "date": "1969-07-19",
+    "event": "An engine burn behind the Moon places Columbia and Eagle in lunar orbit."
+   },
+   {
+    "date": "1969-07-20",
+    "event": "Eagle lands at 4:17 p.m. EDT; Armstrong steps onto the surface at 10:56 p.m. EDT."
+   },
+   {
+    "date": "1969-07-21",
+    "event": "Armstrong and Aldrin lift off from the Moon, leaving instruments including a laser retroreflector."
+   },
+   {
+    "date": "1969-07-24",
+    "event": "Columbia splashes down in the Pacific and the crew is recovered by USS Hornet."
+   },
+   {
+    "date": "1971",
+    "event": "After a national tour, the command module Columbia goes to the Smithsonian."
+   },
+   {
+    "date": "1976",
+    "event": "Columbia goes on permanent display in the new National Air and Space Museum."
+   }
+  ],
+  "misconception": {
+   "myth": "The Apollo 11 Moon landing was staged on Earth.",
+   "fact": "Physical evidence still testifies to the landing — astronomers continue to bounce lasers off the retroreflector the crew set up, and NASA's Lunar Reconnaissance Orbiter has photographed the abandoned descent stage and the astronauts' footpaths.",
+   "why": "The very scale of the achievement makes it easy for some to doubt, and the claim keeps circulating even though polls in the 1990s found only about 6 percent of Americans believed it."
+  },
+  "source_urls": [
+   "https://www.nasa.gov/missions/apollo/apollo-11-mission-overview/",
+   "https://www.nasa.gov/mission_pages/apollo/apollo11.html",
+   "https://www.nps.gov/articles/000/jfk-and-the-moonshot.htm",
+   "https://www.jfklibrary.org/JFK/JFK-in-History/Space-Program.aspx",
+   "https://www.nasa.gov/wp-content/uploads/static/history//alsj/a11/a11.step.html",
+   "https://www.si.edu/newsdesk/factsheets/apollo-11-command-module-columbia",
+   "https://www.wellesley.edu/news/wellesley-physicist-researches-the-moon-using-instrument-left-by-apollo-11",
+   "https://science.nasa.gov/resource/apollo-11-landing-site",
+   "https://news.gallup.com/poll/3712/landing-man-moon-publics-view.aspx"
+  ]
+ },
+ {
   "id": "us:articles-of-confederation",
   "title": "Articles of Confederation",
   "aliases": [

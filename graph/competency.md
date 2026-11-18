@@ -6,7 +6,9 @@ SPARQL queries in `queries/` run over the asserted graph, the OWL-RL inferences 
 
 _Which written eras, events and conflicts have no ledTo edge saying what they led to?_ — `queries/01-events-without-consequences.rq`
 
-_No results._
+| node | type |
+|---|---|
+| `us:apollo-11` | uso:Event |
 
 ## Rights with no protecting text (gap)
 
@@ -67,6 +69,7 @@ _For each era, which events, conflicts, laws and movements took place during it?
 |---|---|---|
 | `us:cold-war` | `us:nato` | 1949-04-04 |
 | `us:cold-war` | `us:desegregation-of-little-rock-central-high-school` | 1957-09-02 |
+| `us:cold-war` | `us:apollo-11` | 1969-07-16 |
 | `us:cold-war` | `us:mccarthyism` | 1947 |
 | `us:early-republic` | `us:marbury-v-madison` | 1803-02-24 |
 | `us:early-republic` | `us:louisiana-purchase` | 1803-04-30 |

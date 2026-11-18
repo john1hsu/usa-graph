@@ -1539,6 +1539,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1956-12-20 | The Court's order reaches Montgomery and the MIA votes to end the boycott. — [Montgomery bus boycott](../articles/cold-war-and-civil-rights/montgomery-bus-boycott.md) |
 | 1956-12-21 | Montgomery's buses operate on an integrated basis. — [Montgomery bus boycott](../articles/cold-war-and-civil-rights/montgomery-bus-boycott.md) |
 | 1957 | Founds the Southern Christian Leadership Conference and becomes its president. — [Martin Luther King Jr.](../articles/people-who-shaped-america/martin-luther-king-jr.md) |
+| 1957 | The Soviet Union launches Sputnik 1, the first artificial satellite to orbit Earth. — [Apollo 11](../articles/science-and-innovation/apollo-11.md) |
 | 1957-01 | More than sixty ministers meet at Ebenezer Baptist Church in Atlanta and form the Southern Christian Leadership Conference. — [Civil rights movement](../articles/cold-war-and-civil-rights/civil-rights-movement.md) |
 | 1957-05 | McCarthy dies at age 48. — [McCarthyism](../articles/cold-war-and-civil-rights/mccarthyism.md) |
 | 1957-08-28 | Federal judge Ronald Davies voids a state court injunction against integration and orders the district to proceed. — [Desegregation of Little Rock Central High School](../articles/cold-war-and-civil-rights/desegregation-of-little-rock-central-high-school.md) |
@@ -1569,7 +1570,9 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1960-04 | With Ella Baker, convenes the student conference at Shaw University that founds SNCC; moves to Atlanta that year as co-pastor of Ebenezer Baptist Church. — [Martin Luther King Jr.](../articles/people-who-shaped-america/martin-luther-king-jr.md) |
 | 1960-07-04 | The 50-star flag becomes official after Hawaii's admission as a state. — [National symbols of the United States](../articles/symbols-and-national-identity/national-symbols-of-the-united-states.md) |
 | 1961 | Larry Gara's The Liberty Line challenges the legend and recentres freedom seekers themselves. — [Underground Railroad](../articles/civil-war-and-reconstruction/underground-railroad.md) |
+| 1961-04 | Soviet cosmonaut Yuri Gagarin becomes the first person to orbit Earth. — [Apollo 11](../articles/science-and-innovation/apollo-11.md) |
 | 1961-05-04 | Thirteen Black and white Freedom Riders leave Washington, D.C., to test the desegregation of interstate bus travel. — [Civil rights movement](../articles/cold-war-and-civil-rights/civil-rights-movement.md) |
+| 1961-05-25 | President John F. Kennedy asks Congress to commit to a crewed Moon landing before the decade is out. — [Apollo 11](../articles/science-and-innovation/apollo-11.md) |
 | 1961-08 | Young Jefferson County lawyers file suit in the U.S. District Court for the Middle District of Alabama, with M. O. Sims among the plaintiffs. — [Reynolds v. Sims](../articles/democracy-and-elections/reynolds-v-sims.md) |
 | 1961-09 | Congress honors Samuel Wilson of Troy, New York, as the progenitor of Uncle Sam. — [National symbols of the United States](../articles/symbols-and-national-identity/national-symbols-of-the-united-states.md) |
 | 1961-09-03 | Amendments extending coverage to large retail and service enterprises take effect. — [Minimum wage](../articles/economy-and-work/minimum-wage.md) |
@@ -1579,6 +1582,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1962 | John F. Kennedy invokes the doctrine during the Cuban Missile Crisis and imposes a quarantine on Cuba with OAS support. — [Monroe Doctrine](../articles/early-republic-and-expansion/monroe-doctrine.md) |
 | 1962 | The USS Arizona Memorial, built over the sunken battleship, is officially dedicated. — [Attack on Pearl Harbor](../articles/depression-and-world-war/attack-on-pearl-harbor.md) |
 | 1962-05 | Judges Frank M. Johnson and Richard T. Rives rule for the plaintiffs, and the court orders a temporary plan for the 1962 election. — [Reynolds v. Sims](../articles/democracy-and-elections/reynolds-v-sims.md) |
+| 1962-09-12 | Kennedy defends the Moon goal in a speech at Rice University. — [Apollo 11](../articles/science-and-innovation/apollo-11.md) |
 | 1963 | In Arizona v. California the Supreme Court settles the Lower Basin division and recognizes reserved water rights for five reservations. — [Colorado River](../articles/geography-and-environment/colorado-river.md) |
 | 1963 | In Gray v. Sanders the Court strikes down Georgia's county-unit system, declaring the principle of one person, one vote. — [Reynolds v. Sims](../articles/democracy-and-elections/reynolds-v-sims.md) |
 | 1963-04 | Arrested during SCLC's Birmingham campaign; writes his Letter from Birmingham Jail. — [Martin Luther King Jr.](../articles/people-who-shaped-america/martin-luther-king-jr.md) |
@@ -1638,12 +1642,20 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1968-04-04 | Martin Luther King Jr. is assassinated in Memphis, Tennessee. — [Civil rights movement](../articles/cold-war-and-civil-rights/civil-rights-movement.md) |
 | 1968-04-11 | Johnson signs the Civil Rights Act of 1968, known as the Fair Housing Act. — [Civil rights movement](../articles/cold-war-and-civil-rights/civil-rights-movement.md) |
 | 1968-05-06 | Oklahoma governor Dewey Bartlett launches the OKIE campaign to turn the old insult into a badge of state pride. — [Okies](../articles/society-and-people/okies.md) |
+| 1969-07-15 | Ralph Abernathy leads hundreds of Poor People's Campaign demonstrators demanding aid for Americans facing hunger and poverty. — [Apollo 11](../articles/science-and-innovation/apollo-11.md) |
+| 1969-07-16 – 1969-07-24 | **[Apollo 11](../articles/science-and-innovation/apollo-11.md)** (Event) |
+| 1969-07-16 | A Saturn V rocket lifts Apollo 11 off Launch Pad 39A at Cape Kennedy, Florida, at 9:32 a.m. EDT. — [Apollo 11](../articles/science-and-innovation/apollo-11.md) |
+| 1969-07-19 | An engine burn behind the Moon places Columbia and Eagle in lunar orbit. — [Apollo 11](../articles/science-and-innovation/apollo-11.md) |
+| 1969-07-20 | Eagle lands at 4:17 p.m. EDT; Armstrong steps onto the surface at 10:56 p.m. EDT. — [Apollo 11](../articles/science-and-innovation/apollo-11.md) |
+| 1969-07-21 | Armstrong and Aldrin lift off from the Moon, leaving instruments including a laser retroreflector. — [Apollo 11](../articles/science-and-innovation/apollo-11.md) |
+| 1969-07-24 | Columbia splashes down in the Pacific and the crew is recovered by USS Hornet. — [Apollo 11](../articles/science-and-innovation/apollo-11.md) |
 | 1970 | Congress extends Section 5 preclearance for five years. — [Voting Rights Act of 1965](../articles/democracy-and-elections/voting-rights-act-of-1965.md) |
 | 1970 | Frank James (Wamsutta), an Aquinnah Wampanoag, speaks on Cole's Hill in Plymouth on Thanksgiving Day, beginning the annual National Day of Mourning. — [Thanksgiving](../articles/culture-and-arts/thanksgiving.md) |
 | 1970 | State park ranger Alexander Weiss finds Chinese poems carved into the detention barracks walls, which were slated for demolition. — [Angel Island Immigration Station](../articles/society-and-people/angel-island-immigration-station.md) |
 | 1970 | The Nixon administration repudiates termination and turns federal policy toward tribal self-determination. — [Tribal sovereignty](../articles/native-nations/tribal-sovereignty.md) |
 | 1970-05 | State park ranger Alexander Weiss finds hundreds of poems in the barracks, then slated for demolition. — [Chinese detention-barracks poetry](../articles/culture-and-arts/chinese-detention-barracks-poetry.md) |
 | 1970-07-08 | President Richard Nixon asks Congress to repudiate termination and adopt a policy of self-determination. — [Native Americans](../articles/native-nations/native-americans.md) |
+| 1971 | After a national tour, the command module Columbia goes to the Smithsonian. — [Apollo 11](../articles/science-and-innovation/apollo-11.md) |
 | 1971 | Gil Scott-Heron records "The Revolution Will Not Be Televised," a spoken-word model for socially conscious rap. — [Hip hop](../articles/culture-and-arts/hip-hop.md) |
 | 1971 | Reed v. Reed applies heightened review to a sex-based classification for the first time. — [Equal protection](../articles/rights-and-law/equal-protection.md) |
 | 1972-09-10 | A memorial boulder and state marker are dedicated at Lattimer; Cesar Chavez speaks. — [Lattimer massacre](../articles/economy-and-work/lattimer-massacre.md) |
@@ -1656,6 +1668,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1975 | Congress extends preclearance for seven years and adds protections for language-minority citizens. — [Voting Rights Act of 1965](../articles/democracy-and-elections/voting-rights-act-of-1965.md) |
 | 1975 | The House abolishes its Committee on Internal Security, HUAC's successor; the Civil Service Commission ends its ban on gay federal employees. — [McCarthyism](../articles/cold-war-and-civil-rights/mccarthyism.md) |
 | 1975 | The Indian Self-Determination and Education Assistance Act lets tribes contract to run programs formerly run by the BIA and the Indian Health Service. — [Native Americans](../articles/native-nations/native-americans.md) |
+| 1976 | Columbia goes on permanent display in the new National Air and Space Museum. — [Apollo 11](../articles/science-and-innovation/apollo-11.md) |
 | 1976 | Craig v. Boren sets the intermediate-scrutiny standard for sex classifications. — [Equal protection](../articles/rights-and-law/equal-protection.md) |
 | 1976 | For the Bicentennial the bell moves from Independence Hall to a glass-and-brick pavilion a block away. — [Liberty Bell](../articles/symbols-and-national-identity/liberty-bell.md) |
 | 1976 | Mathews v. Eldridge adopts a three-factor balancing test for the process due in civil proceedings. — [Due process](../articles/rights-and-law/due-process.md) |

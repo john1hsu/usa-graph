@@ -944,6 +944,121 @@
 <https://github.com/john1hsu/usa-graph/id/angel-island-immigration-station> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/angel-island-immigration-station/timeline/9> .
 <https://github.com/john1hsu/usa-graph/id/angel-island-immigration-station> <https://schema.org/endDate> "1940-11-05"^^<http://www.w3.org/2001/XMLSchema#date> .
 <https://github.com/john1hsu/usa-graph/id/angel-island-immigration-station> <https://schema.org/startDate> "1910-01-21"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/apollo-11/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Misconception> .
+<https://github.com/john1hsu/usa-graph/id/apollo-11/misconception> <https://github.com/john1hsu/usa-graph/ontology#fact> "Physical evidence still testifies to the landing — astronomers continue to bounce lasers off the retroreflector the crew set up, and NASA's Lunar Reconnaissance Orbiter has photographed the abandoned descent stage and the astronauts' footpaths." .
+<https://github.com/john1hsu/usa-graph/id/apollo-11/misconception> <https://github.com/john1hsu/usa-graph/ontology#myth> "The Apollo 11 Moon landing was staged on Earth." .
+<https://github.com/john1hsu/usa-graph/id/apollo-11/misconception> <https://github.com/john1hsu/usa-graph/ontology#why> "The very scale of the achievement makes it easy for some to doubt, and the claim keeps circulating even though polls in the 1990s found only about 6 percent of Americans believed it." .
+<https://github.com/john1hsu/usa-graph/id/apollo-11/review/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+<https://github.com/john1hsu/usa-graph/id/apollo-11/review/1> <http://www.w3.org/2000/01/rdf-schema#label> "Why did the United States set out to land astronauts on the Moon in the 1960s?" .
+<https://github.com/john1hsu/usa-graph/id/apollo-11/review/1> <https://github.com/john1hsu/usa-graph/ontology#answer> "Soviet firsts — Sputnik in 1957 and Yuri Gagarin's orbit in April 1961 — fed fears that America was falling behind in the Cold War, and in May 1961 Kennedy asked Congress to fund a crewed landing by the end of the decade." .
+<https://github.com/john1hsu/usa-graph/id/apollo-11/review/1> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/apollo-11> .
+<https://github.com/john1hsu/usa-graph/id/apollo-11/review/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+<https://github.com/john1hsu/usa-graph/id/apollo-11/review/2> <http://www.w3.org/2000/01/rdf-schema#label> "How did the three crew members divide the work of the landing?" .
+<https://github.com/john1hsu/usa-graph/id/apollo-11/review/2> <https://github.com/john1hsu/usa-graph/ontology#answer> "Commander Neil Armstrong and lunar module pilot Buzz Aldrin flew Eagle to the surface and walked on the Moon, while command module pilot Michael Collins stayed in lunar orbit in Columbia, which carried all three home." .
+<https://github.com/john1hsu/usa-graph/id/apollo-11/review/2> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/apollo-11> .
+<https://github.com/john1hsu/usa-graph/id/apollo-11/review/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+<https://github.com/john1hsu/usa-graph/id/apollo-11/review/3> <http://www.w3.org/2000/01/rdf-schema#label> "What evidence from Apollo 11 is still being used by scientists today, and what does it show?" .
+<https://github.com/john1hsu/usa-graph/id/apollo-11/review/3> <https://github.com/john1hsu/usa-graph/ontology#answer> "The laser ranging retroreflector the crew left behind still returns laser pulses from Earth-based telescopes, letting scientists measure the Earth–Moon distance to about a millimetre and study gravity and the Moon's interior; it also refutes claims that the landing was faked." .
+<https://github.com/john1hsu/usa-graph/id/apollo-11/review/3> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/apollo-11> .
+<https://github.com/john1hsu/usa-graph/id/apollo-11/review/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+<https://github.com/john1hsu/usa-graph/id/apollo-11/review/4> <http://www.w3.org/2000/01/rdf-schema#label> "Why was the Moon program not universally celebrated at the time?" .
+<https://github.com/john1hsu/usa-graph/id/apollo-11/review/4> <https://github.com/john1hsu/usa-graph/ontology#answer> "Critics argued that federal money spent on space was needed for Americans facing hunger and poverty — a point the Poor People's Campaign made at the launch site — and polls showed public support for paying any cost was limited." .
+<https://github.com/john1hsu/usa-graph/id/apollo-11/review/4> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/apollo-11> .
+<https://github.com/john1hsu/usa-graph/id/apollo-11/timeline/10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/apollo-11/timeline/10> <http://www.w3.org/2000/01/rdf-schema#label> "Columbia splashes down in the Pacific and the crew is recovered by USS Hornet." .
+<https://github.com/john1hsu/usa-graph/id/apollo-11/timeline/10> <https://github.com/john1hsu/usa-graph/ontology#date> "1969-07-24"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/apollo-11/timeline/11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/apollo-11/timeline/11> <http://www.w3.org/2000/01/rdf-schema#label> "After a national tour, the command module Columbia goes to the Smithsonian." .
+<https://github.com/john1hsu/usa-graph/id/apollo-11/timeline/11> <https://github.com/john1hsu/usa-graph/ontology#date> "1971"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://github.com/john1hsu/usa-graph/id/apollo-11/timeline/12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/apollo-11/timeline/12> <http://www.w3.org/2000/01/rdf-schema#label> "Columbia goes on permanent display in the new National Air and Space Museum." .
+<https://github.com/john1hsu/usa-graph/id/apollo-11/timeline/12> <https://github.com/john1hsu/usa-graph/ontology#date> "1976"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://github.com/john1hsu/usa-graph/id/apollo-11/timeline/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/apollo-11/timeline/1> <http://www.w3.org/2000/01/rdf-schema#label> "The Soviet Union launches Sputnik 1, the first artificial satellite to orbit Earth." .
+<https://github.com/john1hsu/usa-graph/id/apollo-11/timeline/1> <https://github.com/john1hsu/usa-graph/ontology#date> "1957"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://github.com/john1hsu/usa-graph/id/apollo-11/timeline/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/apollo-11/timeline/2> <http://www.w3.org/2000/01/rdf-schema#label> "Soviet cosmonaut Yuri Gagarin becomes the first person to orbit Earth." .
+<https://github.com/john1hsu/usa-graph/id/apollo-11/timeline/2> <https://github.com/john1hsu/usa-graph/ontology#date> "1961-04"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> .
+<https://github.com/john1hsu/usa-graph/id/apollo-11/timeline/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/apollo-11/timeline/3> <http://www.w3.org/2000/01/rdf-schema#label> "President John F. Kennedy asks Congress to commit to a crewed Moon landing before the decade is out." .
+<https://github.com/john1hsu/usa-graph/id/apollo-11/timeline/3> <https://github.com/john1hsu/usa-graph/ontology#date> "1961-05-25"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/apollo-11/timeline/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/apollo-11/timeline/4> <http://www.w3.org/2000/01/rdf-schema#label> "Kennedy defends the Moon goal in a speech at Rice University." .
+<https://github.com/john1hsu/usa-graph/id/apollo-11/timeline/4> <https://github.com/john1hsu/usa-graph/ontology#date> "1962-09-12"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/apollo-11/timeline/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/apollo-11/timeline/5> <http://www.w3.org/2000/01/rdf-schema#label> "Ralph Abernathy leads hundreds of Poor People's Campaign demonstrators demanding aid for Americans facing hunger and poverty." .
+<https://github.com/john1hsu/usa-graph/id/apollo-11/timeline/5> <https://github.com/john1hsu/usa-graph/ontology#date> "1969-07-15"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/apollo-11/timeline/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/apollo-11/timeline/6> <http://www.w3.org/2000/01/rdf-schema#label> "A Saturn V rocket lifts Apollo 11 off Launch Pad 39A at Cape Kennedy, Florida, at 9:32 a.m. EDT." .
+<https://github.com/john1hsu/usa-graph/id/apollo-11/timeline/6> <https://github.com/john1hsu/usa-graph/ontology#date> "1969-07-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/apollo-11/timeline/7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/apollo-11/timeline/7> <http://www.w3.org/2000/01/rdf-schema#label> "An engine burn behind the Moon places Columbia and Eagle in lunar orbit." .
+<https://github.com/john1hsu/usa-graph/id/apollo-11/timeline/7> <https://github.com/john1hsu/usa-graph/ontology#date> "1969-07-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/apollo-11/timeline/8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/apollo-11/timeline/8> <http://www.w3.org/2000/01/rdf-schema#label> "Eagle lands at 4:17 p.m. EDT; Armstrong steps onto the surface at 10:56 p.m. EDT." .
+<https://github.com/john1hsu/usa-graph/id/apollo-11/timeline/8> <https://github.com/john1hsu/usa-graph/ontology#date> "1969-07-20"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/apollo-11/timeline/9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/apollo-11/timeline/9> <http://www.w3.org/2000/01/rdf-schema#label> "Armstrong and Aldrin lift off from the Moon, leaving instruments including a laser retroreflector." .
+<https://github.com/john1hsu/usa-graph/id/apollo-11/timeline/9> <https://github.com/john1hsu/usa-graph/ontology#date> "1969-07-21"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/apollo-11> <http://purl.org/dc/terms/created> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/apollo-11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Event> .
+<https://github.com/john1hsu/usa-graph/id/apollo-11> <http://www.w3.org/2000/01/rdf-schema#label> "Apollo 11" .
+<https://github.com/john1hsu/usa-graph/id/apollo-11> <http://www.w3.org/2004/02/skos/core#altLabel> "Apollo 11 Moon landing" .
+<https://github.com/john1hsu/usa-graph/id/apollo-11> <http://www.w3.org/2004/02/skos/core#altLabel> "First Moon landing" .
+<https://github.com/john1hsu/usa-graph/id/apollo-11> <http://www.w3.org/2004/02/skos/core#altLabel> "First crewed Moon landing" .
+<https://github.com/john1hsu/usa-graph/id/apollo-11> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/usa-graph/id/apollo-program> .
+<https://github.com/john1hsu/usa-graph/id/apollo-11> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/usa-graph/id/space-race> .
+<https://github.com/john1hsu/usa-graph/id/apollo-11> <http://www.w3.org/2004/02/skos/core#definition> "The NASA mission of July 16–24, 1969, in which Neil Armstrong and Edwin \"Buzz\" Aldrin landed the lunar module Eagle on the Moon's Sea of Tranquility while Michael Collins orbited in Columbia — the first time human beings walked on another world." .
+<https://github.com/john1hsu/usa-graph/id/apollo-11> <http://www.w3.org/2004/02/skos/core#inScheme> <https://github.com/john1hsu/usa-graph/id/scheme/science-and-innovation> .
+<https://github.com/john1hsu/usa-graph/id/apollo-11> <http://www.w3.org/2004/02/skos/core#prefLabel> "Apollo 11" .
+<https://github.com/john1hsu/usa-graph/id/apollo-11> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/buzz-aldrin> .
+<https://github.com/john1hsu/usa-graph/id/apollo-11> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/cold-war> .
+<https://github.com/john1hsu/usa-graph/id/apollo-11> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/john-f-kennedy> .
+<https://github.com/john1hsu/usa-graph/id/apollo-11> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/michael-collins> .
+<https://github.com/john1hsu/usa-graph/id/apollo-11> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/moon-landing-hoax-myth> .
+<https://github.com/john1hsu/usa-graph/id/apollo-11> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/nasa> .
+<https://github.com/john1hsu/usa-graph/id/apollo-11> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/national-air-and-space-museum> .
+<https://github.com/john1hsu/usa-graph/id/apollo-11> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/neil-armstrong> .
+<https://github.com/john1hsu/usa-graph/id/apollo-11> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/poor-peoples-campaign> .
+<https://github.com/john1hsu/usa-graph/id/apollo-11> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/ralph-abernathy> .
+<https://github.com/john1hsu/usa-graph/id/apollo-11> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/smithsonian-institution> .
+<https://github.com/john1hsu/usa-graph/id/apollo-11> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/soviet-union> .
+<https://github.com/john1hsu/usa-graph/id/apollo-11> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/wernher-von-braun> .
+<https://github.com/john1hsu/usa-graph/id/apollo-11> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/wright-brothers-first-flight> .
+<https://github.com/john1hsu/usa-graph/id/apollo-11> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/apollo-11/s1> .
+<https://github.com/john1hsu/usa-graph/id/apollo-11> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/apollo-11/s2> .
+<https://github.com/john1hsu/usa-graph/id/apollo-11> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/apollo-11/s3> .
+<https://github.com/john1hsu/usa-graph/id/apollo-11> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/apollo-11/s4> .
+<https://github.com/john1hsu/usa-graph/id/apollo-11> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/apollo-11/s5> .
+<https://github.com/john1hsu/usa-graph/id/apollo-11> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/apollo-11/s6> .
+<https://github.com/john1hsu/usa-graph/id/apollo-11> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/apollo-11/s7> .
+<https://github.com/john1hsu/usa-graph/id/apollo-11> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/apollo-11/s8> .
+<https://github.com/john1hsu/usa-graph/id/apollo-11> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/apollo-11/s9> .
+<https://github.com/john1hsu/usa-graph/id/apollo-11> <https://github.com/john1hsu/usa-graph/ontology#domain> "science-and-innovation" .
+<https://github.com/john1hsu/usa-graph/id/apollo-11> <https://github.com/john1hsu/usa-graph/ontology#evidenceStatus> "established" .
+<https://github.com/john1hsu/usa-graph/id/apollo-11> <https://github.com/john1hsu/usa-graph/ontology#file> "articles/science-and-innovation/apollo-11.md" .
+<https://github.com/john1hsu/usa-graph/id/apollo-11> <https://github.com/john1hsu/usa-graph/ontology#influencedBy> <https://github.com/john1hsu/usa-graph/id/john-f-kennedy> .
+<https://github.com/john1hsu/usa-graph/id/apollo-11> <https://github.com/john1hsu/usa-graph/ontology#ledBy> <https://github.com/john1hsu/usa-graph/id/neil-armstrong> .
+<https://github.com/john1hsu/usa-graph/id/apollo-11> <https://github.com/john1hsu/usa-graph/ontology#level> "introductory" .
+<https://github.com/john1hsu/usa-graph/id/apollo-11> <https://github.com/john1hsu/usa-graph/ontology#misconception> <https://github.com/john1hsu/usa-graph/id/apollo-11/misconception> .
+<https://github.com/john1hsu/usa-graph/id/apollo-11> <https://github.com/john1hsu/usa-graph/ontology#occurredDuring> <https://github.com/john1hsu/usa-graph/id/cold-war> .
+<https://github.com/john1hsu/usa-graph/id/apollo-11> <https://github.com/john1hsu/usa-graph/ontology#occurredIn> <https://github.com/john1hsu/usa-graph/id/florida> .
+<https://github.com/john1hsu/usa-graph/id/apollo-11> <https://github.com/john1hsu/usa-graph/ontology#partOf> <https://github.com/john1hsu/usa-graph/id/apollo-program> .
+<https://github.com/john1hsu/usa-graph/id/apollo-11> <https://github.com/john1hsu/usa-graph/ontology#requires> <https://github.com/john1hsu/usa-graph/id/cold-war> .
+<https://github.com/john1hsu/usa-graph/id/apollo-11> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/apollo-11/timeline/10> .
+<https://github.com/john1hsu/usa-graph/id/apollo-11> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/apollo-11/timeline/11> .
+<https://github.com/john1hsu/usa-graph/id/apollo-11> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/apollo-11/timeline/12> .
+<https://github.com/john1hsu/usa-graph/id/apollo-11> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/apollo-11/timeline/1> .
+<https://github.com/john1hsu/usa-graph/id/apollo-11> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/apollo-11/timeline/2> .
+<https://github.com/john1hsu/usa-graph/id/apollo-11> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/apollo-11/timeline/3> .
+<https://github.com/john1hsu/usa-graph/id/apollo-11> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/apollo-11/timeline/4> .
+<https://github.com/john1hsu/usa-graph/id/apollo-11> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/apollo-11/timeline/5> .
+<https://github.com/john1hsu/usa-graph/id/apollo-11> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/apollo-11/timeline/6> .
+<https://github.com/john1hsu/usa-graph/id/apollo-11> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/apollo-11/timeline/7> .
+<https://github.com/john1hsu/usa-graph/id/apollo-11> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/apollo-11/timeline/8> .
+<https://github.com/john1hsu/usa-graph/id/apollo-11> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/apollo-11/timeline/9> .
+<https://github.com/john1hsu/usa-graph/id/apollo-11> <https://schema.org/endDate> "1969-07-24"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/apollo-11> <https://schema.org/startDate> "1969-07-16"^^<http://www.w3.org/2001/XMLSchema#date> .
 <https://github.com/john1hsu/usa-graph/id/articles-of-confederation/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Misconception> .
 <https://github.com/john1hsu/usa-graph/id/articles-of-confederation/misconception> <https://github.com/john1hsu/usa-graph/ontology#fact> "Despite having no power to tax, the Confederation Congress saw the Revolutionary War to its end with the 1783 Treaty of Paris, set up departments of Foreign Affairs, War, Marine and Treasury, and passed the Land Ordinances of 1784 and 1785 and the Northwest Ordinance of 1787, which created a process for admitting new states on equal terms with the original thirteen." .
 <https://github.com/john1hsu/usa-graph/id/articles-of-confederation/misconception> <https://github.com/john1hsu/usa-graph/ontology#myth> "The government under the Articles of Confederation accomplished nothing and was simply a failure." .
@@ -12776,6 +12891,60 @@
 <https://github.com/john1hsu/usa-graph/id/source/angel-island-immigration-station/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
 <https://github.com/john1hsu/usa-graph/id/source/angel-island-immigration-station/s7> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
 <https://github.com/john1hsu/usa-graph/id/source/angel-island-immigration-station/s7> <https://schema.org/url> <https://prologue.blogs.archives.gov/2020/09/10/navigating-the-law-the-chinese-exclusion-act-of-1882-and-the-trials-of-a-journey-home> .
+<https://github.com/john1hsu/usa-graph/id/source/apollo-11/s1> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/apollo-11/s1> <http://purl.org/dc/terms/publisher> "NASA" .
+<https://github.com/john1hsu/usa-graph/id/source/apollo-11/s1> <http://purl.org/dc/terms/title> "Apollo 11 Mission Overview" .
+<https://github.com/john1hsu/usa-graph/id/source/apollo-11/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/apollo-11/s1> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/usa-graph/id/source/apollo-11/s1> <https://schema.org/url> <https://www.nasa.gov/missions/apollo/apollo-11-mission-overview/> .
+<https://github.com/john1hsu/usa-graph/id/source/apollo-11/s2> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/apollo-11/s2> <http://purl.org/dc/terms/publisher> "NASA (2019, updated 2024)" .
+<https://github.com/john1hsu/usa-graph/id/source/apollo-11/s2> <http://purl.org/dc/terms/title> "July 20, 1969: One Giant Leap For Mankind" .
+<https://github.com/john1hsu/usa-graph/id/source/apollo-11/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/apollo-11/s2> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/usa-graph/id/source/apollo-11/s2> <https://schema.org/url> <https://www.nasa.gov/mission_pages/apollo/apollo11.html> .
+<https://github.com/john1hsu/usa-graph/id/source/apollo-11/s3> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/apollo-11/s3> <http://purl.org/dc/terms/publisher> "National Park Service" .
+<https://github.com/john1hsu/usa-graph/id/source/apollo-11/s3> <http://purl.org/dc/terms/title> "JFK and the Moonshot" .
+<https://github.com/john1hsu/usa-graph/id/source/apollo-11/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/apollo-11/s3> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/usa-graph/id/source/apollo-11/s3> <https://schema.org/url> <https://www.nps.gov/articles/000/jfk-and-the-moonshot.htm> .
+<https://github.com/john1hsu/usa-graph/id/source/apollo-11/s4> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/apollo-11/s4> <http://purl.org/dc/terms/publisher> "John F. Kennedy Presidential Library and Museum" .
+<https://github.com/john1hsu/usa-graph/id/source/apollo-11/s4> <http://purl.org/dc/terms/title> "Space Program" .
+<https://github.com/john1hsu/usa-graph/id/source/apollo-11/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/apollo-11/s4> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "museum" .
+<https://github.com/john1hsu/usa-graph/id/source/apollo-11/s4> <https://schema.org/url> <https://www.jfklibrary.org/JFK/JFK-in-History/Space-Program.aspx> .
+<https://github.com/john1hsu/usa-graph/id/source/apollo-11/s5> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/apollo-11/s5> <http://purl.org/dc/terms/publisher> "NASA History Office, Apollo Lunar Surface Journal" .
+<https://github.com/john1hsu/usa-graph/id/source/apollo-11/s5> <http://purl.org/dc/terms/title> "One Small Step — Apollo 11 Lunar Surface Journal" .
+<https://github.com/john1hsu/usa-graph/id/source/apollo-11/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/apollo-11/s5> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/usa-graph/id/source/apollo-11/s5> <https://schema.org/url> <https://www.nasa.gov/wp-content/uploads/static/history//alsj/a11/a11.step.html> .
+<https://github.com/john1hsu/usa-graph/id/source/apollo-11/s6> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/apollo-11/s6> <http://purl.org/dc/terms/publisher> "Smithsonian Institution Newsdesk" .
+<https://github.com/john1hsu/usa-graph/id/source/apollo-11/s6> <http://purl.org/dc/terms/title> "Apollo 11 Command Module Columbia (fact sheet)" .
+<https://github.com/john1hsu/usa-graph/id/source/apollo-11/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/apollo-11/s6> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "museum" .
+<https://github.com/john1hsu/usa-graph/id/source/apollo-11/s6> <https://schema.org/url> <https://www.si.edu/newsdesk/factsheets/apollo-11-command-module-columbia> .
+<https://github.com/john1hsu/usa-graph/id/source/apollo-11/s7> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/apollo-11/s7> <http://purl.org/dc/terms/publisher> "Wellesley College" .
+<https://github.com/john1hsu/usa-graph/id/source/apollo-11/s7> <http://purl.org/dc/terms/title> "Wellesley Physicist Researches the Moon Using Instrument Left by Apollo 11" .
+<https://github.com/john1hsu/usa-graph/id/source/apollo-11/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/apollo-11/s7> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/usa-graph/id/source/apollo-11/s7> <https://schema.org/url> <https://www.wellesley.edu/news/wellesley-physicist-researches-the-moon-using-instrument-left-by-apollo-11> .
+<https://github.com/john1hsu/usa-graph/id/source/apollo-11/s8> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/apollo-11/s8> <http://purl.org/dc/terms/publisher> "NASA Science (image credit NASA/Goddard Space Flight Center/Arizona State University)" .
+<https://github.com/john1hsu/usa-graph/id/source/apollo-11/s8> <http://purl.org/dc/terms/title> "Apollo 11 Landing Site" .
+<https://github.com/john1hsu/usa-graph/id/source/apollo-11/s8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/apollo-11/s8> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/usa-graph/id/source/apollo-11/s8> <https://schema.org/url> <https://science.nasa.gov/resource/apollo-11-landing-site> .
+<https://github.com/john1hsu/usa-graph/id/source/apollo-11/s9> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/apollo-11/s9> <http://purl.org/dc/terms/publisher> "Gallup News Service (1999)" .
+<https://github.com/john1hsu/usa-graph/id/source/apollo-11/s9> <http://purl.org/dc/terms/title> "Landing a Man on the Moon: The Public's View" .
+<https://github.com/john1hsu/usa-graph/id/source/apollo-11/s9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/apollo-11/s9> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "institutional" .
+<https://github.com/john1hsu/usa-graph/id/source/apollo-11/s9> <https://schema.org/url> <https://news.gallup.com/poll/3712/landing-man-moon-publics-view.aspx> .
 <https://github.com/john1hsu/usa-graph/id/source/articles-of-confederation/s1> <http://purl.org/dc/terms/date> "2026-11-13"^^<http://www.w3.org/2001/XMLSchema#date> .
 <https://github.com/john1hsu/usa-graph/id/source/articles-of-confederation/s1> <http://purl.org/dc/terms/publisher> "National Archives (Milestone Documents)" .
 <https://github.com/john1hsu/usa-graph/id/source/articles-of-confederation/s1> <http://purl.org/dc/terms/title> "Articles of Confederation (1777)" .

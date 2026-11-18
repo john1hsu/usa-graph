@@ -1900,6 +1900,23 @@ Every review question (with its answer) and every myth-versus-fact in the graph,
 
 ## science-and-innovation
 
+### [Apollo 11](../articles/science-and-innovation/apollo-11.md) — Event
+
+| Myth | Fact |
+|---|---|
+| The Apollo 11 Moon landing was staged on Earth. | Physical evidence still testifies to the landing — astronomers continue to bounce lasers off the retroreflector the crew set up, and NASA's Lunar Reconnaissance Orbiter has photographed the abandoned descent stage and the astronauts' footpaths. |
+
+**Why it matters:** The very scale of the achievement makes it easy for some to doubt, and the claim keeps circulating even though polls in the 1990s found only about 6 percent of Americans believed it.
+
+- **Q:** Why did the United States set out to land astronauts on the Moon in the 1960s?
+  **A:** Soviet firsts — Sputnik in 1957 and Yuri Gagarin's orbit in April 1961 — fed fears that America was falling behind in the Cold War, and in May 1961 Kennedy asked Congress to fund a crewed landing by the end of the decade.
+- **Q:** How did the three crew members divide the work of the landing?
+  **A:** Commander Neil Armstrong and lunar module pilot Buzz Aldrin flew Eagle to the surface and walked on the Moon, while command module pilot Michael Collins stayed in lunar orbit in Columbia, which carried all three home.
+- **Q:** What evidence from Apollo 11 is still being used by scientists today, and what does it show?
+  **A:** The laser ranging retroreflector the crew left behind still returns laser pulses from Earth-based telescopes, letting scientists measure the Earth–Moon distance to about a millimetre and study gravity and the Moon's interior; it also refutes claims that the landing was faked.
+- **Q:** Why was the Moon program not universally celebrated at the time?
+  **A:** Critics argued that federal money spent on space was needed for Americans facing hunger and poverty — a point the Poor People's Campaign made at the launch site — and polls showed public support for paying any cost was limited.
+
 ### [Electric telegraph](../articles/science-and-innovation/telegraph.md) — Industry
 
 | Myth | Fact |

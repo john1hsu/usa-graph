@@ -1285,6 +1285,157 @@
    }
   },
   {
+   "@id": "https://github.com/john1hsu/usa-graph/id/apollo-11/misconception",
+   "@type": "uso:Misconception",
+   "uso:fact": "Physical evidence still testifies to the landing — astronomers continue to bounce lasers off the retroreflector the crew set up, and NASA's Lunar Reconnaissance Orbiter has photographed the abandoned descent stage and the astronauts' footpaths.",
+   "uso:myth": "The Apollo 11 Moon landing was staged on Earth.",
+   "uso:why": "The very scale of the achievement makes it easy for some to doubt, and the claim keeps circulating even though polls in the 1990s found only about 6 percent of Americans believed it."
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/apollo-11/review/1",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "Why did the United States set out to land astronauts on the Moon in the 1960s?",
+   "uso:answer": "Soviet firsts — Sputnik in 1957 and Yuri Gagarin's orbit in April 1961 — fed fears that America was falling behind in the Cold War, and in May 1961 Kennedy asked Congress to fund a crewed landing by the end of the decade.",
+   "uso:questionFor": {
+    "@id": "us:apollo-11"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/apollo-11/review/2",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "How did the three crew members divide the work of the landing?",
+   "uso:answer": "Commander Neil Armstrong and lunar module pilot Buzz Aldrin flew Eagle to the surface and walked on the Moon, while command module pilot Michael Collins stayed in lunar orbit in Columbia, which carried all three home.",
+   "uso:questionFor": {
+    "@id": "us:apollo-11"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/apollo-11/review/3",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "What evidence from Apollo 11 is still being used by scientists today, and what does it show?",
+   "uso:answer": "The laser ranging retroreflector the crew left behind still returns laser pulses from Earth-based telescopes, letting scientists measure the Earth–Moon distance to about a millimetre and study gravity and the Moon's interior; it also refutes claims that the landing was faked.",
+   "uso:questionFor": {
+    "@id": "us:apollo-11"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/apollo-11/review/4",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "Why was the Moon program not universally celebrated at the time?",
+   "uso:answer": "Critics argued that federal money spent on space was needed for Americans facing hunger and poverty — a point the Poor People's Campaign made at the launch site — and polls showed public support for paying any cost was limited.",
+   "uso:questionFor": {
+    "@id": "us:apollo-11"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/apollo-11/timeline/1",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The Soviet Union launches Sputnik 1, the first artificial satellite to orbit Earth.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1957"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/apollo-11/timeline/10",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Columbia splashes down in the Pacific and the crew is recovered by USS Hornet.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1969-07-24"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/apollo-11/timeline/11",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "After a national tour, the command module Columbia goes to the Smithsonian.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1971"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/apollo-11/timeline/12",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Columbia goes on permanent display in the new National Air and Space Museum.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1976"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/apollo-11/timeline/2",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Soviet cosmonaut Yuri Gagarin becomes the first person to orbit Earth.",
+   "uso:date": {
+    "@type": "xsd:gYearMonth",
+    "@value": "1961-04"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/apollo-11/timeline/3",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "President John F. Kennedy asks Congress to commit to a crewed Moon landing before the decade is out.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1961-05-25"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/apollo-11/timeline/4",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Kennedy defends the Moon goal in a speech at Rice University.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1962-09-12"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/apollo-11/timeline/5",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Ralph Abernathy leads hundreds of Poor People's Campaign demonstrators demanding aid for Americans facing hunger and poverty.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1969-07-15"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/apollo-11/timeline/6",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "A Saturn V rocket lifts Apollo 11 off Launch Pad 39A at Cape Kennedy, Florida, at 9:32 a.m. EDT.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1969-07-16"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/apollo-11/timeline/7",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "An engine burn behind the Moon places Columbia and Eagle in lunar orbit.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1969-07-19"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/apollo-11/timeline/8",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Eagle lands at 4:17 p.m. EDT; Armstrong steps onto the surface at 10:56 p.m. EDT.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1969-07-20"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/apollo-11/timeline/9",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Armstrong and Aldrin lift off from the Moon, leaving instruments including a laser retroreflector.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1969-07-21"
+   }
+  },
+  {
    "@id": "https://github.com/john1hsu/usa-graph/id/articles-of-confederation/misconception",
    "@type": "uso:Misconception",
    "uso:fact": "Despite having no power to tax, the Confederation Congress saw the Revolutionary War to its end with the 1783 Treaty of Paris, set up departments of Foreign Affairs, War, Marine and Treasury, and passed the Land Ordinances of 1784 and 1785 and the Northwest Ordinance of 1787, which created a process for admitting new states on equal terms with the original thirteen.",
@@ -17965,6 +18116,132 @@
     "@id": "https://prologue.blogs.archives.gov/2020/09/10/navigating-the-law-the-chinese-exclusion-act-of-1882-and-the-trials-of-a-journey-home"
    },
    "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/apollo-11/s1",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "NASA",
+   "dcterms:title": "Apollo 11 Mission Overview",
+   "schema:url": {
+    "@id": "https://www.nasa.gov/missions/apollo/apollo-11-mission-overview/"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/apollo-11/s2",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "NASA (2019, updated 2024)",
+   "dcterms:title": "July 20, 1969: One Giant Leap For Mankind",
+   "schema:url": {
+    "@id": "https://www.nasa.gov/mission_pages/apollo/apollo11.html"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/apollo-11/s3",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "National Park Service",
+   "dcterms:title": "JFK and the Moonshot",
+   "schema:url": {
+    "@id": "https://www.nps.gov/articles/000/jfk-and-the-moonshot.htm"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/apollo-11/s4",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "John F. Kennedy Presidential Library and Museum",
+   "dcterms:title": "Space Program",
+   "schema:url": {
+    "@id": "https://www.jfklibrary.org/JFK/JFK-in-History/Space-Program.aspx"
+   },
+   "uso:sourceType": "museum"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/apollo-11/s5",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "NASA History Office, Apollo Lunar Surface Journal",
+   "dcterms:title": "One Small Step — Apollo 11 Lunar Surface Journal",
+   "schema:url": {
+    "@id": "https://www.nasa.gov/wp-content/uploads/static/history//alsj/a11/a11.step.html"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/apollo-11/s6",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Smithsonian Institution Newsdesk",
+   "dcterms:title": "Apollo 11 Command Module Columbia (fact sheet)",
+   "schema:url": {
+    "@id": "https://www.si.edu/newsdesk/factsheets/apollo-11-command-module-columbia"
+   },
+   "uso:sourceType": "museum"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/apollo-11/s7",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Wellesley College",
+   "dcterms:title": "Wellesley Physicist Researches the Moon Using Instrument Left by Apollo 11",
+   "schema:url": {
+    "@id": "https://www.wellesley.edu/news/wellesley-physicist-researches-the-moon-using-instrument-left-by-apollo-11"
+   },
+   "uso:sourceType": "academic"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/apollo-11/s8",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "NASA Science (image credit NASA/Goddard Space Flight Center/Arizona State University)",
+   "dcterms:title": "Apollo 11 Landing Site",
+   "schema:url": {
+    "@id": "https://science.nasa.gov/resource/apollo-11-landing-site"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/apollo-11/s9",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Gallup News Service (1999)",
+   "dcterms:title": "Landing a Man on the Moon: The Public's View",
+   "schema:url": {
+    "@id": "https://news.gallup.com/poll/3712/landing-man-moon-publics-view.aspx"
+   },
+   "uso:sourceType": "institutional"
   },
   {
    "@id": "https://github.com/john1hsu/usa-graph/id/source/articles-of-confederation/s1",
@@ -40591,6 +40868,177 @@
     },
     {
      "@id": "https://github.com/john1hsu/usa-graph/id/angel-island-immigration-station/timeline/9"
+    }
+   ]
+  },
+  {
+   "@id": "us:apollo-11",
+   "@type": "uso:Event",
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/apollo-11/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/apollo-11/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/apollo-11/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/apollo-11/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/apollo-11/s5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/apollo-11/s6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/apollo-11/s7"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/apollo-11/s8"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/apollo-11/s9"
+    }
+   ],
+   "rdfs:label": "Apollo 11",
+   "schema:endDate": {
+    "@type": "xsd:date",
+    "@value": "1969-07-24"
+   },
+   "schema:startDate": {
+    "@type": "xsd:date",
+    "@value": "1969-07-16"
+   },
+   "skos:altLabel": [
+    "Apollo 11 Moon landing",
+    "First Moon landing",
+    "First crewed Moon landing"
+   ],
+   "skos:broader": [
+    {
+     "@id": "us:apollo-program"
+    },
+    {
+     "@id": "us:space-race"
+    }
+   ],
+   "skos:definition": "The NASA mission of July 16–24, 1969, in which Neil Armstrong and Edwin \"Buzz\" Aldrin landed the lunar module Eagle on the Moon's Sea of Tranquility while Michael Collins orbited in Columbia — the first time human beings walked on another world.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/usa-graph/id/scheme/science-and-innovation"
+   },
+   "skos:prefLabel": "Apollo 11",
+   "skos:related": [
+    {
+     "@id": "us:buzz-aldrin"
+    },
+    {
+     "@id": "us:cold-war"
+    },
+    {
+     "@id": "us:john-f-kennedy"
+    },
+    {
+     "@id": "us:michael-collins"
+    },
+    {
+     "@id": "us:moon-landing-hoax-myth"
+    },
+    {
+     "@id": "us:nasa"
+    },
+    {
+     "@id": "us:national-air-and-space-museum"
+    },
+    {
+     "@id": "us:neil-armstrong"
+    },
+    {
+     "@id": "us:poor-peoples-campaign"
+    },
+    {
+     "@id": "us:ralph-abernathy"
+    },
+    {
+     "@id": "us:smithsonian-institution"
+    },
+    {
+     "@id": "us:soviet-union"
+    },
+    {
+     "@id": "us:wernher-von-braun"
+    },
+    {
+     "@id": "us:wright-brothers-first-flight"
+    }
+   ],
+   "uso:domain": "science-and-innovation",
+   "uso:evidenceStatus": "established",
+   "uso:file": "articles/science-and-innovation/apollo-11.md",
+   "uso:influencedBy": {
+    "@id": "us:john-f-kennedy"
+   },
+   "uso:ledBy": {
+    "@id": "us:neil-armstrong"
+   },
+   "uso:level": "introductory",
+   "uso:misconception": {
+    "@id": "https://github.com/john1hsu/usa-graph/id/apollo-11/misconception"
+   },
+   "uso:occurredDuring": {
+    "@id": "us:cold-war"
+   },
+   "uso:occurredIn": {
+    "@id": "us:florida"
+   },
+   "uso:partOf": {
+    "@id": "us:apollo-program"
+   },
+   "uso:requires": {
+    "@id": "us:cold-war"
+   },
+   "uso:timelineEntry": [
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/apollo-11/timeline/1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/apollo-11/timeline/10"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/apollo-11/timeline/11"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/apollo-11/timeline/12"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/apollo-11/timeline/2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/apollo-11/timeline/3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/apollo-11/timeline/4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/apollo-11/timeline/5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/apollo-11/timeline/6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/apollo-11/timeline/7"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/apollo-11/timeline/8"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/apollo-11/timeline/9"
     }
    ]
   },
