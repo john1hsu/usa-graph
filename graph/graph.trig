@@ -592,6 +592,22 @@
 <https://github.com/john1hsu/usa-graph/id/shelby-county-v-holder#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/shelby-county-v-holder/s4> .
 <https://github.com/john1hsu/usa-graph/id/shelby-county-v-holder#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/shelby-county-v-holder/s5> .
 <https://github.com/john1hsu/usa-graph/id/shelby-county-v-holder#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/shelby-county-v-holder/s6> .
+<https://github.com/john1hsu/usa-graph/id/twenty-sixth-amendment#graph> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity> .
+<https://github.com/john1hsu/usa-graph/id/twenty-sixth-amendment#graph> <http://purl.org/dc/terms/subject> <https://github.com/john1hsu/usa-graph/id/twenty-sixth-amendment> .
+<https://github.com/john1hsu/usa-graph/id/twenty-sixth-amendment#graph> <http://purl.org/dc/terms/source> "https://github.com/john1hsu/usa-graph/blob/main/articles/democracy-and-elections/twenty-sixth-amendment.md" .
+<https://github.com/john1hsu/usa-graph/id/twenty-sixth-amendment#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/twenty-sixth-amendment/s1> .
+<https://github.com/john1hsu/usa-graph/id/twenty-sixth-amendment#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/twenty-sixth-amendment/s2> .
+<https://github.com/john1hsu/usa-graph/id/twenty-sixth-amendment#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/twenty-sixth-amendment/s3> .
+<https://github.com/john1hsu/usa-graph/id/twenty-sixth-amendment#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/twenty-sixth-amendment/s4> .
+<https://github.com/john1hsu/usa-graph/id/twenty-sixth-amendment#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/twenty-sixth-amendment/s5> .
+<https://github.com/john1hsu/usa-graph/id/twenty-sixth-amendment#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/twenty-sixth-amendment/s6> .
+<https://github.com/john1hsu/usa-graph/id/twenty-sixth-amendment#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/twenty-sixth-amendment/s7> .
+<https://github.com/john1hsu/usa-graph/id/twenty-sixth-amendment#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/twenty-sixth-amendment/s8> .
+<https://github.com/john1hsu/usa-graph/id/twenty-sixth-amendment#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/twenty-sixth-amendment/s9> .
+<https://github.com/john1hsu/usa-graph/id/twenty-sixth-amendment#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/twenty-sixth-amendment/s10> .
+<https://github.com/john1hsu/usa-graph/id/twenty-sixth-amendment#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/twenty-sixth-amendment/s11> .
+<https://github.com/john1hsu/usa-graph/id/twenty-sixth-amendment#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/twenty-sixth-amendment/s12> .
+<https://github.com/john1hsu/usa-graph/id/twenty-sixth-amendment#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/twenty-sixth-amendment/s13> .
 <https://github.com/john1hsu/usa-graph/id/voting-rights-act-of-1965#graph> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity> .
 <https://github.com/john1hsu/usa-graph/id/voting-rights-act-of-1965#graph> <http://purl.org/dc/terms/subject> <https://github.com/john1hsu/usa-graph/id/voting-rights-act-of-1965> .
 <https://github.com/john1hsu/usa-graph/id/voting-rights-act-of-1965#graph> <http://purl.org/dc/terms/source> "https://github.com/john1hsu/usa-graph/blob/main/articles/democracy-and-elections/voting-rights-act-of-1965.md" .
@@ -10254,6 +10270,202 @@
   <https://github.com/john1hsu/usa-graph/id/source/shelby-county-v-holder/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
   <https://github.com/john1hsu/usa-graph/id/source/shelby-county-v-holder/s6> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "institutional" .
   <https://github.com/john1hsu/usa-graph/id/source/shelby-county-v-holder/s6> <https://schema.org/url> <https://heritage.org/testimony/assessment-minority-voting-rights-obstacles-the-united-states> .
+}
+
+<https://github.com/john1hsu/usa-graph/id/twenty-sixth-amendment#graph> {
+  <https://github.com/john1hsu/usa-graph/id/source/twenty-sixth-amendment/s10> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/twenty-sixth-amendment/s10> <http://purl.org/dc/terms/publisher> "National Constitution Center, Constitution Daily (2021)" .
+  <https://github.com/john1hsu/usa-graph/id/source/twenty-sixth-amendment/s10> <http://purl.org/dc/terms/title> "Just which state ratified the 26th Amendment?" .
+  <https://github.com/john1hsu/usa-graph/id/source/twenty-sixth-amendment/s10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/twenty-sixth-amendment/s10> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "institutional" .
+  <https://github.com/john1hsu/usa-graph/id/source/twenty-sixth-amendment/s10> <https://schema.org/url> <https://constitutioncenter.org/blog/just-which-state-ratified-the-26th-amendment> .
+  <https://github.com/john1hsu/usa-graph/id/source/twenty-sixth-amendment/s11> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/twenty-sixth-amendment/s11> <http://purl.org/dc/terms/publisher> "Richard Nixon Presidential Library and Museum" .
+  <https://github.com/john1hsu/usa-graph/id/source/twenty-sixth-amendment/s11> <http://purl.org/dc/terms/title> "26th Amendment" .
+  <https://github.com/john1hsu/usa-graph/id/source/twenty-sixth-amendment/s11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/twenty-sixth-amendment/s11> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "museum" .
+  <https://github.com/john1hsu/usa-graph/id/source/twenty-sixth-amendment/s11> <https://schema.org/url> <https://nixonlibrary.gov/news/26th-amendment> .
+  <https://github.com/john1hsu/usa-graph/id/source/twenty-sixth-amendment/s12> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/twenty-sixth-amendment/s12> <http://purl.org/dc/terms/publisher> "Yael Bromberg, Rutgers University Law Review 74 (2022)" .
+  <https://github.com/john1hsu/usa-graph/id/source/twenty-sixth-amendment/s12> <http://purl.org/dc/terms/title> "The Future Is Unwritten: Reclaiming the Twenty-Sixth Amendment" .
+  <https://github.com/john1hsu/usa-graph/id/source/twenty-sixth-amendment/s12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/twenty-sixth-amendment/s12> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "peer-reviewed" .
+  <https://github.com/john1hsu/usa-graph/id/source/twenty-sixth-amendment/s12> <https://schema.org/url> <https://rutgerslawreview.com/01_bromberg> .
+  <https://github.com/john1hsu/usa-graph/id/source/twenty-sixth-amendment/s13> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/twenty-sixth-amendment/s13> <http://purl.org/dc/terms/publisher> "U.S. Census Bureau (December 1971)" .
+  <https://github.com/john1hsu/usa-graph/id/source/twenty-sixth-amendment/s13> <http://purl.org/dc/terms/title> "Characteristics of New Voters: 1972 (P20-230)" .
+  <https://github.com/john1hsu/usa-graph/id/source/twenty-sixth-amendment/s13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/twenty-sixth-amendment/s13> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+  <https://github.com/john1hsu/usa-graph/id/source/twenty-sixth-amendment/s13> <https://schema.org/url> <https://www.census.gov/library/publications/1971/demo/p20-230.html> .
+  <https://github.com/john1hsu/usa-graph/id/source/twenty-sixth-amendment/s1> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/twenty-sixth-amendment/s1> <http://purl.org/dc/terms/publisher> "National Archives (DocsTeach), Record Group 11, National Archives Identifier 1415809" .
+  <https://github.com/john1hsu/usa-graph/id/source/twenty-sixth-amendment/s1> <http://purl.org/dc/terms/title> "Joint Resolution Proposing the Twenty-Sixth Amendment to the United States Constitution" .
+  <https://github.com/john1hsu/usa-graph/id/source/twenty-sixth-amendment/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/twenty-sixth-amendment/s1> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "primary" .
+  <https://github.com/john1hsu/usa-graph/id/source/twenty-sixth-amendment/s1> <https://schema.org/url> <https://docsteach.org/documents/document/twenty-sixth-amendment> .
+  <https://github.com/john1hsu/usa-graph/id/source/twenty-sixth-amendment/s2> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/twenty-sixth-amendment/s2> <http://purl.org/dc/terms/publisher> "National Archives, Office of the Federal Register" .
+  <https://github.com/john1hsu/usa-graph/id/source/twenty-sixth-amendment/s2> <http://purl.org/dc/terms/title> "Constitutional Amendment Process" .
+  <https://github.com/john1hsu/usa-graph/id/source/twenty-sixth-amendment/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/twenty-sixth-amendment/s2> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+  <https://github.com/john1hsu/usa-graph/id/source/twenty-sixth-amendment/s2> <https://schema.org/url> <https://www.archives.gov/federal-register/constitution> .
+  <https://github.com/john1hsu/usa-graph/id/source/twenty-sixth-amendment/s3> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/twenty-sixth-amendment/s3> <http://purl.org/dc/terms/publisher> "Congressional Research Service, Constitution Annotated (via Cornell Legal Information Institute)" .
+  <https://github.com/john1hsu/usa-graph/id/source/twenty-sixth-amendment/s3> <http://purl.org/dc/terms/title> "Twenty-Sixth Amendment: Historical Background" .
+  <https://github.com/john1hsu/usa-graph/id/source/twenty-sixth-amendment/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/twenty-sixth-amendment/s3> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+  <https://github.com/john1hsu/usa-graph/id/source/twenty-sixth-amendment/s3> <https://schema.org/url> <https://www.law.cornell.edu/constitution-conan/amendment-26/twenty-sixth-amendment-historical-background> .
+  <https://github.com/john1hsu/usa-graph/id/source/twenty-sixth-amendment/s4> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/twenty-sixth-amendment/s4> <http://purl.org/dc/terms/publisher> "Congressional Research Service (via EveryCRSReport)" .
+  <https://github.com/john1hsu/usa-graph/id/source/twenty-sixth-amendment/s4> <http://purl.org/dc/terms/title> "The Twenty-Sixth Amendment and Reduction of the Voting Age (Part 2): History of Voter Age Qualifications (LSB11287, 2025)" .
+  <https://github.com/john1hsu/usa-graph/id/source/twenty-sixth-amendment/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/twenty-sixth-amendment/s4> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+  <https://github.com/john1hsu/usa-graph/id/source/twenty-sixth-amendment/s4> <https://schema.org/url> <https://www.everycrsreport.com/files/2025-04-23_LSB11287_10a6fb630da05be3dfb671aea0d4c6f1c7b8caba.html> .
+  <https://github.com/john1hsu/usa-graph/id/source/twenty-sixth-amendment/s5> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/twenty-sixth-amendment/s5> <http://purl.org/dc/terms/publisher> "Congressional Research Service (via EveryCRSReport)" .
+  <https://github.com/john1hsu/usa-graph/id/source/twenty-sixth-amendment/s5> <http://purl.org/dc/terms/title> "The Twenty-Sixth Amendment and Reduction of the Voting Age (Part 3): The Vietnam War and Oregon v. Mitchell (LSB11288, 2025)" .
+  <https://github.com/john1hsu/usa-graph/id/source/twenty-sixth-amendment/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/twenty-sixth-amendment/s5> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+  <https://github.com/john1hsu/usa-graph/id/source/twenty-sixth-amendment/s5> <https://schema.org/url> <https://www.everycrsreport.com/files/2025-04-23_LSB11288_0715fc427fa64f86b9f4138f358c0d443159181c.html> .
+  <https://github.com/john1hsu/usa-graph/id/source/twenty-sixth-amendment/s6> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/twenty-sixth-amendment/s6> <http://purl.org/dc/terms/publisher> "Congressional Research Service (via EveryCRSReport)" .
+  <https://github.com/john1hsu/usa-graph/id/source/twenty-sixth-amendment/s6> <http://purl.org/dc/terms/title> "The Twenty-Sixth Amendment and Reduction of the Voting Age (Part 5): Congressional Debates (LSB11290, 2025)" .
+  <https://github.com/john1hsu/usa-graph/id/source/twenty-sixth-amendment/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/twenty-sixth-amendment/s6> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+  <https://github.com/john1hsu/usa-graph/id/source/twenty-sixth-amendment/s6> <https://schema.org/url> <https://www.everycrsreport.com/reports/LSB11290.html> .
+  <https://github.com/john1hsu/usa-graph/id/source/twenty-sixth-amendment/s7> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/twenty-sixth-amendment/s7> <http://purl.org/dc/terms/publisher> "U.S. Supreme Court opinion (via Justia)" .
+  <https://github.com/john1hsu/usa-graph/id/source/twenty-sixth-amendment/s7> <http://purl.org/dc/terms/title> "Oregon v. Mitchell, 400 U.S. 112 (1970)" .
+  <https://github.com/john1hsu/usa-graph/id/source/twenty-sixth-amendment/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/twenty-sixth-amendment/s7> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "primary" .
+  <https://github.com/john1hsu/usa-graph/id/source/twenty-sixth-amendment/s7> <https://schema.org/url> <https://supreme.justia.com/cases/federal/us/400/112/> .
+  <https://github.com/john1hsu/usa-graph/id/source/twenty-sixth-amendment/s8> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/twenty-sixth-amendment/s8> <http://purl.org/dc/terms/publisher> "Congressional Research Service, Constitution Annotated (via Cornell Legal Information Institute)" .
+  <https://github.com/john1hsu/usa-graph/id/source/twenty-sixth-amendment/s8> <http://purl.org/dc/terms/title> "The Scope of the Twenty-Sixth Amendment" .
+  <https://github.com/john1hsu/usa-graph/id/source/twenty-sixth-amendment/s8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/twenty-sixth-amendment/s8> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+  <https://github.com/john1hsu/usa-graph/id/source/twenty-sixth-amendment/s8> <https://schema.org/url> <https://www.law.cornell.edu/constitution-conan/amendment-26/the-scope-of-the-twenty-sixth-amendment> .
+  <https://github.com/john1hsu/usa-graph/id/source/twenty-sixth-amendment/s9> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/twenty-sixth-amendment/s9> <http://purl.org/dc/terms/publisher> "The National WWII Museum (Gemma R. Birnbaum, 2020)" .
+  <https://github.com/john1hsu/usa-graph/id/source/twenty-sixth-amendment/s9> <http://purl.org/dc/terms/title> "\"Old Enough to Fight, Old Enough to Vote\": The WWII Roots of the 26th Amendment" .
+  <https://github.com/john1hsu/usa-graph/id/source/twenty-sixth-amendment/s9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/twenty-sixth-amendment/s9> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "museum" .
+  <https://github.com/john1hsu/usa-graph/id/source/twenty-sixth-amendment/s9> <https://schema.org/url> <https://www.nationalww2museum.org/war/articles/voting-age-26th-amendment> .
+  <https://github.com/john1hsu/usa-graph/id/twenty-sixth-amendment/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Misconception> .
+  <https://github.com/john1hsu/usa-graph/id/twenty-sixth-amendment/misconception> <https://github.com/john1hsu/usa-graph/ontology#fact> "The President has no constitutional role in amending the Constitution, and proposed amendments are not sent to the White House for approval; the amendment took effect when the 38th state ratified it, and on July 5, 1971, the General Services Administrator certified it while Nixon signed only as a ceremonial witness alongside three 18-year-olds." .
+  <https://github.com/john1hsu/usa-graph/id/twenty-sixth-amendment/misconception> <https://github.com/john1hsu/usa-graph/ontology#myth> "President Richard Nixon signed the Twenty-sixth Amendment into law." .
+  <https://github.com/john1hsu/usa-graph/id/twenty-sixth-amendment/misconception> <https://github.com/john1hsu/usa-graph/ontology#why> "Photographs of the White House ceremony are often captioned as a signing, which obscures how Article V actually works, with Congress proposing and the states ratifying amendments." .
+  <https://github.com/john1hsu/usa-graph/id/twenty-sixth-amendment/review/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+  <https://github.com/john1hsu/usa-graph/id/twenty-sixth-amendment/review/1> <http://www.w3.org/2000/01/rdf-schema#label> "Why did Congress turn to a constitutional amendment in 1971 after it had already lowered the voting age by statute in 1970?" .
+  <https://github.com/john1hsu/usa-graph/id/twenty-sixth-amendment/review/1> <https://github.com/john1hsu/usa-graph/ontology#answer> "In Oregon v. Mitchell (December 1970) the Supreme Court held that Congress could set the voting age at 18 for federal elections but not for state and local ones, so states faced running two sets of registration books and separate election systems; that made them receptive to an amendment setting 18 as the minimum for every election." .
+  <https://github.com/john1hsu/usa-graph/id/twenty-sixth-amendment/review/1> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/twenty-sixth-amendment> .
+  <https://github.com/john1hsu/usa-graph/id/twenty-sixth-amendment/review/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+  <https://github.com/john1hsu/usa-graph/id/twenty-sixth-amendment/review/2> <http://www.w3.org/2000/01/rdf-schema#label> "How did military conscription shape the campaign for the 18-year-old vote?" .
+  <https://github.com/john1hsu/usa-graph/id/twenty-sixth-amendment/review/2> <https://github.com/john1hsu/usa-graph/ontology#answer> "When Congress lowered the draft age to 18 in 1942, the slogan \"old enough to fight, old enough to vote\" took hold and Jennings Randolph began introducing amendments; during the Vietnam War, when men as young as 18 could be drafted but few states let anyone under 21 vote, support grew enough to win passage." .
+  <https://github.com/john1hsu/usa-graph/id/twenty-sixth-amendment/review/2> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/twenty-sixth-amendment> .
+  <https://github.com/john1hsu/usa-graph/id/twenty-sixth-amendment/review/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+  <https://github.com/john1hsu/usa-graph/id/twenty-sixth-amendment/review/3> <http://www.w3.org/2000/01/rdf-schema#label> "Why do lawyers and judges still disagree about what the amendment protects?" .
+  <https://github.com/john1hsu/usa-graph/id/twenty-sixth-amendment/review/3> <https://github.com/john1hsu/usa-graph/ontology#answer> "The Supreme Court has never issued a full opinion construing it, so lower courts differ on the standard of review; some read it narrowly, as the Fifth Circuit did in upholding no-excuse mail voting only for older Texans, while scholars such as Yael Bromberg argue it should be read like the Fifteenth and Nineteenth Amendments to forbid burdens that fall on young voters." .
+  <https://github.com/john1hsu/usa-graph/id/twenty-sixth-amendment/review/3> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/twenty-sixth-amendment> .
+  <https://github.com/john1hsu/usa-graph/id/twenty-sixth-amendment/timeline/10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/twenty-sixth-amendment/timeline/10> <http://www.w3.org/2000/01/rdf-schema#label> "The House approves it and the amendment is submitted to the states." .
+  <https://github.com/john1hsu/usa-graph/id/twenty-sixth-amendment/timeline/10> <https://github.com/john1hsu/usa-graph/ontology#date> "1971-03-23"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/twenty-sixth-amendment/timeline/11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/twenty-sixth-amendment/timeline/11> <http://www.w3.org/2000/01/rdf-schema#label> "Ratification by three-fourths of the states is completed." .
+  <https://github.com/john1hsu/usa-graph/id/twenty-sixth-amendment/timeline/11> <https://github.com/john1hsu/usa-graph/ontology#date> "1971-07-01"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/twenty-sixth-amendment/timeline/12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/twenty-sixth-amendment/timeline/12> <http://www.w3.org/2000/01/rdf-schema#label> "GSA Administrator Robert Kunzig certifies the amendment at a White House ceremony attended by Nixon and three 18-year-old witnesses." .
+  <https://github.com/john1hsu/usa-graph/id/twenty-sixth-amendment/timeline/12> <https://github.com/john1hsu/usa-graph/ontology#date> "1971-07-05"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/twenty-sixth-amendment/timeline/13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/twenty-sixth-amendment/timeline/13> <http://www.w3.org/2000/01/rdf-schema#label> "In Symm v. United States the Supreme Court summarily affirms a ruling against a Texas registrar's residency questionnaire aimed at college students." .
+  <https://github.com/john1hsu/usa-graph/id/twenty-sixth-amendment/timeline/13> <https://github.com/john1hsu/usa-graph/ontology#date> "1979"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+  <https://github.com/john1hsu/usa-graph/id/twenty-sixth-amendment/timeline/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/twenty-sixth-amendment/timeline/1> <http://www.w3.org/2000/01/rdf-schema#label> "Congress lowers the minimum draft age to 18; Representative Jennings Randolph of West Virginia proposes a constitutional amendment to lower the voting age." .
+  <https://github.com/john1hsu/usa-graph/id/twenty-sixth-amendment/timeline/1> <https://github.com/john1hsu/usa-graph/ontology#date> "1942-11"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> .
+  <https://github.com/john1hsu/usa-graph/id/twenty-sixth-amendment/timeline/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/twenty-sixth-amendment/timeline/2> <http://www.w3.org/2000/01/rdf-schema#label> "Georgia becomes the first state to lower its voting age to 18." .
+  <https://github.com/john1hsu/usa-graph/id/twenty-sixth-amendment/timeline/2> <https://github.com/john1hsu/usa-graph/ontology#date> "1943"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+  <https://github.com/john1hsu/usa-graph/id/twenty-sixth-amendment/timeline/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/twenty-sixth-amendment/timeline/3> <http://www.w3.org/2000/01/rdf-schema#label> "President Dwight D. Eisenhower recommends an 18-year-old voting amendment in his State of the Union address; the Senate later falls short of the two-thirds needed." .
+  <https://github.com/john1hsu/usa-graph/id/twenty-sixth-amendment/timeline/3> <https://github.com/john1hsu/usa-graph/ontology#date> "1954-01"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> .
+  <https://github.com/john1hsu/usa-graph/id/twenty-sixth-amendment/timeline/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/twenty-sixth-amendment/timeline/4> <http://www.w3.org/2000/01/rdf-schema#label> "Kentucky lowers its voting age to 18 by referendum." .
+  <https://github.com/john1hsu/usa-graph/id/twenty-sixth-amendment/timeline/4> <https://github.com/john1hsu/usa-graph/ontology#date> "1955"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+  <https://github.com/john1hsu/usa-graph/id/twenty-sixth-amendment/timeline/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/twenty-sixth-amendment/timeline/5> <http://www.w3.org/2000/01/rdf-schema#label> "Alaska and Hawaii join the Union with voting ages of 19 and 20." .
+  <https://github.com/john1hsu/usa-graph/id/twenty-sixth-amendment/timeline/5> <https://github.com/john1hsu/usa-graph/ontology#date> "1959"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+  <https://github.com/john1hsu/usa-graph/id/twenty-sixth-amendment/timeline/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/twenty-sixth-amendment/timeline/6> <http://www.w3.org/2000/01/rdf-schema#label> "President Richard Nixon signs Voting Rights Act amendments that lower the voting age to 18 in all elections, while doubting Congress's power to do so by statute." .
+  <https://github.com/john1hsu/usa-graph/id/twenty-sixth-amendment/timeline/6> <https://github.com/john1hsu/usa-graph/ontology#date> "1970-06-22"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/twenty-sixth-amendment/timeline/7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/twenty-sixth-amendment/timeline/7> <http://www.w3.org/2000/01/rdf-schema#label> "In Oregon v. Mitchell a divided Supreme Court upholds the 18-year-old vote for federal elections but strikes it down for state and local elections." .
+  <https://github.com/john1hsu/usa-graph/id/twenty-sixth-amendment/timeline/7> <https://github.com/john1hsu/usa-graph/ontology#date> "1970-12-21"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/twenty-sixth-amendment/timeline/8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/twenty-sixth-amendment/timeline/8> <http://www.w3.org/2000/01/rdf-schema#label> "Senate Joint Resolution 7, proposing the amendment, is introduced." .
+  <https://github.com/john1hsu/usa-graph/id/twenty-sixth-amendment/timeline/8> <https://github.com/john1hsu/usa-graph/ontology#date> "1971-01-21"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/twenty-sixth-amendment/timeline/9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/twenty-sixth-amendment/timeline/9> <http://www.w3.org/2000/01/rdf-schema#label> "The Senate passes the resolution unanimously." .
+  <https://github.com/john1hsu/usa-graph/id/twenty-sixth-amendment/timeline/9> <https://github.com/john1hsu/usa-graph/ontology#date> "1971-03-10"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/twenty-sixth-amendment> <http://purl.org/dc/terms/created> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/twenty-sixth-amendment> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Law> .
+  <https://github.com/john1hsu/usa-graph/id/twenty-sixth-amendment> <http://www.w3.org/2000/01/rdf-schema#label> "Twenty-sixth Amendment" .
+  <https://github.com/john1hsu/usa-graph/id/twenty-sixth-amendment> <http://www.w3.org/2004/02/skos/core#altLabel> "26th Amendment" .
+  <https://github.com/john1hsu/usa-graph/id/twenty-sixth-amendment> <http://www.w3.org/2004/02/skos/core#altLabel> "Amendment XXVI" .
+  <https://github.com/john1hsu/usa-graph/id/twenty-sixth-amendment> <http://www.w3.org/2004/02/skos/core#altLabel> "Eighteen-year-old vote amendment" .
+  <https://github.com/john1hsu/usa-graph/id/twenty-sixth-amendment> <http://www.w3.org/2004/02/skos/core#altLabel> "Twenty-sixth Amendment to the United States Constitution" .
+  <https://github.com/john1hsu/usa-graph/id/twenty-sixth-amendment> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/usa-graph/id/voting-rights-in-the-united-states> .
+  <https://github.com/john1hsu/usa-graph/id/twenty-sixth-amendment> <http://www.w3.org/2004/02/skos/core#definition> "The 1971 amendment to the U.S. Constitution that bars the United States and the states from denying or abridging the right to vote of citizens eighteen or older on account of age, and gives Congress power to enforce that ban; it was ratified in about 100 days, faster than any other amendment." .
+  <https://github.com/john1hsu/usa-graph/id/twenty-sixth-amendment> <http://www.w3.org/2004/02/skos/core#inScheme> <https://github.com/john1hsu/usa-graph/id/scheme/democracy-and-elections> .
+  <https://github.com/john1hsu/usa-graph/id/twenty-sixth-amendment> <http://www.w3.org/2004/02/skos/core#prefLabel> "Twenty-sixth Amendment" .
+  <https://github.com/john1hsu/usa-graph/id/twenty-sixth-amendment> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/dwight-d-eisenhower> .
+  <https://github.com/john1hsu/usa-graph/id/twenty-sixth-amendment> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/fifteenth-amendment> .
+  <https://github.com/john1hsu/usa-graph/id/twenty-sixth-amendment> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/nineteenth-amendment> .
+  <https://github.com/john1hsu/usa-graph/id/twenty-sixth-amendment> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/oregon-v-mitchell> .
+  <https://github.com/john1hsu/usa-graph/id/twenty-sixth-amendment> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/richard-nixon> .
+  <https://github.com/john1hsu/usa-graph/id/twenty-sixth-amendment> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/united-states-congress> .
+  <https://github.com/john1hsu/usa-graph/id/twenty-sixth-amendment> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/vietnam-war> .
+  <https://github.com/john1hsu/usa-graph/id/twenty-sixth-amendment> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/voting-rights-act-of-1965> .
+  <https://github.com/john1hsu/usa-graph/id/twenty-sixth-amendment> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/world-war-ii-and-the-united-states> .
+  <https://github.com/john1hsu/usa-graph/id/twenty-sixth-amendment> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/youth-franchise-coalition> .
+  <https://github.com/john1hsu/usa-graph/id/twenty-sixth-amendment> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/twenty-sixth-amendment/s10> .
+  <https://github.com/john1hsu/usa-graph/id/twenty-sixth-amendment> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/twenty-sixth-amendment/s11> .
+  <https://github.com/john1hsu/usa-graph/id/twenty-sixth-amendment> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/twenty-sixth-amendment/s12> .
+  <https://github.com/john1hsu/usa-graph/id/twenty-sixth-amendment> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/twenty-sixth-amendment/s13> .
+  <https://github.com/john1hsu/usa-graph/id/twenty-sixth-amendment> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/twenty-sixth-amendment/s1> .
+  <https://github.com/john1hsu/usa-graph/id/twenty-sixth-amendment> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/twenty-sixth-amendment/s2> .
+  <https://github.com/john1hsu/usa-graph/id/twenty-sixth-amendment> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/twenty-sixth-amendment/s3> .
+  <https://github.com/john1hsu/usa-graph/id/twenty-sixth-amendment> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/twenty-sixth-amendment/s4> .
+  <https://github.com/john1hsu/usa-graph/id/twenty-sixth-amendment> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/twenty-sixth-amendment/s5> .
+  <https://github.com/john1hsu/usa-graph/id/twenty-sixth-amendment> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/twenty-sixth-amendment/s6> .
+  <https://github.com/john1hsu/usa-graph/id/twenty-sixth-amendment> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/twenty-sixth-amendment/s7> .
+  <https://github.com/john1hsu/usa-graph/id/twenty-sixth-amendment> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/twenty-sixth-amendment/s8> .
+  <https://github.com/john1hsu/usa-graph/id/twenty-sixth-amendment> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/twenty-sixth-amendment/s9> .
+  <https://github.com/john1hsu/usa-graph/id/twenty-sixth-amendment> <https://github.com/john1hsu/usa-graph/ontology#amends> <https://github.com/john1hsu/usa-graph/id/united-states-constitution> .
+  <https://github.com/john1hsu/usa-graph/id/twenty-sixth-amendment> <https://github.com/john1hsu/usa-graph/ontology#domain> "democracy-and-elections" .
+  <https://github.com/john1hsu/usa-graph/id/twenty-sixth-amendment> <https://github.com/john1hsu/usa-graph/ontology#enactedBy> <https://github.com/john1hsu/usa-graph/id/united-states-congress> .
+  <https://github.com/john1hsu/usa-graph/id/twenty-sixth-amendment> <https://github.com/john1hsu/usa-graph/ontology#evidenceStatus> "interpretive" .
+  <https://github.com/john1hsu/usa-graph/id/twenty-sixth-amendment> <https://github.com/john1hsu/usa-graph/ontology#file> "articles/democracy-and-elections/twenty-sixth-amendment.md" .
+  <https://github.com/john1hsu/usa-graph/id/twenty-sixth-amendment> <https://github.com/john1hsu/usa-graph/ontology#influencedBy> <https://github.com/john1hsu/usa-graph/id/oregon-v-mitchell> .
+  <https://github.com/john1hsu/usa-graph/id/twenty-sixth-amendment> <https://github.com/john1hsu/usa-graph/ontology#influencedBy> <https://github.com/john1hsu/usa-graph/id/vietnam-war> .
+  <https://github.com/john1hsu/usa-graph/id/twenty-sixth-amendment> <https://github.com/john1hsu/usa-graph/ontology#introducedBy> <https://github.com/john1hsu/usa-graph/id/jennings-randolph> .
+  <https://github.com/john1hsu/usa-graph/id/twenty-sixth-amendment> <https://github.com/john1hsu/usa-graph/ontology#level> "introductory" .
+  <https://github.com/john1hsu/usa-graph/id/twenty-sixth-amendment> <https://github.com/john1hsu/usa-graph/ontology#misconception> <https://github.com/john1hsu/usa-graph/id/twenty-sixth-amendment/misconception> .
+  <https://github.com/john1hsu/usa-graph/id/twenty-sixth-amendment> <https://github.com/john1hsu/usa-graph/ontology#protects> <https://github.com/john1hsu/usa-graph/id/right-to-vote> .
+  <https://github.com/john1hsu/usa-graph/id/twenty-sixth-amendment> <https://github.com/john1hsu/usa-graph/ontology#requires> <https://github.com/john1hsu/usa-graph/id/united-states-constitution> .
+  <https://github.com/john1hsu/usa-graph/id/twenty-sixth-amendment> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/twenty-sixth-amendment/timeline/10> .
+  <https://github.com/john1hsu/usa-graph/id/twenty-sixth-amendment> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/twenty-sixth-amendment/timeline/11> .
+  <https://github.com/john1hsu/usa-graph/id/twenty-sixth-amendment> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/twenty-sixth-amendment/timeline/12> .
+  <https://github.com/john1hsu/usa-graph/id/twenty-sixth-amendment> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/twenty-sixth-amendment/timeline/13> .
+  <https://github.com/john1hsu/usa-graph/id/twenty-sixth-amendment> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/twenty-sixth-amendment/timeline/1> .
+  <https://github.com/john1hsu/usa-graph/id/twenty-sixth-amendment> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/twenty-sixth-amendment/timeline/2> .
+  <https://github.com/john1hsu/usa-graph/id/twenty-sixth-amendment> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/twenty-sixth-amendment/timeline/3> .
+  <https://github.com/john1hsu/usa-graph/id/twenty-sixth-amendment> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/twenty-sixth-amendment/timeline/4> .
+  <https://github.com/john1hsu/usa-graph/id/twenty-sixth-amendment> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/twenty-sixth-amendment/timeline/5> .
+  <https://github.com/john1hsu/usa-graph/id/twenty-sixth-amendment> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/twenty-sixth-amendment/timeline/6> .
+  <https://github.com/john1hsu/usa-graph/id/twenty-sixth-amendment> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/twenty-sixth-amendment/timeline/7> .
+  <https://github.com/john1hsu/usa-graph/id/twenty-sixth-amendment> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/twenty-sixth-amendment/timeline/8> .
+  <https://github.com/john1hsu/usa-graph/id/twenty-sixth-amendment> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/twenty-sixth-amendment/timeline/9> .
+  <https://github.com/john1hsu/usa-graph/id/twenty-sixth-amendment> <https://schema.org/startDate> "1971-07-01"^^<http://www.w3.org/2001/XMLSchema#date> .
 }
 
 <https://github.com/john1hsu/usa-graph/id/voting-rights-act-of-1965#graph> {
@@ -28532,6 +28744,7 @@
   <https://github.com/john1hsu/usa-graph/id/articles-of-confederation> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/obergefell-v-hodges> .
   <https://github.com/john1hsu/usa-graph/id/articles-of-confederation> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/presidency-of-the-united-states> .
   <https://github.com/john1hsu/usa-graph/id/articles-of-confederation> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/supreme-court-of-the-united-states> .
+  <https://github.com/john1hsu/usa-graph/id/articles-of-confederation> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/twenty-sixth-amendment> .
   <https://github.com/john1hsu/usa-graph/id/articles-of-confederation> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/united-states-congress> .
   <https://github.com/john1hsu/usa-graph/id/articles-of-confederation> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/united-states-constitution> .
   <https://github.com/john1hsu/usa-graph/id/articles-of-confederation> <https://github.com/john1hsu/usa-graph/ontology#requires> <https://github.com/john1hsu/usa-graph/id/thirteen-colonies> .
@@ -29379,6 +29592,7 @@
   <https://github.com/john1hsu/usa-graph/id/constitutional-convention> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/obergefell-v-hodges> .
   <https://github.com/john1hsu/usa-graph/id/constitutional-convention> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/presidency-of-the-united-states> .
   <https://github.com/john1hsu/usa-graph/id/constitutional-convention> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/supreme-court-of-the-united-states> .
+  <https://github.com/john1hsu/usa-graph/id/constitutional-convention> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/twenty-sixth-amendment> .
   <https://github.com/john1hsu/usa-graph/id/constitutional-convention> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/united-states-congress> .
   <https://github.com/john1hsu/usa-graph/id/constitutional-convention> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/united-states-constitution> .
   <https://github.com/john1hsu/usa-graph/id/constitutional-convention> <https://github.com/john1hsu/usa-graph/ontology#requires> <https://github.com/john1hsu/usa-graph/id/declaration-of-independence> .
@@ -29515,6 +29729,7 @@
   <https://github.com/john1hsu/usa-graph/id/declaration-of-independence> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/obergefell-v-hodges> .
   <https://github.com/john1hsu/usa-graph/id/declaration-of-independence> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/presidency-of-the-united-states> .
   <https://github.com/john1hsu/usa-graph/id/declaration-of-independence> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/supreme-court-of-the-united-states> .
+  <https://github.com/john1hsu/usa-graph/id/declaration-of-independence> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/twenty-sixth-amendment> .
   <https://github.com/john1hsu/usa-graph/id/declaration-of-independence> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/united-states-congress> .
   <https://github.com/john1hsu/usa-graph/id/declaration-of-independence> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/united-states-constitution> .
   <https://github.com/john1hsu/usa-graph/id/declaration-of-independence> <https://github.com/john1hsu/usa-graph/ontology#resultedFrom> <https://github.com/john1hsu/usa-graph/id/second-continental-congress> .
@@ -29759,6 +29974,7 @@
   <https://github.com/john1hsu/usa-graph/id/dwight-d-eisenhower> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/alaska> .
   <https://github.com/john1hsu/usa-graph/id/dwight-d-eisenhower> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/desegregation-of-little-rock-central-high-school> .
   <https://github.com/john1hsu/usa-graph/id/dwight-d-eisenhower> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/nato> .
+  <https://github.com/john1hsu/usa-graph/id/dwight-d-eisenhower> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/twenty-sixth-amendment> .
   <https://github.com/john1hsu/usa-graph/id/dwight-d-eisenhower> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/world-war-ii-and-the-united-states> .
   <https://github.com/john1hsu/usa-graph/id/e-d-nixon> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/montgomery-bus-boycott> .
   <https://github.com/john1hsu/usa-graph/id/e-pluribus-unum-former-motto-myth> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/e-pluribus-unum> .
@@ -30044,6 +30260,7 @@
   <https://github.com/john1hsu/usa-graph/id/fifteenth-amendment> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/frederick-douglass> .
   <https://github.com/john1hsu/usa-graph/id/fifteenth-amendment> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/shelby-county-v-holder> .
   <https://github.com/john1hsu/usa-graph/id/fifteenth-amendment> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/susan-b-anthony> .
+  <https://github.com/john1hsu/usa-graph/id/fifteenth-amendment> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/twenty-sixth-amendment> .
   <https://github.com/john1hsu/usa-graph/id/fifteenth-amendment> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/voting-rights-act-of-1965> .
   <https://github.com/john1hsu/usa-graph/id/fifteenth-amendment> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/womens-suffrage-movement> .
   <https://github.com/john1hsu/usa-graph/id/fifteenth-amendment> <https://github.com/john1hsu/usa-graph/ontology#interpretedIn> <https://github.com/john1hsu/usa-graph/id/shelby-county-v-holder> .
@@ -31186,6 +31403,9 @@
   <https://github.com/john1hsu/usa-graph/id/jean-baptiste-le-moyne-de-bienville> <https://github.com/john1hsu/usa-graph/ontology#founded> <https://github.com/john1hsu/usa-graph/id/new-orleans> .
   <https://github.com/john1hsu/usa-graph/id/jean-baptiste-point-du-sable> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/chicago> .
   <https://github.com/john1hsu/usa-graph/id/jeannette-rankin> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/house-of-representatives> .
+  <https://github.com/john1hsu/usa-graph/id/jennings-randolph> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/jennings-randolph> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Person> .
+  <https://github.com/john1hsu/usa-graph/id/jennings-randolph> <https://github.com/john1hsu/usa-graph/ontology#introduced> <https://github.com/john1hsu/usa-graph/id/twenty-sixth-amendment> .
   <https://github.com/john1hsu/usa-graph/id/jesse-b-thomas> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/jesse-b-thomas> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Person> .
   <https://github.com/john1hsu/usa-graph/id/jesse-b-thomas> <https://github.com/john1hsu/usa-graph/ontology#introduced> <https://github.com/john1hsu/usa-graph/id/missouri-compromise> .
@@ -32294,6 +32514,7 @@
   <https://github.com/john1hsu/usa-graph/id/nineteenth-amendment> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/fifteenth-amendment> .
   <https://github.com/john1hsu/usa-graph/id/nineteenth-amendment> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/liberty-bell> .
   <https://github.com/john1hsu/usa-graph/id/nineteenth-amendment> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/susan-b-anthony> .
+  <https://github.com/john1hsu/usa-graph/id/nineteenth-amendment> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/twenty-sixth-amendment> .
   <https://github.com/john1hsu/usa-graph/id/nineteenth-amendment> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/wyoming> .
   <https://github.com/john1hsu/usa-graph/id/nineteenth-amendment> <https://github.com/john1hsu/usa-graph/ontology#resultedFrom> <https://github.com/john1hsu/usa-graph/id/womens-suffrage-movement> .
   <https://github.com/john1hsu/usa-graph/id/nisenan> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/california-gold-rush> .
@@ -32415,6 +32636,8 @@
   <https://github.com/john1hsu/usa-graph/id/operation-warp-speed> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/covid-19-pandemic-in-the-united-states> .
   <https://github.com/john1hsu/usa-graph/id/operation-warp-speed> <https://github.com/john1hsu/usa-graph/ontology#resultedFrom> <https://github.com/john1hsu/usa-graph/id/covid-19-pandemic-in-the-united-states> .
   <https://github.com/john1hsu/usa-graph/id/oregon-trail> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/wyoming> .
+  <https://github.com/john1hsu/usa-graph/id/oregon-v-mitchell> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/twenty-sixth-amendment> .
+  <https://github.com/john1hsu/usa-graph/id/oregon-v-mitchell> <https://github.com/john1hsu/usa-graph/ontology#influenced> <https://github.com/john1hsu/usa-graph/id/twenty-sixth-amendment> .
   <https://github.com/john1hsu/usa-graph/id/oregon> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/1964-alaska-earthquake> .
   <https://github.com/john1hsu/usa-graph/id/oregon> <https://github.com/john1hsu/usa-graph/ontology#affectedBy> <https://github.com/john1hsu/usa-graph/id/1964-alaska-earthquake> .
   <https://github.com/john1hsu/usa-graph/id/oreilly-v-morse> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/telegraph> .
@@ -32851,6 +33074,7 @@
   <https://github.com/john1hsu/usa-graph/id/reynolds-v-sims> <https://github.com/john1hsu/usa-graph/ontology#requires> <https://github.com/john1hsu/usa-graph/id/american-civil-war> .
   <https://github.com/john1hsu/usa-graph/id/reynolds-v-sims> <https://github.com/john1hsu/usa-graph/ontology#requires> <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> .
   <https://github.com/john1hsu/usa-graph/id/reynolds-v-sims> <https://github.com/john1hsu/usa-graph/ontology#requires> <https://github.com/john1hsu/usa-graph/id/thirteenth-amendment> .
+  <https://github.com/john1hsu/usa-graph/id/richard-nixon> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/twenty-sixth-amendment> .
   <https://github.com/john1hsu/usa-graph/id/right-to-marry> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Concept> .
   <https://github.com/john1hsu/usa-graph/id/right-to-marry> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/right-to-marry> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Right> .
@@ -32860,6 +33084,7 @@
   <https://github.com/john1hsu/usa-graph/id/right-to-vote> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Right> .
   <https://github.com/john1hsu/usa-graph/id/right-to-vote> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/shelby-county-v-holder> .
   <https://github.com/john1hsu/usa-graph/id/right-to-vote> <https://github.com/john1hsu/usa-graph/ontology#protectedBy> <https://github.com/john1hsu/usa-graph/id/fifteenth-amendment> .
+  <https://github.com/john1hsu/usa-graph/id/right-to-vote> <https://github.com/john1hsu/usa-graph/ontology#protectedBy> <https://github.com/john1hsu/usa-graph/id/twenty-sixth-amendment> .
   <https://github.com/john1hsu/usa-graph/id/right-to-vote> <https://github.com/john1hsu/usa-graph/ontology#protectedBy> <https://github.com/john1hsu/usa-graph/id/voting-rights-act-of-1965> .
   <https://github.com/john1hsu/usa-graph/id/ring-shout> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/gullah-geechee> .
   <https://github.com/john1hsu/usa-graph/id/robert-johnson> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/blues> .
@@ -33671,6 +33896,7 @@
   <https://github.com/john1hsu/usa-graph/id/thirteen-colonies> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/supreme-court-of-the-united-states> .
   <https://github.com/john1hsu/usa-graph/id/thirteen-colonies> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/thomas-jefferson> .
   <https://github.com/john1hsu/usa-graph/id/thirteen-colonies> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/treaty-of-paris-1783> .
+  <https://github.com/john1hsu/usa-graph/id/thirteen-colonies> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/twenty-sixth-amendment> .
   <https://github.com/john1hsu/usa-graph/id/thirteen-colonies> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/united-states-congress> .
   <https://github.com/john1hsu/usa-graph/id/thirteen-colonies> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/united-states-constitution> .
   <https://github.com/john1hsu/usa-graph/id/thirteen-colonies> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/war-of-1812> .
@@ -33906,6 +34132,30 @@
   <https://github.com/john1hsu/usa-graph/id/twenty-fourth-amendment> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/voting-rights-act-of-1965> .
   <https://github.com/john1hsu/usa-graph/id/twenty-second-amendment> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/presidency-of-the-united-states> .
   <https://github.com/john1hsu/usa-graph/id/twenty-second-amendment> <https://github.com/john1hsu/usa-graph/ontology#resultedFrom> <https://github.com/john1hsu/usa-graph/id/franklin-d-roosevelt> .
+  <https://github.com/john1hsu/usa-graph/id/twenty-sixth-amendment/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/twenty-sixth-amendment/review/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/twenty-sixth-amendment/review/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/twenty-sixth-amendment/review/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/twenty-sixth-amendment/timeline/10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/twenty-sixth-amendment/timeline/11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/twenty-sixth-amendment/timeline/12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/twenty-sixth-amendment/timeline/13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/twenty-sixth-amendment/timeline/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/twenty-sixth-amendment/timeline/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/twenty-sixth-amendment/timeline/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/twenty-sixth-amendment/timeline/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/twenty-sixth-amendment/timeline/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/twenty-sixth-amendment/timeline/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/twenty-sixth-amendment/timeline/7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/twenty-sixth-amendment/timeline/8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/twenty-sixth-amendment/timeline/9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/twenty-sixth-amendment> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Document> .
+  <https://github.com/john1hsu/usa-graph/id/twenty-sixth-amendment> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/twenty-sixth-amendment> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/usa-graph/id/voting-rights-in-the-united-states> .
+  <https://github.com/john1hsu/usa-graph/id/twenty-sixth-amendment> <https://github.com/john1hsu/usa-graph/ontology#requires> <https://github.com/john1hsu/usa-graph/id/articles-of-confederation> .
+  <https://github.com/john1hsu/usa-graph/id/twenty-sixth-amendment> <https://github.com/john1hsu/usa-graph/ontology#requires> <https://github.com/john1hsu/usa-graph/id/constitutional-convention> .
+  <https://github.com/john1hsu/usa-graph/id/twenty-sixth-amendment> <https://github.com/john1hsu/usa-graph/ontology#requires> <https://github.com/john1hsu/usa-graph/id/declaration-of-independence> .
+  <https://github.com/john1hsu/usa-graph/id/twenty-sixth-amendment> <https://github.com/john1hsu/usa-graph/ontology#requires> <https://github.com/john1hsu/usa-graph/id/thirteen-colonies> .
   <https://github.com/john1hsu/usa-graph/id/twenty-third-amendment> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/electoral-college> .
   <https://github.com/john1hsu/usa-graph/id/ulysses-s-grant> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/ulysses-s-grant> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Person> .
@@ -33995,6 +34245,7 @@
   <https://github.com/john1hsu/usa-graph/id/united-states-congress> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/mexican-american-war> .
   <https://github.com/john1hsu/usa-graph/id/united-states-congress> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/second-continental-congress> .
   <https://github.com/john1hsu/usa-graph/id/united-states-congress> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/tribal-sovereignty> .
+  <https://github.com/john1hsu/usa-graph/id/united-states-congress> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/twenty-sixth-amendment> .
   <https://github.com/john1hsu/usa-graph/id/united-states-congress> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/united-states-constitution> .
   <https://github.com/john1hsu/usa-graph/id/united-states-congress> <https://github.com/john1hsu/usa-graph/ontology#enacted> <https://github.com/john1hsu/usa-graph/id/affordable-care-act> .
   <https://github.com/john1hsu/usa-graph/id/united-states-congress> <https://github.com/john1hsu/usa-graph/ontology#enacted> <https://github.com/john1hsu/usa-graph/id/chinese-exclusion-act> .
@@ -34006,6 +34257,7 @@
   <https://github.com/john1hsu/usa-graph/id/united-states-congress> <https://github.com/john1hsu/usa-graph/ontology#enacted> <https://github.com/john1hsu/usa-graph/id/morrill-land-grant-college-act> .
   <https://github.com/john1hsu/usa-graph/id/united-states-congress> <https://github.com/john1hsu/usa-graph/ontology#enacted> <https://github.com/john1hsu/usa-graph/id/servicemens-readjustment-act-of-1944> .
   <https://github.com/john1hsu/usa-graph/id/united-states-congress> <https://github.com/john1hsu/usa-graph/ontology#enacted> <https://github.com/john1hsu/usa-graph/id/thirteenth-amendment> .
+  <https://github.com/john1hsu/usa-graph/id/united-states-congress> <https://github.com/john1hsu/usa-graph/ontology#enacted> <https://github.com/john1hsu/usa-graph/id/twenty-sixth-amendment> .
   <https://github.com/john1hsu/usa-graph/id/united-states-congress> <https://github.com/john1hsu/usa-graph/ontology#enacted> <https://github.com/john1hsu/usa-graph/id/voting-rights-act-of-1965> .
   <https://github.com/john1hsu/usa-graph/id/united-states-congress> <https://github.com/john1hsu/usa-graph/ontology#hasPart> <https://github.com/john1hsu/usa-graph/id/house-of-representatives> .
   <https://github.com/john1hsu/usa-graph/id/united-states-congress> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/affordable-care-act> .
@@ -34044,6 +34296,7 @@
   <https://github.com/john1hsu/usa-graph/id/united-states-constitution> <https://github.com/john1hsu/usa-graph/ontology#amendedBy> <https://github.com/john1hsu/usa-graph/id/fifteenth-amendment> .
   <https://github.com/john1hsu/usa-graph/id/united-states-constitution> <https://github.com/john1hsu/usa-graph/ontology#amendedBy> <https://github.com/john1hsu/usa-graph/id/fourteenth-amendment> .
   <https://github.com/john1hsu/usa-graph/id/united-states-constitution> <https://github.com/john1hsu/usa-graph/ontology#amendedBy> <https://github.com/john1hsu/usa-graph/id/thirteenth-amendment> .
+  <https://github.com/john1hsu/usa-graph/id/united-states-constitution> <https://github.com/john1hsu/usa-graph/ontology#amendedBy> <https://github.com/john1hsu/usa-graph/id/twenty-sixth-amendment> .
   <https://github.com/john1hsu/usa-graph/id/united-states-constitution> <https://github.com/john1hsu/usa-graph/ontology#contrastsWith> <https://github.com/john1hsu/usa-graph/id/articles-of-confederation> .
   <https://github.com/john1hsu/usa-graph/id/united-states-constitution> <https://github.com/john1hsu/usa-graph/ontology#establishes> <https://github.com/john1hsu/usa-graph/id/census-and-apportionment> .
   <https://github.com/john1hsu/usa-graph/id/united-states-constitution> <https://github.com/john1hsu/usa-graph/ontology#establishes> <https://github.com/john1hsu/usa-graph/id/electoral-college> .
@@ -34078,6 +34331,7 @@
   <https://github.com/john1hsu/usa-graph/id/united-states-constitution> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/obergefell-v-hodges> .
   <https://github.com/john1hsu/usa-graph/id/united-states-constitution> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/presidency-of-the-united-states> .
   <https://github.com/john1hsu/usa-graph/id/united-states-constitution> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/supreme-court-of-the-united-states> .
+  <https://github.com/john1hsu/usa-graph/id/united-states-constitution> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/twenty-sixth-amendment> .
   <https://github.com/john1hsu/usa-graph/id/united-states-constitution> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/united-states-congress> .
   <https://github.com/john1hsu/usa-graph/id/united-states-constitution> <https://github.com/john1hsu/usa-graph/ontology#requires> <https://github.com/john1hsu/usa-graph/id/articles-of-confederation> .
   <https://github.com/john1hsu/usa-graph/id/united-states-constitution> <https://github.com/john1hsu/usa-graph/ontology#requires> <https://github.com/john1hsu/usa-graph/id/declaration-of-independence> .
@@ -34217,6 +34471,8 @@
   <https://github.com/john1hsu/usa-graph/id/vicksburg-mississippi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Place> .
   <https://github.com/john1hsu/usa-graph/id/vicksburg-mississippi> <https://github.com/john1hsu/usa-graph/ontology#siteOf> <https://github.com/john1hsu/usa-graph/id/siege-of-vicksburg> .
   <https://github.com/john1hsu/usa-graph/id/vietnam-war> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/cold-war> .
+  <https://github.com/john1hsu/usa-graph/id/vietnam-war> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/twenty-sixth-amendment> .
+  <https://github.com/john1hsu/usa-graph/id/vietnam-war> <https://github.com/john1hsu/usa-graph/ontology#influenced> <https://github.com/john1hsu/usa-graph/id/twenty-sixth-amendment> .
   <https://github.com/john1hsu/usa-graph/id/virginia-and-kentucky-resolutions> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/james-madison> .
   <https://github.com/john1hsu/usa-graph/id/virginia-company-of-london> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/jamestown> .
   <https://github.com/john1hsu/usa-graph/id/virginia-company-of-london> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/lawes-divine-morall-and-martiall> .
@@ -34257,6 +34513,7 @@
   <https://github.com/john1hsu/usa-graph/id/voting-rights-act-of-1965> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/usa-graph/id/voting-rights-in-the-united-states> .
   <https://github.com/john1hsu/usa-graph/id/voting-rights-act-of-1965> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/federalism> .
   <https://github.com/john1hsu/usa-graph/id/voting-rights-act-of-1965> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/martin-luther-king-jr> .
+  <https://github.com/john1hsu/usa-graph/id/voting-rights-act-of-1965> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/twenty-sixth-amendment> .
   <https://github.com/john1hsu/usa-graph/id/voting-rights-act-of-1965> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/womens-suffrage-movement> .
   <https://github.com/john1hsu/usa-graph/id/voting-rights-act-of-1965> <https://github.com/john1hsu/usa-graph/ontology#interpretedIn> <https://github.com/john1hsu/usa-graph/id/shelby-county-v-holder> .
   <https://github.com/john1hsu/usa-graph/id/voting-rights-act-of-1965> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/shelby-county-v-holder> .
@@ -34269,11 +34526,13 @@
   <https://github.com/john1hsu/usa-graph/id/voting-rights-act-of-1965> <https://github.com/john1hsu/usa-graph/ontology#resultedFrom> <https://github.com/john1hsu/usa-graph/id/fifteenth-amendment> .
   <https://github.com/john1hsu/usa-graph/id/voting-rights-in-the-united-states> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/usa-graph/id/fifteenth-amendment> .
   <https://github.com/john1hsu/usa-graph/id/voting-rights-in-the-united-states> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/usa-graph/id/shelby-county-v-holder> .
+  <https://github.com/john1hsu/usa-graph/id/voting-rights-in-the-united-states> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/usa-graph/id/twenty-sixth-amendment> .
   <https://github.com/john1hsu/usa-graph/id/voting-rights-in-the-united-states> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/usa-graph/id/voting-rights-act-of-1965> .
   <https://github.com/john1hsu/usa-graph/id/voting-rights-in-the-united-states> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/usa-graph/id/womens-suffrage-movement> .
   <https://github.com/john1hsu/usa-graph/id/voting-rights-in-the-united-states> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/fifteenth-amendment> .
   <https://github.com/john1hsu/usa-graph/id/voting-rights-in-the-united-states> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/shelby-county-v-holder> .
   <https://github.com/john1hsu/usa-graph/id/voting-rights-in-the-united-states> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/susan-b-anthony> .
+  <https://github.com/john1hsu/usa-graph/id/voting-rights-in-the-united-states> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/twenty-sixth-amendment> .
   <https://github.com/john1hsu/usa-graph/id/voting-rights-in-the-united-states> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/voting-rights-act-of-1965> .
   <https://github.com/john1hsu/usa-graph/id/voting-rights-in-the-united-states> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/womens-suffrage-movement> .
   <https://github.com/john1hsu/usa-graph/id/w-c-handy> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/blues> .
@@ -34530,6 +34789,7 @@
   <https://github.com/john1hsu/usa-graph/id/world-war-ii-and-the-united-states> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/detroit-race-riot-of-1943> .
   <https://github.com/john1hsu/usa-graph/id/world-war-ii-and-the-united-states> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/detroit> .
   <https://github.com/john1hsu/usa-graph/id/world-war-ii-and-the-united-states> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/good-neighbor-policy> .
+  <https://github.com/john1hsu/usa-graph/id/world-war-ii-and-the-united-states> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/twenty-sixth-amendment> .
   <https://github.com/john1hsu/usa-graph/id/world-war-ii-and-the-united-states> <https://github.com/john1hsu/usa-graph/ontology#hasPart> <https://github.com/john1hsu/usa-graph/id/attack-on-pearl-harbor> .
   <https://github.com/john1hsu/usa-graph/id/world-war-ii-and-the-united-states> <https://github.com/john1hsu/usa-graph/ontology#participant> <https://github.com/john1hsu/usa-graph/id/chinese-americans> .
   <https://github.com/john1hsu/usa-graph/id/world-war-ii-and-the-united-states> <https://github.com/john1hsu/usa-graph/ontology#participant> <https://github.com/john1hsu/usa-graph/id/franklin-d-roosevelt> .
@@ -34668,6 +34928,7 @@
   <https://github.com/john1hsu/usa-graph/id/yellowstone-national-park> <https://github.com/john1hsu/usa-graph/ontology#locatedIn> <https://github.com/john1hsu/usa-graph/id/the-west> .
   <https://github.com/john1hsu/usa-graph/id/yellowstone-national-park> <https://github.com/john1hsu/usa-graph/ontology#locatedIn> <https://github.com/john1hsu/usa-graph/id/united-states> .
   <https://github.com/john1hsu/usa-graph/id/yellowstone-national-park> <https://github.com/john1hsu/usa-graph/ontology#siteOf> <https://github.com/john1hsu/usa-graph/id/hayden-geological-survey-of-1871> .
+  <https://github.com/john1hsu/usa-graph/id/youth-franchise-coalition> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/twenty-sixth-amendment> .
   <https://github.com/john1hsu/usa-graph/id/zachary-taylor> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/zachary-taylor> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Person> .
   <https://github.com/john1hsu/usa-graph/id/zachary-taylor> <https://github.com/john1hsu/usa-graph/ontology#led> <https://github.com/john1hsu/usa-graph/id/mexican-american-war> .

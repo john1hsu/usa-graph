@@ -1501,7 +1501,9 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1942-08-04 | The bracero program begins bringing Mexican farm workers to the United States. — [World War II and the United States](../articles/depression-and-world-war/world-war-ii-and-the-united-states.md) |
 | 1942-08-12 | The first Japanese Americans arrive at the Heart Mountain incarceration camp between Cody and Powell. — [Wyoming](../articles/states-and-territories/wyoming.md) |
 | 1942-11 | American combat troops land in French Morocco, opening the campaign in North Africa. — [World War II and the United States](../articles/depression-and-world-war/world-war-ii-and-the-united-states.md) |
+| 1942-11 | Congress lowers the minimum draft age to 18; Representative Jennings Randolph of West Virginia proposes a constitutional amendment to lower the voting age. — [Twenty-sixth Amendment](../articles/democracy-and-elections/twenty-sixth-amendment.md) |
 | 1943 | During World War II Congress repeals the exclusion laws, sets a Chinese quota of about 105 a year and opens naturalization. — [Chinese Exclusion Act](../articles/gilded-age-and-progressive-era/chinese-exclusion-act.md) |
+| 1943 | Georgia becomes the first state to lower its voting age to 18. — [Twenty-sixth Amendment](../articles/democracy-and-elections/twenty-sixth-amendment.md) |
 | 1943 | In West Virginia State Board of Education v. Barnette the Supreme Court rules that public schools cannot compel the flag salute and pledge. — [National symbols of the United States](../articles/symbols-and-national-identity/national-symbols-of-the-united-states.md) |
 | 1943 | The Magnuson Act repeals the exclusion laws, sets a Chinese quota of 105 a year and opens naturalization. — [Chinese Americans](../articles/society-and-people/chinese-americans.md) |
 | 1943-02-01 | The Army activates the 442nd Regimental Combat Team, combining the 100th Battalion with mainland Nisei volunteers. — [Japanese American incarceration during World War II](../articles/depression-and-world-war/japanese-american-incarceration.md) |
@@ -1607,6 +1609,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1954 | Congress adds the words 'under God' to the Pledge of Allegiance. — [National symbols of the United States](../articles/symbols-and-national-identity/national-symbols-of-the-united-states.md) |
 | 1954 | Muddy Waters records Willie Dixon's "I'm Your Hoochie Coochie Man." — [Blues](../articles/culture-and-arts/blues.md) |
 | 1954 | The NAACP's legal campaign against segregated schools culminates in Brown v. Board of Education. — [Civil rights movement](../articles/cold-war-and-civil-rights/civil-rights-movement.md) |
+| 1954-01 | President Dwight D. Eisenhower recommends an 18-year-old voting amendment in his State of the Union address; the Senate later falls short of the two-thirds needed. — [Twenty-sixth Amendment](../articles/democracy-and-elections/twenty-sixth-amendment.md) |
 | 1954-03 | The Women's Political Council meets Mayor W. A. Gayle to ask for changes in how Black riders are treated on city buses. — [Montgomery bus boycott](../articles/cold-war-and-civil-rights/montgomery-bus-boycott.md) |
 | 1954-03-16 | The Senate Permanent Subcommittee on Investigations opens its inquiry into McCarthy's clash with the U.S. Army; the hearings are televised nationally. — [McCarthyism](../articles/cold-war-and-civil-rights/mccarthyism.md) |
 | 1954-05-17 | **[Brown v. Board of Education](../articles/cold-war-and-civil-rights/brown-v-board-of-education.md)** (CourtCase) |
@@ -1618,6 +1621,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1954-08 | The Communist Control Act effectively criminalizes membership in the Communist Party. — [McCarthyism](../articles/cold-war-and-civil-rights/mccarthyism.md) |
 | 1954-11-23 | The Dow finally regains its 1929 high. — [Stock market crash of 1929](../articles/economy-and-work/stock-market-crash-of-1929.md) |
 | 1954-12-02 | The Senate votes 67 to 22 to censure McCarthy. — [McCarthyism](../articles/cold-war-and-civil-rights/mccarthyism.md) |
+| 1955 | Kentucky lowers its voting age to 18 by referendum. — [Twenty-sixth Amendment](../articles/democracy-and-elections/twenty-sixth-amendment.md) |
 | 1955 | Receives a doctorate in systematic theology from Boston University. — [Martin Luther King Jr.](../articles/people-who-shaped-america/martin-luther-king-jr.md) |
 | 1955 | The AFL and CIO merge as the AFL-CIO under George Meany. — [Labor movement](../articles/economy-and-work/labor-movement.md) |
 | 1955 | The Veterans Administration has guaranteed 4.3 million home loans with a face value of $33 billion. — [Servicemen's Readjustment Act of 1944](../articles/cold-war-and-civil-rights/servicemens-readjustment-act-of-1944.md) |
@@ -1666,6 +1670,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1958-05 | Ernest Green becomes the first Black student to graduate from Central High. — [Desegregation of Little Rock Central High School](../articles/cold-war-and-civil-rights/desegregation-of-little-rock-central-high-school.md) |
 | 1958-07-07 | President Eisenhower signs the Alaska Statehood Act after House passage on May 28 and Senate passage on June 30. — [Alaska](../articles/states-and-territories/alaska.md) |
 | 1958-09-29 | In Cooper v. Aaron all nine justices declare the federal judiciary supreme in expounding the Constitution and reject Arkansas's resistance to desegregation. — [Judicial review](../articles/constitution-and-government/judicial-review.md) |
+| 1959 | Alaska and Hawaii join the Union with voting ages of 19 and 20. — [Twenty-sixth Amendment](../articles/democracy-and-elections/twenty-sixth-amendment.md) |
 | 1959 | The introduced oyster parasite MSX appears in the bay. — [Chesapeake Bay](../articles/geography-and-environment/chesapeake-bay.md) |
 | 1959-01-03 | **[Alaska](../articles/states-and-territories/alaska.md)** (State) |
 | 1959-01-03 | Alaska becomes a state. — [United States](../articles/states-and-territories/united-states.md) |
@@ -1789,11 +1794,19 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1970 | The Nixon administration repudiates termination and turns federal policy toward tribal self-determination. — [Tribal sovereignty](../articles/native-nations/tribal-sovereignty.md) |
 | 1970 | The Soviet Luna 17 mission lands the Lunokhod 1 rover carrying a reflector array. — [Lunar Laser Ranging Experiment](../articles/science-and-innovation/lunar-laser-ranging-experiment.md) |
 | 1970-05 | State park ranger Alexander Weiss finds hundreds of poems in the barracks, then slated for demolition. — [Chinese detention-barracks poetry](../articles/culture-and-arts/chinese-detention-barracks-poetry.md) |
+| 1970-06-22 | President Richard Nixon signs Voting Rights Act amendments that lower the voting age to 18 in all elections, while doubting Congress's power to do so by statute. — [Twenty-sixth Amendment](../articles/democracy-and-elections/twenty-sixth-amendment.md) |
 | 1970-07-08 | President Richard Nixon asks Congress to repudiate termination and adopt a policy of self-determination. — [Native Americans](../articles/native-nations/native-americans.md) |
+| 1970-12-21 | In Oregon v. Mitchell a divided Supreme Court upholds the 18-year-old vote for federal elections but strikes it down for state and local elections. — [Twenty-sixth Amendment](../articles/democracy-and-elections/twenty-sixth-amendment.md) |
 | 1971 | After a national tour, the command module Columbia goes to the Smithsonian. — [Apollo 11](../articles/science-and-innovation/apollo-11.md) |
 | 1971 | Apollo 14 and Apollo 15 crews deploy two more U.S. arrays, the second with 300 prisms. — [Lunar Laser Ranging Experiment](../articles/science-and-innovation/lunar-laser-ranging-experiment.md) |
 | 1971 | Gil Scott-Heron records "The Revolution Will Not Be Televised," a spoken-word model for socially conscious rap. — [Hip hop](../articles/culture-and-arts/hip-hop.md) |
 | 1971 | Reed v. Reed applies heightened review to a sex-based classification for the first time. — [Equal protection](../articles/rights-and-law/equal-protection.md) |
+| 1971-01-21 | Senate Joint Resolution 7, proposing the amendment, is introduced. — [Twenty-sixth Amendment](../articles/democracy-and-elections/twenty-sixth-amendment.md) |
+| 1971-03-10 | The Senate passes the resolution unanimously. — [Twenty-sixth Amendment](../articles/democracy-and-elections/twenty-sixth-amendment.md) |
+| 1971-03-23 | The House approves it and the amendment is submitted to the states. — [Twenty-sixth Amendment](../articles/democracy-and-elections/twenty-sixth-amendment.md) |
+| 1971-07-01 | **[Twenty-sixth Amendment](../articles/democracy-and-elections/twenty-sixth-amendment.md)** (Law) |
+| 1971-07-01 | Ratification by three-fourths of the states is completed. — [Twenty-sixth Amendment](../articles/democracy-and-elections/twenty-sixth-amendment.md) |
+| 1971-07-05 | GSA Administrator Robert Kunzig certifies the amendment at a White House ceremony attended by Nixon and three 18-year-old witnesses. — [Twenty-sixth Amendment](../articles/democracy-and-elections/twenty-sixth-amendment.md) |
 | 1971-12-18 | President Nixon signs the Alaska Native Claims Settlement Act. — [Alaska](../articles/states-and-territories/alaska.md) |
 | 1972 | The first Strategic Arms Limitation Talks produce the Anti-Ballistic Missile Treaty and an interim cap on ICBMs, a high point of détente. — [Cold War](../articles/cold-war-and-civil-rights/cold-war.md) |
 | 1972-09-10 | A memorial boulder and state marker are dedicated at Lattimer; Cesar Chavez speaks. — [Lattimer massacre](../articles/economy-and-work/lattimer-massacre.md) |
@@ -1822,6 +1835,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1978-04-18 | The Senate approves the Panama Canal Treaty by the same 68-to-32 margin. — [Panama Canal](../articles/foreign-relations-and-military/panama-canal.md) |
 | 1978-11-07 | Voters approve a constitutional amendment making English and Hawaiian the state's official languages. — [Hawaii](../articles/states-and-territories/hawaii.md) |
 | 1979 | Attorneys ask the federal court to reopen the Topeka case to test whether segregation's effects remained (Brown III). — [Brown v. Board of Education](../articles/cold-war-and-civil-rights/brown-v-board-of-education.md) |
+| 1979 | In Symm v. United States the Supreme Court summarily affirms a ruling against a Texas registrar's residency questionnaire aimed at college students. — [Twenty-sixth Amendment](../articles/democracy-and-elections/twenty-sixth-amendment.md) |
 | 1979 | The Fatback Band releases "King Tim III (Personality Jock)"; about two months later the Sugarhill Gang's "Rapper's Delight" becomes the first hip hop song on the Billboard Hot 100; Kurtis Blow signs with Mercury, the first rapper on a major label. — [Hip hop](../articles/culture-and-arts/hip-hop.md) |
 | 1979 | The Soviet invasion of Afghanistan ends détente and stalls the SALT II treaty. — [Cold War](../articles/cold-war-and-civil-rights/cold-war.md) |
 | 1979-10-01 | The Panama Canal Zone ceases to exist. — [Panama Canal](../articles/foreign-relations-and-military/panama-canal.md) |

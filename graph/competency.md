@@ -122,7 +122,7 @@ _Which nodes are myths, contested or open to competing interpretations, and what
 | `us:great-recession` | interpretive |  |
 | `us:haudenosaunee` | interpretive |  |
 
-…and 42 more.
+…and 43 more.
 
 ## Places with nothing tied to them (gap)
 
@@ -179,6 +179,7 @@ _Which amendments, laws and court cases protect each right?_ — `queries/11-rig
 | `us:freedom-from-slavery-and-involuntary-servitude` | `us:thirteenth-amendment` |
 | `us:right-to-marry` | `us:obergefell-v-hodges` |
 | `us:right-to-vote` | `us:fifteenth-amendment` |
+| `us:right-to-vote` | `us:twenty-sixth-amendment` |
 | `us:right-to-vote` | `us:voting-rights-act-of-1965` |
 
 ## What documents and laws established

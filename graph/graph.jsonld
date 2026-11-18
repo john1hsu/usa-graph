@@ -36514,6 +36514,188 @@
    "uso:sourceType": "museum"
   },
   {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/twenty-sixth-amendment/s1",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "National Archives (DocsTeach), Record Group 11, National Archives Identifier 1415809",
+   "dcterms:title": "Joint Resolution Proposing the Twenty-Sixth Amendment to the United States Constitution",
+   "schema:url": {
+    "@id": "https://docsteach.org/documents/document/twenty-sixth-amendment"
+   },
+   "uso:sourceType": "primary"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/twenty-sixth-amendment/s10",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "National Constitution Center, Constitution Daily (2021)",
+   "dcterms:title": "Just which state ratified the 26th Amendment?",
+   "schema:url": {
+    "@id": "https://constitutioncenter.org/blog/just-which-state-ratified-the-26th-amendment"
+   },
+   "uso:sourceType": "institutional"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/twenty-sixth-amendment/s11",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Richard Nixon Presidential Library and Museum",
+   "dcterms:title": "26th Amendment",
+   "schema:url": {
+    "@id": "https://nixonlibrary.gov/news/26th-amendment"
+   },
+   "uso:sourceType": "museum"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/twenty-sixth-amendment/s12",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Yael Bromberg, Rutgers University Law Review 74 (2022)",
+   "dcterms:title": "The Future Is Unwritten: Reclaiming the Twenty-Sixth Amendment",
+   "schema:url": {
+    "@id": "https://rutgerslawreview.com/01_bromberg"
+   },
+   "uso:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/twenty-sixth-amendment/s13",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "U.S. Census Bureau (December 1971)",
+   "dcterms:title": "Characteristics of New Voters: 1972 (P20-230)",
+   "schema:url": {
+    "@id": "https://www.census.gov/library/publications/1971/demo/p20-230.html"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/twenty-sixth-amendment/s2",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "National Archives, Office of the Federal Register",
+   "dcterms:title": "Constitutional Amendment Process",
+   "schema:url": {
+    "@id": "https://www.archives.gov/federal-register/constitution"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/twenty-sixth-amendment/s3",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Congressional Research Service, Constitution Annotated (via Cornell Legal Information Institute)",
+   "dcterms:title": "Twenty-Sixth Amendment: Historical Background",
+   "schema:url": {
+    "@id": "https://www.law.cornell.edu/constitution-conan/amendment-26/twenty-sixth-amendment-historical-background"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/twenty-sixth-amendment/s4",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Congressional Research Service (via EveryCRSReport)",
+   "dcterms:title": "The Twenty-Sixth Amendment and Reduction of the Voting Age (Part 2): History of Voter Age Qualifications (LSB11287, 2025)",
+   "schema:url": {
+    "@id": "https://www.everycrsreport.com/files/2025-04-23_LSB11287_10a6fb630da05be3dfb671aea0d4c6f1c7b8caba.html"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/twenty-sixth-amendment/s5",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Congressional Research Service (via EveryCRSReport)",
+   "dcterms:title": "The Twenty-Sixth Amendment and Reduction of the Voting Age (Part 3): The Vietnam War and Oregon v. Mitchell (LSB11288, 2025)",
+   "schema:url": {
+    "@id": "https://www.everycrsreport.com/files/2025-04-23_LSB11288_0715fc427fa64f86b9f4138f358c0d443159181c.html"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/twenty-sixth-amendment/s6",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Congressional Research Service (via EveryCRSReport)",
+   "dcterms:title": "The Twenty-Sixth Amendment and Reduction of the Voting Age (Part 5): Congressional Debates (LSB11290, 2025)",
+   "schema:url": {
+    "@id": "https://www.everycrsreport.com/reports/LSB11290.html"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/twenty-sixth-amendment/s7",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "U.S. Supreme Court opinion (via Justia)",
+   "dcterms:title": "Oregon v. Mitchell, 400 U.S. 112 (1970)",
+   "schema:url": {
+    "@id": "https://supreme.justia.com/cases/federal/us/400/112/"
+   },
+   "uso:sourceType": "primary"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/twenty-sixth-amendment/s8",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Congressional Research Service, Constitution Annotated (via Cornell Legal Information Institute)",
+   "dcterms:title": "The Scope of the Twenty-Sixth Amendment",
+   "schema:url": {
+    "@id": "https://www.law.cornell.edu/constitution-conan/amendment-26/the-scope-of-the-twenty-sixth-amendment"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/twenty-sixth-amendment/s9",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "The National WWII Museum (Gemma R. Birnbaum, 2020)",
+   "dcterms:title": "\"Old Enough to Fight, Old Enough to Vote\": The WWII Roots of the 26th Amendment",
+   "schema:url": {
+    "@id": "https://www.nationalww2museum.org/war/articles/voting-age-26th-amendment"
+   },
+   "uso:sourceType": "museum"
+  },
+  {
    "@id": "https://github.com/john1hsu/usa-graph/id/source/underground-railroad/s1",
    "@type": "uso:Source",
    "dcterms:date": {
@@ -41031,6 +41213,157 @@
    "uso:date": {
     "@type": "xsd:gYear",
     "@value": "1978"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/twenty-sixth-amendment/misconception",
+   "@type": "uso:Misconception",
+   "uso:fact": "The President has no constitutional role in amending the Constitution, and proposed amendments are not sent to the White House for approval; the amendment took effect when the 38th state ratified it, and on July 5, 1971, the General Services Administrator certified it while Nixon signed only as a ceremonial witness alongside three 18-year-olds.",
+   "uso:myth": "President Richard Nixon signed the Twenty-sixth Amendment into law.",
+   "uso:why": "Photographs of the White House ceremony are often captioned as a signing, which obscures how Article V actually works, with Congress proposing and the states ratifying amendments."
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/twenty-sixth-amendment/review/1",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "Why did Congress turn to a constitutional amendment in 1971 after it had already lowered the voting age by statute in 1970?",
+   "uso:answer": "In Oregon v. Mitchell (December 1970) the Supreme Court held that Congress could set the voting age at 18 for federal elections but not for state and local ones, so states faced running two sets of registration books and separate election systems; that made them receptive to an amendment setting 18 as the minimum for every election.",
+   "uso:questionFor": {
+    "@id": "us:twenty-sixth-amendment"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/twenty-sixth-amendment/review/2",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "How did military conscription shape the campaign for the 18-year-old vote?",
+   "uso:answer": "When Congress lowered the draft age to 18 in 1942, the slogan \"old enough to fight, old enough to vote\" took hold and Jennings Randolph began introducing amendments; during the Vietnam War, when men as young as 18 could be drafted but few states let anyone under 21 vote, support grew enough to win passage.",
+   "uso:questionFor": {
+    "@id": "us:twenty-sixth-amendment"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/twenty-sixth-amendment/review/3",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "Why do lawyers and judges still disagree about what the amendment protects?",
+   "uso:answer": "The Supreme Court has never issued a full opinion construing it, so lower courts differ on the standard of review; some read it narrowly, as the Fifth Circuit did in upholding no-excuse mail voting only for older Texans, while scholars such as Yael Bromberg argue it should be read like the Fifteenth and Nineteenth Amendments to forbid burdens that fall on young voters.",
+   "uso:questionFor": {
+    "@id": "us:twenty-sixth-amendment"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/twenty-sixth-amendment/timeline/1",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Congress lowers the minimum draft age to 18; Representative Jennings Randolph of West Virginia proposes a constitutional amendment to lower the voting age.",
+   "uso:date": {
+    "@type": "xsd:gYearMonth",
+    "@value": "1942-11"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/twenty-sixth-amendment/timeline/10",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The House approves it and the amendment is submitted to the states.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1971-03-23"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/twenty-sixth-amendment/timeline/11",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Ratification by three-fourths of the states is completed.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1971-07-01"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/twenty-sixth-amendment/timeline/12",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "GSA Administrator Robert Kunzig certifies the amendment at a White House ceremony attended by Nixon and three 18-year-old witnesses.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1971-07-05"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/twenty-sixth-amendment/timeline/13",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "In Symm v. United States the Supreme Court summarily affirms a ruling against a Texas registrar's residency questionnaire aimed at college students.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1979"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/twenty-sixth-amendment/timeline/2",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Georgia becomes the first state to lower its voting age to 18.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1943"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/twenty-sixth-amendment/timeline/3",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "President Dwight D. Eisenhower recommends an 18-year-old voting amendment in his State of the Union address; the Senate later falls short of the two-thirds needed.",
+   "uso:date": {
+    "@type": "xsd:gYearMonth",
+    "@value": "1954-01"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/twenty-sixth-amendment/timeline/4",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Kentucky lowers its voting age to 18 by referendum.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1955"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/twenty-sixth-amendment/timeline/5",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Alaska and Hawaii join the Union with voting ages of 19 and 20.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1959"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/twenty-sixth-amendment/timeline/6",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "President Richard Nixon signs Voting Rights Act amendments that lower the voting age to 18 in all elections, while doubting Congress's power to do so by statute.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1970-06-22"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/twenty-sixth-amendment/timeline/7",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "In Oregon v. Mitchell a divided Supreme Court upholds the 18-year-old vote for federal elections but strikes it down for state and local elections.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1970-12-21"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/twenty-sixth-amendment/timeline/8",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Senate Joint Resolution 7, proposing the amendment, is introduced.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1971-01-21"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/twenty-sixth-amendment/timeline/9",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The Senate passes the resolution unanimously.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1971-03-10"
    }
   },
   {
@@ -65611,6 +65944,177 @@
     },
     {
      "@id": "https://github.com/john1hsu/usa-graph/id/tribal-sovereignty/timeline/9"
+    }
+   ]
+  },
+  {
+   "@id": "us:twenty-sixth-amendment",
+   "@type": "uso:Law",
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/twenty-sixth-amendment/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/twenty-sixth-amendment/s10"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/twenty-sixth-amendment/s11"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/twenty-sixth-amendment/s12"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/twenty-sixth-amendment/s13"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/twenty-sixth-amendment/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/twenty-sixth-amendment/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/twenty-sixth-amendment/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/twenty-sixth-amendment/s5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/twenty-sixth-amendment/s6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/twenty-sixth-amendment/s7"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/twenty-sixth-amendment/s8"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/twenty-sixth-amendment/s9"
+    }
+   ],
+   "rdfs:label": "Twenty-sixth Amendment",
+   "schema:startDate": {
+    "@type": "xsd:date",
+    "@value": "1971-07-01"
+   },
+   "skos:altLabel": [
+    "26th Amendment",
+    "Amendment XXVI",
+    "Eighteen-year-old vote amendment",
+    "Twenty-sixth Amendment to the United States Constitution"
+   ],
+   "skos:broader": {
+    "@id": "us:voting-rights-in-the-united-states"
+   },
+   "skos:definition": "The 1971 amendment to the U.S. Constitution that bars the United States and the states from denying or abridging the right to vote of citizens eighteen or older on account of age, and gives Congress power to enforce that ban; it was ratified in about 100 days, faster than any other amendment.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/usa-graph/id/scheme/democracy-and-elections"
+   },
+   "skos:prefLabel": "Twenty-sixth Amendment",
+   "skos:related": [
+    {
+     "@id": "us:dwight-d-eisenhower"
+    },
+    {
+     "@id": "us:fifteenth-amendment"
+    },
+    {
+     "@id": "us:nineteenth-amendment"
+    },
+    {
+     "@id": "us:oregon-v-mitchell"
+    },
+    {
+     "@id": "us:richard-nixon"
+    },
+    {
+     "@id": "us:united-states-congress"
+    },
+    {
+     "@id": "us:vietnam-war"
+    },
+    {
+     "@id": "us:voting-rights-act-of-1965"
+    },
+    {
+     "@id": "us:world-war-ii-and-the-united-states"
+    },
+    {
+     "@id": "us:youth-franchise-coalition"
+    }
+   ],
+   "uso:amends": {
+    "@id": "us:united-states-constitution"
+   },
+   "uso:domain": "democracy-and-elections",
+   "uso:enactedBy": {
+    "@id": "us:united-states-congress"
+   },
+   "uso:evidenceStatus": "interpretive",
+   "uso:file": "articles/democracy-and-elections/twenty-sixth-amendment.md",
+   "uso:influencedBy": [
+    {
+     "@id": "us:oregon-v-mitchell"
+    },
+    {
+     "@id": "us:vietnam-war"
+    }
+   ],
+   "uso:introducedBy": {
+    "@id": "us:jennings-randolph"
+   },
+   "uso:level": "introductory",
+   "uso:misconception": {
+    "@id": "https://github.com/john1hsu/usa-graph/id/twenty-sixth-amendment/misconception"
+   },
+   "uso:protects": {
+    "@id": "us:right-to-vote"
+   },
+   "uso:requires": {
+    "@id": "us:united-states-constitution"
+   },
+   "uso:timelineEntry": [
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/twenty-sixth-amendment/timeline/1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/twenty-sixth-amendment/timeline/10"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/twenty-sixth-amendment/timeline/11"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/twenty-sixth-amendment/timeline/12"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/twenty-sixth-amendment/timeline/13"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/twenty-sixth-amendment/timeline/2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/twenty-sixth-amendment/timeline/3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/twenty-sixth-amendment/timeline/4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/twenty-sixth-amendment/timeline/5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/twenty-sixth-amendment/timeline/6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/twenty-sixth-amendment/timeline/7"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/twenty-sixth-amendment/timeline/8"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/twenty-sixth-amendment/timeline/9"
     }
    ]
   },

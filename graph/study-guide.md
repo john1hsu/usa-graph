@@ -833,6 +833,21 @@ Every review question (with its answer) and every myth-versus-fact in the graph,
 - **Q:** Why did the U.S. Commission on Civil Rights and its critics disagree about the decision's effects?
   **A:** The Commission found that new voting restrictions followed in formerly covered places and that case-by-case Section 2 lawsuits were slow and costly, while witnesses such as Hans von Spakovsky argued that Black registration and turnout data and Section 3's court-ordered preclearance made a new Section 5 unnecessary.
 
+### [Twenty-sixth Amendment](../articles/democracy-and-elections/twenty-sixth-amendment.md) — Law
+
+| Myth | Fact |
+|---|---|
+| President Richard Nixon signed the Twenty-sixth Amendment into law. | The President has no constitutional role in amending the Constitution, and proposed amendments are not sent to the White House for approval; the amendment took effect when the 38th state ratified it, and on July 5, 1971, the General Services Administrator certified it while Nixon signed only as a ceremonial witness alongside three 18-year-olds. |
+
+**Why it matters:** Photographs of the White House ceremony are often captioned as a signing, which obscures how Article V actually works, with Congress proposing and the states ratifying amendments.
+
+- **Q:** Why did Congress turn to a constitutional amendment in 1971 after it had already lowered the voting age by statute in 1970?
+  **A:** In Oregon v. Mitchell (December 1970) the Supreme Court held that Congress could set the voting age at 18 for federal elections but not for state and local ones, so states faced running two sets of registration books and separate election systems; that made them receptive to an amendment setting 18 as the minimum for every election.
+- **Q:** How did military conscription shape the campaign for the 18-year-old vote?
+  **A:** When Congress lowered the draft age to 18 in 1942, the slogan "old enough to fight, old enough to vote" took hold and Jennings Randolph began introducing amendments; during the Vietnam War, when men as young as 18 could be drafted but few states let anyone under 21 vote, support grew enough to win passage.
+- **Q:** Why do lawyers and judges still disagree about what the amendment protects?
+  **A:** The Supreme Court has never issued a full opinion construing it, so lower courts differ on the standard of review; some read it narrowly, as the Fifth Circuit did in upholding no-excuse mail voting only for older Texans, while scholars such as Yael Bromberg argue it should be read like the Fifteenth and Nineteenth Amendments to forbid burdens that fall on young voters.
+
 ### [Voting Rights Act of 1965](../articles/democracy-and-elections/voting-rights-act-of-1965.md) — Law
 
 | Myth | Fact |

@@ -25950,6 +25950,199 @@
   ]
  },
  {
+  "id": "us:twenty-sixth-amendment",
+  "title": "Twenty-sixth Amendment",
+  "aliases": [
+   "26th Amendment",
+   "Amendment XXVI",
+   "Twenty-sixth Amendment to the United States Constitution",
+   "Eighteen-year-old vote amendment"
+  ],
+  "type": "Law",
+  "domain": "democracy-and-elections",
+  "level": "introductory",
+  "evidenceStatus": "interpretive",
+  "file": "articles/democracy-and-elections/twenty-sixth-amendment.md",
+  "created": "2026-11-18",
+  "summary": "The 1971 amendment to the U.S. Constitution that bars the United States and the states from denying or abridging the right to vote of citizens eighteen or older on account of age, and gives Congress power to enforce that ban; it was ratified in about 100 days, faster than any other amendment.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "us:voting-rights-in-the-united-states"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:fifteenth-amendment"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:nineteenth-amendment"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:voting-rights-act-of-1965"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:oregon-v-mitchell"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:vietnam-war"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:world-war-ii-and-the-united-states"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:richard-nixon"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:dwight-d-eisenhower"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:youth-franchise-coalition"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:united-states-congress"
+   },
+   {
+    "predicate": "uso:requires",
+    "object": "us:united-states-constitution"
+   },
+   {
+    "predicate": "uso:amends",
+    "object": "us:united-states-constitution",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:enactedBy",
+    "object": "us:united-states-congress",
+    "source": "s6",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:protects",
+    "object": "us:right-to-vote",
+    "source": "s8",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:introducedBy",
+    "object": "us:jennings-randolph",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:influencedBy",
+    "object": "us:oregon-v-mitchell",
+    "source": "s5",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:influencedBy",
+    "object": "us:vietnam-war",
+    "source": "s5",
+    "confidence": "high"
+   }
+  ],
+  "start": "1971-07-01",
+  "end": null,
+  "review": [
+   {
+    "question": "Why did Congress turn to a constitutional amendment in 1971 after it had already lowered the voting age by statute in 1970?",
+    "answer": "In Oregon v. Mitchell (December 1970) the Supreme Court held that Congress could set the voting age at 18 for federal elections but not for state and local ones, so states faced running two sets of registration books and separate election systems; that made them receptive to an amendment setting 18 as the minimum for every election."
+   },
+   {
+    "question": "How did military conscription shape the campaign for the 18-year-old vote?",
+    "answer": "When Congress lowered the draft age to 18 in 1942, the slogan \"old enough to fight, old enough to vote\" took hold and Jennings Randolph began introducing amendments; during the Vietnam War, when men as young as 18 could be drafted but few states let anyone under 21 vote, support grew enough to win passage."
+   },
+   {
+    "question": "Why do lawyers and judges still disagree about what the amendment protects?",
+    "answer": "The Supreme Court has never issued a full opinion construing it, so lower courts differ on the standard of review; some read it narrowly, as the Fifth Circuit did in upholding no-excuse mail voting only for older Texans, while scholars such as Yael Bromberg argue it should be read like the Fifteenth and Nineteenth Amendments to forbid burdens that fall on young voters."
+   }
+  ],
+  "timeline": [
+   {
+    "date": "1942-11",
+    "event": "Congress lowers the minimum draft age to 18; Representative Jennings Randolph of West Virginia proposes a constitutional amendment to lower the voting age."
+   },
+   {
+    "date": "1943",
+    "event": "Georgia becomes the first state to lower its voting age to 18."
+   },
+   {
+    "date": "1954-01",
+    "event": "President Dwight D. Eisenhower recommends an 18-year-old voting amendment in his State of the Union address; the Senate later falls short of the two-thirds needed."
+   },
+   {
+    "date": "1955",
+    "event": "Kentucky lowers its voting age to 18 by referendum."
+   },
+   {
+    "date": "1959",
+    "event": "Alaska and Hawaii join the Union with voting ages of 19 and 20."
+   },
+   {
+    "date": "1970-06-22",
+    "event": "President Richard Nixon signs Voting Rights Act amendments that lower the voting age to 18 in all elections, while doubting Congress's power to do so by statute."
+   },
+   {
+    "date": "1970-12-21",
+    "event": "In Oregon v. Mitchell a divided Supreme Court upholds the 18-year-old vote for federal elections but strikes it down for state and local elections."
+   },
+   {
+    "date": "1971-01-21",
+    "event": "Senate Joint Resolution 7, proposing the amendment, is introduced."
+   },
+   {
+    "date": "1971-03-10",
+    "event": "The Senate passes the resolution unanimously."
+   },
+   {
+    "date": "1971-03-23",
+    "event": "The House approves it and the amendment is submitted to the states."
+   },
+   {
+    "date": "1971-07-01",
+    "event": "Ratification by three-fourths of the states is completed."
+   },
+   {
+    "date": "1971-07-05",
+    "event": "GSA Administrator Robert Kunzig certifies the amendment at a White House ceremony attended by Nixon and three 18-year-old witnesses."
+   },
+   {
+    "date": "1979",
+    "event": "In Symm v. United States the Supreme Court summarily affirms a ruling against a Texas registrar's residency questionnaire aimed at college students."
+   }
+  ],
+  "misconception": {
+   "myth": "President Richard Nixon signed the Twenty-sixth Amendment into law.",
+   "fact": "The President has no constitutional role in amending the Constitution, and proposed amendments are not sent to the White House for approval; the amendment took effect when the 38th state ratified it, and on July 5, 1971, the General Services Administrator certified it while Nixon signed only as a ceremonial witness alongside three 18-year-olds.",
+   "why": "Photographs of the White House ceremony are often captioned as a signing, which obscures how Article V actually works, with Congress proposing and the states ratifying amendments."
+  },
+  "source_urls": [
+   "https://docsteach.org/documents/document/twenty-sixth-amendment",
+   "https://www.archives.gov/federal-register/constitution",
+   "https://www.law.cornell.edu/constitution-conan/amendment-26/twenty-sixth-amendment-historical-background",
+   "https://www.everycrsreport.com/files/2025-04-23_LSB11287_10a6fb630da05be3dfb671aea0d4c6f1c7b8caba.html",
+   "https://www.everycrsreport.com/files/2025-04-23_LSB11288_0715fc427fa64f86b9f4138f358c0d443159181c.html",
+   "https://www.everycrsreport.com/reports/LSB11290.html",
+   "https://supreme.justia.com/cases/federal/us/400/112/",
+   "https://www.law.cornell.edu/constitution-conan/amendment-26/the-scope-of-the-twenty-sixth-amendment",
+   "https://www.nationalww2museum.org/war/articles/voting-age-26th-amendment",
+   "https://constitutioncenter.org/blog/just-which-state-ratified-the-26th-amendment",
+   "https://nixonlibrary.gov/news/26th-amendment",
+   "https://rutgerslawreview.com/01_bromberg",
+   "https://www.census.gov/library/publications/1971/demo/p20-230.html"
+  ]
+ },
+ {
   "id": "us:underground-railroad",
   "title": "Underground Railroad",
   "aliases": [
