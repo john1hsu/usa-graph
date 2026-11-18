@@ -10579,6 +10579,157 @@
    }
   },
   {
+   "@id": "https://github.com/john1hsu/usa-graph/id/hollywood/misconception",
+   "@type": "uso:Misconception",
+   "uso:fact": "Distance from New York did slow the Patents Company's lawsuits, but producers' own accounts stress sunshine, mild winters and varied scenery; Patents Company agents followed them to California, a federal court there enforced its patents, and the border was hours away. Cheap land and nonunion labor also mattered.",
+   "uso:myth": "The film industry moved to Hollywood mainly so independent producers could escape Thomas Edison's patent trust and slip over the Mexican border to dodge its lawsuits.",
+   "uso:why": "A story of rebels fleeing a monopolist is more dramatic than weather reports and payrolls, and independents like Carl Laemmle really did fight the trust in court."
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/hollywood/review/1",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "Why do film historians doubt that escaping Edison's patent trust was the main reason filmmakers went to Los Angeles?",
+   "uso:answer": "Producers such as Fred Balshofer cited the mild climate and sunshine as the stronger draw, Patents Company agents tracked companies to California soon after they arrived, and a California federal court still enforced its patents; distance only delayed lawsuits.",
+   "uso:questionFor": {
+    "@id": "us:hollywood"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/hollywood/review/2",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "What did the Supreme Court decide in United States v. Paramount Pictures (1948), and how did it change Hollywood?",
+   "uso:answer": "It held that block booking and price-fixing by the major studios violated antitrust law and sent the question of theater ownership back for further review; the resulting consent decrees required the studios to separate distribution from exhibition, helping end the old studio system.",
+   "uso:questionFor": {
+    "@id": "us:hollywood"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/hollywood/review/3",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "How did the industry respond to calls for censorship in the 1920s and 1930s?",
+   "uso:answer": "It formed its own trade association under Will Hays in 1922 to promise self-regulation, adopted the Production Code in 1930, and after boycott threats from the Catholic Legion of Decency set up the Production Code Administration under Joseph Breen in 1934 to enforce it.",
+   "uso:questionFor": {
+    "@id": "us:hollywood"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/hollywood/review/4",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "Why did \"Hollywood\" come to mean the whole industry, even though studios were spread across Los Angeles?",
+   "uso:answer": "After World War I began, the Los Angeles studios expanded to replace European films, and the district of Hollywood became the symbolic center of an industry whose lots remained scattered across the region, in places such as Culver City and Burbank.",
+   "uso:questionFor": {
+    "@id": "us:hollywood"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/hollywood/timeline/1",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Edison's Kinetoscope, a peephole motion-picture viewer developed largely by W. K. L. Dickson, is first shown publicly at the Brooklyn Institute of Arts and Sciences.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1893-05-09"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/hollywood/timeline/10",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Screenwriter Ring Lardner Jr. is removed from the stand at a House Un-American Activities Committee hearing; he and nine others become the blacklisted Hollywood Ten.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1947-10-30"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/hollywood/timeline/11",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "In United States v. Paramount Pictures the Supreme Court rules block booking and price-fixing illegal, opening the way to separating studios from their theaters.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1948-05-03"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/hollywood/timeline/12",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "A federal court in New York terminates the Paramount consent decrees after more than seventy years.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "2020-08-07"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/hollywood/timeline/2",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Edison, Biograph and other licensed producers form the Motion Picture Patents Company, a patent pool that tries to control American film production.",
+   "uso:date": {
+    "@type": "xsd:gYearMonth",
+    "@value": "1908-12"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/hollywood/timeline/3",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The independent New York Motion Picture Company arrives in Los Angeles and stays; many more companies follow in 1910.",
+   "uso:date": {
+    "@type": "xsd:gYearMonth",
+    "@value": "1909-11"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/hollywood/timeline/4",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The town of Hollywood merges with Los Angeles to secure a water supply.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1910"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/hollywood/timeline/5",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "In the 1911–1912 season the Nestor company builds what is regarded as the first studio in Hollywood, at Sunset and Gower.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1911"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/hollywood/timeline/6",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Carl Laemmle, a German-Jewish immigrant who had fought the Patents Company, founds Universal; he opens Universal City in 1915.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1912"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/hollywood/timeline/7",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Cecil B. DeMille makes Hollywood his permanent studio home.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1914"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/hollywood/timeline/8",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Producers form the Motion Picture Producers and Distributors of America under Will H. Hays to head off government censorship through self-regulation.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1922"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/hollywood/timeline/9",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The industry adopts the Production Code; from 1934 the Production Code Administration under Joseph Breen enforces it.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1930"
+   }
+  },
+  {
    "@id": "https://github.com/john1hsu/usa-graph/id/hoover-dam/misconception",
    "@type": "uso:Misconception",
    "uso:fact": "The Bureau of Reclamation states that no one is buried in the dam; concrete was placed in five-foot-high blocks that rose gradually as crews packed each layer, which made an unnoticed burial virtually impossible. The official toll counts 96 industrial deaths at the site.",
@@ -28059,6 +28210,174 @@
     "@id": "https://mopop.emuseum.com/objects/98876/youre-my-candy-sweet--king-tim-iii-personality-jock"
    },
    "uso:sourceType": "museum"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/hollywood/s1",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Encyclopedia.com (Gale)",
+   "dcterms:title": "Hollywood (Dictionary of American History; St. James Encyclopedia of Popular Culture)",
+   "schema:url": {
+    "@id": "https://www.encyclopedia.com/places/united-states-and-canada/us-political-geography/hollywood"
+   },
+   "uso:sourceType": "scholarly-encyclopedia"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/hollywood/s10",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Leo Baeck Institute",
+   "dcterms:title": "German-Speaking Jews in Hollywood",
+   "schema:url": {
+    "@id": "https://www.lbi.org/collections/Hollywood/"
+   },
+   "uso:sourceType": "museum"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/hollywood/s11",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "PBS SoCal, Lost LA (Zelda Roland)",
+   "dcterms:title": "How Did Hollywood End Up in Hollywood?",
+   "schema:url": {
+    "@id": "https://pbssocal.org/shows/lost-la/how-did-hollywood-end-up-in-hollywood"
+   },
+   "uso:sourceType": "news"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/hollywood/s12",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Smithsonian Magazine",
+   "dcterms:title": "Academy Museum Explores Black Cinema's Early Years",
+   "schema:url": {
+    "@id": "https://www.smithsonianmag.com/smart-news/academy-museum-black-cinema-180980636/"
+   },
+   "uso:sourceType": "magazine"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/hollywood/s2",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Encyclopedia.com (Gale)",
+   "dcterms:title": "Detours on the Way to Hollywood (from History of the American Cinema)",
+   "schema:url": {
+    "@id": "https://encyclopedia.com/arts/culture-magazines/detours-way-hollywood"
+   },
+   "uso:sourceType": "scholarly-encyclopedia"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/hollywood/s3",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Thomas A. Edison Papers, Rutgers University",
+   "dcterms:title": "The Motion Picture Patents Company",
+   "schema:url": {
+    "@id": "https://edison.rutgers.edu/research/motion-picture-catalogs/catalogs-and-the-early-motion-picture-industry/the-motion-picture-patents-company"
+   },
+   "uso:sourceType": "academic"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/hollywood/s4",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "U.S. Reports, Supreme Court of the United States (via GovInfo)",
+   "dcterms:title": "United States v. Paramount Pictures, Inc., 334 U.S. 131 (1948)",
+   "schema:url": {
+    "@id": "https://www.govinfo.gov/content/pkg/USREPORTS-334/pdf/USREPORTS-334-131.pdf"
+   },
+   "uso:sourceType": "primary"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/hollywood/s5",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Digital History, University of Houston (Steven Mintz)",
+   "dcterms:title": "Film Censorship",
+   "schema:url": {
+    "@id": "https://www.digitalhistory.uh.edu/teachers/historyonline/film_censorship.cfm"
+   },
+   "uso:sourceType": "academic"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/hollywood/s6",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "National Archives Museum",
+   "dcterms:title": "Remembering the Hollywood 10: Screenwriter Ring Lardner, Jr.",
+   "schema:url": {
+    "@id": "https://visit.archives.gov/whats-on/explore-exhibits/remembering-hollywood-10-screenwriter-ring-lardner-jr"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/hollywood/s7",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "U.S. Department of Justice, Office of Public Affairs",
+   "dcterms:title": "Federal Court Terminates Paramount Consent Decrees",
+   "schema:url": {
+    "@id": "https://www.justice.gov/opa/pr/federal-court-terminates-paramount-consent-decrees"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/hollywood/s8",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "U.S. Bureau of Labor Statistics",
+   "dcterms:title": "Motion Picture and Sound Recording Industries — May 2023 OEWS Industry-Specific Occupational Employment and Wage Estimates",
+   "schema:url": {
+    "@id": "https://www.bls.gov/oes/2023/may/naics3_512000.htm"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/hollywood/s9",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Library of Congress",
+   "dcterms:title": "Origins of Motion Pictures (History of Edison Motion Pictures)",
+   "schema:url": {
+    "@id": "https://www.loc.gov/collections/edison-company-motion-pictures-and-sound-recordings/articles-and-essays/history-of-edison-motion-pictures/origins-of-motion-pictures/"
+   },
+   "uso:sourceType": "government"
   },
   {
    "@id": "https://github.com/john1hsu/usa-graph/id/source/hoover-dam/s1",
@@ -54370,6 +54689,161 @@
     },
     {
      "@id": "https://github.com/john1hsu/usa-graph/id/hip-hop/timeline/9"
+    }
+   ]
+  },
+  {
+   "@id": "us:hollywood",
+   "@type": "uso:Industry",
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/hollywood/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/hollywood/s10"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/hollywood/s11"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/hollywood/s12"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/hollywood/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/hollywood/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/hollywood/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/hollywood/s5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/hollywood/s6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/hollywood/s7"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/hollywood/s8"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/hollywood/s9"
+    }
+   ],
+   "rdfs:label": "Hollywood",
+   "skos:altLabel": [
+    "American film industry",
+    "Hollywood film industry",
+    "Hollywood studio system",
+    "U.S. film industry"
+   ],
+   "skos:broader": {
+    "@id": "us:economic-history-of-the-united-states"
+   },
+   "skos:definition": "A district of Los Angeles whose name became shorthand for the American motion-picture industry, which moved west from the East Coast in the 1910s, organized itself into a handful of vertically integrated studios by the 1930s, and was reshaped by censorship, the postwar blacklist, the 1948 Paramount antitrust ruling and television.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/usa-graph/id/scheme/culture-and-arts"
+   },
+   "skos:prefLabel": "Hollywood",
+   "skos:related": [
+    {
+     "@id": "us:california"
+    },
+    {
+     "@id": "us:great-depression"
+    },
+    {
+     "@id": "us:hollywood-blacklist"
+    },
+    {
+     "@id": "us:house-un-american-activities-committee"
+    },
+    {
+     "@id": "us:immigration-to-the-united-states"
+    },
+    {
+     "@id": "us:los-angeles"
+    },
+    {
+     "@id": "us:mccarthyism"
+    },
+    {
+     "@id": "us:thomas-edison"
+    },
+    {
+     "@id": "us:united-states-v-paramount-pictures"
+    },
+    {
+     "@id": "us:universal-pictures"
+    },
+    {
+     "@id": "us:world-war-i"
+    }
+   ],
+   "uso:domain": "culture-and-arts",
+   "uso:evidenceStatus": "interpretive",
+   "uso:file": "articles/culture-and-arts/hollywood.md",
+   "uso:influencedBy": [
+    {
+     "@id": "us:kinetoscope"
+    },
+    {
+     "@id": "us:motion-picture-patents-company"
+    },
+    {
+     "@id": "us:motion-picture-production-code"
+    }
+   ],
+   "uso:level": "introductory",
+   "uso:misconception": {
+    "@id": "https://github.com/john1hsu/usa-graph/id/hollywood/misconception"
+   },
+   "uso:originatedIn": {
+    "@id": "us:los-angeles"
+   },
+   "uso:timelineEntry": [
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/hollywood/timeline/1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/hollywood/timeline/10"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/hollywood/timeline/11"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/hollywood/timeline/12"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/hollywood/timeline/2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/hollywood/timeline/3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/hollywood/timeline/4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/hollywood/timeline/5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/hollywood/timeline/6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/hollywood/timeline/7"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/hollywood/timeline/8"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/hollywood/timeline/9"
     }
    ]
   },

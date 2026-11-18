@@ -7787,6 +7787,117 @@
 <https://github.com/john1hsu/usa-graph/id/hip-hop> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/hip-hop/timeline/8> .
 <https://github.com/john1hsu/usa-graph/id/hip-hop> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/hip-hop/timeline/9> .
 <https://github.com/john1hsu/usa-graph/id/hip-hop> <https://schema.org/startDate> "1973-08-11"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/hollywood/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Misconception> .
+<https://github.com/john1hsu/usa-graph/id/hollywood/misconception> <https://github.com/john1hsu/usa-graph/ontology#fact> "Distance from New York did slow the Patents Company's lawsuits, but producers' own accounts stress sunshine, mild winters and varied scenery; Patents Company agents followed them to California, a federal court there enforced its patents, and the border was hours away. Cheap land and nonunion labor also mattered." .
+<https://github.com/john1hsu/usa-graph/id/hollywood/misconception> <https://github.com/john1hsu/usa-graph/ontology#myth> "The film industry moved to Hollywood mainly so independent producers could escape Thomas Edison's patent trust and slip over the Mexican border to dodge its lawsuits." .
+<https://github.com/john1hsu/usa-graph/id/hollywood/misconception> <https://github.com/john1hsu/usa-graph/ontology#why> "A story of rebels fleeing a monopolist is more dramatic than weather reports and payrolls, and independents like Carl Laemmle really did fight the trust in court." .
+<https://github.com/john1hsu/usa-graph/id/hollywood/review/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+<https://github.com/john1hsu/usa-graph/id/hollywood/review/1> <http://www.w3.org/2000/01/rdf-schema#label> "Why do film historians doubt that escaping Edison's patent trust was the main reason filmmakers went to Los Angeles?" .
+<https://github.com/john1hsu/usa-graph/id/hollywood/review/1> <https://github.com/john1hsu/usa-graph/ontology#answer> "Producers such as Fred Balshofer cited the mild climate and sunshine as the stronger draw, Patents Company agents tracked companies to California soon after they arrived, and a California federal court still enforced its patents; distance only delayed lawsuits." .
+<https://github.com/john1hsu/usa-graph/id/hollywood/review/1> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/hollywood> .
+<https://github.com/john1hsu/usa-graph/id/hollywood/review/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+<https://github.com/john1hsu/usa-graph/id/hollywood/review/2> <http://www.w3.org/2000/01/rdf-schema#label> "What did the Supreme Court decide in United States v. Paramount Pictures (1948), and how did it change Hollywood?" .
+<https://github.com/john1hsu/usa-graph/id/hollywood/review/2> <https://github.com/john1hsu/usa-graph/ontology#answer> "It held that block booking and price-fixing by the major studios violated antitrust law and sent the question of theater ownership back for further review; the resulting consent decrees required the studios to separate distribution from exhibition, helping end the old studio system." .
+<https://github.com/john1hsu/usa-graph/id/hollywood/review/2> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/hollywood> .
+<https://github.com/john1hsu/usa-graph/id/hollywood/review/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+<https://github.com/john1hsu/usa-graph/id/hollywood/review/3> <http://www.w3.org/2000/01/rdf-schema#label> "How did the industry respond to calls for censorship in the 1920s and 1930s?" .
+<https://github.com/john1hsu/usa-graph/id/hollywood/review/3> <https://github.com/john1hsu/usa-graph/ontology#answer> "It formed its own trade association under Will Hays in 1922 to promise self-regulation, adopted the Production Code in 1930, and after boycott threats from the Catholic Legion of Decency set up the Production Code Administration under Joseph Breen in 1934 to enforce it." .
+<https://github.com/john1hsu/usa-graph/id/hollywood/review/3> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/hollywood> .
+<https://github.com/john1hsu/usa-graph/id/hollywood/review/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+<https://github.com/john1hsu/usa-graph/id/hollywood/review/4> <http://www.w3.org/2000/01/rdf-schema#label> "Why did \"Hollywood\" come to mean the whole industry, even though studios were spread across Los Angeles?" .
+<https://github.com/john1hsu/usa-graph/id/hollywood/review/4> <https://github.com/john1hsu/usa-graph/ontology#answer> "After World War I began, the Los Angeles studios expanded to replace European films, and the district of Hollywood became the symbolic center of an industry whose lots remained scattered across the region, in places such as Culver City and Burbank." .
+<https://github.com/john1hsu/usa-graph/id/hollywood/review/4> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/hollywood> .
+<https://github.com/john1hsu/usa-graph/id/hollywood/timeline/10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/hollywood/timeline/10> <http://www.w3.org/2000/01/rdf-schema#label> "Screenwriter Ring Lardner Jr. is removed from the stand at a House Un-American Activities Committee hearing; he and nine others become the blacklisted Hollywood Ten." .
+<https://github.com/john1hsu/usa-graph/id/hollywood/timeline/10> <https://github.com/john1hsu/usa-graph/ontology#date> "1947-10-30"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/hollywood/timeline/11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/hollywood/timeline/11> <http://www.w3.org/2000/01/rdf-schema#label> "In United States v. Paramount Pictures the Supreme Court rules block booking and price-fixing illegal, opening the way to separating studios from their theaters." .
+<https://github.com/john1hsu/usa-graph/id/hollywood/timeline/11> <https://github.com/john1hsu/usa-graph/ontology#date> "1948-05-03"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/hollywood/timeline/12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/hollywood/timeline/12> <http://www.w3.org/2000/01/rdf-schema#label> "A federal court in New York terminates the Paramount consent decrees after more than seventy years." .
+<https://github.com/john1hsu/usa-graph/id/hollywood/timeline/12> <https://github.com/john1hsu/usa-graph/ontology#date> "2020-08-07"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/hollywood/timeline/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/hollywood/timeline/1> <http://www.w3.org/2000/01/rdf-schema#label> "Edison's Kinetoscope, a peephole motion-picture viewer developed largely by W. K. L. Dickson, is first shown publicly at the Brooklyn Institute of Arts and Sciences." .
+<https://github.com/john1hsu/usa-graph/id/hollywood/timeline/1> <https://github.com/john1hsu/usa-graph/ontology#date> "1893-05-09"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/hollywood/timeline/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/hollywood/timeline/2> <http://www.w3.org/2000/01/rdf-schema#label> "Edison, Biograph and other licensed producers form the Motion Picture Patents Company, a patent pool that tries to control American film production." .
+<https://github.com/john1hsu/usa-graph/id/hollywood/timeline/2> <https://github.com/john1hsu/usa-graph/ontology#date> "1908-12"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> .
+<https://github.com/john1hsu/usa-graph/id/hollywood/timeline/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/hollywood/timeline/3> <http://www.w3.org/2000/01/rdf-schema#label> "The independent New York Motion Picture Company arrives in Los Angeles and stays; many more companies follow in 1910." .
+<https://github.com/john1hsu/usa-graph/id/hollywood/timeline/3> <https://github.com/john1hsu/usa-graph/ontology#date> "1909-11"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> .
+<https://github.com/john1hsu/usa-graph/id/hollywood/timeline/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/hollywood/timeline/4> <http://www.w3.org/2000/01/rdf-schema#label> "The town of Hollywood merges with Los Angeles to secure a water supply." .
+<https://github.com/john1hsu/usa-graph/id/hollywood/timeline/4> <https://github.com/john1hsu/usa-graph/ontology#date> "1910"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://github.com/john1hsu/usa-graph/id/hollywood/timeline/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/hollywood/timeline/5> <http://www.w3.org/2000/01/rdf-schema#label> "In the 1911–1912 season the Nestor company builds what is regarded as the first studio in Hollywood, at Sunset and Gower." .
+<https://github.com/john1hsu/usa-graph/id/hollywood/timeline/5> <https://github.com/john1hsu/usa-graph/ontology#date> "1911"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://github.com/john1hsu/usa-graph/id/hollywood/timeline/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/hollywood/timeline/6> <http://www.w3.org/2000/01/rdf-schema#label> "Carl Laemmle, a German-Jewish immigrant who had fought the Patents Company, founds Universal; he opens Universal City in 1915." .
+<https://github.com/john1hsu/usa-graph/id/hollywood/timeline/6> <https://github.com/john1hsu/usa-graph/ontology#date> "1912"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://github.com/john1hsu/usa-graph/id/hollywood/timeline/7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/hollywood/timeline/7> <http://www.w3.org/2000/01/rdf-schema#label> "Cecil B. DeMille makes Hollywood his permanent studio home." .
+<https://github.com/john1hsu/usa-graph/id/hollywood/timeline/7> <https://github.com/john1hsu/usa-graph/ontology#date> "1914"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://github.com/john1hsu/usa-graph/id/hollywood/timeline/8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/hollywood/timeline/8> <http://www.w3.org/2000/01/rdf-schema#label> "Producers form the Motion Picture Producers and Distributors of America under Will H. Hays to head off government censorship through self-regulation." .
+<https://github.com/john1hsu/usa-graph/id/hollywood/timeline/8> <https://github.com/john1hsu/usa-graph/ontology#date> "1922"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://github.com/john1hsu/usa-graph/id/hollywood/timeline/9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/hollywood/timeline/9> <http://www.w3.org/2000/01/rdf-schema#label> "The industry adopts the Production Code; from 1934 the Production Code Administration under Joseph Breen enforces it." .
+<https://github.com/john1hsu/usa-graph/id/hollywood/timeline/9> <https://github.com/john1hsu/usa-graph/ontology#date> "1930"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://github.com/john1hsu/usa-graph/id/hollywood> <http://purl.org/dc/terms/created> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/hollywood> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Industry> .
+<https://github.com/john1hsu/usa-graph/id/hollywood> <http://www.w3.org/2000/01/rdf-schema#label> "Hollywood" .
+<https://github.com/john1hsu/usa-graph/id/hollywood> <http://www.w3.org/2004/02/skos/core#altLabel> "American film industry" .
+<https://github.com/john1hsu/usa-graph/id/hollywood> <http://www.w3.org/2004/02/skos/core#altLabel> "Hollywood film industry" .
+<https://github.com/john1hsu/usa-graph/id/hollywood> <http://www.w3.org/2004/02/skos/core#altLabel> "Hollywood studio system" .
+<https://github.com/john1hsu/usa-graph/id/hollywood> <http://www.w3.org/2004/02/skos/core#altLabel> "U.S. film industry" .
+<https://github.com/john1hsu/usa-graph/id/hollywood> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/usa-graph/id/economic-history-of-the-united-states> .
+<https://github.com/john1hsu/usa-graph/id/hollywood> <http://www.w3.org/2004/02/skos/core#definition> "A district of Los Angeles whose name became shorthand for the American motion-picture industry, which moved west from the East Coast in the 1910s, organized itself into a handful of vertically integrated studios by the 1930s, and was reshaped by censorship, the postwar blacklist, the 1948 Paramount antitrust ruling and television." .
+<https://github.com/john1hsu/usa-graph/id/hollywood> <http://www.w3.org/2004/02/skos/core#inScheme> <https://github.com/john1hsu/usa-graph/id/scheme/culture-and-arts> .
+<https://github.com/john1hsu/usa-graph/id/hollywood> <http://www.w3.org/2004/02/skos/core#prefLabel> "Hollywood" .
+<https://github.com/john1hsu/usa-graph/id/hollywood> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/california> .
+<https://github.com/john1hsu/usa-graph/id/hollywood> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/great-depression> .
+<https://github.com/john1hsu/usa-graph/id/hollywood> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/hollywood-blacklist> .
+<https://github.com/john1hsu/usa-graph/id/hollywood> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/house-un-american-activities-committee> .
+<https://github.com/john1hsu/usa-graph/id/hollywood> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/immigration-to-the-united-states> .
+<https://github.com/john1hsu/usa-graph/id/hollywood> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/los-angeles> .
+<https://github.com/john1hsu/usa-graph/id/hollywood> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/mccarthyism> .
+<https://github.com/john1hsu/usa-graph/id/hollywood> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/thomas-edison> .
+<https://github.com/john1hsu/usa-graph/id/hollywood> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/united-states-v-paramount-pictures> .
+<https://github.com/john1hsu/usa-graph/id/hollywood> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/universal-pictures> .
+<https://github.com/john1hsu/usa-graph/id/hollywood> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/world-war-i> .
+<https://github.com/john1hsu/usa-graph/id/hollywood> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/hollywood/s10> .
+<https://github.com/john1hsu/usa-graph/id/hollywood> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/hollywood/s11> .
+<https://github.com/john1hsu/usa-graph/id/hollywood> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/hollywood/s12> .
+<https://github.com/john1hsu/usa-graph/id/hollywood> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/hollywood/s1> .
+<https://github.com/john1hsu/usa-graph/id/hollywood> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/hollywood/s2> .
+<https://github.com/john1hsu/usa-graph/id/hollywood> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/hollywood/s3> .
+<https://github.com/john1hsu/usa-graph/id/hollywood> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/hollywood/s4> .
+<https://github.com/john1hsu/usa-graph/id/hollywood> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/hollywood/s5> .
+<https://github.com/john1hsu/usa-graph/id/hollywood> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/hollywood/s6> .
+<https://github.com/john1hsu/usa-graph/id/hollywood> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/hollywood/s7> .
+<https://github.com/john1hsu/usa-graph/id/hollywood> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/hollywood/s8> .
+<https://github.com/john1hsu/usa-graph/id/hollywood> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/hollywood/s9> .
+<https://github.com/john1hsu/usa-graph/id/hollywood> <https://github.com/john1hsu/usa-graph/ontology#domain> "culture-and-arts" .
+<https://github.com/john1hsu/usa-graph/id/hollywood> <https://github.com/john1hsu/usa-graph/ontology#evidenceStatus> "interpretive" .
+<https://github.com/john1hsu/usa-graph/id/hollywood> <https://github.com/john1hsu/usa-graph/ontology#file> "articles/culture-and-arts/hollywood.md" .
+<https://github.com/john1hsu/usa-graph/id/hollywood> <https://github.com/john1hsu/usa-graph/ontology#influencedBy> <https://github.com/john1hsu/usa-graph/id/kinetoscope> .
+<https://github.com/john1hsu/usa-graph/id/hollywood> <https://github.com/john1hsu/usa-graph/ontology#influencedBy> <https://github.com/john1hsu/usa-graph/id/motion-picture-patents-company> .
+<https://github.com/john1hsu/usa-graph/id/hollywood> <https://github.com/john1hsu/usa-graph/ontology#influencedBy> <https://github.com/john1hsu/usa-graph/id/motion-picture-production-code> .
+<https://github.com/john1hsu/usa-graph/id/hollywood> <https://github.com/john1hsu/usa-graph/ontology#level> "introductory" .
+<https://github.com/john1hsu/usa-graph/id/hollywood> <https://github.com/john1hsu/usa-graph/ontology#misconception> <https://github.com/john1hsu/usa-graph/id/hollywood/misconception> .
+<https://github.com/john1hsu/usa-graph/id/hollywood> <https://github.com/john1hsu/usa-graph/ontology#originatedIn> <https://github.com/john1hsu/usa-graph/id/los-angeles> .
+<https://github.com/john1hsu/usa-graph/id/hollywood> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/hollywood/timeline/10> .
+<https://github.com/john1hsu/usa-graph/id/hollywood> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/hollywood/timeline/11> .
+<https://github.com/john1hsu/usa-graph/id/hollywood> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/hollywood/timeline/12> .
+<https://github.com/john1hsu/usa-graph/id/hollywood> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/hollywood/timeline/1> .
+<https://github.com/john1hsu/usa-graph/id/hollywood> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/hollywood/timeline/2> .
+<https://github.com/john1hsu/usa-graph/id/hollywood> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/hollywood/timeline/3> .
+<https://github.com/john1hsu/usa-graph/id/hollywood> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/hollywood/timeline/4> .
+<https://github.com/john1hsu/usa-graph/id/hollywood> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/hollywood/timeline/5> .
+<https://github.com/john1hsu/usa-graph/id/hollywood> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/hollywood/timeline/6> .
+<https://github.com/john1hsu/usa-graph/id/hollywood> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/hollywood/timeline/7> .
+<https://github.com/john1hsu/usa-graph/id/hollywood> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/hollywood/timeline/8> .
+<https://github.com/john1hsu/usa-graph/id/hollywood> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/hollywood/timeline/9> .
 <https://github.com/john1hsu/usa-graph/id/hoover-dam/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Misconception> .
 <https://github.com/john1hsu/usa-graph/id/hoover-dam/misconception> <https://github.com/john1hsu/usa-graph/ontology#fact> "The Bureau of Reclamation states that no one is buried in the dam; concrete was placed in five-foot-high blocks that rose gradually as crews packed each layer, which made an unnoticed burial virtually impossible. The official toll counts 96 industrial deaths at the site." .
 <https://github.com/john1hsu/usa-graph/id/hoover-dam/misconception> <https://github.com/john1hsu/usa-graph/ontology#myth> "Workers who died building Hoover Dam are entombed in its concrete." .
@@ -17681,6 +17792,78 @@
 <https://github.com/john1hsu/usa-graph/id/source/hip-hop/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
 <https://github.com/john1hsu/usa-graph/id/source/hip-hop/s7> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "museum" .
 <https://github.com/john1hsu/usa-graph/id/source/hip-hop/s7> <https://schema.org/url> <https://mopop.emuseum.com/objects/98876/youre-my-candy-sweet--king-tim-iii-personality-jock> .
+<https://github.com/john1hsu/usa-graph/id/source/hollywood/s10> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/hollywood/s10> <http://purl.org/dc/terms/publisher> "Leo Baeck Institute" .
+<https://github.com/john1hsu/usa-graph/id/source/hollywood/s10> <http://purl.org/dc/terms/title> "German-Speaking Jews in Hollywood" .
+<https://github.com/john1hsu/usa-graph/id/source/hollywood/s10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/hollywood/s10> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "museum" .
+<https://github.com/john1hsu/usa-graph/id/source/hollywood/s10> <https://schema.org/url> <https://www.lbi.org/collections/Hollywood/> .
+<https://github.com/john1hsu/usa-graph/id/source/hollywood/s11> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/hollywood/s11> <http://purl.org/dc/terms/publisher> "PBS SoCal, Lost LA (Zelda Roland)" .
+<https://github.com/john1hsu/usa-graph/id/source/hollywood/s11> <http://purl.org/dc/terms/title> "How Did Hollywood End Up in Hollywood?" .
+<https://github.com/john1hsu/usa-graph/id/source/hollywood/s11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/hollywood/s11> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "news" .
+<https://github.com/john1hsu/usa-graph/id/source/hollywood/s11> <https://schema.org/url> <https://pbssocal.org/shows/lost-la/how-did-hollywood-end-up-in-hollywood> .
+<https://github.com/john1hsu/usa-graph/id/source/hollywood/s12> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/hollywood/s12> <http://purl.org/dc/terms/publisher> "Smithsonian Magazine" .
+<https://github.com/john1hsu/usa-graph/id/source/hollywood/s12> <http://purl.org/dc/terms/title> "Academy Museum Explores Black Cinema's Early Years" .
+<https://github.com/john1hsu/usa-graph/id/source/hollywood/s12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/hollywood/s12> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "magazine" .
+<https://github.com/john1hsu/usa-graph/id/source/hollywood/s12> <https://schema.org/url> <https://www.smithsonianmag.com/smart-news/academy-museum-black-cinema-180980636/> .
+<https://github.com/john1hsu/usa-graph/id/source/hollywood/s1> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/hollywood/s1> <http://purl.org/dc/terms/publisher> "Encyclopedia.com (Gale)" .
+<https://github.com/john1hsu/usa-graph/id/source/hollywood/s1> <http://purl.org/dc/terms/title> "Hollywood (Dictionary of American History; St. James Encyclopedia of Popular Culture)" .
+<https://github.com/john1hsu/usa-graph/id/source/hollywood/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/hollywood/s1> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "scholarly-encyclopedia" .
+<https://github.com/john1hsu/usa-graph/id/source/hollywood/s1> <https://schema.org/url> <https://www.encyclopedia.com/places/united-states-and-canada/us-political-geography/hollywood> .
+<https://github.com/john1hsu/usa-graph/id/source/hollywood/s2> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/hollywood/s2> <http://purl.org/dc/terms/publisher> "Encyclopedia.com (Gale)" .
+<https://github.com/john1hsu/usa-graph/id/source/hollywood/s2> <http://purl.org/dc/terms/title> "Detours on the Way to Hollywood (from History of the American Cinema)" .
+<https://github.com/john1hsu/usa-graph/id/source/hollywood/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/hollywood/s2> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "scholarly-encyclopedia" .
+<https://github.com/john1hsu/usa-graph/id/source/hollywood/s2> <https://schema.org/url> <https://encyclopedia.com/arts/culture-magazines/detours-way-hollywood> .
+<https://github.com/john1hsu/usa-graph/id/source/hollywood/s3> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/hollywood/s3> <http://purl.org/dc/terms/publisher> "Thomas A. Edison Papers, Rutgers University" .
+<https://github.com/john1hsu/usa-graph/id/source/hollywood/s3> <http://purl.org/dc/terms/title> "The Motion Picture Patents Company" .
+<https://github.com/john1hsu/usa-graph/id/source/hollywood/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/hollywood/s3> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/usa-graph/id/source/hollywood/s3> <https://schema.org/url> <https://edison.rutgers.edu/research/motion-picture-catalogs/catalogs-and-the-early-motion-picture-industry/the-motion-picture-patents-company> .
+<https://github.com/john1hsu/usa-graph/id/source/hollywood/s4> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/hollywood/s4> <http://purl.org/dc/terms/publisher> "U.S. Reports, Supreme Court of the United States (via GovInfo)" .
+<https://github.com/john1hsu/usa-graph/id/source/hollywood/s4> <http://purl.org/dc/terms/title> "United States v. Paramount Pictures, Inc., 334 U.S. 131 (1948)" .
+<https://github.com/john1hsu/usa-graph/id/source/hollywood/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/hollywood/s4> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/usa-graph/id/source/hollywood/s4> <https://schema.org/url> <https://www.govinfo.gov/content/pkg/USREPORTS-334/pdf/USREPORTS-334-131.pdf> .
+<https://github.com/john1hsu/usa-graph/id/source/hollywood/s5> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/hollywood/s5> <http://purl.org/dc/terms/publisher> "Digital History, University of Houston (Steven Mintz)" .
+<https://github.com/john1hsu/usa-graph/id/source/hollywood/s5> <http://purl.org/dc/terms/title> "Film Censorship" .
+<https://github.com/john1hsu/usa-graph/id/source/hollywood/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/hollywood/s5> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/usa-graph/id/source/hollywood/s5> <https://schema.org/url> <https://www.digitalhistory.uh.edu/teachers/historyonline/film_censorship.cfm> .
+<https://github.com/john1hsu/usa-graph/id/source/hollywood/s6> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/hollywood/s6> <http://purl.org/dc/terms/publisher> "National Archives Museum" .
+<https://github.com/john1hsu/usa-graph/id/source/hollywood/s6> <http://purl.org/dc/terms/title> "Remembering the Hollywood 10: Screenwriter Ring Lardner, Jr." .
+<https://github.com/john1hsu/usa-graph/id/source/hollywood/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/hollywood/s6> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/usa-graph/id/source/hollywood/s6> <https://schema.org/url> <https://visit.archives.gov/whats-on/explore-exhibits/remembering-hollywood-10-screenwriter-ring-lardner-jr> .
+<https://github.com/john1hsu/usa-graph/id/source/hollywood/s7> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/hollywood/s7> <http://purl.org/dc/terms/publisher> "U.S. Department of Justice, Office of Public Affairs" .
+<https://github.com/john1hsu/usa-graph/id/source/hollywood/s7> <http://purl.org/dc/terms/title> "Federal Court Terminates Paramount Consent Decrees" .
+<https://github.com/john1hsu/usa-graph/id/source/hollywood/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/hollywood/s7> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/usa-graph/id/source/hollywood/s7> <https://schema.org/url> <https://www.justice.gov/opa/pr/federal-court-terminates-paramount-consent-decrees> .
+<https://github.com/john1hsu/usa-graph/id/source/hollywood/s8> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/hollywood/s8> <http://purl.org/dc/terms/publisher> "U.S. Bureau of Labor Statistics" .
+<https://github.com/john1hsu/usa-graph/id/source/hollywood/s8> <http://purl.org/dc/terms/title> "Motion Picture and Sound Recording Industries — May 2023 OEWS Industry-Specific Occupational Employment and Wage Estimates" .
+<https://github.com/john1hsu/usa-graph/id/source/hollywood/s8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/hollywood/s8> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/usa-graph/id/source/hollywood/s8> <https://schema.org/url> <https://www.bls.gov/oes/2023/may/naics3_512000.htm> .
+<https://github.com/john1hsu/usa-graph/id/source/hollywood/s9> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/hollywood/s9> <http://purl.org/dc/terms/publisher> "Library of Congress" .
+<https://github.com/john1hsu/usa-graph/id/source/hollywood/s9> <http://purl.org/dc/terms/title> "Origins of Motion Pictures (History of Edison Motion Pictures)" .
+<https://github.com/john1hsu/usa-graph/id/source/hollywood/s9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/hollywood/s9> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/usa-graph/id/source/hollywood/s9> <https://schema.org/url> <https://www.loc.gov/collections/edison-company-motion-pictures-and-sound-recordings/articles-and-essays/history-of-edison-motion-pictures/origins-of-motion-pictures/> .
 <https://github.com/john1hsu/usa-graph/id/source/hoover-dam/s10> <http://purl.org/dc/terms/date> "2026-11-14"^^<http://www.w3.org/2001/XMLSchema#date> .
 <https://github.com/john1hsu/usa-graph/id/source/hoover-dam/s10> <http://purl.org/dc/terms/publisher> "Encyclopaedia Britannica" .
 <https://github.com/john1hsu/usa-graph/id/source/hoover-dam/s10> <http://purl.org/dc/terms/title> "Hoover Dam" .

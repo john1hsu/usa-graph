@@ -13095,6 +13095,186 @@
   ]
  },
  {
+  "id": "us:hollywood",
+  "title": "Hollywood",
+  "aliases": [
+   "American film industry",
+   "U.S. film industry",
+   "Hollywood film industry",
+   "Hollywood studio system"
+  ],
+  "type": "Industry",
+  "domain": "culture-and-arts",
+  "level": "introductory",
+  "evidenceStatus": "interpretive",
+  "file": "articles/culture-and-arts/hollywood.md",
+  "created": "2026-11-18",
+  "summary": "A district of Los Angeles whose name became shorthand for the American motion-picture industry, which moved west from the East Coast in the 1910s, organized itself into a handful of vertically integrated studios by the 1930s, and was reshaped by censorship, the postwar blacklist, the 1948 Paramount antitrust ruling and television.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "us:economic-history-of-the-united-states"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:los-angeles"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:california"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:united-states-v-paramount-pictures"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:hollywood-blacklist"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:mccarthyism"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:house-un-american-activities-committee"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:thomas-edison"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:universal-pictures"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:immigration-to-the-united-states"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:world-war-i"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:great-depression"
+   },
+   {
+    "predicate": "uso:originatedIn",
+    "object": "us:los-angeles",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:influencedBy",
+    "object": "us:motion-picture-patents-company",
+    "source": "s2",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "uso:influencedBy",
+    "object": "us:motion-picture-production-code",
+    "source": "s5",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:influencedBy",
+    "object": "us:kinetoscope",
+    "source": "s9",
+    "confidence": "medium"
+   }
+  ],
+  "start": null,
+  "end": null,
+  "review": [
+   {
+    "question": "Why do film historians doubt that escaping Edison's patent trust was the main reason filmmakers went to Los Angeles?",
+    "answer": "Producers such as Fred Balshofer cited the mild climate and sunshine as the stronger draw, Patents Company agents tracked companies to California soon after they arrived, and a California federal court still enforced its patents; distance only delayed lawsuits."
+   },
+   {
+    "question": "What did the Supreme Court decide in United States v. Paramount Pictures (1948), and how did it change Hollywood?",
+    "answer": "It held that block booking and price-fixing by the major studios violated antitrust law and sent the question of theater ownership back for further review; the resulting consent decrees required the studios to separate distribution from exhibition, helping end the old studio system."
+   },
+   {
+    "question": "How did the industry respond to calls for censorship in the 1920s and 1930s?",
+    "answer": "It formed its own trade association under Will Hays in 1922 to promise self-regulation, adopted the Production Code in 1930, and after boycott threats from the Catholic Legion of Decency set up the Production Code Administration under Joseph Breen in 1934 to enforce it."
+   },
+   {
+    "question": "Why did \"Hollywood\" come to mean the whole industry, even though studios were spread across Los Angeles?",
+    "answer": "After World War I began, the Los Angeles studios expanded to replace European films, and the district of Hollywood became the symbolic center of an industry whose lots remained scattered across the region, in places such as Culver City and Burbank."
+   }
+  ],
+  "timeline": [
+   {
+    "date": "1893-05-09",
+    "event": "Edison's Kinetoscope, a peephole motion-picture viewer developed largely by W. K. L. Dickson, is first shown publicly at the Brooklyn Institute of Arts and Sciences."
+   },
+   {
+    "date": "1908-12",
+    "event": "Edison, Biograph and other licensed producers form the Motion Picture Patents Company, a patent pool that tries to control American film production."
+   },
+   {
+    "date": "1909-11",
+    "event": "The independent New York Motion Picture Company arrives in Los Angeles and stays; many more companies follow in 1910."
+   },
+   {
+    "date": "1910",
+    "event": "The town of Hollywood merges with Los Angeles to secure a water supply."
+   },
+   {
+    "date": "1911",
+    "event": "In the 1911–1912 season the Nestor company builds what is regarded as the first studio in Hollywood, at Sunset and Gower."
+   },
+   {
+    "date": "1912",
+    "event": "Carl Laemmle, a German-Jewish immigrant who had fought the Patents Company, founds Universal; he opens Universal City in 1915."
+   },
+   {
+    "date": "1914",
+    "event": "Cecil B. DeMille makes Hollywood his permanent studio home."
+   },
+   {
+    "date": "1922",
+    "event": "Producers form the Motion Picture Producers and Distributors of America under Will H. Hays to head off government censorship through self-regulation."
+   },
+   {
+    "date": "1930",
+    "event": "The industry adopts the Production Code; from 1934 the Production Code Administration under Joseph Breen enforces it."
+   },
+   {
+    "date": "1947-10-30",
+    "event": "Screenwriter Ring Lardner Jr. is removed from the stand at a House Un-American Activities Committee hearing; he and nine others become the blacklisted Hollywood Ten."
+   },
+   {
+    "date": "1948-05-03",
+    "event": "In United States v. Paramount Pictures the Supreme Court rules block booking and price-fixing illegal, opening the way to separating studios from their theaters."
+   },
+   {
+    "date": "2020-08-07",
+    "event": "A federal court in New York terminates the Paramount consent decrees after more than seventy years."
+   }
+  ],
+  "misconception": {
+   "myth": "The film industry moved to Hollywood mainly so independent producers could escape Thomas Edison's patent trust and slip over the Mexican border to dodge its lawsuits.",
+   "fact": "Distance from New York did slow the Patents Company's lawsuits, but producers' own accounts stress sunshine, mild winters and varied scenery; Patents Company agents followed them to California, a federal court there enforced its patents, and the border was hours away. Cheap land and nonunion labor also mattered.",
+   "why": "A story of rebels fleeing a monopolist is more dramatic than weather reports and payrolls, and independents like Carl Laemmle really did fight the trust in court."
+  },
+  "source_urls": [
+   "https://www.encyclopedia.com/places/united-states-and-canada/us-political-geography/hollywood",
+   "https://encyclopedia.com/arts/culture-magazines/detours-way-hollywood",
+   "https://edison.rutgers.edu/research/motion-picture-catalogs/catalogs-and-the-early-motion-picture-industry/the-motion-picture-patents-company",
+   "https://www.govinfo.gov/content/pkg/USREPORTS-334/pdf/USREPORTS-334-131.pdf",
+   "https://www.digitalhistory.uh.edu/teachers/historyonline/film_censorship.cfm",
+   "https://visit.archives.gov/whats-on/explore-exhibits/remembering-hollywood-10-screenwriter-ring-lardner-jr",
+   "https://www.justice.gov/opa/pr/federal-court-terminates-paramount-consent-decrees",
+   "https://www.bls.gov/oes/2023/may/naics3_512000.htm",
+   "https://www.loc.gov/collections/edison-company-motion-pictures-and-sound-recordings/articles-and-essays/history-of-edison-motion-pictures/origins-of-motion-pictures/",
+   "https://www.lbi.org/collections/Hollywood/",
+   "https://pbssocal.org/shows/lost-la/how-did-hollywood-end-up-in-hollywood",
+   "https://www.smithsonianmag.com/smart-news/academy-museum-black-cinema-180980636/"
+  ]
+ },
+ {
   "id": "us:hoover-dam",
   "title": "Hoover Dam",
   "aliases": [

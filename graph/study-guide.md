@@ -686,6 +686,23 @@ Every review question (with its answer) and every myth-versus-fact in the graph,
 - **Q:** Why is it misleading to say hip hop began with "Rapper's Delight"?
   **A:** Hip hop had been developing at Bronx parties since 1973, and another rap record, "King Tim III," came out about two months earlier; "Rapper's Delight" was the first to reach the Hot 100, not the start of the culture.
 
+### [Hollywood](../articles/culture-and-arts/hollywood.md) — Industry
+
+| Myth | Fact |
+|---|---|
+| The film industry moved to Hollywood mainly so independent producers could escape Thomas Edison's patent trust and slip over the Mexican border to dodge its lawsuits. | Distance from New York did slow the Patents Company's lawsuits, but producers' own accounts stress sunshine, mild winters and varied scenery; Patents Company agents followed them to California, a federal court there enforced its patents, and the border was hours away. Cheap land and nonunion labor also mattered. |
+
+**Why it matters:** A story of rebels fleeing a monopolist is more dramatic than weather reports and payrolls, and independents like Carl Laemmle really did fight the trust in court.
+
+- **Q:** Why do film historians doubt that escaping Edison's patent trust was the main reason filmmakers went to Los Angeles?
+  **A:** Producers such as Fred Balshofer cited the mild climate and sunshine as the stronger draw, Patents Company agents tracked companies to California soon after they arrived, and a California federal court still enforced its patents; distance only delayed lawsuits.
+- **Q:** What did the Supreme Court decide in United States v. Paramount Pictures (1948), and how did it change Hollywood?
+  **A:** It held that block booking and price-fixing by the major studios violated antitrust law and sent the question of theater ownership back for further review; the resulting consent decrees required the studios to separate distribution from exhibition, helping end the old studio system.
+- **Q:** How did the industry respond to calls for censorship in the 1920s and 1930s?
+  **A:** It formed its own trade association under Will Hays in 1922 to promise self-regulation, adopted the Production Code in 1930, and after boycott threats from the Catholic Legion of Decency set up the Production Code Administration under Joseph Breen in 1934 to enforce it.
+- **Q:** Why did "Hollywood" come to mean the whole industry, even though studios were spread across Los Angeles?
+  **A:** After World War I began, the Los Angeles studios expanded to replace European films, and the district of Hollywood became the symbolic center of an industry whose lots remained scattered across the region, in places such as Culver City and Burbank.
+
 ### [Jazz](../articles/culture-and-arts/jazz.md) — Tradition
 
 | Myth | Fact |

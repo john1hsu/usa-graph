@@ -1061,6 +1061,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1893 | Frederick Jackson Turner presents his frontier thesis to the American Historical Association in Chicago. — [The West](../articles/regions-cities-and-landmarks/the-west.md) |
 | 1893 | S. S. McClure and John S. Phillips launch McClure's Magazine at fifteen cents a copy. — [Muckrakers](../articles/gilded-age-and-progressive-era/muckrakers.md) |
 | 1893-01-17 | A Committee of Safety, backed by U.S. Minister John L. Stevens and U.S. naval forces landed the day before, overthrows Queen Liliʻuokalani. — [Hawaii](../articles/states-and-territories/hawaii.md) |
+| 1893-05-09 | Edison's Kinetoscope, a peephole motion-picture viewer developed largely by W. K. L. Dickson, is first shown publicly at the Brooklyn Institute of Arts and Sciences. — [Hollywood](../articles/culture-and-arts/hollywood.md) |
 | 1893-11-01 | Dawes, now retired, is appointed to head a commission to negotiate the end of common landholding with the Five Tribes, whom the 1887 act had exempted. — [Dawes Act](../articles/native-nations/dawes-act.md) |
 | 1894 | After soldiers arrest the bison poacher Ed Howell, Congress passes the National Park Protection Act (Lacey Act) banning hunting in the park. — [Yellowstone National Park](../articles/geography-and-environment/yellowstone-national-park.md) |
 | 1894 | Federal troops break the Pullman sympathy strike led by the American Railway Union, and Eugene Debs is jailed. — [Gilded Age](../articles/gilded-age-and-progressive-era/gilded-age.md) |
@@ -1173,16 +1174,19 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1907-07-25 | Roosevelt proclaims the convention in force. — [Roosevelt Corollary](../articles/foreign-relations-and-military/roosevelt-corollary.md) |
 | 1908 | Ray Stannard Baker publishes Following the Color Line, on the oppression of Black Americans. — [Muckrakers](../articles/gilded-age-and-progressive-era/muckrakers.md) |
 | 1908 | The AME Zion Church opens the Harriet Tubman Home for aged and poor African Americans on land she had transferred to it in 1903. — [Harriet Tubman](../articles/people-who-shaped-america/harriet-tubman.md) |
+| 1908-12 | Edison, Biograph and other licensed producers form the Motion Picture Patents Company, a patent pool that tries to control American film production. — [Hollywood](../articles/culture-and-arts/hollywood.md) |
 | 1909 | Canby's brother and nephew publish The Evolution of the American Flag, fixing the story in public memory. — [Betsy Ross flag myth](../articles/symbols-and-national-identity/betsy-ross-flag-myth.md) |
 | 1909 | Leaves the presidency after keeping a pledge not to seek another term. — [Theodore Roosevelt](../articles/presidents-and-founders/theodore-roosevelt.md) |
 | 1909 | Over the next two decades farmers break about 32 million acres of Great Plains sod, much of it for wheat. — [Dust Bowl](../articles/depression-and-world-war/dust-bowl.md) |
 | 1909 | Triangle workers join the garment strike known as the Uprising of the 20,000, which lasts about three months. — [Triangle Shirtwaist Factory fire](../articles/economy-and-work/triangle-shirtwaist-factory-fire.md) |
 | 1909-08-24 | Workers pour the first concrete at the Gatun lock site. — [Gatun Locks](../articles/regions-cities-and-landmarks/gatun-locks.md) |
+| 1909-11 | The independent New York Motion Picture Company arrives in Los Angeles and stays; many more companies follow in 1910. — [Hollywood](../articles/culture-and-arts/hollywood.md) |
 | 1910 – 1940 | **[Chinese detention-barracks poetry](../articles/culture-and-arts/chinese-detention-barracks-poetry.md)** (Work) |
 | 1910 | Elected to the New York State Senate. — [Franklin D. Roosevelt](../articles/presidents-and-founders/franklin-d-roosevelt.md) |
 | 1910 | Southwesterners begin moving west to California in significant numbers. — [Okies](../articles/society-and-people/okies.md) |
 | 1910 | The Angel Island Immigration Station opens in San Francisco Bay; it operates until 1940. — [Chinese Americans](../articles/society-and-people/chinese-americans.md) |
 | 1910 | The Great Migration out of the South begins; about six million people move north and west by 1970. — [African Americans](../articles/society-and-people/african-americans.md) |
+| 1910 | The town of Hollywood merges with Los Angeles to secure a water supply. — [Hollywood](../articles/culture-and-arts/hollywood.md) |
 | 1910-01-01 | Ford's Highland Park plant opens; it introduces a moving automobile assembly line in 1913. — [Detroit](../articles/regions-cities-and-landmarks/detroit.md) |
 | 1910-01-21 – 1940-11-05 | **[Angel Island Immigration Station](../articles/society-and-people/angel-island-immigration-station.md)** (Landmark) |
 | 1910-01-21 | The U.S. Immigration Station on Angel Island opens. — [Angel Island Immigration Station](../articles/society-and-people/angel-island-immigration-station.md) |
@@ -1196,6 +1200,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1910-05-06 | Walter Brookins flies solo for about 12 minutes, the Montgomery camp's only graduate. — [Wright Company School of Aviation](../articles/science-and-innovation/wright-company-school-of-aviation.md) |
 | 1911 | A federal law fixes the House at 433 seats, plus one each for Arizona and New Mexico on statehood. — [United States Congress](../articles/constitution-and-government/united-states-congress.md) |
 | 1911 | Deep in debt, S. S. McClure surrenders McClure's Magazine to creditors in the autumn. — [Muckrakers](../articles/gilded-age-and-progressive-era/muckrakers.md) |
+| 1911 | In the 1911–1912 season the Nestor company builds what is regarded as the first studio in Hollywood, at Sunset and Gower. — [Hollywood](../articles/culture-and-arts/hollywood.md) |
 | 1911-03-25 | **[Triangle Shirtwaist Factory fire](../articles/economy-and-work/triangle-shirtwaist-factory-fire.md)** (Event) |
 | 1911-03-25 | Fire breaks out on the eighth floor near closing time; the first alarm goes out at 4:45 p.m. and 146 workers die. — [Triangle Shirtwaist Factory fire](../articles/economy-and-work/triangle-shirtwaist-factory-fire.md) |
 | 1911-04-05 | The ILGWU organizes a funeral procession; about 100,000 people march behind the hearses on Fifth Avenue. — [Triangle Shirtwaist Factory fire](../articles/economy-and-work/triangle-shirtwaist-factory-fire.md) |
@@ -1207,6 +1212,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1911-10-05 | Date given in the earliest dated poem yet recorded (Island poem 100). — [Chinese detention-barracks poetry](../articles/culture-and-arts/chinese-detention-barracks-poetry.md) |
 | 1911-12-27 | A jury acquits Blanck and Harris. — [Triangle Shirtwaist Factory fire](../articles/economy-and-work/triangle-shirtwaist-factory-fire.md) |
 | 1912 | **[Minimum wage](../articles/economy-and-work/minimum-wage.md)** (Policy) |
+| 1912 | Carl Laemmle, a German-Jewish immigrant who had fought the Patents Company, founds Universal; he opens Universal City in 1915. — [Hollywood](../articles/culture-and-arts/hollywood.md) |
 | 1912 | Congress makes Alaska a territory. — [Alaska](../articles/states-and-territories/alaska.md) |
 | 1912 | Handy publishes "The Memphis Blues" and sells its rights for $100. — [Blues](../articles/culture-and-arts/blues.md) |
 | 1912 | Massachusetts enacts the first state minimum wage law; it takes effect on July 1, 1913. — [Minimum wage](../articles/economy-and-work/minimum-wage.md) |
@@ -1227,6 +1233,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1913-09-26 | **[Gatun Locks](../articles/regions-cities-and-landmarks/gatun-locks.md)** (Landmark) |
 | 1913-09-26 | The tug Gatun makes the first trial lockage, with valves worked by hand. — [Gatun Locks](../articles/regions-cities-and-landmarks/gatun-locks.md) |
 | 1913-10-10 | The Gamboa dike is destroyed, joining Gatun Lake with the Culebra Cut. — [Gatun Locks](../articles/regions-cities-and-landmarks/gatun-locks.md) |
+| 1914 | Cecil B. DeMille makes Hollywood his permanent studio home. — [Hollywood](../articles/culture-and-arts/hollywood.md) |
 | 1914 | Explores an uncharted river in Brazil. — [Theodore Roosevelt](../articles/presidents-and-founders/theodore-roosevelt.md) |
 | 1914 | Ford begins paying five dollars for an eight-hour day. — [Detroit](../articles/regions-cities-and-landmarks/detroit.md) |
 | 1914 | Handy publishes "St. Louis Blues," his best-known composition. — [Blues](../articles/culture-and-arts/blues.md) |
@@ -1277,6 +1284,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1921-08 | Stricken with polio at Campobello, New Brunswick; he never again walks unaided. — [Franklin D. Roosevelt](../articles/presidents-and-founders/franklin-d-roosevelt.md) |
 | 1921-08 | The Dow Jones Industrial Average stands at 63. — [Stock market crash of 1929](../articles/economy-and-work/stock-market-crash-of-1929.md) |
 | 1922 | Kid Ory's band records in California, the first recording by a Black New Orleans jazz band; Louis Armstrong joins King Oliver's Creole Jazz Band in Chicago. — [Jazz](../articles/culture-and-arts/jazz.md) |
+| 1922 | Producers form the Motion Picture Producers and Distributors of America under Will H. Hays to head off government censorship through self-regulation. — [Hollywood](../articles/culture-and-arts/hollywood.md) |
 | 1922 | Reclamation surveyors J. G. Tierney and Harold Connelly drown in the Colorado River while studying possible dam sites. — [Hoover Dam](../articles/regions-cities-and-landmarks/hoover-dam.md) |
 | 1922-11-24 | Representatives of seven states and the federal government sign the Colorado River Compact at Santa Fe, New Mexico. — [Colorado River](../articles/geography-and-environment/colorado-river.md) |
 | 1922-11-24 | Seven basin states sign the Colorado River Compact at Santa Fe. — [Hoover Dam](../articles/regions-cities-and-landmarks/hoover-dam.md) |
@@ -1320,6 +1328,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1929-11 | After the stock market crash, asks business leaders to hold wages and labor leaders not to press for raises. — [Herbert Hoover](../articles/presidents-and-founders/herbert-hoover.md) |
 | 1929-11 | By mid-November the Dow has lost almost half its value. — [Stock market crash of 1929](../articles/economy-and-work/stock-market-crash-of-1929.md) |
 | 1930 | Son House records for Paramount. — [Blues](../articles/culture-and-arts/blues.md) |
+| 1930 | The industry adopts the Production Code; from 1934 the Production Code Administration under Joseph Breen enforces it. — [Hollywood](../articles/culture-and-arts/hollywood.md) |
 | 1930-04-21 | The House of Representatives passes H.R. 14. — [The Star-Spangled Banner](../articles/symbols-and-national-identity/star-spangled-banner.md) |
 | 1930-06 | Hoover signs the Smoot-Hawley Tariff, raising duties on farm and industrial imports to historic highs. — [Great Depression](../articles/depression-and-world-war/great-depression.md) |
 | 1930-06 | Signs the Smoot-Hawley Tariff. — [Herbert Hoover](../articles/presidents-and-founders/herbert-hoover.md) |
@@ -1546,10 +1555,12 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1947-03-21 | Executive Order 9835 creates a loyalty program for federal employees, launching the domestic Red Scare. — [Cold War](../articles/cold-war-and-civil-rights/cold-war.md) |
 | 1947-04-30 | A congressional resolution makes the name Hoover Dam official. — [Hoover Dam](../articles/regions-cities-and-landmarks/hoover-dam.md) |
 | 1947-06 | Congress overrides President Truman's veto to pass the Taft-Hartley (Labor Management Relations) Act. — [Labor movement](../articles/economy-and-work/labor-movement.md) |
+| 1947-10-30 | Screenwriter Ring Lardner Jr. is removed from the stand at a House Un-American Activities Committee hearing; he and nine others become the blacklisted Hollywood Ten. — [Hollywood](../articles/culture-and-arts/hollywood.md) |
 | 1948 | Graduates from Morehouse College, where Benjamin E. Mays and George Kelsey shape his view of Christianity as a force for social change. — [Martin Luther King Jr.](../articles/people-who-shaped-america/martin-luther-king-jr.md) |
 | 1948 | The National Park Service takes custody of the bell and Independence Hall. — [Liberty Bell](../articles/symbols-and-national-identity/liberty-bell.md) |
 | 1948 | The terrazzo floor receives its first repairs. — [Winged Figures of the Republic](../articles/culture-and-arts/winged-figures-of-the-republic.md) |
 | 1948-03 | Britain, France, Belgium, the Netherlands and Luxembourg sign the Brussels Treaty, a five-nation collective defense pact. — [North Atlantic Treaty Organization](../articles/foreign-relations-and-military/nato.md) |
+| 1948-05-03 | In United States v. Paramount Pictures the Supreme Court rules block booking and price-fixing illegal, opening the way to separating studios from their theaters. — [Hollywood](../articles/culture-and-arts/hollywood.md) |
 | 1948-06 | The Soviets cut land and water routes to West Berlin; the Western Allies answer with an airlift. — [Cold War](../articles/cold-war-and-civil-rights/cold-war.md) |
 | 1948-06-11 | The Senate adopts the Vandenberg Resolution, backing U.S. association with regional collective-defense arrangements through constitutional processes. — [North Atlantic Treaty Organization](../articles/foreign-relations-and-military/nato.md) |
 | 1948-07-26 | Executive Order 9981 directs equal treatment and opportunity in the armed forces regardless of race. — [Civil rights movement](../articles/cold-war-and-civil-rights/civil-rights-movement.md) |
@@ -2037,6 +2048,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 2020-05-08 | BLS reports April unemployment of 14.7 percent and a loss of 20.5 million payroll jobs. — [COVID-19 pandemic in the United States](../articles/contemporary-america/covid-19-pandemic-in-the-united-states.md) |
 | 2020-05-28 | Recorded U.S. COVID-19 deaths pass 100,000. — [COVID-19 pandemic in the United States](../articles/contemporary-america/covid-19-pandemic-in-the-united-states.md) |
 | 2020-07-06 | In Chiafalo v. Washington, the Supreme Court rules that states may enforce electors' pledges to vote for their party's nominee. — [Electoral College](../articles/democracy-and-elections/electoral-college.md) |
+| 2020-08-07 | A federal court in New York terminates the Paramount consent decrees after more than seventy years. — [Hollywood](../articles/culture-and-arts/hollywood.md) |
 | 2020-12-11 | FDA issues the first COVID-19 vaccine emergency use authorization, for the Pfizer-BioNTech vaccine. — [COVID-19 pandemic in the United States](../articles/contemporary-america/covid-19-pandemic-in-the-united-states.md) |
 | 2020-12-14 | New York nurse Sandra Lindsay becomes the first American outside clinical trials to receive a COVID-19 vaccine. — [COVID-19 pandemic in the United States](../articles/contemporary-america/covid-19-pandemic-in-the-united-states.md) |
 | 2021 | The Smithsonian releases the Smithsonian Anthology of Hip-Hop and Rap, 129 tracks on nine CDs. — [Hip hop](../articles/culture-and-arts/hip-hop.md) |
