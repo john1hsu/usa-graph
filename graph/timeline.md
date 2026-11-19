@@ -4,11 +4,16 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 
 | Date | What |
 |---|---|
+| 0600 | **[Chunkey](../articles/native-nations/chunkey.md)** (Tradition) |
+| 0600 | By an estimate of Timothy Pauketat's cited by Maryland's state archaeology lab, chunkey begins in the Cahokia area around this time. — [Chunkey](../articles/native-nations/chunkey.md) |
 | 0700 – 1400 | **[Cahokia](../articles/native-nations/cahokia.md)** (Landmark) |
 | 0700 | Native people begin living at the site on the Mississippi floodplain east of present-day St. Louis. — [Cahokia](../articles/native-nations/cahokia.md) |
+| 0900 | Chunkey stones become common in the American Bottom, the Mississippi floodplain around Cahokia. — [Chunkey](../articles/native-nations/chunkey.md) |
+| 0975 | Work begins on Cahokia's Grand Plaza, which later hosts large chunkey games. — [Chunkey](../articles/native-nations/chunkey.md) |
 | 1000 | By about 1000–1200 CE, according to recent carbon dating, Polynesian voyagers from the Marquesas have settled the islands; later voyagers come from the Society Islands. — [Hawaii](../articles/states-and-territories/hawaii.md) |
 | 1000 | The Mississippian culture flourishes in the river valley; its greatest center, Cahokia, rises near present-day St. Louis and lasts until about 1350. — [Mississippi River](../articles/geography-and-environment/mississippi-river.md) |
 | 1050 | A village of perhaps 1,000–2,000 people is rapidly redesigned into a planned city around a great plaza; archaeologist Timothy Pauketat calls it ancient America's "Big Bang." — [Cahokia](../articles/native-nations/cahokia.md) |
+| 1050 | Cahokia's rapid growth begins; afterwards communities from the Great Lakes to the Missouri watershed adopt chunkey and other Cahokian practices. — [Chunkey](../articles/native-nations/chunkey.md) |
 | 1050 | Cahokia, east of present-day St. Louis, undergoes a rapid political and social transformation; its population grows almost fivefold in a generation. — [Native Americans](../articles/native-nations/native-americans.md) |
 | 1050 | Cahokia, near present-day St. Louis, enters a period of rapid growth; at its peak it is the largest settlement north of Mexico. — [United States](../articles/states-and-territories/united-states.md) |
 | 1200 | After a peak of roughly 1050–1200, decline sets in; lake sediments record a major Mississippi River flood around this time. — [Cahokia](../articles/native-nations/cahokia.md) |
@@ -456,6 +461,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1804-08-20 | Sergeant Charles Floyd dies, probably of a ruptured appendix, near present-day Sioux City, Iowa — the expedition's only death. — [Lewis and Clark Expedition](../articles/early-republic-and-expansion/lewis-and-clark-expedition.md) |
 | 1804-09 | A council with the Lakota (called Teton Sioux in the journals) near present-day Pierre, South Dakota, nearly turns violent. — [Lewis and Clark Expedition](../articles/early-republic-and-expansion/lewis-and-clark-expedition.md) |
 | 1804-10 | The expedition reaches the Mandan and Hidatsa villages and builds Fort Mandan, where Toussaint Charbonneau and Sacagawea join it. — [Lewis and Clark Expedition](../articles/early-republic-and-expansion/lewis-and-clark-expedition.md) |
+| 1804-12-15 | Sergeant John Ordway of the Lewis and Clark Expedition describes a Mandan game played with a stone ring and sliding sticks. — [Chunkey](../articles/native-nations/chunkey.md) |
 | 1805-04-07 | The keelboat heads back to St. Louis with specimens, maps and reports while the permanent party pushes west. — [Lewis and Clark Expedition](../articles/early-republic-and-expansion/lewis-and-clark-expedition.md) |
 | 1805-06-11 | Fire destroys nearly the whole town; Judge Augustus Woodward lays out a new radial street plan. — [Detroit](../articles/regions-cities-and-landmarks/detroit.md) |
 | 1805-08-17 | The party reaches the head of navigation on the Missouri, meets the Shoshone and crosses the Continental Divide at Lemhi Pass. — [Lewis and Clark Expedition](../articles/early-republic-and-expansion/lewis-and-clark-expedition.md) |
@@ -602,6 +608,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1831-03-18 | The Court denies the injunction and dismisses the Cherokee Nation's bill for want of jurisdiction. — [Cherokee Nation v. Georgia](../articles/native-nations/cherokee-nation-v-georgia.md) |
 | 1831-08-22 | Nat Turner's rebellion begins in Southampton County, Virginia. — [Slavery in the United States](../articles/society-and-people/slavery-in-the-united-states.md) |
 | 1832 | By this year almost every state has its voters, rather than its legislature, choose presidential electors. — [Electoral College](../articles/democracy-and-elections/electoral-college.md) |
+| 1832 | George Catlin sketches the Mandan game of tchung-kee, later painting it in 1832–1833. — [Chunkey](../articles/native-nations/chunkey.md) |
 | 1832 | Holds in Worcester v. Georgia that Georgia's laws have no force in the Cherokee Nation. — [John Marshall](../articles/people-who-shaped-america/john-marshall.md) |
 | 1832 | In Worcester v. Georgia the Court holds that Georgia law has no force within the Cherokee Nation. — [Tribal sovereignty](../articles/native-nations/tribal-sovereignty.md) |
 | 1832 | In Worcester v. Georgia the Court holds that Georgia's laws have no force within the Cherokee Nation. — [Cherokee Nation v. Georgia](../articles/native-nations/cherokee-nation-v-georgia.md) |
@@ -1812,6 +1819,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1966 | The Veterans Readjustment Benefits Act provides education benefits and home and farm loans for Vietnam-era veterans. — [Servicemen's Readjustment Act of 1944](../articles/cold-war-and-civil-rights/servicemens-readjustment-act-of-1944.md) |
 | 1966-06-16 | Stokely Carmichael of SNCC makes Black Power a public slogan at a rally in Greenwood, Mississippi. — [Civil rights movement](../articles/cold-war-and-civil-rights/civil-rights-movement.md) |
 | 1966-08-26 | The Chicago Freedom Movement reaches an open-housing summit agreement with city officials and lenders. — [Civil rights movement](../articles/cold-war-and-civil-rights/civil-rights-movement.md) |
+| 1967 | Melvin Fowler begins excavating Cahokia's Mound 72, where a burial holds a cache of 15 polished chunkey stones. — [Chunkey](../articles/native-nations/chunkey.md) |
 | 1967 | The West Coast/Alaska Tsunami Warning Center is founded at Palmer because of the earthquake (renamed the National Tsunami Warning Center in 2013). — [1964 Alaska earthquake](../articles/geography-and-environment/1964-alaska-earthquake.md) |
 | 1967-02-01 | Under the 1966 amendments, farmworkers are covered by the federal minimum for the first time, at $1.00 an hour. — [Minimum wage](../articles/economy-and-work/minimum-wage.md) |
 | 1967-02-10 | The Twenty-fifth Amendment is ratified, setting rules for succession and presidential disability. — [Presidency of the United States](../articles/constitution-and-government/presidency-of-the-united-states.md) |
@@ -2024,6 +2032,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 2009-06 | The recession ends, after 18 months. — [Great Recession](../articles/contemporary-america/great-recession.md) |
 | 2009-07-24 | The federal minimum rises to $7.25 an hour, its rate since. — [Minimum wage](../articles/economy-and-work/minimum-wage.md) |
 | 2009-08 | The Osage Nation buys Sugarloaf Mound in St. Louis, the city's last surviving mound. — [Cahokia](../articles/native-nations/cahokia.md) |
+| 2009-09 | Pauketat's article "America's First Pastime" argues that chunkey helped organize Cahokian social and political life. — [Chunkey](../articles/native-nations/chunkey.md) |
 | 2009-09-09 | President Obama addresses a joint session of Congress to press for health care reform. — [Affordable Care Act](../articles/contemporary-america/affordable-care-act.md) |
 | 2009-10 | Unemployment peaks at 10.0 percent. — [Great Recession](../articles/contemporary-america/great-recession.md) |
 | 2009-12-01 | In a speech at West Point, President Obama approves a surge of 33,000 more U.S. troops, with withdrawals to begin in July 2011. — [War in Afghanistan (2001–2021)](../articles/foreign-relations-and-military/war-in-afghanistan.md) |
@@ -2153,6 +2162,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 2023-07 | Preservationists launch a Save the Star Map campaign after the terrazzo work stalls. — [Winged Figures of the Republic](../articles/culture-and-arts/winged-figures-of-the-republic.md) |
 | 2023-07-20 | The U.S. Senate agrees to S.Res. 305, designating August 11, 2023, as Hip Hop Celebration Day for the culture's 50th anniversary. — [Hip hop](../articles/culture-and-arts/hip-hop.md) |
 | 2024-03-07 | Sweden becomes the 32nd member. — [North Atlantic Treaty Organization](../articles/foreign-relations-and-military/nato.md) |
+| 2024-04-13 | The Cherokee Nation includes chunkey in a Traditional Native Games competition at One Fire Field in Tahlequah, Oklahoma. — [Chunkey](../articles/native-nations/chunkey.md) |
 | 2024-07-30 | The Interior Department's boarding school report identifies 417 federal Indian boarding schools and at least 973 children who died while attending them. — [Native Americans](../articles/native-nations/native-americans.md) |
 | 2024-12-23 | Public Law 118-206 designates the bald eagle as the national bird. — [National symbols of the United States](../articles/symbols-and-national-identity/national-symbols-of-the-united-states.md) |
 | 2025 | The BLS counts 14.7 million union members, 10.0 percent of wage and salary workers. — [Labor movement](../articles/economy-and-work/labor-movement.md) |

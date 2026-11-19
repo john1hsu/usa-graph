@@ -3459,6 +3459,98 @@
 <https://github.com/john1hsu/usa-graph/id/chinese-exclusion-act> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/chinese-exclusion-act/timeline/9> .
 <https://github.com/john1hsu/usa-graph/id/chinese-exclusion-act> <https://schema.org/endDate> "1943"^^<http://www.w3.org/2001/XMLSchema#gYear> .
 <https://github.com/john1hsu/usa-graph/id/chinese-exclusion-act> <https://schema.org/startDate> "1882-05-06"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/chunkey/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Misconception> .
+<https://github.com/john1hsu/usa-graph/id/chunkey/misconception> <https://github.com/john1hsu/usa-graph/ontology#fact> "The game outlived Cahokia by centuries — a Lewis and Clark expedition member recorded Mandan players in 1804 and George Catlin painted them in 1832–1833 — and the Cherokee and Chickasaw nations teach and play it today." .
+<https://github.com/john1hsu/usa-graph/id/chunkey/misconception> <https://github.com/john1hsu/usa-graph/ontology#myth> "Chunkey is a lost ancient game that disappeared when Cahokia was abandoned." .
+<https://github.com/john1hsu/usa-graph/id/chunkey/misconception> <https://github.com/john1hsu/usa-graph/ontology#why> "Chunkey is best known through Cahokia's archaeology and museum displays of its stones, and it faded in many Southeastern communities after European contact, so it is easy to picture it as purely prehistoric." .
+<https://github.com/john1hsu/usa-graph/id/chunkey/review/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+<https://github.com/john1hsu/usa-graph/id/chunkey/review/1> <http://www.w3.org/2000/01/rdf-schema#label> "Why do archaeologists treat finely made chunkey stones found far from Cahokia as evidence of Cahokia's influence?" .
+<https://github.com/john1hsu/usa-graph/id/chunkey/review/1> <https://github.com/john1hsu/usa-graph/ontology#answer> "The best stones were made in volume in downtown Cahokia from honey-coloured sandstone or quartzite to a higher standard than others, and after about 1050 they turn up across the Mississippi watershed alongside other Cahokian practices, suggesting the game spread outward from the city." .
+<https://github.com/john1hsu/usa-graph/id/chunkey/review/1> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/chunkey> .
+<https://github.com/john1hsu/usa-graph/id/chunkey/review/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+<https://github.com/john1hsu/usa-graph/id/chunkey/review/2> <http://www.w3.org/2000/01/rdf-schema#label> "How was chunkey connected to political power in the Mississippian world?" .
+<https://github.com/john1hsu/usa-graph/id/chunkey/review/2> <https://github.com/john1hsu/usa-graph/ontology#answer> "Players appear in Mississippian imagery with chiefly symbols, fine stones were buried with elite dead and may have belonged to chiefly lineages, and Pauketat argues Cahokian envoys used the game to spread a regional peace, while others stress its role in building shared and rival identities." .
+<https://github.com/john1hsu/usa-graph/id/chunkey/review/2> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/chunkey> .
+<https://github.com/john1hsu/usa-graph/id/chunkey/review/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+<https://github.com/john1hsu/usa-graph/id/chunkey/review/3> <http://www.w3.org/2000/01/rdf-schema#label> "How do we know chunkey survived long after Cahokia was abandoned?" .
+<https://github.com/john1hsu/usa-graph/id/chunkey/review/3> <https://github.com/john1hsu/usa-graph/ontology#answer> "Written and visual records show it — John Ordway described a Mandan game in December 1804, and George Catlin sketched and painted Mandan tchung-kee in 1832–1833 — and Native nations such as the Cherokee and Chickasaw still play it." .
+<https://github.com/john1hsu/usa-graph/id/chunkey/review/3> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/chunkey> .
+<https://github.com/john1hsu/usa-graph/id/chunkey/timeline/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/chunkey/timeline/1> <http://www.w3.org/2000/01/rdf-schema#label> "By an estimate of Timothy Pauketat's cited by Maryland's state archaeology lab, chunkey begins in the Cahokia area around this time." .
+<https://github.com/john1hsu/usa-graph/id/chunkey/timeline/1> <https://github.com/john1hsu/usa-graph/ontology#date> "0600"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://github.com/john1hsu/usa-graph/id/chunkey/timeline/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/chunkey/timeline/2> <http://www.w3.org/2000/01/rdf-schema#label> "Chunkey stones become common in the American Bottom, the Mississippi floodplain around Cahokia." .
+<https://github.com/john1hsu/usa-graph/id/chunkey/timeline/2> <https://github.com/john1hsu/usa-graph/ontology#date> "0900"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://github.com/john1hsu/usa-graph/id/chunkey/timeline/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/chunkey/timeline/3> <http://www.w3.org/2000/01/rdf-schema#label> "Work begins on Cahokia's Grand Plaza, which later hosts large chunkey games." .
+<https://github.com/john1hsu/usa-graph/id/chunkey/timeline/3> <https://github.com/john1hsu/usa-graph/ontology#date> "0975"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://github.com/john1hsu/usa-graph/id/chunkey/timeline/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/chunkey/timeline/4> <http://www.w3.org/2000/01/rdf-schema#label> "Cahokia's rapid growth begins; afterwards communities from the Great Lakes to the Missouri watershed adopt chunkey and other Cahokian practices." .
+<https://github.com/john1hsu/usa-graph/id/chunkey/timeline/4> <https://github.com/john1hsu/usa-graph/ontology#date> "1050"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://github.com/john1hsu/usa-graph/id/chunkey/timeline/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/chunkey/timeline/5> <http://www.w3.org/2000/01/rdf-schema#label> "Sergeant John Ordway of the Lewis and Clark Expedition describes a Mandan game played with a stone ring and sliding sticks." .
+<https://github.com/john1hsu/usa-graph/id/chunkey/timeline/5> <https://github.com/john1hsu/usa-graph/ontology#date> "1804-12-15"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/chunkey/timeline/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/chunkey/timeline/6> <http://www.w3.org/2000/01/rdf-schema#label> "George Catlin sketches the Mandan game of tchung-kee, later painting it in 1832–1833." .
+<https://github.com/john1hsu/usa-graph/id/chunkey/timeline/6> <https://github.com/john1hsu/usa-graph/ontology#date> "1832"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://github.com/john1hsu/usa-graph/id/chunkey/timeline/7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/chunkey/timeline/7> <http://www.w3.org/2000/01/rdf-schema#label> "Melvin Fowler begins excavating Cahokia's Mound 72, where a burial holds a cache of 15 polished chunkey stones." .
+<https://github.com/john1hsu/usa-graph/id/chunkey/timeline/7> <https://github.com/john1hsu/usa-graph/ontology#date> "1967"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://github.com/john1hsu/usa-graph/id/chunkey/timeline/8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/chunkey/timeline/8> <http://www.w3.org/2000/01/rdf-schema#label> "Pauketat's article \"America's First Pastime\" argues that chunkey helped organize Cahokian social and political life." .
+<https://github.com/john1hsu/usa-graph/id/chunkey/timeline/8> <https://github.com/john1hsu/usa-graph/ontology#date> "2009-09"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> .
+<https://github.com/john1hsu/usa-graph/id/chunkey/timeline/9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/chunkey/timeline/9> <http://www.w3.org/2000/01/rdf-schema#label> "The Cherokee Nation includes chunkey in a Traditional Native Games competition at One Fire Field in Tahlequah, Oklahoma." .
+<https://github.com/john1hsu/usa-graph/id/chunkey/timeline/9> <https://github.com/john1hsu/usa-graph/ontology#date> "2024-04-13"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/chunkey> <http://purl.org/dc/terms/created> "2026-11-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/chunkey> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Tradition> .
+<https://github.com/john1hsu/usa-graph/id/chunkey> <http://www.w3.org/2000/01/rdf-schema#label> "Chunkey" .
+<https://github.com/john1hsu/usa-graph/id/chunkey> <http://www.w3.org/2004/02/skos/core#altLabel> "Chungke" .
+<https://github.com/john1hsu/usa-graph/id/chunkey> <http://www.w3.org/2004/02/skos/core#altLabel> "Chunky" .
+<https://github.com/john1hsu/usa-graph/id/chunkey> <http://www.w3.org/2004/02/skos/core#altLabel> "Tchung-kee" .
+<https://github.com/john1hsu/usa-graph/id/chunkey> <http://www.w3.org/2004/02/skos/core#altLabel> "chunkey stone game" .
+<https://github.com/john1hsu/usa-graph/id/chunkey> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/usa-graph/id/mississippian-culture> .
+<https://github.com/john1hsu/usa-graph/id/chunkey> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/usa-graph/id/native-americans> .
+<https://github.com/john1hsu/usa-graph/id/chunkey> <http://www.w3.org/2004/02/skos/core#definition> "Chunkey is a Native American game in which a player rolls a polished stone disk across a smooth court and contestants throw or slide long poles after it, scoring by landing closest to where it stops; it flourished at Cahokia and across the Mississippian world from about 1050, was still played by nations such as the Mandan in the 1800s, and is being revived today by the Cherokee Nation, the Chickasaw Nation and others." .
+<https://github.com/john1hsu/usa-graph/id/chunkey> <http://www.w3.org/2004/02/skos/core#inScheme> <https://github.com/john1hsu/usa-graph/id/scheme/native-nations> .
+<https://github.com/john1hsu/usa-graph/id/chunkey> <http://www.w3.org/2004/02/skos/core#prefLabel> "Chunkey" .
+<https://github.com/john1hsu/usa-graph/id/chunkey> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/cahokia> .
+<https://github.com/john1hsu/usa-graph/id/chunkey> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/cherokee-nation> .
+<https://github.com/john1hsu/usa-graph/id/chunkey> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/chickasaw-nation> .
+<https://github.com/john1hsu/usa-graph/id/chunkey> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/lewis-and-clark-expedition> .
+<https://github.com/john1hsu/usa-graph/id/chunkey> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/mandan> .
+<https://github.com/john1hsu/usa-graph/id/chunkey> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/stickball> .
+<https://github.com/john1hsu/usa-graph/id/chunkey> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/chunkey/s10> .
+<https://github.com/john1hsu/usa-graph/id/chunkey> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/chunkey/s11> .
+<https://github.com/john1hsu/usa-graph/id/chunkey> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/chunkey/s12> .
+<https://github.com/john1hsu/usa-graph/id/chunkey> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/chunkey/s1> .
+<https://github.com/john1hsu/usa-graph/id/chunkey> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/chunkey/s2> .
+<https://github.com/john1hsu/usa-graph/id/chunkey> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/chunkey/s3> .
+<https://github.com/john1hsu/usa-graph/id/chunkey> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/chunkey/s4> .
+<https://github.com/john1hsu/usa-graph/id/chunkey> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/chunkey/s5> .
+<https://github.com/john1hsu/usa-graph/id/chunkey> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/chunkey/s6> .
+<https://github.com/john1hsu/usa-graph/id/chunkey> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/chunkey/s7> .
+<https://github.com/john1hsu/usa-graph/id/chunkey> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/chunkey/s8> .
+<https://github.com/john1hsu/usa-graph/id/chunkey> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/chunkey/s9> .
+<https://github.com/john1hsu/usa-graph/id/chunkey> <https://github.com/john1hsu/usa-graph/ontology#domain> "native-nations" .
+<https://github.com/john1hsu/usa-graph/id/chunkey> <https://github.com/john1hsu/usa-graph/ontology#evidenceStatus> "interpretive" .
+<https://github.com/john1hsu/usa-graph/id/chunkey> <https://github.com/john1hsu/usa-graph/ontology#file> "articles/native-nations/chunkey.md" .
+<https://github.com/john1hsu/usa-graph/id/chunkey> <https://github.com/john1hsu/usa-graph/ontology#level> "introductory" .
+<https://github.com/john1hsu/usa-graph/id/chunkey> <https://github.com/john1hsu/usa-graph/ontology#misconception> <https://github.com/john1hsu/usa-graph/id/chunkey/misconception> .
+<https://github.com/john1hsu/usa-graph/id/chunkey> <https://github.com/john1hsu/usa-graph/ontology#originatedIn> <https://github.com/john1hsu/usa-graph/id/cahokia> .
+<https://github.com/john1hsu/usa-graph/id/chunkey> <https://github.com/john1hsu/usa-graph/ontology#partOf> <https://github.com/john1hsu/usa-graph/id/mississippian-culture> .
+<https://github.com/john1hsu/usa-graph/id/chunkey> <https://github.com/john1hsu/usa-graph/ontology#requires> <https://github.com/john1hsu/usa-graph/id/cahokia> .
+<https://github.com/john1hsu/usa-graph/id/chunkey> <https://github.com/john1hsu/usa-graph/ontology#studiedIn> <https://github.com/john1hsu/usa-graph/id/archaeology> .
+<https://github.com/john1hsu/usa-graph/id/chunkey> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/chunkey/timeline/1> .
+<https://github.com/john1hsu/usa-graph/id/chunkey> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/chunkey/timeline/2> .
+<https://github.com/john1hsu/usa-graph/id/chunkey> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/chunkey/timeline/3> .
+<https://github.com/john1hsu/usa-graph/id/chunkey> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/chunkey/timeline/4> .
+<https://github.com/john1hsu/usa-graph/id/chunkey> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/chunkey/timeline/5> .
+<https://github.com/john1hsu/usa-graph/id/chunkey> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/chunkey/timeline/6> .
+<https://github.com/john1hsu/usa-graph/id/chunkey> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/chunkey/timeline/7> .
+<https://github.com/john1hsu/usa-graph/id/chunkey> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/chunkey/timeline/8> .
+<https://github.com/john1hsu/usa-graph/id/chunkey> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/chunkey/timeline/9> .
+<https://github.com/john1hsu/usa-graph/id/chunkey> <https://schema.org/startDate> "0600"^^<http://www.w3.org/2001/XMLSchema#gYear> .
 <https://github.com/john1hsu/usa-graph/id/civil-rights-movement/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Misconception> .
 <https://github.com/john1hsu/usa-graph/id/civil-rights-movement/misconception> <https://github.com/john1hsu/usa-graph/ontology#fact> "The movement was built by many organizations and local people, especially students and Black women such as Ella Baker, Diane Nash, Clara Luper and Gloria Richardson, and it confronted segregation in housing, schools and jobs in Northern cities too, as the 1966 Chicago campaign showed." .
 <https://github.com/john1hsu/usa-graph/id/civil-rights-movement/misconception> <https://github.com/john1hsu/usa-graph/ontology#myth> "The civil rights movement was a Southern story, led from the top by Martin Luther King Jr., against a problem confined to the South." .
@@ -16045,6 +16137,78 @@
 <https://github.com/john1hsu/usa-graph/id/source/chinese-exclusion-act/s8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
 <https://github.com/john1hsu/usa-graph/id/source/chinese-exclusion-act/s8> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "scholarly-encyclopedia" .
 <https://github.com/john1hsu/usa-graph/id/source/chinese-exclusion-act/s8> <https://schema.org/url> <https://encyclopedia.densho.org/Chinese%20Exclusion%20Act/> .
+<https://github.com/john1hsu/usa-graph/id/source/chunkey/s10> <http://purl.org/dc/terms/date> "2026-11-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/chunkey/s10> <http://purl.org/dc/terms/publisher> "Society for American Archaeology annual meeting paper, via tDAR (the Digital Archaeological Record)" .
+<https://github.com/john1hsu/usa-graph/id/source/chunkey/s10> <http://purl.org/dc/terms/title> "Rock and Roles: The Chunkey Experience in the Mississippian World (Thomas Zych, 2015)" .
+<https://github.com/john1hsu/usa-graph/id/source/chunkey/s10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/chunkey/s10> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/usa-graph/id/source/chunkey/s10> <https://schema.org/url> <https://core.tdar.org/document/394867/rock-and-roles-the-chunkey-experience-in-the-mississippian-world> .
+<https://github.com/john1hsu/usa-graph/id/source/chunkey/s11> <http://purl.org/dc/terms/date> "2026-11-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/chunkey/s11> <http://purl.org/dc/terms/publisher> "Anadisgoi, Cherokee Nation" .
+<https://github.com/john1hsu/usa-graph/id/source/chunkey/s11> <http://purl.org/dc/terms/title> "Cherokee Nation to host Traditional Native Games competition as part of 2024 Cherokee National Holiday" .
+<https://github.com/john1hsu/usa-graph/id/source/chunkey/s11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/chunkey/s11> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/usa-graph/id/source/chunkey/s11> <https://schema.org/url> <https://anadisgoi.com/index.php/culture-stories/cherokee-nation-to-host-traditional-native-games-competition-as-part-of-2024-cherokee-national-holiday> .
+<https://github.com/john1hsu/usa-graph/id/source/chunkey/s12> <http://purl.org/dc/terms/date> "2026-11-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/chunkey/s12> <http://purl.org/dc/terms/publisher> "Chickasaw Nation, Chickasaw.tv" .
+<https://github.com/john1hsu/usa-graph/id/source/chunkey/s12> <http://purl.org/dc/terms/title> "Thrive: Traditions, Season 5, Episode 13 — Chunkey" .
+<https://github.com/john1hsu/usa-graph/id/source/chunkey/s12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/chunkey/s12> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/usa-graph/id/source/chunkey/s12> <https://schema.org/url> <https://www.chickasaw.tv/episodes/thrive-traditions-season-5-episode-13-chunkey> .
+<https://github.com/john1hsu/usa-graph/id/source/chunkey/s1> <http://purl.org/dc/terms/date> "2026-11-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/chunkey/s1> <http://purl.org/dc/terms/publisher> "University of Oregon, Conflict and Dispute Resolution Program (Scholars' Bank)" .
+<https://github.com/john1hsu/usa-graph/id/source/chunkey/s1> <http://purl.org/dc/terms/title> "Chunkey, Cahokia, and Indigenous Conflict Resolution (M.S. thesis, Anne Gregory, 2020)" .
+<https://github.com/john1hsu/usa-graph/id/source/chunkey/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/chunkey/s1> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/usa-graph/id/source/chunkey/s1> <https://schema.org/url> <https://scholarsbank.uoregon.edu/bitstreams/9ec5449b-ddef-4a19-a69c-e438639aa104/download> .
+<https://github.com/john1hsu/usa-graph/id/source/chunkey/s2> <http://purl.org/dc/terms/date> "2026-11-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/chunkey/s2> <http://purl.org/dc/terms/publisher> "Archaeology 62, no. 5 (Archaeological Institute of America, 2009)" .
+<https://github.com/john1hsu/usa-graph/id/source/chunkey/s2> <http://purl.org/dc/terms/title> "America's First Pastime (Timothy R. Pauketat)" .
+<https://github.com/john1hsu/usa-graph/id/source/chunkey/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/chunkey/s2> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "magazine" .
+<https://github.com/john1hsu/usa-graph/id/source/chunkey/s2> <https://schema.org/url> <https://archive.archaeology.org/0909/abstracts/pastime.html> .
+<https://github.com/john1hsu/usa-graph/id/source/chunkey/s3> <http://purl.org/dc/terms/date> "2026-11-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/chunkey/s3> <http://purl.org/dc/terms/publisher> "Encyclopedia of Alabama" .
+<https://github.com/john1hsu/usa-graph/id/source/chunkey/s3> <http://purl.org/dc/terms/title> "Games of the Southeastern Indians (Eric E. Bowne)" .
+<https://github.com/john1hsu/usa-graph/id/source/chunkey/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/chunkey/s3> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "scholarly-encyclopedia" .
+<https://github.com/john1hsu/usa-graph/id/source/chunkey/s3> <https://schema.org/url> <https://encyclopediaofalabama.org/article/games-of-the-southeastern-indians/> .
+<https://github.com/john1hsu/usa-graph/id/source/chunkey/s4> <http://purl.org/dc/terms/date> "2026-11-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/chunkey/s4> <http://purl.org/dc/terms/publisher> "Illinois State Museum, RiverWeb" .
+<https://github.com/john1hsu/usa-graph/id/source/chunkey/s4> <http://purl.org/dc/terms/title> "Mississippian society: hamlet life in summer" .
+<https://github.com/john1hsu/usa-graph/id/source/chunkey/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/chunkey/s4> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "museum" .
+<https://github.com/john1hsu/usa-graph/id/source/chunkey/s4> <https://schema.org/url> <https://www.museum.state.il.us/RiverWeb/landings/Ambot/prehistory/mississippian/society/set-hamletsummer2.html> .
+<https://github.com/john1hsu/usa-graph/id/source/chunkey/s5> <http://purl.org/dc/terms/date> "2026-11-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/chunkey/s5> <http://purl.org/dc/terms/publisher> "University of Illinois Department of Anthropology, American Indian Online Project (2002)" .
+<https://github.com/john1hsu/usa-graph/id/source/chunkey/s5> <http://purl.org/dc/terms/title> "The Mississippian Cultures" .
+<https://github.com/john1hsu/usa-graph/id/source/chunkey/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/chunkey/s5> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/usa-graph/id/source/chunkey/s5> <https://schema.org/url> <https://cdn.citl.illinois.edu/courses/aiiopcmpss/essays/mississippian/miss4.htm> .
+<https://github.com/john1hsu/usa-graph/id/source/chunkey/s6> <http://purl.org/dc/terms/date> "2026-11-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/chunkey/s6> <http://purl.org/dc/terms/publisher> "University of Illinois News Bureau" .
+<https://github.com/john1hsu/usa-graph/id/source/chunkey/s6> <http://purl.org/dc/terms/title> "Fresh look at burials, mass graves tells a new story of Cahokia (Diana Yates, 2016)" .
+<https://github.com/john1hsu/usa-graph/id/source/chunkey/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/chunkey/s6> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/usa-graph/id/source/chunkey/s6> <https://schema.org/url> <https://news.illinois.edu/fresh-look-at-burials-mass-graves-tells-a-new-story-of-cahokia/> .
+<https://github.com/john1hsu/usa-graph/id/source/chunkey/s7> <http://purl.org/dc/terms/date> "2026-11-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/chunkey/s7> <http://purl.org/dc/terms/publisher> "Journals of the Lewis and Clark Expedition, University of Nebraska Press and University of Nebraska–Lincoln" .
+<https://github.com/john1hsu/usa-graph/id/source/chunkey/s7> <http://purl.org/dc/terms/title> "December 15, 1804 (journal entries of Clark, Ordway and Gass)" .
+<https://github.com/john1hsu/usa-graph/id/source/chunkey/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/chunkey/s7> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/usa-graph/id/source/chunkey/s7> <https://schema.org/url> <https://lewisandclarkjournals.unl.edu/item/lc.jrn.1804-12-15> .
+<https://github.com/john1hsu/usa-graph/id/source/chunkey/s8> <http://purl.org/dc/terms/date> "2026-11-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/chunkey/s8> <http://purl.org/dc/terms/publisher> "Smithsonian American Art Museum" .
+<https://github.com/john1hsu/usa-graph/id/source/chunkey/s8> <http://purl.org/dc/terms/title> "Tchung-kee, a Mandan Game Played with a Ring and Pole (George Catlin, 1832–1833)" .
+<https://github.com/john1hsu/usa-graph/id/source/chunkey/s8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/chunkey/s8> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "museum" .
+<https://github.com/john1hsu/usa-graph/id/source/chunkey/s8> <https://schema.org/url> <https://americanart.si.edu/artwork/tchung-kee-mandan-game-played-ring-and-pole-4407> .
+<https://github.com/john1hsu/usa-graph/id/source/chunkey/s9> <http://purl.org/dc/terms/date> "2026-11-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/chunkey/s9> <http://purl.org/dc/terms/publisher> "Maryland Archaeological Conservation Lab, Jefferson Patterson Park and Museum" .
+<https://github.com/john1hsu/usa-graph/id/source/chunkey/s9> <http://purl.org/dc/terms/title> "Native American Gaming Stones (Rebecca Morehouse, Curator's Choice, January 2011)" .
+<https://github.com/john1hsu/usa-graph/id/source/chunkey/s9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/chunkey/s9> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/usa-graph/id/source/chunkey/s9> <https://schema.org/url> <https://apps.jefpat.maryland.gov/curatorschoice/CCIssues/2011-01.aspx> .
 <https://github.com/john1hsu/usa-graph/id/source/civil-rights-movement/s10> <http://purl.org/dc/terms/date> "2026-11-14"^^<http://www.w3.org/2001/XMLSchema#date> .
 <https://github.com/john1hsu/usa-graph/id/source/civil-rights-movement/s10> <http://purl.org/dc/terms/publisher> "Oxford University Press, Oxford Learning Link (Black Liberation from Reconstruction to Black Lives Matter)" .
 <https://github.com/john1hsu/usa-graph/id/source/civil-rights-movement/s10> <http://purl.org/dc/terms/title> "Historian: Jacquelyn Dowd Hall (excerpt from 'The Long Civil Rights Movement and the Political Uses of the Past')" .

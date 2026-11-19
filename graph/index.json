@@ -5820,6 +5820,152 @@
   ]
  },
  {
+  "id": "us:chunkey",
+  "title": "Chunkey",
+  "aliases": [
+   "Chunky",
+   "Chungke",
+   "Tchung-kee",
+   "chunkey stone game"
+  ],
+  "type": "Tradition",
+  "domain": "native-nations",
+  "level": "introductory",
+  "evidenceStatus": "interpretive",
+  "file": "articles/native-nations/chunkey.md",
+  "created": "2026-11-19",
+  "summary": "Chunkey is a Native American game in which a player rolls a polished stone disk across a smooth court and contestants throw or slide long poles after it, scoring by landing closest to where it stops; it flourished at Cahokia and across the Mississippian world from about 1050, was still played by nations such as the Mandan in the 1800s, and is being revived today by the Cherokee Nation, the Chickasaw Nation and others.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "us:native-americans"
+   },
+   {
+    "predicate": "skos:broader",
+    "object": "us:mississippian-culture"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:cahokia"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:cherokee-nation"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:chickasaw-nation"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:mandan"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:lewis-and-clark-expedition"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:stickball"
+   },
+   {
+    "predicate": "uso:requires",
+    "object": "us:cahokia"
+   },
+   {
+    "predicate": "uso:originatedIn",
+    "object": "us:cahokia",
+    "source": "s1",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "uso:partOf",
+    "object": "us:mississippian-culture",
+    "source": "s3",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:studiedIn",
+    "object": "us:archaeology",
+    "source": "s2",
+    "confidence": "high"
+   }
+  ],
+  "start": "0600",
+  "end": null,
+  "review": [
+   {
+    "question": "Why do archaeologists treat finely made chunkey stones found far from Cahokia as evidence of Cahokia's influence?",
+    "answer": "The best stones were made in volume in downtown Cahokia from honey-coloured sandstone or quartzite to a higher standard than others, and after about 1050 they turn up across the Mississippi watershed alongside other Cahokian practices, suggesting the game spread outward from the city."
+   },
+   {
+    "question": "How was chunkey connected to political power in the Mississippian world?",
+    "answer": "Players appear in Mississippian imagery with chiefly symbols, fine stones were buried with elite dead and may have belonged to chiefly lineages, and Pauketat argues Cahokian envoys used the game to spread a regional peace, while others stress its role in building shared and rival identities."
+   },
+   {
+    "question": "How do we know chunkey survived long after Cahokia was abandoned?",
+    "answer": "Written and visual records show it — John Ordway described a Mandan game in December 1804, and George Catlin sketched and painted Mandan tchung-kee in 1832–1833 — and Native nations such as the Cherokee and Chickasaw still play it."
+   }
+  ],
+  "timeline": [
+   {
+    "date": "0600",
+    "event": "By an estimate of Timothy Pauketat's cited by Maryland's state archaeology lab, chunkey begins in the Cahokia area around this time."
+   },
+   {
+    "date": "0900",
+    "event": "Chunkey stones become common in the American Bottom, the Mississippi floodplain around Cahokia."
+   },
+   {
+    "date": "0975",
+    "event": "Work begins on Cahokia's Grand Plaza, which later hosts large chunkey games."
+   },
+   {
+    "date": "1050",
+    "event": "Cahokia's rapid growth begins; afterwards communities from the Great Lakes to the Missouri watershed adopt chunkey and other Cahokian practices."
+   },
+   {
+    "date": "1804-12-15",
+    "event": "Sergeant John Ordway of the Lewis and Clark Expedition describes a Mandan game played with a stone ring and sliding sticks."
+   },
+   {
+    "date": "1832",
+    "event": "George Catlin sketches the Mandan game of tchung-kee, later painting it in 1832–1833."
+   },
+   {
+    "date": "1967",
+    "event": "Melvin Fowler begins excavating Cahokia's Mound 72, where a burial holds a cache of 15 polished chunkey stones."
+   },
+   {
+    "date": "2009-09",
+    "event": "Pauketat's article \"America's First Pastime\" argues that chunkey helped organize Cahokian social and political life."
+   },
+   {
+    "date": "2024-04-13",
+    "event": "The Cherokee Nation includes chunkey in a Traditional Native Games competition at One Fire Field in Tahlequah, Oklahoma."
+   }
+  ],
+  "misconception": {
+   "myth": "Chunkey is a lost ancient game that disappeared when Cahokia was abandoned.",
+   "fact": "The game outlived Cahokia by centuries — a Lewis and Clark expedition member recorded Mandan players in 1804 and George Catlin painted them in 1832–1833 — and the Cherokee and Chickasaw nations teach and play it today.",
+   "why": "Chunkey is best known through Cahokia's archaeology and museum displays of its stones, and it faded in many Southeastern communities after European contact, so it is easy to picture it as purely prehistoric."
+  },
+  "source_urls": [
+   "https://scholarsbank.uoregon.edu/bitstreams/9ec5449b-ddef-4a19-a69c-e438639aa104/download",
+   "https://archive.archaeology.org/0909/abstracts/pastime.html",
+   "https://encyclopediaofalabama.org/article/games-of-the-southeastern-indians/",
+   "https://www.museum.state.il.us/RiverWeb/landings/Ambot/prehistory/mississippian/society/set-hamletsummer2.html",
+   "https://cdn.citl.illinois.edu/courses/aiiopcmpss/essays/mississippian/miss4.htm",
+   "https://news.illinois.edu/fresh-look-at-burials-mass-graves-tells-a-new-story-of-cahokia/",
+   "https://lewisandclarkjournals.unl.edu/item/lc.jrn.1804-12-15",
+   "https://americanart.si.edu/artwork/tchung-kee-mandan-game-played-ring-and-pole-4407",
+   "https://apps.jefpat.maryland.gov/curatorschoice/CCIssues/2011-01.aspx",
+   "https://core.tdar.org/document/394867/rock-and-roles-the-chunkey-experience-in-the-mississippian-world",
+   "https://anadisgoi.com/index.php/culture-stories/cherokee-nation-to-host-traditional-native-games-competition-as-part-of-2024-cherokee-national-holiday",
+   "https://www.chickasaw.tv/episodes/thrive-traditions-season-5-episode-13-chunkey"
+  ]
+ },
+ {
   "id": "us:civil-rights-movement",
   "title": "Civil rights movement",
   "aliases": [

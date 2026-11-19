@@ -1604,6 +1604,21 @@ Every review question (with its answer) and every myth-versus-fact in the graph,
 - **Q:** Why is the case's guardian-and-ward language still important in federal Indian law?
   **A:** Marshall's description of the tribes' relation to the United States as resembling that of a ward to its guardian became a root of the federal trust responsibility, the duty the federal government owes tribes to protect their remaining lands and provide services.
 
+### [Chunkey](../articles/native-nations/chunkey.md) — Tradition
+
+| Myth | Fact |
+|---|---|
+| Chunkey is a lost ancient game that disappeared when Cahokia was abandoned. | The game outlived Cahokia by centuries — a Lewis and Clark expedition member recorded Mandan players in 1804 and George Catlin painted them in 1832–1833 — and the Cherokee and Chickasaw nations teach and play it today. |
+
+**Why it matters:** Chunkey is best known through Cahokia's archaeology and museum displays of its stones, and it faded in many Southeastern communities after European contact, so it is easy to picture it as purely prehistoric.
+
+- **Q:** Why do archaeologists treat finely made chunkey stones found far from Cahokia as evidence of Cahokia's influence?
+  **A:** The best stones were made in volume in downtown Cahokia from honey-coloured sandstone or quartzite to a higher standard than others, and after about 1050 they turn up across the Mississippi watershed alongside other Cahokian practices, suggesting the game spread outward from the city.
+- **Q:** How was chunkey connected to political power in the Mississippian world?
+  **A:** Players appear in Mississippian imagery with chiefly symbols, fine stones were buried with elite dead and may have belonged to chiefly lineages, and Pauketat argues Cahokian envoys used the game to spread a regional peace, while others stress its role in building shared and rival identities.
+- **Q:** How do we know chunkey survived long after Cahokia was abandoned?
+  **A:** Written and visual records show it — John Ordway described a Mandan game in December 1804, and George Catlin sketched and painted Mandan tchung-kee in 1832–1833 — and Native nations such as the Cherokee and Chickasaw still play it.
+
 ### [Dawes Act](../articles/native-nations/dawes-act.md) — Law
 
 | Myth | Fact |

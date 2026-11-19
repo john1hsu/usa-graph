@@ -103,6 +103,7 @@ _Which nodes are myths, contested or open to competing interpretations, and what
 | `us:blues` | interpretive |  |
 | `us:cahokia` | interpretive |  |
 | `us:chinese-exclusion-act` | interpretive |  |
+| `us:chunkey` | interpretive |  |
 | `us:civil-rights-movement` | interpretive |  |
 | `us:cold-war` | interpretive |  |
 | `us:constitutional-convention` | interpretive |  |
@@ -122,17 +123,14 @@ _Which nodes are myths, contested or open to competing interpretations, and what
 | `us:gilded-age` | interpretive |  |
 | `us:good-neighbor-policy` | interpretive |  |
 | `us:great-depression` | interpretive |  |
-| `us:great-migration` | interpretive |  |
 
-…and 47 more.
+…and 48 more.
 
 ## Places with nothing tied to them (gap)
 
 _Which written places have no event, person, tradition or landmark in the graph tied to them?_ — `queries/07-places-without-history.rq`
 
-| node | type |
-|---|---|
-| `us:cahokia` | uso:Landmark |
+_No results._
 
 ## Orphan articles (gap)
 

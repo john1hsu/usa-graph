@@ -4726,6 +4726,121 @@
    }
   },
   {
+   "@id": "https://github.com/john1hsu/usa-graph/id/chunkey/misconception",
+   "@type": "uso:Misconception",
+   "uso:fact": "The game outlived Cahokia by centuries — a Lewis and Clark expedition member recorded Mandan players in 1804 and George Catlin painted them in 1832–1833 — and the Cherokee and Chickasaw nations teach and play it today.",
+   "uso:myth": "Chunkey is a lost ancient game that disappeared when Cahokia was abandoned.",
+   "uso:why": "Chunkey is best known through Cahokia's archaeology and museum displays of its stones, and it faded in many Southeastern communities after European contact, so it is easy to picture it as purely prehistoric."
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/chunkey/review/1",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "Why do archaeologists treat finely made chunkey stones found far from Cahokia as evidence of Cahokia's influence?",
+   "uso:answer": "The best stones were made in volume in downtown Cahokia from honey-coloured sandstone or quartzite to a higher standard than others, and after about 1050 they turn up across the Mississippi watershed alongside other Cahokian practices, suggesting the game spread outward from the city.",
+   "uso:questionFor": {
+    "@id": "us:chunkey"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/chunkey/review/2",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "How was chunkey connected to political power in the Mississippian world?",
+   "uso:answer": "Players appear in Mississippian imagery with chiefly symbols, fine stones were buried with elite dead and may have belonged to chiefly lineages, and Pauketat argues Cahokian envoys used the game to spread a regional peace, while others stress its role in building shared and rival identities.",
+   "uso:questionFor": {
+    "@id": "us:chunkey"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/chunkey/review/3",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "How do we know chunkey survived long after Cahokia was abandoned?",
+   "uso:answer": "Written and visual records show it — John Ordway described a Mandan game in December 1804, and George Catlin sketched and painted Mandan tchung-kee in 1832–1833 — and Native nations such as the Cherokee and Chickasaw still play it.",
+   "uso:questionFor": {
+    "@id": "us:chunkey"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/chunkey/timeline/1",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "By an estimate of Timothy Pauketat's cited by Maryland's state archaeology lab, chunkey begins in the Cahokia area around this time.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "0600"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/chunkey/timeline/2",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Chunkey stones become common in the American Bottom, the Mississippi floodplain around Cahokia.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "0900"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/chunkey/timeline/3",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Work begins on Cahokia's Grand Plaza, which later hosts large chunkey games.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "0975"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/chunkey/timeline/4",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Cahokia's rapid growth begins; afterwards communities from the Great Lakes to the Missouri watershed adopt chunkey and other Cahokian practices.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1050"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/chunkey/timeline/5",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Sergeant John Ordway of the Lewis and Clark Expedition describes a Mandan game played with a stone ring and sliding sticks.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1804-12-15"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/chunkey/timeline/6",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "George Catlin sketches the Mandan game of tchung-kee, later painting it in 1832–1833.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1832"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/chunkey/timeline/7",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Melvin Fowler begins excavating Cahokia's Mound 72, where a burial holds a cache of 15 polished chunkey stones.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1967"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/chunkey/timeline/8",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Pauketat's article \"America's First Pastime\" argues that chunkey helped organize Cahokian social and political life.",
+   "uso:date": {
+    "@type": "xsd:gYearMonth",
+    "@value": "2009-09"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/chunkey/timeline/9",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The Cherokee Nation includes chunkey in a Traditional Native Games competition at One Fire Field in Tahlequah, Oklahoma.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "2024-04-13"
+   }
+  },
+  {
    "@id": "https://github.com/john1hsu/usa-graph/id/civil-rights-movement/misconception",
    "@type": "uso:Misconception",
    "uso:fact": "The movement was built by many organizations and local people, especially students and Black women such as Ella Baker, Diane Nash, Clara Luper and Gloria Richardson, and it confronted segregation in housing, schools and jobs in Northern cities too, as the 1966 Chicago campaign showed.",
@@ -23656,6 +23771,174 @@
     "@id": "https://encyclopedia.densho.org/Chinese%20Exclusion%20Act/"
    },
    "uso:sourceType": "scholarly-encyclopedia"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/chunkey/s1",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "University of Oregon, Conflict and Dispute Resolution Program (Scholars' Bank)",
+   "dcterms:title": "Chunkey, Cahokia, and Indigenous Conflict Resolution (M.S. thesis, Anne Gregory, 2020)",
+   "schema:url": {
+    "@id": "https://scholarsbank.uoregon.edu/bitstreams/9ec5449b-ddef-4a19-a69c-e438639aa104/download"
+   },
+   "uso:sourceType": "academic"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/chunkey/s10",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "Society for American Archaeology annual meeting paper, via tDAR (the Digital Archaeological Record)",
+   "dcterms:title": "Rock and Roles: The Chunkey Experience in the Mississippian World (Thomas Zych, 2015)",
+   "schema:url": {
+    "@id": "https://core.tdar.org/document/394867/rock-and-roles-the-chunkey-experience-in-the-mississippian-world"
+   },
+   "uso:sourceType": "academic"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/chunkey/s11",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "Anadisgoi, Cherokee Nation",
+   "dcterms:title": "Cherokee Nation to host Traditional Native Games competition as part of 2024 Cherokee National Holiday",
+   "schema:url": {
+    "@id": "https://anadisgoi.com/index.php/culture-stories/cherokee-nation-to-host-traditional-native-games-competition-as-part-of-2024-cherokee-national-holiday"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/chunkey/s12",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "Chickasaw Nation, Chickasaw.tv",
+   "dcterms:title": "Thrive: Traditions, Season 5, Episode 13 — Chunkey",
+   "schema:url": {
+    "@id": "https://www.chickasaw.tv/episodes/thrive-traditions-season-5-episode-13-chunkey"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/chunkey/s2",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "Archaeology 62, no. 5 (Archaeological Institute of America, 2009)",
+   "dcterms:title": "America's First Pastime (Timothy R. Pauketat)",
+   "schema:url": {
+    "@id": "https://archive.archaeology.org/0909/abstracts/pastime.html"
+   },
+   "uso:sourceType": "magazine"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/chunkey/s3",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "Encyclopedia of Alabama",
+   "dcterms:title": "Games of the Southeastern Indians (Eric E. Bowne)",
+   "schema:url": {
+    "@id": "https://encyclopediaofalabama.org/article/games-of-the-southeastern-indians/"
+   },
+   "uso:sourceType": "scholarly-encyclopedia"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/chunkey/s4",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "Illinois State Museum, RiverWeb",
+   "dcterms:title": "Mississippian society: hamlet life in summer",
+   "schema:url": {
+    "@id": "https://www.museum.state.il.us/RiverWeb/landings/Ambot/prehistory/mississippian/society/set-hamletsummer2.html"
+   },
+   "uso:sourceType": "museum"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/chunkey/s5",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "University of Illinois Department of Anthropology, American Indian Online Project (2002)",
+   "dcterms:title": "The Mississippian Cultures",
+   "schema:url": {
+    "@id": "https://cdn.citl.illinois.edu/courses/aiiopcmpss/essays/mississippian/miss4.htm"
+   },
+   "uso:sourceType": "academic"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/chunkey/s6",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "University of Illinois News Bureau",
+   "dcterms:title": "Fresh look at burials, mass graves tells a new story of Cahokia (Diana Yates, 2016)",
+   "schema:url": {
+    "@id": "https://news.illinois.edu/fresh-look-at-burials-mass-graves-tells-a-new-story-of-cahokia/"
+   },
+   "uso:sourceType": "academic"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/chunkey/s7",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "Journals of the Lewis and Clark Expedition, University of Nebraska Press and University of Nebraska–Lincoln",
+   "dcterms:title": "December 15, 1804 (journal entries of Clark, Ordway and Gass)",
+   "schema:url": {
+    "@id": "https://lewisandclarkjournals.unl.edu/item/lc.jrn.1804-12-15"
+   },
+   "uso:sourceType": "primary"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/chunkey/s8",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "Smithsonian American Art Museum",
+   "dcterms:title": "Tchung-kee, a Mandan Game Played with a Ring and Pole (George Catlin, 1832–1833)",
+   "schema:url": {
+    "@id": "https://americanart.si.edu/artwork/tchung-kee-mandan-game-played-ring-and-pole-4407"
+   },
+   "uso:sourceType": "museum"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/chunkey/s9",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "Maryland Archaeological Conservation Lab, Jefferson Patterson Park and Museum",
+   "dcterms:title": "Native American Gaming Stones (Rebecca Morehouse, Curator's Choice, January 2011)",
+   "schema:url": {
+    "@id": "https://apps.jefpat.maryland.gov/curatorschoice/CCIssues/2011-01.aspx"
+   },
+   "uso:sourceType": "government"
   },
   {
    "@id": "https://github.com/john1hsu/usa-graph/id/source/civil-rights-movement/s1",
@@ -50207,6 +50490,144 @@
     },
     {
      "@id": "https://github.com/john1hsu/usa-graph/id/chinese-exclusion-act/timeline/9"
+    }
+   ]
+  },
+  {
+   "@id": "us:chunkey",
+   "@type": "uso:Tradition",
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/chunkey/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/chunkey/s10"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/chunkey/s11"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/chunkey/s12"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/chunkey/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/chunkey/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/chunkey/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/chunkey/s5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/chunkey/s6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/chunkey/s7"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/chunkey/s8"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/chunkey/s9"
+    }
+   ],
+   "rdfs:label": "Chunkey",
+   "schema:startDate": {
+    "@type": "xsd:gYear",
+    "@value": "0600"
+   },
+   "skos:altLabel": [
+    "Chungke",
+    "Chunky",
+    "Tchung-kee",
+    "chunkey stone game"
+   ],
+   "skos:broader": [
+    {
+     "@id": "us:mississippian-culture"
+    },
+    {
+     "@id": "us:native-americans"
+    }
+   ],
+   "skos:definition": "Chunkey is a Native American game in which a player rolls a polished stone disk across a smooth court and contestants throw or slide long poles after it, scoring by landing closest to where it stops; it flourished at Cahokia and across the Mississippian world from about 1050, was still played by nations such as the Mandan in the 1800s, and is being revived today by the Cherokee Nation, the Chickasaw Nation and others.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/usa-graph/id/scheme/native-nations"
+   },
+   "skos:prefLabel": "Chunkey",
+   "skos:related": [
+    {
+     "@id": "us:cahokia"
+    },
+    {
+     "@id": "us:cherokee-nation"
+    },
+    {
+     "@id": "us:chickasaw-nation"
+    },
+    {
+     "@id": "us:lewis-and-clark-expedition"
+    },
+    {
+     "@id": "us:mandan"
+    },
+    {
+     "@id": "us:stickball"
+    }
+   ],
+   "uso:domain": "native-nations",
+   "uso:evidenceStatus": "interpretive",
+   "uso:file": "articles/native-nations/chunkey.md",
+   "uso:level": "introductory",
+   "uso:misconception": {
+    "@id": "https://github.com/john1hsu/usa-graph/id/chunkey/misconception"
+   },
+   "uso:originatedIn": {
+    "@id": "us:cahokia"
+   },
+   "uso:partOf": {
+    "@id": "us:mississippian-culture"
+   },
+   "uso:requires": {
+    "@id": "us:cahokia"
+   },
+   "uso:studiedIn": {
+    "@id": "us:archaeology"
+   },
+   "uso:timelineEntry": [
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/chunkey/timeline/1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/chunkey/timeline/2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/chunkey/timeline/3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/chunkey/timeline/4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/chunkey/timeline/5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/chunkey/timeline/6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/chunkey/timeline/7"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/chunkey/timeline/8"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/chunkey/timeline/9"
     }
    ]
   },
