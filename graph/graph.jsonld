@@ -11920,6 +11920,112 @@
    }
   },
   {
+   "@id": "https://github.com/john1hsu/usa-graph/id/immigration-and-nationality-act-of-1965/misconception",
+   "@type": "uso:Misconception",
+   "uso:fact": "The act kept an annual ceiling of 170,000 visas for the Eastern Hemisphere with a 20,000 per-country cap, and it imposed the first numerical limit — 120,000 a year from 1968 — on immigrants from the Americas; when the per-country cap reached Mexico in 1976, President Ford expected legal Mexican immigration to fall by about half.",
+   "uso:myth": "The 1965 act threw open America's doors and removed limits on immigration.",
+   "uso:why": "The law's real change was who could come, not how many; seeing its new limits explains why unauthorized migration from Mexico and Latin America grew after 1965."
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/immigration-and-nationality-act-of-1965/review/1",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "Why did Johnson call the bill \"not a revolutionary bill,\" and why do historians nonetheless call it one of the most consequential laws of the 1960s?",
+   "uso:answer": "He expected its immediate numerical effects to be modest and presented it as correcting a wrong; but by ending national-origins quotas it opened lasting large-scale immigration from Asia, Latin America and Africa, so that by 2024 most foreign-born residents came from Latin America and Asia rather than Europe.",
+   "uso:questionFor": {
+    "@id": "us:immigration-and-nationality-act-of-1965"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/immigration-and-nationality-act-of-1965/review/2",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "How could a law that ended racial quotas also restrict immigration from Mexico and Latin America?",
+   "uso:answer": "It placed the first numerical cap (120,000 a year from 1968) on the Western Hemisphere, and the 1976 amendments applied the 20,000 per-country limit to Mexico; with no channel for most unskilled workers, much Mexican migration was recast as unauthorized.",
+   "uso:questionFor": {
+    "@id": "us:immigration-and-nationality-act-of-1965"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/immigration-and-nationality-act-of-1965/review/3",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "How did the preference system decide who could immigrate after 1965?",
+   "uso:answer": "Most visas went to relatives of citizens and permanent residents, a smaller share to professionals and workers in short supply, and a few to refugees, while immediate relatives of citizens entered outside the numerical limits; no preference could be based on race, sex, nationality or place of birth.",
+   "uso:questionFor": {
+    "@id": "us:immigration-and-nationality-act-of-1965"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/immigration-and-nationality-act-of-1965/timeline/1",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The Immigration Act of 1924 sets national-origins quotas that favor northern and western Europe and bar Asian immigrants.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1924"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/immigration-and-nationality-act-of-1965/timeline/2",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The Immigration and Nationality Act keeps the quotas, ends outright Asian exclusion but assigns Asian quotas by race; Congress passes it over President Truman's veto.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1952"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/immigration-and-nationality-act-of-1965/timeline/3",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The House passes the immigration bill, 318 to 95.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1965-08-25"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/immigration-and-nationality-act-of-1965/timeline/4",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The Senate passes the bill, 76 to 18.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1965-09-22"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/immigration-and-nationality-act-of-1965/timeline/5",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "President Johnson signs the bill at the foot of the Statue of Liberty and announces an orderly entry for Cuban refugees.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1965-10-03"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/immigration-and-nationality-act-of-1965/timeline/6",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The last national-origins quotas and the transitional immigration pool expire.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1968-06-30"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/immigration-and-nationality-act-of-1965/timeline/7",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "A ceiling of 120,000 immigrants a year from the Western Hemisphere takes effect for the first time.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1968-07-01"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/immigration-and-nationality-act-of-1965/timeline/8",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Public Law 94-571 extends the 20,000 per-country limit and the preference system to the Western Hemisphere, including Mexico.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1976-10-20"
+   }
+  },
+  {
    "@id": "https://github.com/john1hsu/usa-graph/id/indian-removal-act/misconception",
    "@type": "uso:Misconception",
    "uso:fact": "The act authorized the president to offer western lands in exchange for eastern homelands to nations that chose to make the exchange, and appropriated $500,000; the force came afterwards, through treaties obtained under heavy pressure — the Cherokee treaty was signed by a faction without the authority of the nation's government — and through troops sent to enforce them.",
@@ -30914,6 +31020,118 @@
    "dcterms:title": "Huffman Prairie (park brochure)",
    "schema:url": {
     "@id": "https://www.npshistory.com/publications/daav/brochures/huffman-prairie.pdf"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/immigration-and-nationality-act-of-1965/s1",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "Office of the Law Revision Counsel, U.S. House of Representatives",
+   "dcterms:title": "Public Law 89-236, An Act to amend the Immigration and Nationality Act, and for other purposes (79 Stat. 911)",
+   "schema:url": {
+    "@id": "https://usc-cdn.house.gov/statutes/pl/89/236.pdf"
+   },
+   "uso:sourceType": "primary"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/immigration-and-nationality-act-of-1965/s2",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "LBJ Presidential Library",
+   "dcterms:title": "Remarks at the Signing of the Immigration Bill, Liberty Island, New York, October 3, 1965",
+   "schema:url": {
+    "@id": "https://lbjlibrary.org/artifact/153"
+   },
+   "uso:sourceType": "museum"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/immigration-and-nationality-act-of-1965/s3",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "National Archives, The Text Message / Prologue blog",
+   "dcterms:title": "Fifty Years Later: A Brief History of the Immigration Act of 1965",
+   "schema:url": {
+    "@id": "https://prologue.blogs.archives.gov/2015/09/17/fifty-year-later-a-brief-history-of-the-immigration-act-of-1965"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/immigration-and-nationality-act-of-1965/s4",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "Immigration History, a project of the Immigration and Ethnic History Society",
+   "dcterms:title": "Hart-Celler Act (Immigration and Nationality Act of 1965)",
+   "schema:url": {
+    "@id": "https://immigrationhistory.org/item/hart-celler-act/"
+   },
+   "uso:sourceType": "academic"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/immigration-and-nationality-act-of-1965/s5",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "Gabriel J. Chin, North Carolina Law Review",
+   "dcterms:title": "The Civil Rights Revolution Comes to Immigration Law: A New Look at the Immigration and Nationality Act of 1965 (75 N.C. L. Rev. 273, 1996)",
+   "schema:url": {
+    "@id": "https://core.ac.uk/download/151514368.pdf"
+   },
+   "uso:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/immigration-and-nationality-act-of-1965/s6",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "Thomas Gryn and Amy Smith, U.S. Census Bureau, America Counts (July 2026)",
+   "dcterms:title": "Foreign-Born Population in the United States Changed Significantly in Both Numbers and Countries of Origin",
+   "schema:url": {
+    "@id": "https://www.census.gov/library/stories/2026/07/foreign-born-population-250-year-history.html"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/immigration-and-nationality-act-of-1965/s7",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "The American Presidency Project, University of California, Santa Barbara",
+   "dcterms:title": "Gerald R. Ford, Statement on Signing the Immigration and Nationality Act Amendments of 1976",
+   "schema:url": {
+    "@id": "https://www.presidency.ucsb.edu/documents/statement-signing-the-immigration-and-nationality-act-amendments-1976"
+   },
+   "uso:sourceType": "academic"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/immigration-and-nationality-act-of-1965/s8",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "Office of the Historian, U.S. Department of State",
+   "dcterms:title": "The Immigration and Nationality Act of 1952 (The McCarran-Walter Act)",
+   "schema:url": {
+    "@id": "https://history.state.gov/milestones/1945-1952/immigration-act"
    },
    "uso:sourceType": "government"
   },
@@ -59924,6 +60142,153 @@
     },
     {
      "@id": "https://github.com/john1hsu/usa-graph/id/huffman-prairie/timeline/9"
+    }
+   ]
+  },
+  {
+   "@id": "us:immigration-and-nationality-act-of-1965",
+   "@type": "uso:Law",
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/immigration-and-nationality-act-of-1965/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/immigration-and-nationality-act-of-1965/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/immigration-and-nationality-act-of-1965/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/immigration-and-nationality-act-of-1965/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/immigration-and-nationality-act-of-1965/s5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/immigration-and-nationality-act-of-1965/s6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/immigration-and-nationality-act-of-1965/s7"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/immigration-and-nationality-act-of-1965/s8"
+    }
+   ],
+   "rdfs:label": "Immigration and Nationality Act of 1965",
+   "schema:startDate": {
+    "@type": "xsd:date",
+    "@value": "1965-10-03"
+   },
+   "skos:altLabel": [
+    "Hart-Celler Act",
+    "Immigration Act of 1965",
+    "Immigration and Nationality Act Amendments of 1965",
+    "Public Law 89-236"
+   ],
+   "skos:broader": {
+    "@id": "us:immigration-to-the-united-states"
+   },
+   "skos:definition": "The federal law signed by President Lyndon B. Johnson on October 3, 1965, that abolished the national-origins quota system in force since 1924 and replaced it with per-country caps and a preference system based on family ties and skills — while placing the first numerical ceiling on immigration from the Western Hemisphere.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/usa-graph/id/scheme/society-and-people"
+   },
+   "skos:prefLabel": "Immigration and Nationality Act of 1965",
+   "skos:related": [
+    {
+     "@id": "us:angel-island-immigration-station"
+    },
+    {
+     "@id": "us:bracero-program"
+    },
+    {
+     "@id": "us:chinese-americans"
+    },
+    {
+     "@id": "us:chinese-exclusion-act"
+    },
+    {
+     "@id": "us:civil-rights-act-of-1964"
+    },
+    {
+     "@id": "us:cold-war"
+    },
+    {
+     "@id": "us:immigration-act-of-1924"
+    },
+    {
+     "@id": "us:statue-of-liberty"
+    },
+    {
+     "@id": "us:united-states-congress"
+    },
+    {
+     "@id": "us:voting-rights-act-of-1965"
+    }
+   ],
+   "uso:affected": [
+    {
+     "@id": "us:asian-americans"
+    },
+    {
+     "@id": "us:mexican-americans"
+    }
+   ],
+   "uso:amends": {
+    "@id": "us:immigration-and-nationality-act-of-1952"
+   },
+   "uso:domain": "society-and-people",
+   "uso:enactedBy": {
+    "@id": "us:united-states-congress"
+   },
+   "uso:evidenceStatus": "interpretive",
+   "uso:file": "articles/society-and-people/immigration-and-nationality-act-of-1965.md",
+   "uso:influencedBy": {
+    "@id": "us:civil-rights-movement"
+   },
+   "uso:ledTo": {
+    "@id": "us:immigration-and-nationality-act-amendments-of-1976"
+   },
+   "uso:level": "introductory",
+   "uso:misconception": {
+    "@id": "https://github.com/john1hsu/usa-graph/id/immigration-and-nationality-act-of-1965/misconception"
+   },
+   "uso:overturns": {
+    "@id": "us:immigration-act-of-1924"
+   },
+   "uso:requires": {
+    "@id": "us:immigration-act-of-1924"
+   },
+   "uso:signedBy": {
+    "@id": "us:lyndon-b-johnson"
+   },
+   "uso:timelineEntry": [
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/immigration-and-nationality-act-of-1965/timeline/1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/immigration-and-nationality-act-of-1965/timeline/2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/immigration-and-nationality-act-of-1965/timeline/3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/immigration-and-nationality-act-of-1965/timeline/4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/immigration-and-nationality-act-of-1965/timeline/5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/immigration-and-nationality-act-of-1965/timeline/6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/immigration-and-nationality-act-of-1965/timeline/7"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/immigration-and-nationality-act-of-1965/timeline/8"
     }
    ]
   },

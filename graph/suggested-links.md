@@ -10,8 +10,8 @@ Pairs of written nodes that share many neighbours but are not yet connected (Ada
 | 3.49 | `us:thomas-jefferson` | `us:united-states-constitution` | `us:bill-of-rights`, `us:census-and-apportionment`, `us:declaration-of-independence`, `us:electoral-college`, `us:john-marshall` |
 | 3.45 | `us:andrew-jackson` | `us:james-madison` | `us:mcculloch-v-maryland`, `us:nullification-crisis`, `us:presidency-of-the-united-states`, `us:presidents-of-the-united-states`, `us:second-bank-of-the-united-states` |
 | 3.34 | `us:james-madison` | `us:john-marshall` | `us:american-colonization-society`, `us:federalism`, `us:house-of-representatives`, `us:marbury-v-madison`, `us:mcculloch-v-maryland` |
-| 3.25 | `us:constitutional-convention` | `us:second-continental-congress` | `us:articles-of-confederation`, `us:benjamin-franklin`, `us:confederation-period`, `us:declaration-of-independence`, `us:george-washington` |
 | 3.25 | `us:united-states` | `us:war-of-1812` | `us:canada`, `us:chesapeake-bay`, `us:indian-removal-act`, `us:louisiana-purchase`, `us:national-symbols-of-the-united-states` |
+| 3.25 | `us:constitutional-convention` | `us:second-continental-congress` | `us:articles-of-confederation`, `us:benjamin-franklin`, `us:confederation-period`, `us:declaration-of-independence`, `us:george-washington` |
 | 3.25 | `us:cherokee-nation-v-georgia` | `us:dawes-act` | `us:federal-indian-law`, `us:federal-trust-responsibility`, `us:indian-removal-act`, `us:native-americans`, `us:tribal-sovereignty` |
 | 3.22 | `us:declaration-of-independence` | `us:treaty-of-paris-1783` | `us:american-revolutionary-war`, `us:articles-of-confederation`, `us:benjamin-franklin`, `us:founding-documents-of-the-united-states`, `us:second-continental-congress` |
 | 3.19 | `us:louisiana-purchase` | `us:monroe-doctrine` | `us:adams-onis-treaty`, `us:early-republic`, `us:james-monroe`, `us:war-of-1812` |

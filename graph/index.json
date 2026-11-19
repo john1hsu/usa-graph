@@ -14787,6 +14787,186 @@
   ]
  },
  {
+  "id": "us:immigration-and-nationality-act-of-1965",
+  "title": "Immigration and Nationality Act of 1965",
+  "aliases": [
+   "Hart-Celler Act",
+   "Immigration Act of 1965",
+   "Public Law 89-236",
+   "Immigration and Nationality Act Amendments of 1965"
+  ],
+  "type": "Law",
+  "domain": "society-and-people",
+  "level": "introductory",
+  "evidenceStatus": "interpretive",
+  "file": "articles/society-and-people/immigration-and-nationality-act-of-1965.md",
+  "created": "2026-11-19",
+  "summary": "The federal law signed by President Lyndon B. Johnson on October 3, 1965, that abolished the national-origins quota system in force since 1924 and replaced it with per-country caps and a preference system based on family ties and skills — while placing the first numerical ceiling on immigration from the Western Hemisphere.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "us:immigration-to-the-united-states"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:immigration-act-of-1924"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:chinese-exclusion-act"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:chinese-americans"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:angel-island-immigration-station"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:civil-rights-act-of-1964"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:voting-rights-act-of-1965"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:cold-war"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:statue-of-liberty"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:bracero-program"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:united-states-congress"
+   },
+   {
+    "predicate": "uso:requires",
+    "object": "us:immigration-act-of-1924"
+   },
+   {
+    "predicate": "uso:enactedBy",
+    "object": "us:united-states-congress",
+    "source": "s3",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:signedBy",
+    "object": "us:lyndon-b-johnson",
+    "source": "s2",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:amends",
+    "object": "us:immigration-and-nationality-act-of-1952",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:overturns",
+    "object": "us:immigration-act-of-1924",
+    "source": "s3",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "uso:affected",
+    "object": "us:asian-americans",
+    "source": "s4",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:affected",
+    "object": "us:mexican-americans",
+    "source": "s4",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "uso:ledTo",
+    "object": "us:immigration-and-nationality-act-amendments-of-1976",
+    "source": "s7",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "uso:influencedBy",
+    "object": "us:civil-rights-movement",
+    "source": "s5",
+    "confidence": "medium"
+   }
+  ],
+  "start": "1965-10-03",
+  "end": null,
+  "review": [
+   {
+    "question": "Why did Johnson call the bill \"not a revolutionary bill,\" and why do historians nonetheless call it one of the most consequential laws of the 1960s?",
+    "answer": "He expected its immediate numerical effects to be modest and presented it as correcting a wrong; but by ending national-origins quotas it opened lasting large-scale immigration from Asia, Latin America and Africa, so that by 2024 most foreign-born residents came from Latin America and Asia rather than Europe."
+   },
+   {
+    "question": "How could a law that ended racial quotas also restrict immigration from Mexico and Latin America?",
+    "answer": "It placed the first numerical cap (120,000 a year from 1968) on the Western Hemisphere, and the 1976 amendments applied the 20,000 per-country limit to Mexico; with no channel for most unskilled workers, much Mexican migration was recast as unauthorized."
+   },
+   {
+    "question": "How did the preference system decide who could immigrate after 1965?",
+    "answer": "Most visas went to relatives of citizens and permanent residents, a smaller share to professionals and workers in short supply, and a few to refugees, while immediate relatives of citizens entered outside the numerical limits; no preference could be based on race, sex, nationality or place of birth."
+   }
+  ],
+  "timeline": [
+   {
+    "date": "1924",
+    "event": "The Immigration Act of 1924 sets national-origins quotas that favor northern and western Europe and bar Asian immigrants."
+   },
+   {
+    "date": "1952",
+    "event": "The Immigration and Nationality Act keeps the quotas, ends outright Asian exclusion but assigns Asian quotas by race; Congress passes it over President Truman's veto."
+   },
+   {
+    "date": "1965-08-25",
+    "event": "The House passes the immigration bill, 318 to 95."
+   },
+   {
+    "date": "1965-09-22",
+    "event": "The Senate passes the bill, 76 to 18."
+   },
+   {
+    "date": "1965-10-03",
+    "event": "President Johnson signs the bill at the foot of the Statue of Liberty and announces an orderly entry for Cuban refugees."
+   },
+   {
+    "date": "1968-06-30",
+    "event": "The last national-origins quotas and the transitional immigration pool expire."
+   },
+   {
+    "date": "1968-07-01",
+    "event": "A ceiling of 120,000 immigrants a year from the Western Hemisphere takes effect for the first time."
+   },
+   {
+    "date": "1976-10-20",
+    "event": "Public Law 94-571 extends the 20,000 per-country limit and the preference system to the Western Hemisphere, including Mexico."
+   }
+  ],
+  "misconception": {
+   "myth": "The 1965 act threw open America's doors and removed limits on immigration.",
+   "fact": "The act kept an annual ceiling of 170,000 visas for the Eastern Hemisphere with a 20,000 per-country cap, and it imposed the first numerical limit — 120,000 a year from 1968 — on immigrants from the Americas; when the per-country cap reached Mexico in 1976, President Ford expected legal Mexican immigration to fall by about half.",
+   "why": "The law's real change was who could come, not how many; seeing its new limits explains why unauthorized migration from Mexico and Latin America grew after 1965."
+  },
+  "source_urls": [
+   "https://usc-cdn.house.gov/statutes/pl/89/236.pdf",
+   "https://lbjlibrary.org/artifact/153",
+   "https://prologue.blogs.archives.gov/2015/09/17/fifty-year-later-a-brief-history-of-the-immigration-act-of-1965",
+   "https://immigrationhistory.org/item/hart-celler-act/",
+   "https://core.ac.uk/download/151514368.pdf",
+   "https://www.census.gov/library/stories/2026/07/foreign-born-population-250-year-history.html",
+   "https://www.presidency.ucsb.edu/documents/statement-signing-the-immigration-and-nationality-act-amendments-1976",
+   "https://history.state.gov/milestones/1945-1952/immigration-act"
+  ]
+ },
+ {
   "id": "us:indian-removal-act",
   "title": "Indian Removal Act",
   "aliases": [

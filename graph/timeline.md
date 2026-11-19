@@ -1413,6 +1413,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1923 | Bessie Smith makes her first recordings, beginning a 14-year recording career of more than 150 songs. — [Blues](../articles/culture-and-arts/blues.md) |
 | 1923 | In Adkins v. Children's Hospital the Supreme Court voids the District of Columbia law; sixteen states then have minimum wage laws for women. — [Minimum wage](../articles/economy-and-work/minimum-wage.md) |
 | 1924 | Ma Rainey records "See See Rider Blues" with Louis Armstrong and Fletcher Henderson. — [Blues](../articles/culture-and-arts/blues.md) |
+| 1924 | The Immigration Act of 1924 sets national-origins quotas that favor northern and western Europe and bar Asian immigrants. — [Immigration and Nationality Act of 1965](../articles/society-and-people/immigration-and-nationality-act-of-1965.md) |
 | 1924-06-02 | The Indian Citizenship Act makes Native Americans born in the United States citizens; about 40 percent had not been citizens before. — [Native Americans](../articles/native-nations/native-americans.md) |
 | 1924-06-24 | The Indian Citizenship Act makes Native Americans U.S. citizens. — [Fourteenth Amendment](../articles/rights-and-law/fourteenth-amendment.md) |
 | 1925 | A. Philip Randolph and Pullman porters found the Brotherhood of Sleeping Car Porters in New York City. — [Labor movement](../articles/economy-and-work/labor-movement.md) |
@@ -1725,6 +1726,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1951-04-23 | Students led by 16-year-old Barbara Rose Johns walk out of the overcrowded Robert Russa Moton High School in Farmville, Virginia. — [Brown v. Board of Education](../articles/cold-war-and-civil-rights/brown-v-board-of-education.md) |
 | 1951-05-23 | NAACP lawyers file Davis v. County School Board of Prince Edward County, later joined to Brown. — [Brown v. Board of Education](../articles/cold-war-and-civil-rights/brown-v-board-of-education.md) |
 | 1952 | Greece and Turkey join the alliance. — [North Atlantic Treaty Organization](../articles/foreign-relations-and-military/nato.md) |
+| 1952 | The Immigration and Nationality Act keeps the quotas, ends outright Asian exclusion but assigns Asian quotas by race; Congress passes it over President Truman's veto. — [Immigration and Nationality Act of 1965](../articles/society-and-people/immigration-and-nationality-act-of-1965.md) |
 | 1952 | The Penn School graduates its last class. — [Gullah Geechee](../articles/society-and-people/gullah-geechee.md) |
 | 1952 | The Veterans Readjustment Assistance Act extends education and training benefits to Korean War veterans. — [Servicemen's Readjustment Act of 1944](../articles/cold-war-and-civil-rights/servicemens-readjustment-act-of-1944.md) |
 | 1952-12-09 | The Supreme Court hears the first arguments in the consolidated school cases. — [Brown v. Board of Education](../articles/cold-war-and-civil-rights/brown-v-board-of-education.md) |
@@ -1887,7 +1889,11 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1965-08-06 | Johnson signs the Voting Rights Act at the Capitol, a day after Congress completed final passage. — [Voting Rights Act of 1965](../articles/democracy-and-elections/voting-rights-act-of-1965.md) |
 | 1965-08-06 | Johnson signs the Voting Rights Act of 1965. — [Civil rights movement](../articles/cold-war-and-civil-rights/civil-rights-movement.md) |
 | 1965-08-06 | President Johnson signs the Voting Rights Act. — [Jim Crow laws](../articles/gilded-age-and-progressive-era/jim-crow-laws.md) |
+| 1965-08-25 | The House passes the immigration bill, 318 to 95. — [Immigration and Nationality Act of 1965](../articles/society-and-people/immigration-and-nationality-act-of-1965.md) |
 | 1965-09-08 | More than 800 Filipino farmworkers in AWOC begin the Delano grape strike; César Chávez's NFWA votes to join on September 16. — [Labor movement](../articles/economy-and-work/labor-movement.md) |
+| 1965-09-22 | The Senate passes the bill, 76 to 18. — [Immigration and Nationality Act of 1965](../articles/society-and-people/immigration-and-nationality-act-of-1965.md) |
+| 1965-10-03 | **[Immigration and Nationality Act of 1965](../articles/society-and-people/immigration-and-nationality-act-of-1965.md)** (Law) |
+| 1965-10-03 | President Johnson signs the bill at the foot of the Statue of Liberty and announces an orderly entry for Cuban refugees. — [Immigration and Nationality Act of 1965](../articles/society-and-people/immigration-and-nationality-act-of-1965.md) |
 | 1966 | César Chávez and Dolores Huerta found the United Farm Workers to organize mostly Mexican American farmworkers. — [California](../articles/states-and-territories/california.md) |
 | 1966 | Harper v. Virginia State Board of Elections holds Virginia's poll tax unconstitutional. — [Jim Crow laws](../articles/gilded-age-and-progressive-era/jim-crow-laws.md) |
 | 1966 | In South Carolina v. Katzenbach the Supreme Court upholds the Act's constitutionality. — [Voting Rights Act of 1965](../articles/democracy-and-elections/voting-rights-act-of-1965.md) |
@@ -1916,6 +1922,8 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1968-04-04 | Martin Luther King Jr. is assassinated in Memphis, Tennessee. — [Civil rights movement](../articles/cold-war-and-civil-rights/civil-rights-movement.md) |
 | 1968-04-11 | Johnson signs the Civil Rights Act of 1968, known as the Fair Housing Act. — [Civil rights movement](../articles/cold-war-and-civil-rights/civil-rights-movement.md) |
 | 1968-05-06 | Oklahoma governor Dewey Bartlett launches the OKIE campaign to turn the old insult into a badge of state pride. — [Okies](../articles/society-and-people/okies.md) |
+| 1968-06-30 | The last national-origins quotas and the transitional immigration pool expire. — [Immigration and Nationality Act of 1965](../articles/society-and-people/immigration-and-nationality-act-of-1965.md) |
+| 1968-07-01 | A ceiling of 120,000 immigrants a year from the Western Hemisphere takes effect for the first time. — [Immigration and Nationality Act of 1965](../articles/society-and-people/immigration-and-nationality-act-of-1965.md) |
 | 1969-02 | NASA reaches agreement with Lick Observatory, leaving only months to prepare the telescope and laser. — [Lunar Laser Ranging Experiment](../articles/science-and-innovation/lunar-laser-ranging-experiment.md) |
 | 1969-07-15 | Ralph Abernathy leads hundreds of Poor People's Campaign demonstrators demanding aid for Americans facing hunger and poverty. — [Apollo 11](../articles/science-and-innovation/apollo-11.md) |
 | 1969-07-16 – 1969-07-24 | **[Apollo 11](../articles/science-and-innovation/apollo-11.md)** (Event) |
@@ -1969,6 +1977,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1976 | Mathews v. Eldridge adopts a three-factor balancing test for the process due in civil proceedings. — [Due process](../articles/rights-and-law/due-process.md) |
 | 1976 | The Federal Land Policy and Management Act declares that remaining public-domain land will generally stay in federal ownership. — [The West](../articles/regions-cities-and-landmarks/the-west.md) |
 | 1976 | The Jann and Yee manuscripts are given to researchers, who use them to recover damaged or missing poems. — [Chinese detention-barracks poetry](../articles/culture-and-arts/chinese-detention-barracks-poetry.md) |
+| 1976-10-20 | Public Law 94-571 extends the 20,000 per-country limit and the preference system to the Western Hemisphere, including Mexico. — [Immigration and Nationality Act of 1965](../articles/society-and-people/immigration-and-nationality-act-of-1965.md) |
 | 1977-06-20 | Oil enters the 800-mile trans-Alaska pipeline at Prudhoe Bay. — [Alaska](../articles/states-and-territories/alaska.md) |
 | 1977-09-07 | Jimmy Carter and Omar Torrijos sign the Panama Canal Treaty and the Neutrality Treaty. — [Panama Canal](../articles/foreign-relations-and-military/panama-canal.md) |
 | 1978 | Amendments to the act strengthen environmental safeguards and coastal-state involvement and reinforce the five-year leasing program. — [Bureau of Ocean Energy Management](../articles/geography-and-environment/bureau-of-ocean-energy-management.md) |

@@ -2397,6 +2397,21 @@ Every review question (with its answer) and every myth-versus-fact in the graph,
 - **Q:** Why is rice central to the Gullah Geechee story?
   **A:** Planters sought captives from Africa's Windward or "Rice Coast", from Senegambia to Liberia, for their rice-growing knowledge, and crafts such as the fanner basket used to winnow rice survive in today's sweetgrass baskets.
 
+### [Immigration and Nationality Act of 1965](../articles/society-and-people/immigration-and-nationality-act-of-1965.md) — Law
+
+| Myth | Fact |
+|---|---|
+| The 1965 act threw open America's doors and removed limits on immigration. | The act kept an annual ceiling of 170,000 visas for the Eastern Hemisphere with a 20,000 per-country cap, and it imposed the first numerical limit — 120,000 a year from 1968 — on immigrants from the Americas; when the per-country cap reached Mexico in 1976, President Ford expected legal Mexican immigration to fall by about half. |
+
+**Why it matters:** The law's real change was who could come, not how many; seeing its new limits explains why unauthorized migration from Mexico and Latin America grew after 1965.
+
+- **Q:** Why did Johnson call the bill "not a revolutionary bill," and why do historians nonetheless call it one of the most consequential laws of the 1960s?
+  **A:** He expected its immediate numerical effects to be modest and presented it as correcting a wrong; but by ending national-origins quotas it opened lasting large-scale immigration from Asia, Latin America and Africa, so that by 2024 most foreign-born residents came from Latin America and Asia rather than Europe.
+- **Q:** How could a law that ended racial quotas also restrict immigration from Mexico and Latin America?
+  **A:** It placed the first numerical cap (120,000 a year from 1968) on the Western Hemisphere, and the 1976 amendments applied the 20,000 per-country limit to Mexico; with no channel for most unskilled workers, much Mexican migration was recast as unauthorized.
+- **Q:** How did the preference system decide who could immigrate after 1965?
+  **A:** Most visas went to relatives of citizens and permanent residents, a smaller share to professionals and workers in short supply, and a few to refugees, while immediate relatives of citizens entered outside the numerical limits; no preference could be based on race, sex, nationality or place of birth.
+
 ### [Okies](../articles/society-and-people/okies.md) — Community
 
 | Myth | Fact |
