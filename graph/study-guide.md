@@ -2107,6 +2107,21 @@ Every review question (with its answer) and every myth-versus-fact in the graph,
 
 ## rights-and-law
 
+### [Bill of Rights](../articles/rights-and-law/bill-of-rights.md) — Law
+
+| Myth | Fact |
+|---|---|
+| Since 1791 the Bill of Rights has protected Americans against every level of government, state and local as well as federal. | In Barron v. Baltimore (1833) the Supreme Court held that the amendments bound only the federal government; most of their guarantees were applied to the states only one by one in the twentieth century through the Fourteenth Amendment's Due Process Clause, and a few, such as the Fifth Amendment's grand jury right and the Seventh Amendment's civil jury right, still are not. |
+
+**Why it matters:** Madison did propose protecting some rights against the states, but the Senate removed that clause, and the modern pattern of incorporation is so complete that its recent, case-by-case history is easy to forget.
+
+- **Q:** Why did James Madison, who had once thought a bill of rights unnecessary, introduce one in the First Congress?
+  **A:** Ratification had been secured partly by promising amendments, voters wanted written protections, and Madison argued that modest rights amendments would reassure former opponents, draw in North Carolina and Rhode Island, and head off more drastic structural changes or a second convention.
+- **Q:** Why did the Bill of Rights originally not restrain state governments, and how did that change?
+  **A:** The Senate struck Madison's clause barring states from violating rights of conscience, the press and jury trial, and in Barron v. Baltimore (1833) the Supreme Court held that the amendments limited only the federal government; after the Fourteenth Amendment, the Court began in the twentieth century to apply most of the guarantees to the states one at a time through its Due Process Clause.
+- **Q:** How did twelve proposed amendments become ten?
+  **A:** Congress proposed twelve in 1789, but by December 15, 1791, three-fourths of the states had approved only the third through the twelfth; the first, on House apportionment, was never ratified, and the second, on congressional pay, was ratified only in 1992 as the Twenty-seventh Amendment.
+
 ### [Dred Scott v. Sandford](../articles/rights-and-law/dred-scott-v-sandford.md) — CourtCase
 
 | Myth | Fact |

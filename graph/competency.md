@@ -26,7 +26,7 @@ _Which nodes led to, established or affected the most other things in the graph?
 
 | node | reach | targets |
 |---|---|---|
-| `us:united-states-constitution` | 11 | Census and apportionment, Electoral College, Federalism, Presidency of the United States, Slavery in the United States, Supreme Court of the United States, The Federalist Papers, United States, United States Congress, United States House of Representatives, bill-of-rights |
+| `us:united-states-constitution` | 11 | Bill of Rights, Census and apportionment, Electoral College, Federalism, Presidency of the United States, Slavery in the United States, Supreme Court of the United States, The Federalist Papers, United States, United States Congress, United States House of Representatives |
 | `us:indian-removal-act` | 7 | cherokee-nation, chickasaw-nation, choctaw-nation, muscogee-creek-nation, second-seminole-war, trail-of-tears, treaty-of-new-echota |
 | `us:war-of-1812` | 7 | Indian Removal Act, The Star-Spangled Banner, hartford-convention, muscogee-creek-nation, shawnee, treaty-of-fort-jackson, treaty-of-ghent |
 | `us:great-recession` | 6 | African Americans, american-recovery-and-reinvestment-act-of-2009, dodd-frank-act, emergency-economic-stabilization-act-of-2008, financial-crisis-inquiry-commission, hispanic-and-latino-americans |
@@ -100,6 +100,7 @@ _Which nodes are myths, contested or open to competing interpretations, and what
 | `us:articles-of-confederation` | interpretive |  |
 | `us:attack-on-pearl-harbor` | interpretive |  |
 | `us:battle-of-the-capes` | interpretive |  |
+| `us:bill-of-rights` | interpretive |  |
 | `us:blues` | interpretive |  |
 | `us:cahokia` | interpretive |  |
 | `us:chinese-exclusion-act` | interpretive |  |
@@ -122,9 +123,8 @@ _Which nodes are myths, contested or open to competing interpretations, and what
 | `us:george-washington` | interpretive |  |
 | `us:gilded-age` | interpretive |  |
 | `us:good-neighbor-policy` | interpretive |  |
-| `us:great-depression` | interpretive |  |
 
-…and 51 more.
+…and 52 more.
 
 ## Places with nothing tied to them (gap)
 
@@ -174,6 +174,7 @@ _Which amendments, laws and court cases protect each right?_ — `queries/11-rig
 
 | right | protector |
 |---|---|
+| `us:due-process` | `us:bill-of-rights` |
 | `us:due-process` | `us:fourteenth-amendment` |
 | `us:equal-protection` | `us:brown-v-board-of-education` |
 | `us:equal-protection` | `us:fourteenth-amendment` |

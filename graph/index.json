@@ -3263,6 +3263,239 @@
   ]
  },
  {
+  "id": "us:bill-of-rights",
+  "title": "Bill of Rights",
+  "aliases": [
+   "United States Bill of Rights",
+   "U.S. Bill of Rights",
+   "First Ten Amendments",
+   "First ten amendments to the United States Constitution"
+  ],
+  "type": "Law",
+  "domain": "rights-and-law",
+  "level": "introductory",
+  "evidenceStatus": "interpretive",
+  "file": "articles/rights-and-law/bill-of-rights.md",
+  "created": "2026-11-19",
+  "summary": "The first ten amendments to the U.S. Constitution, proposed by the First Congress on September 25, 1789, as part of a package of twelve and ratified on December 15, 1791, which guarantee freedoms such as religion, speech, press and assembly, protections for people accused of crimes, and the reservation of undelegated powers to the states or the people.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "us:united-states-constitution"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:due-process"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:equal-protection"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:fourteenth-amendment"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:incorporation-of-the-bill-of-rights"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:barron-v-baltimore"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:gitlow-v-new-york"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:mcdonald-v-city-of-chicago"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:first-amendment"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:second-amendment"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:fourth-amendment"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:fifth-amendment"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:tenth-amendment"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:twenty-seventh-amendment"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:federalist-papers"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:constitutional-convention"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:anti-federalists"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:roger-sherman"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:john-bingham"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:george-washington"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:thomas-jefferson"
+   },
+   {
+    "predicate": "uso:requires",
+    "object": "us:united-states-constitution"
+   },
+   {
+    "predicate": "uso:amends",
+    "object": "us:united-states-constitution",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:enactedBy",
+    "object": "us:united-states-congress",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:introducedBy",
+    "object": "us:james-madison",
+    "source": "s4",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:influencedBy",
+    "object": "us:george-mason",
+    "source": "s2",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "uso:protects",
+    "object": "us:due-process",
+    "source": "s1",
+    "confidence": "high"
+   }
+  ],
+  "start": "1791-12-15",
+  "end": null,
+  "review": [
+   {
+    "question": "Why did James Madison, who had once thought a bill of rights unnecessary, introduce one in the First Congress?",
+    "answer": "Ratification had been secured partly by promising amendments, voters wanted written protections, and Madison argued that modest rights amendments would reassure former opponents, draw in North Carolina and Rhode Island, and head off more drastic structural changes or a second convention."
+   },
+   {
+    "question": "Why did the Bill of Rights originally not restrain state governments, and how did that change?",
+    "answer": "The Senate struck Madison's clause barring states from violating rights of conscience, the press and jury trial, and in Barron v. Baltimore (1833) the Supreme Court held that the amendments limited only the federal government; after the Fourteenth Amendment, the Court began in the twentieth century to apply most of the guarantees to the states one at a time through its Due Process Clause."
+   },
+   {
+    "question": "How did twelve proposed amendments become ten?",
+    "answer": "Congress proposed twelve in 1789, but by December 15, 1791, three-fourths of the states had approved only the third through the twelfth; the first, on House apportionment, was never ratified, and the second, on congressional pay, was ratified only in 1992 as the Twenty-seventh Amendment."
+   }
+  ],
+  "timeline": [
+   {
+    "date": "1787",
+    "event": "George Mason is one of three delegates present on the Constitutional Convention's last day who refuse to sign, objecting that the Constitution lacks a bill of rights."
+   },
+   {
+    "date": "1789-04-30",
+    "event": "In his first inaugural address, George Washington suggests that Congress propose amendments securing rights."
+   },
+   {
+    "date": "1789-06-08",
+    "event": "James Madison introduces proposed amendments in the House of Representatives."
+   },
+   {
+    "date": "1789-09-25",
+    "event": "After the House passes seventeen amendments and the Senate trims them to twelve, Congress sends twelve proposed amendments to the states."
+   },
+   {
+    "date": "1789-10-02",
+    "event": "President Washington transmits copies of the twelve amendments to the states."
+   },
+   {
+    "date": "1789-12-01",
+    "event": "A joint committee of Georgia's legislature reports against the amendments, which the state rejects as premature."
+   },
+   {
+    "date": "1790-05-29",
+    "event": "Rhode Island ratifies the Constitution, joining the Union and raising the number of states needed to approve amendments."
+   },
+   {
+    "date": "1791-12-15",
+    "event": "Virginia becomes the eleventh state to ratify, supplying the three-fourths majority that makes ten of the twelve articles part of the Constitution."
+   },
+   {
+    "date": "1792-03-01",
+    "event": "Secretary of State Thomas Jefferson notifies the states that ten amendments have been adopted."
+   },
+   {
+    "date": "1833",
+    "event": "In Barron v. Baltimore the Supreme Court holds that the Bill of Rights limits only the federal government."
+   },
+   {
+    "date": "1868",
+    "event": "Ratification of the Fourteenth Amendment gives later courts the Due Process Clause through which most of the Bill of Rights is applied to the states."
+   },
+   {
+    "date": "1925",
+    "event": "Gitlow v. New York treats freedom of speech and of the press as protected against the states, beginning selective incorporation in earnest."
+   },
+   {
+    "date": "1939-03-02",
+    "event": "Massachusetts ratifies the Bill of Rights on its 150th anniversary; Georgia and Connecticut follow later that spring."
+   },
+   {
+    "date": "1992-05-07",
+    "event": "The second of the twelve 1789 articles, on congressional pay, is ratified as the Twenty-seventh Amendment."
+   },
+   {
+    "date": "2010",
+    "event": "McDonald v. City of Chicago applies the Second Amendment to the states."
+   }
+  ],
+  "misconception": {
+   "myth": "Since 1791 the Bill of Rights has protected Americans against every level of government, state and local as well as federal.",
+   "fact": "In Barron v. Baltimore (1833) the Supreme Court held that the amendments bound only the federal government; most of their guarantees were applied to the states only one by one in the twentieth century through the Fourteenth Amendment's Due Process Clause, and a few, such as the Fifth Amendment's grand jury right and the Seventh Amendment's civil jury right, still are not.",
+   "why": "Madison did propose protecting some rights against the states, but the Senate removed that clause, and the modern pattern of incorporation is so complete that its recent, case-by-case history is easy to forget."
+  },
+  "source_urls": [
+   "https://www.archives.gov/milestone-documents/bill-of-rights",
+   "https://www.archives.gov/founding-docs/bill-of-rights/how-did-it-happen",
+   "https://docsteach.org/documents/document/virginias-ratification-of-the-bill-of-rights",
+   "https://founders.archives.gov/documents/Madison/01-12-02-0126",
+   "https://csac.history.wisc.edu/2020/12/15/bill-of-rights/",
+   "https://csac.history.wisc.edu/2025/04/23/the-bill-of-rights-delayed-a-150-year-hiatus/",
+   "https://constitutioncenter.org/education/classroom-resource-library/classroom/5.6-info-brief-incorporation",
+   "https://harvardlawreview.org/wp-content/uploads/2011/12/vol125_klarman.pdf",
+   "https://ndlawreview.org/wp-content/uploads/2025/07/The-Bill-of-Rights-as-a-Term-of-Art.pdf",
+   "https://virginialawreview.org/articles/becoming-the-bill-of-rights-the-first-ten-amendments-from-founding-to-reconstruction/",
+   "https://teachingamericanhistory.org/resource/themes/amendments-and-states-that-got-away"
+  ]
+ },
+ {
   "id": "us:blues",
   "title": "Blues",
   "aliases": [

@@ -2637,6 +2637,175 @@
    }
   },
   {
+   "@id": "https://github.com/john1hsu/usa-graph/id/bill-of-rights/misconception",
+   "@type": "uso:Misconception",
+   "uso:fact": "In Barron v. Baltimore (1833) the Supreme Court held that the amendments bound only the federal government; most of their guarantees were applied to the states only one by one in the twentieth century through the Fourteenth Amendment's Due Process Clause, and a few, such as the Fifth Amendment's grand jury right and the Seventh Amendment's civil jury right, still are not.",
+   "uso:myth": "Since 1791 the Bill of Rights has protected Americans against every level of government, state and local as well as federal.",
+   "uso:why": "Madison did propose protecting some rights against the states, but the Senate removed that clause, and the modern pattern of incorporation is so complete that its recent, case-by-case history is easy to forget."
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/bill-of-rights/review/1",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "Why did James Madison, who had once thought a bill of rights unnecessary, introduce one in the First Congress?",
+   "uso:answer": "Ratification had been secured partly by promising amendments, voters wanted written protections, and Madison argued that modest rights amendments would reassure former opponents, draw in North Carolina and Rhode Island, and head off more drastic structural changes or a second convention.",
+   "uso:questionFor": {
+    "@id": "us:bill-of-rights"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/bill-of-rights/review/2",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "Why did the Bill of Rights originally not restrain state governments, and how did that change?",
+   "uso:answer": "The Senate struck Madison's clause barring states from violating rights of conscience, the press and jury trial, and in Barron v. Baltimore (1833) the Supreme Court held that the amendments limited only the federal government; after the Fourteenth Amendment, the Court began in the twentieth century to apply most of the guarantees to the states one at a time through its Due Process Clause.",
+   "uso:questionFor": {
+    "@id": "us:bill-of-rights"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/bill-of-rights/review/3",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "How did twelve proposed amendments become ten?",
+   "uso:answer": "Congress proposed twelve in 1789, but by December 15, 1791, three-fourths of the states had approved only the third through the twelfth; the first, on House apportionment, was never ratified, and the second, on congressional pay, was ratified only in 1992 as the Twenty-seventh Amendment.",
+   "uso:questionFor": {
+    "@id": "us:bill-of-rights"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/bill-of-rights/timeline/1",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "George Mason is one of three delegates present on the Constitutional Convention's last day who refuse to sign, objecting that the Constitution lacks a bill of rights.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1787"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/bill-of-rights/timeline/10",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "In Barron v. Baltimore the Supreme Court holds that the Bill of Rights limits only the federal government.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1833"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/bill-of-rights/timeline/11",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Ratification of the Fourteenth Amendment gives later courts the Due Process Clause through which most of the Bill of Rights is applied to the states.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1868"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/bill-of-rights/timeline/12",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Gitlow v. New York treats freedom of speech and of the press as protected against the states, beginning selective incorporation in earnest.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1925"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/bill-of-rights/timeline/13",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Massachusetts ratifies the Bill of Rights on its 150th anniversary; Georgia and Connecticut follow later that spring.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1939-03-02"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/bill-of-rights/timeline/14",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The second of the twelve 1789 articles, on congressional pay, is ratified as the Twenty-seventh Amendment.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1992-05-07"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/bill-of-rights/timeline/15",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "McDonald v. City of Chicago applies the Second Amendment to the states.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "2010"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/bill-of-rights/timeline/2",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "In his first inaugural address, George Washington suggests that Congress propose amendments securing rights.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1789-04-30"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/bill-of-rights/timeline/3",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "James Madison introduces proposed amendments in the House of Representatives.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1789-06-08"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/bill-of-rights/timeline/4",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "After the House passes seventeen amendments and the Senate trims them to twelve, Congress sends twelve proposed amendments to the states.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1789-09-25"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/bill-of-rights/timeline/5",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "President Washington transmits copies of the twelve amendments to the states.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1789-10-02"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/bill-of-rights/timeline/6",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "A joint committee of Georgia's legislature reports against the amendments, which the state rejects as premature.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1789-12-01"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/bill-of-rights/timeline/7",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Rhode Island ratifies the Constitution, joining the Union and raising the number of states needed to approve amendments.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1790-05-29"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/bill-of-rights/timeline/8",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Virginia becomes the eleventh state to ratify, supplying the three-fourths majority that makes ten of the twelve articles part of the Constitution.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1791-12-15"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/bill-of-rights/timeline/9",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Secretary of State Thomas Jefferson notifies the states that ten amendments have been adopted.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1792-03-01"
+   }
+  },
+  {
    "@id": "https://github.com/john1hsu/usa-graph/id/blues/misconception",
    "@type": "uso:Misconception",
    "uso:fact": "Handy was a trained bandleader who encountered the blues already being played by Black musicians in the Mississippi Delta around 1903 — a slide guitarist at the Tutwiler station and a string band in Cleveland, Mississippi — and only then worked it into his repertoire. He wrote down and combined fragments of melodies and lyrics he heard from itinerant performers, arranged them as published songs, and made the music a national craze; the \"Father of the Blues\" title, which he used for his 1941 autobiography, honored him as its popularizer.",
@@ -22333,6 +22502,160 @@
     "@id": "https://Gutenberg.org/ebooks/51088.html.images"
    },
    "uso:sourceType": "primary"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/bill-of-rights/s1",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "National Archives (Milestone Documents)",
+   "dcterms:title": "The Bill of Rights (1791)",
+   "schema:url": {
+    "@id": "https://www.archives.gov/milestone-documents/bill-of-rights"
+   },
+   "uso:sourceType": "primary"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/bill-of-rights/s10",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "Kurt T. Lash, Virginia Law Review",
+   "dcterms:title": "Becoming the \"Bill of Rights\": The First Ten Amendments from Founding to Reconstruction, Virginia Law Review 110 (2024)",
+   "schema:url": {
+    "@id": "https://virginialawreview.org/articles/becoming-the-bill-of-rights-the-first-ten-amendments-from-founding-to-reconstruction/"
+   },
+   "uso:sourceType": "academic"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/bill-of-rights/s11",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "Teaching American History (Ashbrook Center)",
+   "dcterms:title": "What about the Two Amendments and Three States that Got Away?",
+   "schema:url": {
+    "@id": "https://teachingamericanhistory.org/resource/themes/amendments-and-states-that-got-away"
+   },
+   "uso:sourceType": "institutional"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/bill-of-rights/s2",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "National Archives (America's Founding Documents)",
+   "dcterms:title": "The Bill of Rights: How Did it Happen?",
+   "schema:url": {
+    "@id": "https://www.archives.gov/founding-docs/bill-of-rights/how-did-it-happen"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/bill-of-rights/s3",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "National Archives (DocsTeach)",
+   "dcterms:title": "Virginia's Ratification of the Bill of Rights",
+   "schema:url": {
+    "@id": "https://docsteach.org/documents/document/virginias-ratification-of-the-bill-of-rights"
+   },
+   "uso:sourceType": "primary"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/bill-of-rights/s4",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "Founders Online, National Archives (The Papers of James Madison)",
+   "dcterms:title": "Amendments to the Constitution, [8 June] 1789",
+   "schema:url": {
+    "@id": "https://founders.archives.gov/documents/Madison/01-12-02-0126"
+   },
+   "uso:sourceType": "primary"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/bill-of-rights/s5",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "Center for the Study of the American Constitution, University of Wisconsin–Madison",
+   "dcterms:title": "Bill of Rights",
+   "schema:url": {
+    "@id": "https://csac.history.wisc.edu/2020/12/15/bill-of-rights/"
+   },
+   "uso:sourceType": "academic"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/bill-of-rights/s6",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "Center for the Study of the American Constitution, University of Wisconsin–Madison",
+   "dcterms:title": "The Bill of Rights Delayed: A 150-Year Hiatus",
+   "schema:url": {
+    "@id": "https://csac.history.wisc.edu/2025/04/23/the-bill-of-rights-delayed-a-150-year-hiatus/"
+   },
+   "uso:sourceType": "academic"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/bill-of-rights/s7",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "National Constitution Center (Constitution 101)",
+   "dcterms:title": "5.6 Info Brief: Incorporation",
+   "schema:url": {
+    "@id": "https://constitutioncenter.org/education/classroom-resource-library/classroom/5.6-info-brief-incorporation"
+   },
+   "uso:sourceType": "institutional"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/bill-of-rights/s8",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "Michael J. Klarman, Harvard Law Review",
+   "dcterms:title": "Review of Pauline Maier, Ratification: The People Debate the Constitution, 1787-1788, Harvard Law Review 125 (2011)",
+   "schema:url": {
+    "@id": "https://harvardlawreview.org/wp-content/uploads/2011/12/vol125_klarman.pdf"
+   },
+   "uso:sourceType": "academic"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/bill-of-rights/s9",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "Gerard N. Magliocca, Notre Dame Law Review",
+   "dcterms:title": "The Bill of Rights as a Term of Art, Notre Dame Law Review 92 (2017)",
+   "schema:url": {
+    "@id": "https://ndlawreview.org/wp-content/uploads/2025/07/The-Bill-of-Rights-as-a-Term-of-Art.pdf"
+   },
+   "uso:sourceType": "academic"
   },
   {
    "@id": "https://github.com/john1hsu/usa-graph/id/source/blues/s1",
@@ -49667,6 +49990,202 @@
     },
     {
      "@id": "https://github.com/john1hsu/usa-graph/id/betsy-ross-flag-myth/timeline/9"
+    }
+   ]
+  },
+  {
+   "@id": "us:bill-of-rights",
+   "@type": "uso:Law",
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/bill-of-rights/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/bill-of-rights/s10"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/bill-of-rights/s11"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/bill-of-rights/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/bill-of-rights/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/bill-of-rights/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/bill-of-rights/s5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/bill-of-rights/s6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/bill-of-rights/s7"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/bill-of-rights/s8"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/bill-of-rights/s9"
+    }
+   ],
+   "rdfs:label": "Bill of Rights",
+   "schema:startDate": {
+    "@type": "xsd:date",
+    "@value": "1791-12-15"
+   },
+   "skos:altLabel": [
+    "First Ten Amendments",
+    "First ten amendments to the United States Constitution",
+    "U.S. Bill of Rights",
+    "United States Bill of Rights"
+   ],
+   "skos:broader": {
+    "@id": "us:united-states-constitution"
+   },
+   "skos:definition": "The first ten amendments to the U.S. Constitution, proposed by the First Congress on September 25, 1789, as part of a package of twelve and ratified on December 15, 1791, which guarantee freedoms such as religion, speech, press and assembly, protections for people accused of crimes, and the reservation of undelegated powers to the states or the people.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/usa-graph/id/scheme/rights-and-law"
+   },
+   "skos:prefLabel": "Bill of Rights",
+   "skos:related": [
+    {
+     "@id": "us:anti-federalists"
+    },
+    {
+     "@id": "us:barron-v-baltimore"
+    },
+    {
+     "@id": "us:constitutional-convention"
+    },
+    {
+     "@id": "us:due-process"
+    },
+    {
+     "@id": "us:equal-protection"
+    },
+    {
+     "@id": "us:federalist-papers"
+    },
+    {
+     "@id": "us:fifth-amendment"
+    },
+    {
+     "@id": "us:first-amendment"
+    },
+    {
+     "@id": "us:fourteenth-amendment"
+    },
+    {
+     "@id": "us:fourth-amendment"
+    },
+    {
+     "@id": "us:george-washington"
+    },
+    {
+     "@id": "us:gitlow-v-new-york"
+    },
+    {
+     "@id": "us:incorporation-of-the-bill-of-rights"
+    },
+    {
+     "@id": "us:john-bingham"
+    },
+    {
+     "@id": "us:mcdonald-v-city-of-chicago"
+    },
+    {
+     "@id": "us:roger-sherman"
+    },
+    {
+     "@id": "us:second-amendment"
+    },
+    {
+     "@id": "us:tenth-amendment"
+    },
+    {
+     "@id": "us:thomas-jefferson"
+    },
+    {
+     "@id": "us:twenty-seventh-amendment"
+    }
+   ],
+   "uso:amends": {
+    "@id": "us:united-states-constitution"
+   },
+   "uso:domain": "rights-and-law",
+   "uso:enactedBy": {
+    "@id": "us:united-states-congress"
+   },
+   "uso:evidenceStatus": "interpretive",
+   "uso:file": "articles/rights-and-law/bill-of-rights.md",
+   "uso:influencedBy": {
+    "@id": "us:george-mason"
+   },
+   "uso:introducedBy": {
+    "@id": "us:james-madison"
+   },
+   "uso:level": "introductory",
+   "uso:misconception": {
+    "@id": "https://github.com/john1hsu/usa-graph/id/bill-of-rights/misconception"
+   },
+   "uso:protects": {
+    "@id": "us:due-process"
+   },
+   "uso:requires": {
+    "@id": "us:united-states-constitution"
+   },
+   "uso:timelineEntry": [
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/bill-of-rights/timeline/1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/bill-of-rights/timeline/10"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/bill-of-rights/timeline/11"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/bill-of-rights/timeline/12"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/bill-of-rights/timeline/13"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/bill-of-rights/timeline/14"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/bill-of-rights/timeline/15"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/bill-of-rights/timeline/2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/bill-of-rights/timeline/3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/bill-of-rights/timeline/4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/bill-of-rights/timeline/5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/bill-of-rights/timeline/6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/bill-of-rights/timeline/7"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/bill-of-rights/timeline/8"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/bill-of-rights/timeline/9"
     }
    ]
   },

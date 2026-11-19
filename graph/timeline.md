@@ -287,6 +287,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1786-09 | Attends the Annapolis Convention, which calls for a national convention the next May. — [James Madison](../articles/presidents-and-founders/james-madison.md) |
 | 1786-09-11 | Delegates from several states gather at the Annapolis Convention. — [Articles of Confederation](../articles/colonial-and-revolutionary/articles-of-confederation.md) |
 | 1787 | Becomes president of the Pennsylvania abolition society and sits as the oldest delegate to the Constitutional Convention. — [Benjamin Franklin](../articles/presidents-and-founders/benjamin-franklin.md) |
+| 1787 | George Mason is one of three delegates present on the Constitutional Convention's last day who refuse to sign, objecting that the Constitution lacks a bill of rights. — [Bill of Rights](../articles/rights-and-law/bill-of-rights.md) |
 | 1787 | Richard Allen and Absalom Jones found the Free African Society in Philadelphia. — [African Americans](../articles/society-and-people/african-americans.md) |
 | 1787 | Richard Allen, Absalom Jones and others found the Free African Society. — [Philadelphia](../articles/regions-cities-and-landmarks/philadelphia.md) |
 | 1787 | The Philadelphia Convention drafts a Constitution that divides power between a national government and the states. — [Federalism](../articles/constitution-and-government/federalism.md) |
@@ -348,15 +349,20 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1789-04-06 | The Senate achieves its first quorum. — [United States Constitution](../articles/constitution-and-government/united-states-constitution.md) |
 | 1789-04-30 | **[Presidency of the United States](../articles/constitution-and-government/presidency-of-the-united-states.md)** (Office) |
 | 1789-04-30 | George Washington takes the first presidential oath at Federal Hall in New York City. — [Presidency of the United States](../articles/constitution-and-government/presidency-of-the-united-states.md) |
+| 1789-04-30 | In his first inaugural address, George Washington suggests that Congress propose amendments securing rights. — [Bill of Rights](../articles/rights-and-law/bill-of-rights.md) |
 | 1789-04-30 | Takes the oath as the first president at Federal Hall in New York City. — [George Washington](../articles/presidents-and-founders/george-washington.md) |
 | 1789-06-08 | Introduces proposed amendments in the House of Representatives. — [James Madison](../articles/presidents-and-founders/james-madison.md) |
+| 1789-06-08 | James Madison introduces proposed amendments in the House of Representatives. — [Bill of Rights](../articles/rights-and-law/bill-of-rights.md) |
 | 1789-06-08 | Representative James Madison proposes constitutional amendments on the House floor. — [United States Congress](../articles/constitution-and-government/united-states-congress.md) |
 | 1789-09-15 | An act of Congress renames the Department of Foreign Affairs the Department of State and makes the Secretary of State keeper of the seal. — [Great Seal of the United States](../articles/symbols-and-national-identity/great-seal-of-the-united-states.md) |
 | 1789-09-24 | **[Supreme Court of the United States](../articles/constitution-and-government/supreme-court-of-the-united-states.md)** (Institution) |
 | 1789-09-24 | The Judiciary Act of 1789 organizes the Court with a chief justice and five associate justices. — [Supreme Court of the United States](../articles/constitution-and-government/supreme-court-of-the-united-states.md) |
+| 1789-09-25 | After the House passes seventeen amendments and the Senate trims them to twelve, Congress sends twelve proposed amendments to the states. — [Bill of Rights](../articles/rights-and-law/bill-of-rights.md) |
 | 1789-09-25 | Congress proposes twelve amendments, including the article containing the Due Process Clause. — [Due process](../articles/rights-and-law/due-process.md) |
 | 1789-09-25 | The First Congress proposes twelve amendments to the states. — [United States Constitution](../articles/constitution-and-government/united-states-constitution.md) |
+| 1789-10-02 | President Washington transmits copies of the twelve amendments to the states. — [Bill of Rights](../articles/rights-and-law/bill-of-rights.md) |
 | 1789-10-03 | At Congress's request, George Washington proclaims Thursday, November 26, 1789, a day of public thanksgiving and prayer. — [Thanksgiving](../articles/culture-and-arts/thanksgiving.md) |
+| 1789-12-01 | A joint committee of Georgia's legislature reports against the amendments, which the state rejects as premature. — [Bill of Rights](../articles/rights-and-law/bill-of-rights.md) |
 | 1790 | Becomes secretary of state under George Washington; resigns in 1793. — [Thomas Jefferson](../articles/presidents-and-founders/thomas-jefferson.md) |
 | 1790 | Congress moves from New York; Philadelphia is the temporary national capital until 1800. — [Philadelphia](../articles/regions-cities-and-landmarks/philadelphia.md) |
 | 1790 | The Residence Act fixes the permanent seat of government on the Potomac River; Congress moves to Washington in 1800. — [United States](../articles/states-and-territories/united-states.md) |
@@ -365,6 +371,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1790-02-03 | Signs the society's petition asking the First Congress to act against slavery. — [Benjamin Franklin](../articles/presidents-and-founders/benjamin-franklin.md) |
 | 1790-04-17 | Dies in Philadelphia, no longer owning any enslaved people. — [Benjamin Franklin](../articles/presidents-and-founders/benjamin-franklin.md) |
 | 1790-05-29 | Rhode Island becomes the thirteenth and last original state to ratify. — [United States Constitution](../articles/constitution-and-government/united-states-constitution.md) |
+| 1790-05-29 | Rhode Island ratifies the Constitution, joining the Union and raising the number of states needed to approve amendments. — [Bill of Rights](../articles/rights-and-law/bill-of-rights.md) |
 | 1790-08-02 | U.S. marshals and their deputies begin the first federal census, which counts 3,929,214 people. — [Census and apportionment](../articles/democracy-and-elections/census-and-apportionment.md) |
 | 1790-12-06 | Congress begins a ten-year residence in Philadelphia. — [United States Congress](../articles/constitution-and-government/united-states-congress.md) |
 | 1791 | Kamehameha completes Puʻukoholā Heiau on Hawaiʻi Island during his wars of unification. — [Hawaii](../articles/states-and-territories/hawaii.md) |
@@ -372,11 +379,14 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1791-08-03 | The Court issues its first opinion, in West v. Barnes. — [Supreme Court of the United States](../articles/constitution-and-government/supreme-court-of-the-united-states.md) |
 | 1791-11-04 | Western Confederacy warriors led by Little Turtle rout Arthur St. Clair's army on the Wabash. — [George Washington](../articles/presidents-and-founders/george-washington.md) |
 | 1791-12-12 | The First Bank of the United States opens in Philadelphia with a twenty-year charter. — [Economic history of the United States](../articles/economy-and-work/economic-history-of-the-united-states.md) |
+| 1791-12-15 | **[Bill of Rights](../articles/rights-and-law/bill-of-rights.md)** (Law) |
 | 1791-12-15 | **[Due process](../articles/rights-and-law/due-process.md)** (Right) |
 | 1791-12-15 | Ratification of the Bill of Rights adds the Fifth Amendment's Due Process Clause to the Constitution. — [Due process](../articles/rights-and-law/due-process.md) |
 | 1791-12-15 | Ten of the amendments are ratified as the Bill of Rights. — [James Madison](../articles/presidents-and-founders/james-madison.md) |
 | 1791-12-15 | Ten of the twelve proposed amendments are ratified as the Bill of Rights. — [United States Constitution](../articles/constitution-and-government/united-states-constitution.md) |
+| 1791-12-15 | Virginia becomes the eleventh state to ratify, supplying the three-fourths majority that makes ten of the twelve articles part of the Constitution. — [Bill of Rights](../articles/rights-and-law/bill-of-rights.md) |
 | 1792 | In Hayburn's Case, justices riding circuit refuse to administer a federal pension act they consider unconstitutional. — [Judicial review](../articles/constitution-and-government/judicial-review.md) |
+| 1792-03-01 | Secretary of State Thomas Jefferson notifies the states that ten amendments have been adopted. — [Bill of Rights](../articles/rights-and-law/bill-of-rights.md) |
 | 1792-04-05 | George Washington casts the first presidential veto, rejecting a 120-seat apportionment bill as unconstitutional. — [Census and apportionment](../articles/democracy-and-elections/census-and-apportionment.md) |
 | 1792-04-14 | Washington signs a replacement act giving the House 105 seats under Jefferson's method. — [Census and apportionment](../articles/democracy-and-elections/census-and-apportionment.md) |
 | 1793 – 1865 | **[Underground Railroad](../articles/civil-war-and-reconstruction/underground-railroad.md)** (Movement) |
@@ -629,6 +639,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1833 | Barron v. Baltimore holds that the Fifth Amendment and the rest of the Bill of Rights limit only the federal government. — [Due process](../articles/rights-and-law/due-process.md) |
 | 1833 | Chicago receives its first town charter; the Treaty of Chicago forces the Potawatomi to cede their last Illinois lands and move west of the Mississippi. — [Chicago](../articles/regions-cities-and-landmarks/chicago.md) |
 | 1833 | Congress passes the Force Bill and a Compromise Tariff, and South Carolina backs down. — [Federalism](../articles/constitution-and-government/federalism.md) |
+| 1833 | In Barron v. Baltimore the Supreme Court holds that the Bill of Rights limits only the federal government. — [Bill of Rights](../articles/rights-and-law/bill-of-rights.md) |
 | 1833 | Reformers from ten states found the American Anti-Slavery Society, pledged to immediate emancipation. — [Abolitionism](../articles/civil-war-and-reconstruction/abolitionism.md) |
 | 1833-12-01 | Dr. John Emerson, an army surgeon, takes the enslaved Dred Scott to Fort Armstrong in the free state of Illinois. — [Dred Scott v. Sandford](../articles/rights-and-law/dred-scott-v-sandford.md) |
 | 1834 | First elected to the Illinois legislature. — [Abraham Lincoln](../articles/presidents-and-founders/abraham-lincoln.md) |
@@ -907,6 +918,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1867-10-18 | Alaska, bought from Russia for $7.2 million, is formally transferred to the United States. — [United States](../articles/states-and-territories/united-states.md) |
 | 1867-10-18 | Russia formally transfers the territory to the United States. — [Alaska](../articles/states-and-territories/alaska.md) |
 | 1868 | Becomes an editor, with Stanton, of the newspaper The Revolution. — [Susan B. Anthony](../articles/people-who-shaped-america/susan-b-anthony.md) |
+| 1868 | Ratification of the Fourteenth Amendment gives later courts the Due Process Clause through which most of the Bill of Rights is applied to the states. — [Bill of Rights](../articles/rights-and-law/bill-of-rights.md) |
 | 1868 | The Burlingame Treaty secures free migration between the United States and China. — [Chinese Exclusion Act](../articles/gilded-age-and-progressive-era/chinese-exclusion-act.md) |
 | 1868 | The Fourteenth Amendment replaces the three-fifths formula with a count of the whole number of persons. — [Census and apportionment](../articles/democracy-and-elections/census-and-apportionment.md) |
 | 1868 | The Fourteenth Amendment's citizenship clause makes all persons born in the United States citizens, overturning the decision's citizenship holding. — [Dred Scott v. Sandford](../articles/rights-and-law/dred-scott-v-sandford.md) |
@@ -1405,6 +1417,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1924-06-24 | The Indian Citizenship Act makes Native Americans U.S. citizens. — [Fourteenth Amendment](../articles/rights-and-law/fourteenth-amendment.md) |
 | 1925 | A. Philip Randolph and Pullman porters found the Brotherhood of Sleeping Car Porters in New York City. — [Labor movement](../articles/economy-and-work/labor-movement.md) |
 | 1925 | Armstrong's Hot Five and Hot Seven recordings (1925–1928) begin shifting jazz toward the improvising soloist. — [Jazz](../articles/culture-and-arts/jazz.md) |
+| 1925 | Gitlow v. New York treats freedom of speech and of the press as protected against the states, beginning selective incorporation in earnest. — [Bill of Rights](../articles/rights-and-law/bill-of-rights.md) |
 | 1925 | Illinois sets aside part of Cahokia as a state park. — [Cahokia](../articles/native-nations/cahokia.md) |
 | 1925-01-05 | Nellie Tayloe Ross takes office as the first elected woman governor in the United States. — [Wyoming](../articles/states-and-territories/wyoming.md) |
 | 1926 | U.S. Marines return to Nicaragua amid renewed fighting, a year after an earlier deployment ended. — [Good Neighbor Policy](../articles/foreign-relations-and-military/good-neighbor-policy.md) |
@@ -1556,6 +1569,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1939 | John Steinbeck's The Grapes of Wrath and Carey McWilliams's Factories in the Field are published; county prosecutors charge more than two dozen people under the Indigent Act. — [Okies](../articles/society-and-people/okies.md) |
 | 1939 | Lane v. Wilson holds that the amendment reaches subtle as well as overt discrimination. — [Fifteenth Amendment](../articles/democracy-and-elections/fifteenth-amendment.md) |
 | 1939-02-24 | The canal report later adopted as the plan for the work (House Document No. 210) is dated. — [Third Locks Project](../articles/foreign-relations-and-military/third-locks-project.md) |
+| 1939-03-02 | Massachusetts ratifies the Bill of Rights on its 150th anniversary; Georgia and Connecticut follow later that spring. — [Bill of Rights](../articles/rights-and-law/bill-of-rights.md) |
 | 1939-08-11 – 1942-05-23 | **[Third Locks Project](../articles/foreign-relations-and-military/third-locks-project.md)** (Event) |
 | 1939-08-11 | President Franklin D. Roosevelt signs H.R. 5129, capping the cost at $277 million, and objects to its citizenship hiring rule. — [Third Locks Project](../articles/foreign-relations-and-military/third-locks-project.md) |
 | 1939-08-19 | The State Department sends Roosevelt's statement to the U.S. ambassador to share with Panama's government. — [Third Locks Project](../articles/foreign-relations-and-military/third-locks-project.md) |
@@ -2012,6 +2026,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1992 | In Department of Commerce v. Montana the Supreme Court upholds the equal-proportions method. — [Census and apportionment](../articles/democracy-and-elections/census-and-apportionment.md) |
 | 1992 | New York v. United States begins a line of decisions barring Congress from commandeering state governments. — [Federalism](../articles/constitution-and-government/federalism.md) |
 | 1992-05-07 | A pay amendment proposed in 1789 is ratified as the Twenty-seventh Amendment. — [United States Constitution](../articles/constitution-and-government/united-states-constitution.md) |
+| 1992-05-07 | The second of the twelve 1789 articles, on congressional pay, is ratified as the Twenty-seventh Amendment. — [Bill of Rights](../articles/rights-and-law/bill-of-rights.md) |
 | 1992-10-16 | The Dayton Aviation Heritage Preservation Act makes the field part of a new national historical park. — [Huffman Prairie Flying Field](../articles/science-and-innovation/huffman-prairie.md) |
 | 1993 | A major summer flood strikes the upper river basin. — [Mississippi River](../articles/geography-and-environment/mississippi-river.md) |
 | 1993-11-23 | Congress apologizes for the U.S. role in the 1893 overthrow (Public Law 103-150). — [Hawaii](../articles/states-and-territories/hawaii.md) |
@@ -2101,6 +2116,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 2009-10 | Unemployment peaks at 10.0 percent. — [Great Recession](../articles/contemporary-america/great-recession.md) |
 | 2009-12-01 | In a speech at West Point, President Obama approves a surge of 33,000 more U.S. troops, with withdrawals to begin in July 2011. — [War in Afghanistan (2001–2021)](../articles/foreign-relations-and-military/war-in-afghanistan.md) |
 | 2009-12-24 | The Senate passes H.R. 3590, as amended, by 60 to 39. — [Affordable Care Act](../articles/contemporary-america/affordable-care-act.md) |
+| 2010 | McDonald v. City of Chicago applies the Second Amendment to the states. — [Bill of Rights](../articles/rights-and-law/bill-of-rights.md) |
 | 2010 | Shelby County, Alabama, sues the Attorney General in federal court in Washington, D.C., to have Sections 4(b) and 5 declared unconstitutional. — [Shelby County v. Holder](../articles/democracy-and-elections/shelby-county-v-holder.md) |
 | 2010 | University of Maryland archaeologists and local volunteers survey the massacre site with metal detectors. — [Lattimer massacre](../articles/economy-and-work/lattimer-massacre.md) |
 | 2010-03-21 | The House agrees to the Senate amendments, 219 to 212, with no Republican votes in favor. — [Affordable Care Act](../articles/contemporary-america/affordable-care-act.md) |
