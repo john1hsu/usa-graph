@@ -573,6 +573,21 @@
 <https://github.com/john1hsu/usa-graph/id/fifteenth-amendment#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/fifteenth-amendment/s7> .
 <https://github.com/john1hsu/usa-graph/id/fifteenth-amendment#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/fifteenth-amendment/s8> .
 <https://github.com/john1hsu/usa-graph/id/fifteenth-amendment#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/fifteenth-amendment/s9> .
+<https://github.com/john1hsu/usa-graph/id/nineteenth-amendment#graph> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity> .
+<https://github.com/john1hsu/usa-graph/id/nineteenth-amendment#graph> <http://purl.org/dc/terms/subject> <https://github.com/john1hsu/usa-graph/id/nineteenth-amendment> .
+<https://github.com/john1hsu/usa-graph/id/nineteenth-amendment#graph> <http://purl.org/dc/terms/source> "https://github.com/john1hsu/usa-graph/blob/main/articles/democracy-and-elections/nineteenth-amendment.md" .
+<https://github.com/john1hsu/usa-graph/id/nineteenth-amendment#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/nineteenth-amendment/s1> .
+<https://github.com/john1hsu/usa-graph/id/nineteenth-amendment#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/nineteenth-amendment/s2> .
+<https://github.com/john1hsu/usa-graph/id/nineteenth-amendment#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/nineteenth-amendment/s3> .
+<https://github.com/john1hsu/usa-graph/id/nineteenth-amendment#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/nineteenth-amendment/s4> .
+<https://github.com/john1hsu/usa-graph/id/nineteenth-amendment#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/nineteenth-amendment/s5> .
+<https://github.com/john1hsu/usa-graph/id/nineteenth-amendment#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/nineteenth-amendment/s6> .
+<https://github.com/john1hsu/usa-graph/id/nineteenth-amendment#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/nineteenth-amendment/s7> .
+<https://github.com/john1hsu/usa-graph/id/nineteenth-amendment#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/nineteenth-amendment/s8> .
+<https://github.com/john1hsu/usa-graph/id/nineteenth-amendment#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/nineteenth-amendment/s9> .
+<https://github.com/john1hsu/usa-graph/id/nineteenth-amendment#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/nineteenth-amendment/s10> .
+<https://github.com/john1hsu/usa-graph/id/nineteenth-amendment#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/nineteenth-amendment/s11> .
+<https://github.com/john1hsu/usa-graph/id/nineteenth-amendment#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/nineteenth-amendment/s12> .
 <https://github.com/john1hsu/usa-graph/id/reynolds-v-sims#graph> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity> .
 <https://github.com/john1hsu/usa-graph/id/reynolds-v-sims#graph> <http://purl.org/dc/terms/subject> <https://github.com/john1hsu/usa-graph/id/reynolds-v-sims> .
 <https://github.com/john1hsu/usa-graph/id/reynolds-v-sims#graph> <http://purl.org/dc/terms/source> "https://github.com/john1hsu/usa-graph/blob/main/articles/democracy-and-elections/reynolds-v-sims.md" .
@@ -10107,6 +10122,213 @@
   <https://github.com/john1hsu/usa-graph/id/source/fifteenth-amendment/s9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
   <https://github.com/john1hsu/usa-graph/id/source/fifteenth-amendment/s9> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "institutional" .
   <https://github.com/john1hsu/usa-graph/id/source/fifteenth-amendment/s9> <https://schema.org/url> <https://constitutioncenter.org/the-constitution/drafting-table/item/amendment-xv> .
+}
+
+<https://github.com/john1hsu/usa-graph/id/nineteenth-amendment#graph> {
+  <https://github.com/john1hsu/usa-graph/id/nineteenth-amendment/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Misconception> .
+  <https://github.com/john1hsu/usa-graph/id/nineteenth-amendment/misconception> <https://github.com/john1hsu/usa-graph/ontology#fact> "Kentucky let some women vote in school elections from 1838, Wyoming Territory granted women equal suffrage in 1869, and the National Park Service counts 19 states that recognized women's voting rights before 1920; the amendment made sex an unconstitutional basis for denying the vote everywhere." .
+  <https://github.com/john1hsu/usa-graph/id/nineteenth-amendment/misconception> <https://github.com/john1hsu/usa-graph/ontology#myth> "No American woman could vote until the Nineteenth Amendment was ratified in 1920." .
+  <https://github.com/john1hsu/usa-graph/id/nineteenth-amendment/misconception> <https://github.com/john1hsu/usa-graph/ontology#why> "Treating 1920 as the first time women voted hides the decades of state and territorial campaigns, mostly in the West, that built the pressure for a federal amendment." .
+  <https://github.com/john1hsu/usa-graph/id/nineteenth-amendment/review/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+  <https://github.com/john1hsu/usa-graph/id/nineteenth-amendment/review/1> <http://www.w3.org/2000/01/rdf-schema#label> "Why did suffragists turn to a federal amendment rather than continuing to win the vote state by state?" .
+  <https://github.com/john1hsu/usa-graph/id/nineteenth-amendment/review/1> <https://github.com/john1hsu/usa-graph/ontology#answer> "State campaigns were slow and uneven; by 1914 only about ten states had joined Wyoming in granting full suffrage, and advocates had largely given up on changing each state's laws, so they concentrated on an amendment that would bar sex discrimination in voting in every state at once." .
+  <https://github.com/john1hsu/usa-graph/id/nineteenth-amendment/review/1> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/nineteenth-amendment> .
+  <https://github.com/john1hsu/usa-graph/id/nineteenth-amendment/review/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+  <https://github.com/john1hsu/usa-graph/id/nineteenth-amendment/review/2> <http://www.w3.org/2000/01/rdf-schema#label> "How did Leser v. Garnett settle doubts about whether the amendment was valid?" .
+  <https://github.com/john1hsu/usa-graph/id/nineteenth-amendment/review/2> <https://github.com/john1hsu/usa-graph/ontology#answer> "The Court held that the amendment was identical in form and method of adoption to the Fifteenth, so both had to be valid; that a state legislature's ratification is a federal function that state constitutions cannot limit; and that the Secretary of State's certification of ratification was conclusive on the courts." .
+  <https://github.com/john1hsu/usa-graph/id/nineteenth-amendment/review/2> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/nineteenth-amendment> .
+  <https://github.com/john1hsu/usa-graph/id/nineteenth-amendment/review/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+  <https://github.com/john1hsu/usa-graph/id/nineteenth-amendment/review/3> <http://www.w3.org/2000/01/rdf-schema#label> "Why did ratification in 1920 not bring the vote to all American women?" .
+  <https://github.com/john1hsu/usa-graph/id/nineteenth-amendment/review/3> <https://github.com/john1hsu/usa-graph/ontology#answer> "The amendment only barred denial on account of sex, so other barriers remained; Black women in the Jim Crow South met the same poll taxes, literacy tests and violence used against Black men, many Mexican American women in the West were also disfranchised, and most American Indian and Chinese immigrant women were shut out because they lacked citizenship." .
+  <https://github.com/john1hsu/usa-graph/id/nineteenth-amendment/review/3> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/nineteenth-amendment> .
+  <https://github.com/john1hsu/usa-graph/id/nineteenth-amendment/timeline/10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/nineteenth-amendment/timeline/10> <http://www.w3.org/2000/01/rdf-schema#label> "Wisconsin, Illinois and Michigan ratify; Wisconsin is counted as the first state." .
+  <https://github.com/john1hsu/usa-graph/id/nineteenth-amendment/timeline/10> <https://github.com/john1hsu/usa-graph/ontology#date> "1919-06-10"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/nineteenth-amendment/timeline/11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/nineteenth-amendment/timeline/11> <http://www.w3.org/2000/01/rdf-schema#label> "Tennessee's House approves ratification 49 to 47, making Tennessee the thirty-sixth state." .
+  <https://github.com/john1hsu/usa-graph/id/nineteenth-amendment/timeline/11> <https://github.com/john1hsu/usa-graph/ontology#date> "1920-08-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/nineteenth-amendment/timeline/12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/nineteenth-amendment/timeline/12> <http://www.w3.org/2000/01/rdf-schema#label> "Secretary of State Bainbridge Colby certifies the amendment." .
+  <https://github.com/john1hsu/usa-graph/id/nineteenth-amendment/timeline/12> <https://github.com/john1hsu/usa-graph/ontology#date> "1920-08-26"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/nineteenth-amendment/timeline/13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/nineteenth-amendment/timeline/13> <http://www.w3.org/2000/01/rdf-schema#label> "In Leser v. Garnett the Supreme Court rejects challenges to the amendment's validity." .
+  <https://github.com/john1hsu/usa-graph/id/nineteenth-amendment/timeline/13> <https://github.com/john1hsu/usa-graph/ontology#date> "1922-02-27"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/nineteenth-amendment/timeline/14> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/nineteenth-amendment/timeline/14> <http://www.w3.org/2000/01/rdf-schema#label> "In Breedlove v. Suttles the Court holds that a Georgia poll tax charged to men but not to non-registering women does not violate the amendment." .
+  <https://github.com/john1hsu/usa-graph/id/nineteenth-amendment/timeline/14> <https://github.com/john1hsu/usa-graph/ontology#date> "1937"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+  <https://github.com/john1hsu/usa-graph/id/nineteenth-amendment/timeline/15> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/nineteenth-amendment/timeline/15> <http://www.w3.org/2000/01/rdf-schema#label> "Mississippi, which had rejected the amendment in 1920, becomes the last state to ratify it." .
+  <https://github.com/john1hsu/usa-graph/id/nineteenth-amendment/timeline/15> <https://github.com/john1hsu/usa-graph/ontology#date> "1984-03-22"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/nineteenth-amendment/timeline/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/nineteenth-amendment/timeline/1> <http://www.w3.org/2000/01/rdf-schema#label> "Wyoming Territory gives women the vote on equal terms with men, and keeps it at statehood." .
+  <https://github.com/john1hsu/usa-graph/id/nineteenth-amendment/timeline/1> <https://github.com/john1hsu/usa-graph/ontology#date> "1869"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+  <https://github.com/john1hsu/usa-graph/id/nineteenth-amendment/timeline/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/nineteenth-amendment/timeline/2> <http://www.w3.org/2000/01/rdf-schema#label> "Senator Aaron Sargent of California introduces the woman suffrage amendment as S.Res. 12." .
+  <https://github.com/john1hsu/usa-graph/id/nineteenth-amendment/timeline/2> <https://github.com/john1hsu/usa-graph/ontology#date> "1878-01-10"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/nineteenth-amendment/timeline/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/nineteenth-amendment/timeline/3> <http://www.w3.org/2000/01/rdf-schema#label> "The Senate holds its first vote on the amendment and defeats it, 16 to 34." .
+  <https://github.com/john1hsu/usa-graph/id/nineteenth-amendment/timeline/3> <https://github.com/john1hsu/usa-graph/ontology#date> "1887-01-25"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/nineteenth-amendment/timeline/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/nineteenth-amendment/timeline/4> <http://www.w3.org/2000/01/rdf-schema#label> "A Senate majority of 35 to 34 falls well short of the two-thirds needed." .
+  <https://github.com/john1hsu/usa-graph/id/nineteenth-amendment/timeline/4> <https://github.com/john1hsu/usa-graph/ontology#date> "1914-03-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/nineteenth-amendment/timeline/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/nineteenth-amendment/timeline/5> <http://www.w3.org/2000/01/rdf-schema#label> "The House narrowly reaches a two-thirds majority for the amendment." .
+  <https://github.com/john1hsu/usa-graph/id/nineteenth-amendment/timeline/5> <https://github.com/john1hsu/usa-graph/ontology#date> "1918-01-10"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/nineteenth-amendment/timeline/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/nineteenth-amendment/timeline/6> <http://www.w3.org/2000/01/rdf-schema#label> "A day after President Woodrow Wilson addresses the Senate in its favor, the amendment fails 53 to 31, two votes short." .
+  <https://github.com/john1hsu/usa-graph/id/nineteenth-amendment/timeline/6> <https://github.com/john1hsu/usa-graph/ontology#date> "1918-10-01"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/nineteenth-amendment/timeline/7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/nineteenth-amendment/timeline/7> <http://www.w3.org/2000/01/rdf-schema#label> "The Senate rejects it again, 55 to 29, one vote short." .
+  <https://github.com/john1hsu/usa-graph/id/nineteenth-amendment/timeline/7> <https://github.com/john1hsu/usa-graph/ontology#date> "1919-02-10"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/nineteenth-amendment/timeline/8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/nineteenth-amendment/timeline/8> <http://www.w3.org/2000/01/rdf-schema#label> "The House of the new Sixty-sixth Congress passes the amendment." .
+  <https://github.com/john1hsu/usa-graph/id/nineteenth-amendment/timeline/8> <https://github.com/john1hsu/usa-graph/ontology#date> "1919-05-21"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/nineteenth-amendment/timeline/9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/nineteenth-amendment/timeline/9> <http://www.w3.org/2000/01/rdf-schema#label> "The Senate passes it 56 to 25, sending it to the states." .
+  <https://github.com/john1hsu/usa-graph/id/nineteenth-amendment/timeline/9> <https://github.com/john1hsu/usa-graph/ontology#date> "1919-06-04"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/nineteenth-amendment> <http://purl.org/dc/terms/created> "2026-11-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/nineteenth-amendment> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Law> .
+  <https://github.com/john1hsu/usa-graph/id/nineteenth-amendment> <http://www.w3.org/2000/01/rdf-schema#label> "Nineteenth Amendment" .
+  <https://github.com/john1hsu/usa-graph/id/nineteenth-amendment> <http://www.w3.org/2004/02/skos/core#altLabel> "19th Amendment" .
+  <https://github.com/john1hsu/usa-graph/id/nineteenth-amendment> <http://www.w3.org/2004/02/skos/core#altLabel> "Amendment XIX" .
+  <https://github.com/john1hsu/usa-graph/id/nineteenth-amendment> <http://www.w3.org/2004/02/skos/core#altLabel> "Nineteenth Amendment to the United States Constitution" .
+  <https://github.com/john1hsu/usa-graph/id/nineteenth-amendment> <http://www.w3.org/2004/02/skos/core#altLabel> "Susan B. Anthony Amendment" .
+  <https://github.com/john1hsu/usa-graph/id/nineteenth-amendment> <http://www.w3.org/2004/02/skos/core#altLabel> "Woman suffrage amendment" .
+  <https://github.com/john1hsu/usa-graph/id/nineteenth-amendment> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/usa-graph/id/voting-rights-in-the-united-states> .
+  <https://github.com/john1hsu/usa-graph/id/nineteenth-amendment> <http://www.w3.org/2004/02/skos/core#definition> "The 1920 amendment to the U.S. Constitution that forbids the United States and the states from denying or abridging citizens' right to vote on account of sex, and gives Congress power to enforce that ban; first introduced in Congress in 1878, it was passed in 1919 and ratified when Tennessee approved it on August 18, 1920." .
+  <https://github.com/john1hsu/usa-graph/id/nineteenth-amendment> <http://www.w3.org/2004/02/skos/core#inScheme> <https://github.com/john1hsu/usa-graph/id/scheme/democracy-and-elections> .
+  <https://github.com/john1hsu/usa-graph/id/nineteenth-amendment> <http://www.w3.org/2004/02/skos/core#prefLabel> "Nineteenth Amendment" .
+  <https://github.com/john1hsu/usa-graph/id/nineteenth-amendment> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/adkins-v-childrens-hospital> .
+  <https://github.com/john1hsu/usa-graph/id/nineteenth-amendment> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/bainbridge-colby> .
+  <https://github.com/john1hsu/usa-graph/id/nineteenth-amendment> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/breedlove-v-suttles> .
+  <https://github.com/john1hsu/usa-graph/id/nineteenth-amendment> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/fifteenth-amendment> .
+  <https://github.com/john1hsu/usa-graph/id/nineteenth-amendment> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/fourteenth-amendment> .
+  <https://github.com/john1hsu/usa-graph/id/nineteenth-amendment> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/harper-v-virginia-state-board-of-elections> .
+  <https://github.com/john1hsu/usa-graph/id/nineteenth-amendment> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/harry-t-burn> .
+  <https://github.com/john1hsu/usa-graph/id/nineteenth-amendment> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/leser-v-garnett> .
+  <https://github.com/john1hsu/usa-graph/id/nineteenth-amendment> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/liberty-bell> .
+  <https://github.com/john1hsu/usa-graph/id/nineteenth-amendment> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/minor-v-happersett> .
+  <https://github.com/john1hsu/usa-graph/id/nineteenth-amendment> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/progressive-era> .
+  <https://github.com/john1hsu/usa-graph/id/nineteenth-amendment> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/susan-b-anthony> .
+  <https://github.com/john1hsu/usa-graph/id/nineteenth-amendment> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/tennessee> .
+  <https://github.com/john1hsu/usa-graph/id/nineteenth-amendment> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/twenty-fourth-amendment> .
+  <https://github.com/john1hsu/usa-graph/id/nineteenth-amendment> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/twenty-sixth-amendment> .
+  <https://github.com/john1hsu/usa-graph/id/nineteenth-amendment> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/voting-rights-act-of-1965> .
+  <https://github.com/john1hsu/usa-graph/id/nineteenth-amendment> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/womens-suffrage-movement> .
+  <https://github.com/john1hsu/usa-graph/id/nineteenth-amendment> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/woodrow-wilson> .
+  <https://github.com/john1hsu/usa-graph/id/nineteenth-amendment> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/wyoming> .
+  <https://github.com/john1hsu/usa-graph/id/nineteenth-amendment> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/nineteenth-amendment/s10> .
+  <https://github.com/john1hsu/usa-graph/id/nineteenth-amendment> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/nineteenth-amendment/s11> .
+  <https://github.com/john1hsu/usa-graph/id/nineteenth-amendment> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/nineteenth-amendment/s12> .
+  <https://github.com/john1hsu/usa-graph/id/nineteenth-amendment> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/nineteenth-amendment/s1> .
+  <https://github.com/john1hsu/usa-graph/id/nineteenth-amendment> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/nineteenth-amendment/s2> .
+  <https://github.com/john1hsu/usa-graph/id/nineteenth-amendment> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/nineteenth-amendment/s3> .
+  <https://github.com/john1hsu/usa-graph/id/nineteenth-amendment> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/nineteenth-amendment/s4> .
+  <https://github.com/john1hsu/usa-graph/id/nineteenth-amendment> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/nineteenth-amendment/s5> .
+  <https://github.com/john1hsu/usa-graph/id/nineteenth-amendment> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/nineteenth-amendment/s6> .
+  <https://github.com/john1hsu/usa-graph/id/nineteenth-amendment> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/nineteenth-amendment/s7> .
+  <https://github.com/john1hsu/usa-graph/id/nineteenth-amendment> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/nineteenth-amendment/s8> .
+  <https://github.com/john1hsu/usa-graph/id/nineteenth-amendment> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/nineteenth-amendment/s9> .
+  <https://github.com/john1hsu/usa-graph/id/nineteenth-amendment> <https://github.com/john1hsu/usa-graph/ontology#amends> <https://github.com/john1hsu/usa-graph/id/united-states-constitution> .
+  <https://github.com/john1hsu/usa-graph/id/nineteenth-amendment> <https://github.com/john1hsu/usa-graph/ontology#domain> "democracy-and-elections" .
+  <https://github.com/john1hsu/usa-graph/id/nineteenth-amendment> <https://github.com/john1hsu/usa-graph/ontology#enactedBy> <https://github.com/john1hsu/usa-graph/id/united-states-congress> .
+  <https://github.com/john1hsu/usa-graph/id/nineteenth-amendment> <https://github.com/john1hsu/usa-graph/ontology#evidenceStatus> "interpretive" .
+  <https://github.com/john1hsu/usa-graph/id/nineteenth-amendment> <https://github.com/john1hsu/usa-graph/ontology#file> "articles/democracy-and-elections/nineteenth-amendment.md" .
+  <https://github.com/john1hsu/usa-graph/id/nineteenth-amendment> <https://github.com/john1hsu/usa-graph/ontology#influencedBy> <https://github.com/john1hsu/usa-graph/id/fifteenth-amendment> .
+  <https://github.com/john1hsu/usa-graph/id/nineteenth-amendment> <https://github.com/john1hsu/usa-graph/ontology#introducedBy> <https://github.com/john1hsu/usa-graph/id/aaron-sargent> .
+  <https://github.com/john1hsu/usa-graph/id/nineteenth-amendment> <https://github.com/john1hsu/usa-graph/ontology#level> "introductory" .
+  <https://github.com/john1hsu/usa-graph/id/nineteenth-amendment> <https://github.com/john1hsu/usa-graph/ontology#misconception> <https://github.com/john1hsu/usa-graph/id/nineteenth-amendment/misconception> .
+  <https://github.com/john1hsu/usa-graph/id/nineteenth-amendment> <https://github.com/john1hsu/usa-graph/ontology#protects> <https://github.com/john1hsu/usa-graph/id/right-to-vote> .
+  <https://github.com/john1hsu/usa-graph/id/nineteenth-amendment> <https://github.com/john1hsu/usa-graph/ontology#requires> <https://github.com/john1hsu/usa-graph/id/united-states-constitution> .
+  <https://github.com/john1hsu/usa-graph/id/nineteenth-amendment> <https://github.com/john1hsu/usa-graph/ontology#requires> <https://github.com/john1hsu/usa-graph/id/womens-suffrage-movement> .
+  <https://github.com/john1hsu/usa-graph/id/nineteenth-amendment> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/nineteenth-amendment/timeline/10> .
+  <https://github.com/john1hsu/usa-graph/id/nineteenth-amendment> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/nineteenth-amendment/timeline/11> .
+  <https://github.com/john1hsu/usa-graph/id/nineteenth-amendment> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/nineteenth-amendment/timeline/12> .
+  <https://github.com/john1hsu/usa-graph/id/nineteenth-amendment> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/nineteenth-amendment/timeline/13> .
+  <https://github.com/john1hsu/usa-graph/id/nineteenth-amendment> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/nineteenth-amendment/timeline/14> .
+  <https://github.com/john1hsu/usa-graph/id/nineteenth-amendment> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/nineteenth-amendment/timeline/15> .
+  <https://github.com/john1hsu/usa-graph/id/nineteenth-amendment> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/nineteenth-amendment/timeline/1> .
+  <https://github.com/john1hsu/usa-graph/id/nineteenth-amendment> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/nineteenth-amendment/timeline/2> .
+  <https://github.com/john1hsu/usa-graph/id/nineteenth-amendment> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/nineteenth-amendment/timeline/3> .
+  <https://github.com/john1hsu/usa-graph/id/nineteenth-amendment> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/nineteenth-amendment/timeline/4> .
+  <https://github.com/john1hsu/usa-graph/id/nineteenth-amendment> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/nineteenth-amendment/timeline/5> .
+  <https://github.com/john1hsu/usa-graph/id/nineteenth-amendment> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/nineteenth-amendment/timeline/6> .
+  <https://github.com/john1hsu/usa-graph/id/nineteenth-amendment> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/nineteenth-amendment/timeline/7> .
+  <https://github.com/john1hsu/usa-graph/id/nineteenth-amendment> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/nineteenth-amendment/timeline/8> .
+  <https://github.com/john1hsu/usa-graph/id/nineteenth-amendment> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/nineteenth-amendment/timeline/9> .
+  <https://github.com/john1hsu/usa-graph/id/nineteenth-amendment> <https://schema.org/startDate> "1920-08-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/nineteenth-amendment/s10> <http://purl.org/dc/terms/date> "2026-11-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/nineteenth-amendment/s10> <http://purl.org/dc/terms/publisher> "National Park Service (Sharon Harley, University of Maryland, 2019)" .
+  <https://github.com/john1hsu/usa-graph/id/source/nineteenth-amendment/s10> <http://purl.org/dc/terms/title> "African American Women and the Nineteenth Amendment" .
+  <https://github.com/john1hsu/usa-graph/id/source/nineteenth-amendment/s10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/nineteenth-amendment/s10> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+  <https://github.com/john1hsu/usa-graph/id/source/nineteenth-amendment/s10> <https://schema.org/url> <https://www.nps.gov/articles/african-american-women-and-the-nineteenth-amendment.htm> .
+  <https://github.com/john1hsu/usa-graph/id/source/nineteenth-amendment/s11> <http://purl.org/dc/terms/date> "2026-11-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/nineteenth-amendment/s11> <http://purl.org/dc/terms/publisher> "Rutgers University School of Arts and Sciences (interview with historian Nancy Hewitt)" .
+  <https://github.com/john1hsu/usa-graph/id/source/nineteenth-amendment/s11> <http://purl.org/dc/terms/title> "What Did Ratification of the 19th Amendment Mean to Women?" .
+  <https://github.com/john1hsu/usa-graph/id/source/nineteenth-amendment/s11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/nineteenth-amendment/s11> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "academic" .
+  <https://github.com/john1hsu/usa-graph/id/source/nineteenth-amendment/s11> <https://schema.org/url> <https://sas.rutgers.edu/about/news/faculty/faculty-news-detail/what-did-ratification-of-the-19th-amendment-mean-to-women> .
+  <https://github.com/john1hsu/usa-graph/id/source/nineteenth-amendment/s12> <http://purl.org/dc/terms/date> "2026-11-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/nineteenth-amendment/s12> <http://purl.org/dc/terms/publisher> "Reva B. Siegel, Yale Law Journal Forum 129 (2020)" .
+  <https://github.com/john1hsu/usa-graph/id/source/nineteenth-amendment/s12> <http://purl.org/dc/terms/title> "The Nineteenth Amendment and the Democratization of the Family" .
+  <https://github.com/john1hsu/usa-graph/id/source/nineteenth-amendment/s12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/nineteenth-amendment/s12> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "peer-reviewed" .
+  <https://github.com/john1hsu/usa-graph/id/source/nineteenth-amendment/s12> <https://schema.org/url> <https://www.yalelawjournal.org/pdf/Siegel_TheNineteenthAmendmentandtheDemocratizationoftheFamily_2wr9iaz1.pdf> .
+  <https://github.com/john1hsu/usa-graph/id/source/nineteenth-amendment/s1> <http://purl.org/dc/terms/date> "2026-11-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/nineteenth-amendment/s1> <http://purl.org/dc/terms/publisher> "National Archives, Milestone Documents" .
+  <https://github.com/john1hsu/usa-graph/id/source/nineteenth-amendment/s1> <http://purl.org/dc/terms/title> "19th Amendment to the U.S. Constitution: Women's Right to Vote (1920)" .
+  <https://github.com/john1hsu/usa-graph/id/source/nineteenth-amendment/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/nineteenth-amendment/s1> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "primary" .
+  <https://github.com/john1hsu/usa-graph/id/source/nineteenth-amendment/s1> <https://schema.org/url> <https://www.archives.gov/milestone-documents/19th-amendment> .
+  <https://github.com/john1hsu/usa-graph/id/source/nineteenth-amendment/s2> <http://purl.org/dc/terms/date> "2026-11-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/nineteenth-amendment/s2> <http://purl.org/dc/terms/publisher> "Congressional Research Service, Constitution Annotated (via Cornell Legal Information Institute)" .
+  <https://github.com/john1hsu/usa-graph/id/source/nineteenth-amendment/s2> <http://purl.org/dc/terms/title> "Nineteenth Amendment: Historical Background" .
+  <https://github.com/john1hsu/usa-graph/id/source/nineteenth-amendment/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/nineteenth-amendment/s2> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+  <https://github.com/john1hsu/usa-graph/id/source/nineteenth-amendment/s2> <https://schema.org/url> <https://www.law.cornell.edu/constitution-conan/amendment-19/nineteenth-amendment-historical-background> .
+  <https://github.com/john1hsu/usa-graph/id/source/nineteenth-amendment/s3> <http://purl.org/dc/terms/date> "2026-11-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/nineteenth-amendment/s3> <http://purl.org/dc/terms/publisher> "Congressional Research Service, Constitution Annotated (via Cornell Legal Information Institute)" .
+  <https://github.com/john1hsu/usa-graph/id/source/nineteenth-amendment/s3> <http://purl.org/dc/terms/title> "Amdt19.4 The Scope of the Nineteenth Amendment" .
+  <https://github.com/john1hsu/usa-graph/id/source/nineteenth-amendment/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/nineteenth-amendment/s3> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+  <https://github.com/john1hsu/usa-graph/id/source/nineteenth-amendment/s3> <https://schema.org/url> <https://www.law.cornell.edu/constitution-conan/amendment-19/the-scope-of-the-nineteenth-amendment> .
+  <https://github.com/john1hsu/usa-graph/id/source/nineteenth-amendment/s4> <http://purl.org/dc/terms/date> "2026-11-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/nineteenth-amendment/s4> <http://purl.org/dc/terms/publisher> "U.S. Senate Historical Office" .
+  <https://github.com/john1hsu/usa-graph/id/source/nineteenth-amendment/s4> <http://purl.org/dc/terms/title> "The Senate and the Nineteenth Amendment: A Timeline" .
+  <https://github.com/john1hsu/usa-graph/id/source/nineteenth-amendment/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/nineteenth-amendment/s4> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+  <https://github.com/john1hsu/usa-graph/id/source/nineteenth-amendment/s4> <https://schema.org/url> <https://www.senate.gov/about/women-of-the-senate/nineteenth-amendment-vertical-timeline.htm> .
+  <https://github.com/john1hsu/usa-graph/id/source/nineteenth-amendment/s5> <http://purl.org/dc/terms/date> "2026-11-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/nineteenth-amendment/s5> <http://purl.org/dc/terms/publisher> "Congressional Research Service (Brandon J. Murrill, via EveryCRSReport)" .
+  <https://github.com/john1hsu/usa-graph/id/source/nineteenth-amendment/s5> <http://purl.org/dc/terms/title> "The Nineteenth Amendment and Women's Suffrage Part 4: The Progressive Era and Ratification (LSB10899, 2023)" .
+  <https://github.com/john1hsu/usa-graph/id/source/nineteenth-amendment/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/nineteenth-amendment/s5> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+  <https://github.com/john1hsu/usa-graph/id/source/nineteenth-amendment/s5> <https://schema.org/url> <https://www.everycrsreport.com/reports/LSB10899.html> .
+  <https://github.com/john1hsu/usa-graph/id/source/nineteenth-amendment/s6> <http://purl.org/dc/terms/date> "2026-11-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/nineteenth-amendment/s6> <http://purl.org/dc/terms/publisher> "Congressional Research Service (Brandon J. Murrill, via EveryCRSReport)" .
+  <https://github.com/john1hsu/usa-graph/id/source/nineteenth-amendment/s6> <http://purl.org/dc/terms/title> "The Nineteenth Amendment and Women's Suffrage Part 5: Supreme Court Interpretations (LSB10900, 2023)" .
+  <https://github.com/john1hsu/usa-graph/id/source/nineteenth-amendment/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/nineteenth-amendment/s6> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+  <https://github.com/john1hsu/usa-graph/id/source/nineteenth-amendment/s6> <https://schema.org/url> <https://www.everycrsreport.com/reports/LSB10900.html> .
+  <https://github.com/john1hsu/usa-graph/id/source/nineteenth-amendment/s7> <http://purl.org/dc/terms/date> "2026-11-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/nineteenth-amendment/s7> <http://purl.org/dc/terms/publisher> "U.S. Supreme Court opinion (via Justia)" .
+  <https://github.com/john1hsu/usa-graph/id/source/nineteenth-amendment/s7> <http://purl.org/dc/terms/title> "Leser v. Garnett, 258 U.S. 130 (1922)" .
+  <https://github.com/john1hsu/usa-graph/id/source/nineteenth-amendment/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/nineteenth-amendment/s7> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "primary" .
+  <https://github.com/john1hsu/usa-graph/id/source/nineteenth-amendment/s7> <https://schema.org/url> <https://supreme.justia.com/cases/federal/us/258/130/case.html> .
+  <https://github.com/john1hsu/usa-graph/id/source/nineteenth-amendment/s8> <http://purl.org/dc/terms/date> "2026-11-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/nineteenth-amendment/s8> <http://purl.org/dc/terms/publisher> "National Park Service" .
+  <https://github.com/john1hsu/usa-graph/id/source/nineteenth-amendment/s8> <http://purl.org/dc/terms/title> "The 19th Amendment by State" .
+  <https://github.com/john1hsu/usa-graph/id/source/nineteenth-amendment/s8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/nineteenth-amendment/s8> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+  <https://github.com/john1hsu/usa-graph/id/source/nineteenth-amendment/s8> <https://schema.org/url> <https://www.nps.gov/subjects/womenshistory/19th-amendment-by-state.htm> .
+  <https://github.com/john1hsu/usa-graph/id/source/nineteenth-amendment/s9> <http://purl.org/dc/terms/date> "2026-11-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/nineteenth-amendment/s9> <http://purl.org/dc/terms/publisher> "National Park Service" .
+  <https://github.com/john1hsu/usa-graph/id/source/nineteenth-amendment/s9> <http://purl.org/dc/terms/title> "Suffrage in 60 Seconds: Harry Burn" .
+  <https://github.com/john1hsu/usa-graph/id/source/nineteenth-amendment/s9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/nineteenth-amendment/s9> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+  <https://github.com/john1hsu/usa-graph/id/source/nineteenth-amendment/s9> <https://schema.org/url> <https://www.nps.gov/articles/000/suffrage60seconds_harry_burn.htm> .
 }
 
 <https://github.com/john1hsu/usa-graph/id/reynolds-v-sims#graph> {
@@ -29998,6 +30220,9 @@
   <https://github.com/john1hsu/usa-graph/id/a-philip-randolph> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/a-philip-randolph> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Person> .
   <https://github.com/john1hsu/usa-graph/id/a-philip-randolph> <https://github.com/john1hsu/usa-graph/ontology#led> <https://github.com/john1hsu/usa-graph/id/labor-movement> .
+  <https://github.com/john1hsu/usa-graph/id/aaron-sargent> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/aaron-sargent> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Person> .
+  <https://github.com/john1hsu/usa-graph/id/aaron-sargent> <https://github.com/john1hsu/usa-graph/ontology#introduced> <https://github.com/john1hsu/usa-graph/id/nineteenth-amendment> .
   <https://github.com/john1hsu/usa-graph/id/abolitionism/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/abolitionism/review/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/abolitionism/review/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
@@ -30035,6 +30260,7 @@
   <https://github.com/john1hsu/usa-graph/id/abolitionism> <https://github.com/john1hsu/usa-graph/ontology#participant> <https://github.com/john1hsu/usa-graph/id/harriet-tubman> .
   <https://github.com/john1hsu/usa-graph/id/abolitionism> <https://github.com/john1hsu/usa-graph/ontology#participant> <https://github.com/john1hsu/usa-graph/id/sojourner-truth> .
   <https://github.com/john1hsu/usa-graph/id/abolitionism> <https://github.com/john1hsu/usa-graph/ontology#participant> <https://github.com/john1hsu/usa-graph/id/susan-b-anthony> .
+  <https://github.com/john1hsu/usa-graph/id/abolitionism> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/nineteenth-amendment> .
   <https://github.com/john1hsu/usa-graph/id/abolitionism> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/womens-suffrage-movement> .
   <https://github.com/john1hsu/usa-graph/id/abraham-lincoln/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/abraham-lincoln/review/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
@@ -30071,6 +30297,7 @@
   <https://github.com/john1hsu/usa-graph/id/adams-onis-treaty> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/monroe-doctrine> .
   <https://github.com/john1hsu/usa-graph/id/adams-onis-treaty> <https://github.com/john1hsu/usa-graph/ontology#resultedFrom> <https://github.com/john1hsu/usa-graph/id/louisiana-purchase> .
   <https://github.com/john1hsu/usa-graph/id/adkins-v-childrens-hospital> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/minimum-wage> .
+  <https://github.com/john1hsu/usa-graph/id/adkins-v-childrens-hospital> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/nineteenth-amendment> .
   <https://github.com/john1hsu/usa-graph/id/affordable-care-act/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/affordable-care-act/review/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/affordable-care-act/review/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
@@ -30563,6 +30790,7 @@
   <https://github.com/john1hsu/usa-graph/id/articles-of-confederation> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/minimum-wage> .
   <https://github.com/john1hsu/usa-graph/id/articles-of-confederation> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/missouri-compromise> .
   <https://github.com/john1hsu/usa-graph/id/articles-of-confederation> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/national-symbols-of-the-united-states> .
+  <https://github.com/john1hsu/usa-graph/id/articles-of-confederation> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/nineteenth-amendment> .
   <https://github.com/john1hsu/usa-graph/id/articles-of-confederation> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/obergefell-v-hodges> .
   <https://github.com/john1hsu/usa-graph/id/articles-of-confederation> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/presidency-of-the-united-states> .
   <https://github.com/john1hsu/usa-graph/id/articles-of-confederation> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/supreme-court-of-the-united-states> .
@@ -30612,6 +30840,7 @@
   <https://github.com/john1hsu/usa-graph/id/aviation-in-the-united-states> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/wright-brothers-first-flight> .
   <https://github.com/john1hsu/usa-graph/id/aviation-in-the-united-states> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/wright-company-school-of-aviation> .
   <https://github.com/john1hsu/usa-graph/id/bacons-rebellion> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/jamestown> .
+  <https://github.com/john1hsu/usa-graph/id/bainbridge-colby> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/nineteenth-amendment> .
   <https://github.com/john1hsu/usa-graph/id/baker-v-carr> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/reynolds-v-sims> .
   <https://github.com/john1hsu/usa-graph/id/baker-v-carr> <https://github.com/john1hsu/usa-graph/ontology#influenced> <https://github.com/john1hsu/usa-graph/id/reynolds-v-sims> .
   <https://github.com/john1hsu/usa-graph/id/baker-v-carr> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/reynolds-v-sims> .
@@ -30802,6 +31031,7 @@
   <https://github.com/john1hsu/usa-graph/id/boulder-city> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/hoover-dam> .
   <https://github.com/john1hsu/usa-graph/id/boulder-city> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/winged-figures-of-the-republic> .
   <https://github.com/john1hsu/usa-graph/id/bracero-program> <https://github.com/john1hsu/usa-graph/ontology#resultedFrom> <https://github.com/john1hsu/usa-graph/id/world-war-ii-and-the-united-states> .
+  <https://github.com/john1hsu/usa-graph/id/breedlove-v-suttles> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/nineteenth-amendment> .
   <https://github.com/john1hsu/usa-graph/id/brotherhood-of-sleeping-car-porters> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/labor-movement> .
   <https://github.com/john1hsu/usa-graph/id/browder-v-gayle> <https://github.com/john1hsu/usa-graph/ontology#resultedFrom> <https://github.com/john1hsu/usa-graph/id/montgomery-bus-boycott> .
   <https://github.com/john1hsu/usa-graph/id/brown-building> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
@@ -31470,6 +31700,7 @@
   <https://github.com/john1hsu/usa-graph/id/constitutional-convention> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/minimum-wage> .
   <https://github.com/john1hsu/usa-graph/id/constitutional-convention> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/missouri-compromise> .
   <https://github.com/john1hsu/usa-graph/id/constitutional-convention> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/national-symbols-of-the-united-states> .
+  <https://github.com/john1hsu/usa-graph/id/constitutional-convention> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/nineteenth-amendment> .
   <https://github.com/john1hsu/usa-graph/id/constitutional-convention> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/obergefell-v-hodges> .
   <https://github.com/john1hsu/usa-graph/id/constitutional-convention> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/presidency-of-the-united-states> .
   <https://github.com/john1hsu/usa-graph/id/constitutional-convention> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/supreme-court-of-the-united-states> .
@@ -31610,6 +31841,7 @@
   <https://github.com/john1hsu/usa-graph/id/declaration-of-independence> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/minimum-wage> .
   <https://github.com/john1hsu/usa-graph/id/declaration-of-independence> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/missouri-compromise> .
   <https://github.com/john1hsu/usa-graph/id/declaration-of-independence> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/national-symbols-of-the-united-states> .
+  <https://github.com/john1hsu/usa-graph/id/declaration-of-independence> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/nineteenth-amendment> .
   <https://github.com/john1hsu/usa-graph/id/declaration-of-independence> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/obergefell-v-hodges> .
   <https://github.com/john1hsu/usa-graph/id/declaration-of-independence> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/presidency-of-the-united-states> .
   <https://github.com/john1hsu/usa-graph/id/declaration-of-independence> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/supreme-court-of-the-united-states> .
@@ -32185,6 +32417,7 @@
   <https://github.com/john1hsu/usa-graph/id/fifteenth-amendment> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/twenty-sixth-amendment> .
   <https://github.com/john1hsu/usa-graph/id/fifteenth-amendment> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/voting-rights-act-of-1965> .
   <https://github.com/john1hsu/usa-graph/id/fifteenth-amendment> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/womens-suffrage-movement> .
+  <https://github.com/john1hsu/usa-graph/id/fifteenth-amendment> <https://github.com/john1hsu/usa-graph/ontology#influenced> <https://github.com/john1hsu/usa-graph/id/nineteenth-amendment> .
   <https://github.com/john1hsu/usa-graph/id/fifteenth-amendment> <https://github.com/john1hsu/usa-graph/ontology#interpretedIn> <https://github.com/john1hsu/usa-graph/id/shelby-county-v-holder> .
   <https://github.com/john1hsu/usa-graph/id/fifteenth-amendment> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/shelby-county-v-holder> .
   <https://github.com/john1hsu/usa-graph/id/fifteenth-amendment> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/voting-rights-act-of-1965> .
@@ -32282,6 +32515,7 @@
   <https://github.com/john1hsu/usa-graph/id/fourteenth-amendment> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/dred-scott-v-sandford> .
   <https://github.com/john1hsu/usa-graph/id/fourteenth-amendment> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/federalism> .
   <https://github.com/john1hsu/usa-graph/id/fourteenth-amendment> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/japanese-american-incarceration> .
+  <https://github.com/john1hsu/usa-graph/id/fourteenth-amendment> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/nineteenth-amendment> .
   <https://github.com/john1hsu/usa-graph/id/fourteenth-amendment> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/reynolds-v-sims> .
   <https://github.com/john1hsu/usa-graph/id/fourteenth-amendment> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/shelby-county-v-holder> .
   <https://github.com/john1hsu/usa-graph/id/fourteenth-amendment> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/supreme-court-of-the-united-states> .
@@ -32778,6 +33012,7 @@
   <https://github.com/john1hsu/usa-graph/id/harold-ickes> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/hoover-dam> .
   <https://github.com/john1hsu/usa-graph/id/harold-ickes> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/winged-figures-of-the-republic> .
   <https://github.com/john1hsu/usa-graph/id/harold-washington> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/chicago> .
+  <https://github.com/john1hsu/usa-graph/id/harper-v-virginia-state-board-of-elections> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/nineteenth-amendment> .
   <https://github.com/john1hsu/usa-graph/id/harriet-robinson-scott> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/dred-scott-v-sandford> .
   <https://github.com/john1hsu/usa-graph/id/harriet-tubman-national-historical-park> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/harriet-tubman> .
   <https://github.com/john1hsu/usa-graph/id/harriet-tubman-underground-railroad-national-historical-park> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/harriet-tubman> .
@@ -32810,6 +33045,7 @@
   <https://github.com/john1hsu/usa-graph/id/harry-colmery> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/servicemens-readjustment-act-of-1944> .
   <https://github.com/john1hsu/usa-graph/id/harry-s-truman> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/cold-war> .
   <https://github.com/john1hsu/usa-graph/id/harry-s-truman> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/nato> .
+  <https://github.com/john1hsu/usa-graph/id/harry-t-burn> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/nineteenth-amendment> .
   <https://github.com/john1hsu/usa-graph/id/hart-rudman-commission> <https://github.com/john1hsu/usa-graph/ontology#influenced> <https://github.com/john1hsu/usa-graph/id/department-of-homeland-security> .
   <https://github.com/john1hsu/usa-graph/id/hartford-convention> <https://github.com/john1hsu/usa-graph/ontology#resultedFrom> <https://github.com/john1hsu/usa-graph/id/war-of-1812> .
   <https://github.com/john1hsu/usa-graph/id/hatch-act-of-1887> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/morrill-land-grant-college-act> .
@@ -33696,6 +33932,7 @@
   <https://github.com/john1hsu/usa-graph/id/lenape> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/philadelphia> .
   <https://github.com/john1hsu/usa-graph/id/lenape> <https://github.com/john1hsu/usa-graph/ontology#originOf> <https://github.com/john1hsu/usa-graph/id/philadelphia> .
   <https://github.com/john1hsu/usa-graph/id/lend-lease-act> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/world-war-ii-and-the-united-states> .
+  <https://github.com/john1hsu/usa-graph/id/leser-v-garnett> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/nineteenth-amendment> .
   <https://github.com/john1hsu/usa-graph/id/let-him-enforce-it-myth> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/andrew-jackson> .
   <https://github.com/john1hsu/usa-graph/id/lewis-and-clark-expedition/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/lewis-and-clark-expedition/review/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
@@ -34131,6 +34368,7 @@
   <https://github.com/john1hsu/usa-graph/id/minimum-wage> <https://github.com/john1hsu/usa-graph/ontology#requires> <https://github.com/john1hsu/usa-graph/id/thirteen-colonies> .
   <https://github.com/john1hsu/usa-graph/id/minimum-wage> <https://github.com/john1hsu/usa-graph/ontology#requires> <https://github.com/john1hsu/usa-graph/id/united-states-constitution> .
   <https://github.com/john1hsu/usa-graph/id/minor-v-happersett> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/fourteenth-amendment> .
+  <https://github.com/john1hsu/usa-graph/id/minor-v-happersett> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/nineteenth-amendment> .
   <https://github.com/john1hsu/usa-graph/id/minor-v-happersett> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/susan-b-anthony> .
   <https://github.com/john1hsu/usa-graph/id/miraflores-locks> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/miraflores-locks> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Place> .
@@ -34591,11 +34829,34 @@
   <https://github.com/john1hsu/usa-graph/id/nfib-v-sebelius> <https://github.com/john1hsu/usa-graph/ontology#resultedFrom> <https://github.com/john1hsu/usa-graph/id/affordable-care-act> .
   <https://github.com/john1hsu/usa-graph/id/niagara-movement> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/w-e-b-du-bois> .
   <https://github.com/john1hsu/usa-graph/id/niagara-movement> <https://github.com/john1hsu/usa-graph/ontology#participant> <https://github.com/john1hsu/usa-graph/id/w-e-b-du-bois> .
-  <https://github.com/john1hsu/usa-graph/id/nineteenth-amendment> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/fifteenth-amendment> .
-  <https://github.com/john1hsu/usa-graph/id/nineteenth-amendment> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/liberty-bell> .
-  <https://github.com/john1hsu/usa-graph/id/nineteenth-amendment> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/susan-b-anthony> .
-  <https://github.com/john1hsu/usa-graph/id/nineteenth-amendment> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/twenty-sixth-amendment> .
-  <https://github.com/john1hsu/usa-graph/id/nineteenth-amendment> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/wyoming> .
+  <https://github.com/john1hsu/usa-graph/id/nineteenth-amendment/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/nineteenth-amendment/review/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/nineteenth-amendment/review/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/nineteenth-amendment/review/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/nineteenth-amendment/timeline/10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/nineteenth-amendment/timeline/11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/nineteenth-amendment/timeline/12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/nineteenth-amendment/timeline/13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/nineteenth-amendment/timeline/14> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/nineteenth-amendment/timeline/15> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/nineteenth-amendment/timeline/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/nineteenth-amendment/timeline/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/nineteenth-amendment/timeline/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/nineteenth-amendment/timeline/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/nineteenth-amendment/timeline/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/nineteenth-amendment/timeline/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/nineteenth-amendment/timeline/7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/nineteenth-amendment/timeline/8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/nineteenth-amendment/timeline/9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/nineteenth-amendment> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Document> .
+  <https://github.com/john1hsu/usa-graph/id/nineteenth-amendment> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/nineteenth-amendment> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/usa-graph/id/voting-rights-in-the-united-states> .
+  <https://github.com/john1hsu/usa-graph/id/nineteenth-amendment> <https://github.com/john1hsu/usa-graph/ontology#requires> <https://github.com/john1hsu/usa-graph/id/abolitionism> .
+  <https://github.com/john1hsu/usa-graph/id/nineteenth-amendment> <https://github.com/john1hsu/usa-graph/ontology#requires> <https://github.com/john1hsu/usa-graph/id/articles-of-confederation> .
+  <https://github.com/john1hsu/usa-graph/id/nineteenth-amendment> <https://github.com/john1hsu/usa-graph/ontology#requires> <https://github.com/john1hsu/usa-graph/id/constitutional-convention> .
+  <https://github.com/john1hsu/usa-graph/id/nineteenth-amendment> <https://github.com/john1hsu/usa-graph/ontology#requires> <https://github.com/john1hsu/usa-graph/id/declaration-of-independence> .
+  <https://github.com/john1hsu/usa-graph/id/nineteenth-amendment> <https://github.com/john1hsu/usa-graph/ontology#requires> <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> .
+  <https://github.com/john1hsu/usa-graph/id/nineteenth-amendment> <https://github.com/john1hsu/usa-graph/ontology#requires> <https://github.com/john1hsu/usa-graph/id/thirteen-colonies> .
   <https://github.com/john1hsu/usa-graph/id/nineteenth-amendment> <https://github.com/john1hsu/usa-graph/ontology#resultedFrom> <https://github.com/john1hsu/usa-graph/id/progressive-era> .
   <https://github.com/john1hsu/usa-graph/id/nineteenth-amendment> <https://github.com/john1hsu/usa-graph/ontology#resultedFrom> <https://github.com/john1hsu/usa-graph/id/womens-suffrage-movement> .
   <https://github.com/john1hsu/usa-graph/id/nisenan> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/california-gold-rush> .
@@ -35062,6 +35323,7 @@
   <https://github.com/john1hsu/usa-graph/id/progressive-era> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/panama-canal> .
   <https://github.com/john1hsu/usa-graph/id/progressive-era> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/third-locks-project> .
   <https://github.com/john1hsu/usa-graph/id/progressive-era> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/triangle-shirtwaist-factory-fire> .
+  <https://github.com/john1hsu/usa-graph/id/progressive-era> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/nineteenth-amendment> .
   <https://github.com/john1hsu/usa-graph/id/progressive-era> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/roosevelt-corollary> .
   <https://github.com/john1hsu/usa-graph/id/progressive-era> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/w-e-b-du-bois> .
   <https://github.com/john1hsu/usa-graph/id/progressive-era> <https://github.com/john1hsu/usa-graph/ontology#periodOf> <https://github.com/john1hsu/usa-graph/id/muckrakers> .
@@ -35227,6 +35489,7 @@
   <https://github.com/john1hsu/usa-graph/id/right-to-vote> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Right> .
   <https://github.com/john1hsu/usa-graph/id/right-to-vote> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/shelby-county-v-holder> .
   <https://github.com/john1hsu/usa-graph/id/right-to-vote> <https://github.com/john1hsu/usa-graph/ontology#protectedBy> <https://github.com/john1hsu/usa-graph/id/fifteenth-amendment> .
+  <https://github.com/john1hsu/usa-graph/id/right-to-vote> <https://github.com/john1hsu/usa-graph/ontology#protectedBy> <https://github.com/john1hsu/usa-graph/id/nineteenth-amendment> .
   <https://github.com/john1hsu/usa-graph/id/right-to-vote> <https://github.com/john1hsu/usa-graph/ontology#protectedBy> <https://github.com/john1hsu/usa-graph/id/twenty-sixth-amendment> .
   <https://github.com/john1hsu/usa-graph/id/right-to-vote> <https://github.com/john1hsu/usa-graph/ontology#protectedBy> <https://github.com/john1hsu/usa-graph/id/voting-rights-act-of-1965> .
   <https://github.com/john1hsu/usa-graph/id/ring-shout> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/gullah-geechee> .
@@ -35566,6 +35829,7 @@
   <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/montgomery-bus-boycott> .
   <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/morrill-land-grant-college-act> .
   <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/muckrakers> .
+  <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/nineteenth-amendment> .
   <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/obergefell-v-hodges> .
   <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/plessy-v-ferguson> .
   <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/progressive-era> .
@@ -35848,6 +36112,7 @@
   <https://github.com/john1hsu/usa-graph/id/telegraph> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/usa-graph/id/history-of-the-united-states> .
   <https://github.com/john1hsu/usa-graph/id/telephone> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/telegraph> .
   <https://github.com/john1hsu/usa-graph/id/tennessee-valley-authority> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/new-deal> .
+  <https://github.com/john1hsu/usa-graph/id/tennessee> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/nineteenth-amendment> .
   <https://github.com/john1hsu/usa-graph/id/tenskwatawa> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/war-of-1812> .
   <https://github.com/john1hsu/usa-graph/id/tenth-amendment> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/articles-of-confederation> .
   <https://github.com/john1hsu/usa-graph/id/tenth-amendment> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/federalism> .
@@ -36057,6 +36322,7 @@
   <https://github.com/john1hsu/usa-graph/id/thirteen-colonies> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/minimum-wage> .
   <https://github.com/john1hsu/usa-graph/id/thirteen-colonies> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/missouri-compromise> .
   <https://github.com/john1hsu/usa-graph/id/thirteen-colonies> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/national-symbols-of-the-united-states> .
+  <https://github.com/john1hsu/usa-graph/id/thirteen-colonies> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/nineteenth-amendment> .
   <https://github.com/john1hsu/usa-graph/id/thirteen-colonies> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/obergefell-v-hodges> .
   <https://github.com/john1hsu/usa-graph/id/thirteen-colonies> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/presidency-of-the-united-states> .
   <https://github.com/john1hsu/usa-graph/id/thirteen-colonies> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/second-continental-congress> .
@@ -36303,6 +36569,7 @@
   <https://github.com/john1hsu/usa-graph/id/twelfth-amendment> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/presidency-of-the-united-states> .
   <https://github.com/john1hsu/usa-graph/id/twelfth-amendment> <https://github.com/john1hsu/usa-graph/ontology#resultedFrom> <https://github.com/john1hsu/usa-graph/id/electoral-college> .
   <https://github.com/john1hsu/usa-graph/id/twenty-fifth-amendment> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/presidency-of-the-united-states> .
+  <https://github.com/john1hsu/usa-graph/id/twenty-fourth-amendment> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/nineteenth-amendment> .
   <https://github.com/john1hsu/usa-graph/id/twenty-fourth-amendment> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/voting-rights-act-of-1965> .
   <https://github.com/john1hsu/usa-graph/id/twenty-second-amendment> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/presidency-of-the-united-states> .
   <https://github.com/john1hsu/usa-graph/id/twenty-second-amendment> <https://github.com/john1hsu/usa-graph/ontology#resultedFrom> <https://github.com/john1hsu/usa-graph/id/franklin-d-roosevelt> .
@@ -36429,6 +36696,7 @@
   <https://github.com/john1hsu/usa-graph/id/united-states-congress> <https://github.com/john1hsu/usa-graph/ontology#enacted> <https://github.com/john1hsu/usa-graph/id/indian-removal-act> .
   <https://github.com/john1hsu/usa-graph/id/united-states-congress> <https://github.com/john1hsu/usa-graph/ontology#enacted> <https://github.com/john1hsu/usa-graph/id/missouri-compromise> .
   <https://github.com/john1hsu/usa-graph/id/united-states-congress> <https://github.com/john1hsu/usa-graph/ontology#enacted> <https://github.com/john1hsu/usa-graph/id/morrill-land-grant-college-act> .
+  <https://github.com/john1hsu/usa-graph/id/united-states-congress> <https://github.com/john1hsu/usa-graph/ontology#enacted> <https://github.com/john1hsu/usa-graph/id/nineteenth-amendment> .
   <https://github.com/john1hsu/usa-graph/id/united-states-congress> <https://github.com/john1hsu/usa-graph/ontology#enacted> <https://github.com/john1hsu/usa-graph/id/servicemens-readjustment-act-of-1944> .
   <https://github.com/john1hsu/usa-graph/id/united-states-congress> <https://github.com/john1hsu/usa-graph/ontology#enacted> <https://github.com/john1hsu/usa-graph/id/thirteenth-amendment> .
   <https://github.com/john1hsu/usa-graph/id/united-states-congress> <https://github.com/john1hsu/usa-graph/ontology#enacted> <https://github.com/john1hsu/usa-graph/id/twenty-sixth-amendment> .
@@ -36469,6 +36737,7 @@
   <https://github.com/john1hsu/usa-graph/id/united-states-constitution> <https://github.com/john1hsu/usa-graph/ontology#affectedBy> <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> .
   <https://github.com/john1hsu/usa-graph/id/united-states-constitution> <https://github.com/john1hsu/usa-graph/ontology#amendedBy> <https://github.com/john1hsu/usa-graph/id/fifteenth-amendment> .
   <https://github.com/john1hsu/usa-graph/id/united-states-constitution> <https://github.com/john1hsu/usa-graph/ontology#amendedBy> <https://github.com/john1hsu/usa-graph/id/fourteenth-amendment> .
+  <https://github.com/john1hsu/usa-graph/id/united-states-constitution> <https://github.com/john1hsu/usa-graph/ontology#amendedBy> <https://github.com/john1hsu/usa-graph/id/nineteenth-amendment> .
   <https://github.com/john1hsu/usa-graph/id/united-states-constitution> <https://github.com/john1hsu/usa-graph/ontology#amendedBy> <https://github.com/john1hsu/usa-graph/id/thirteenth-amendment> .
   <https://github.com/john1hsu/usa-graph/id/united-states-constitution> <https://github.com/john1hsu/usa-graph/ontology#amendedBy> <https://github.com/john1hsu/usa-graph/id/twenty-sixth-amendment> .
   <https://github.com/john1hsu/usa-graph/id/united-states-constitution> <https://github.com/john1hsu/usa-graph/ontology#contrastsWith> <https://github.com/john1hsu/usa-graph/id/articles-of-confederation> .
@@ -36503,6 +36772,7 @@
   <https://github.com/john1hsu/usa-graph/id/united-states-constitution> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/minimum-wage> .
   <https://github.com/john1hsu/usa-graph/id/united-states-constitution> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/missouri-compromise> .
   <https://github.com/john1hsu/usa-graph/id/united-states-constitution> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/national-symbols-of-the-united-states> .
+  <https://github.com/john1hsu/usa-graph/id/united-states-constitution> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/nineteenth-amendment> .
   <https://github.com/john1hsu/usa-graph/id/united-states-constitution> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/obergefell-v-hodges> .
   <https://github.com/john1hsu/usa-graph/id/united-states-constitution> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/presidency-of-the-united-states> .
   <https://github.com/john1hsu/usa-graph/id/united-states-constitution> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/supreme-court-of-the-united-states> .
@@ -36693,6 +36963,7 @@
   <https://github.com/john1hsu/usa-graph/id/voting-rights-act-of-1965> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/usa-graph/id/voting-rights-in-the-united-states> .
   <https://github.com/john1hsu/usa-graph/id/voting-rights-act-of-1965> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/federalism> .
   <https://github.com/john1hsu/usa-graph/id/voting-rights-act-of-1965> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/martin-luther-king-jr> .
+  <https://github.com/john1hsu/usa-graph/id/voting-rights-act-of-1965> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/nineteenth-amendment> .
   <https://github.com/john1hsu/usa-graph/id/voting-rights-act-of-1965> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/twenty-sixth-amendment> .
   <https://github.com/john1hsu/usa-graph/id/voting-rights-act-of-1965> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/womens-suffrage-movement> .
   <https://github.com/john1hsu/usa-graph/id/voting-rights-act-of-1965> <https://github.com/john1hsu/usa-graph/ontology#interpretedIn> <https://github.com/john1hsu/usa-graph/id/shelby-county-v-holder> .
@@ -36705,11 +36976,13 @@
   <https://github.com/john1hsu/usa-graph/id/voting-rights-act-of-1965> <https://github.com/john1hsu/usa-graph/ontology#resultedFrom> <https://github.com/john1hsu/usa-graph/id/civil-rights-movement> .
   <https://github.com/john1hsu/usa-graph/id/voting-rights-act-of-1965> <https://github.com/john1hsu/usa-graph/ontology#resultedFrom> <https://github.com/john1hsu/usa-graph/id/fifteenth-amendment> .
   <https://github.com/john1hsu/usa-graph/id/voting-rights-in-the-united-states> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/usa-graph/id/fifteenth-amendment> .
+  <https://github.com/john1hsu/usa-graph/id/voting-rights-in-the-united-states> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/usa-graph/id/nineteenth-amendment> .
   <https://github.com/john1hsu/usa-graph/id/voting-rights-in-the-united-states> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/usa-graph/id/shelby-county-v-holder> .
   <https://github.com/john1hsu/usa-graph/id/voting-rights-in-the-united-states> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/usa-graph/id/twenty-sixth-amendment> .
   <https://github.com/john1hsu/usa-graph/id/voting-rights-in-the-united-states> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/usa-graph/id/voting-rights-act-of-1965> .
   <https://github.com/john1hsu/usa-graph/id/voting-rights-in-the-united-states> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/usa-graph/id/womens-suffrage-movement> .
   <https://github.com/john1hsu/usa-graph/id/voting-rights-in-the-united-states> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/fifteenth-amendment> .
+  <https://github.com/john1hsu/usa-graph/id/voting-rights-in-the-united-states> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/nineteenth-amendment> .
   <https://github.com/john1hsu/usa-graph/id/voting-rights-in-the-united-states> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/shelby-county-v-holder> .
   <https://github.com/john1hsu/usa-graph/id/voting-rights-in-the-united-states> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/susan-b-anthony> .
   <https://github.com/john1hsu/usa-graph/id/voting-rights-in-the-united-states> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/twenty-sixth-amendment> .
@@ -36948,6 +37221,7 @@
   <https://github.com/john1hsu/usa-graph/id/womens-suffrage-movement> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/usa-graph/id/womens-rights-movement> .
   <https://github.com/john1hsu/usa-graph/id/womens-suffrage-movement> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/usa-graph/id/susan-b-anthony> .
   <https://github.com/john1hsu/usa-graph/id/womens-suffrage-movement> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/susan-b-anthony> .
+  <https://github.com/john1hsu/usa-graph/id/womens-suffrage-movement> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/nineteenth-amendment> .
   <https://github.com/john1hsu/usa-graph/id/womens-suffrage-movement> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/progressive-era> .
   <https://github.com/john1hsu/usa-graph/id/womens-suffrage-movement> <https://github.com/john1hsu/usa-graph/ontology#affectedBy> <https://github.com/john1hsu/usa-graph/id/fifteenth-amendment> .
   <https://github.com/john1hsu/usa-graph/id/womens-suffrage-movement> <https://github.com/john1hsu/usa-graph/ontology#affectedBy> <https://github.com/john1hsu/usa-graph/id/wyoming> .
@@ -36955,9 +37229,11 @@
   <https://github.com/john1hsu/usa-graph/id/womens-suffrage-movement> <https://github.com/john1hsu/usa-graph/ontology#participant> <https://github.com/john1hsu/usa-graph/id/harriet-tubman> .
   <https://github.com/john1hsu/usa-graph/id/womens-suffrage-movement> <https://github.com/john1hsu/usa-graph/ontology#participant> <https://github.com/john1hsu/usa-graph/id/sojourner-truth> .
   <https://github.com/john1hsu/usa-graph/id/womens-suffrage-movement> <https://github.com/john1hsu/usa-graph/ontology#participant> <https://github.com/john1hsu/usa-graph/id/susan-b-anthony> .
+  <https://github.com/john1hsu/usa-graph/id/womens-suffrage-movement> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/nineteenth-amendment> .
   <https://github.com/john1hsu/usa-graph/id/womens-suffrage-movement> <https://github.com/john1hsu/usa-graph/ontology#requires> <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> .
   <https://github.com/john1hsu/usa-graph/id/womens-suffrage-movement> <https://github.com/john1hsu/usa-graph/ontology#resultedFrom> <https://github.com/john1hsu/usa-graph/id/abolitionism> .
   <https://github.com/john1hsu/usa-graph/id/womens-suffrage-movement> <https://github.com/john1hsu/usa-graph/ontology#symbolizedBy> <https://github.com/john1hsu/usa-graph/id/liberty-bell> .
+  <https://github.com/john1hsu/usa-graph/id/woodrow-wilson> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/nineteenth-amendment> .
   <https://github.com/john1hsu/usa-graph/id/woodrow-wilson> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/progressive-era> .
   <https://github.com/john1hsu/usa-graph/id/woody-guthrie> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/okies> .
   <https://github.com/john1hsu/usa-graph/id/worcester-v-georgia> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/andrew-jackson> .

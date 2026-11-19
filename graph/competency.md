@@ -124,7 +124,7 @@ _Which nodes are myths, contested or open to competing interpretations, and what
 | `us:good-neighbor-policy` | interpretive |  |
 | `us:great-depression` | interpretive |  |
 
-…and 50 more.
+…and 51 more.
 
 ## Places with nothing tied to them (gap)
 
@@ -181,6 +181,7 @@ _Which amendments, laws and court cases protect each right?_ — `queries/11-rig
 | `us:freedom-from-slavery-and-involuntary-servitude` | `us:thirteenth-amendment` |
 | `us:right-to-marry` | `us:obergefell-v-hodges` |
 | `us:right-to-vote` | `us:fifteenth-amendment` |
+| `us:right-to-vote` | `us:nineteenth-amendment` |
 | `us:right-to-vote` | `us:twenty-sixth-amendment` |
 | `us:right-to-vote` | `us:voting-rights-act-of-1965` |
 

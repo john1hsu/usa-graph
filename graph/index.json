@@ -20945,6 +20945,241 @@
   ]
  },
  {
+  "id": "us:nineteenth-amendment",
+  "title": "Nineteenth Amendment",
+  "aliases": [
+   "19th Amendment",
+   "Amendment XIX",
+   "Nineteenth Amendment to the United States Constitution",
+   "Susan B. Anthony Amendment",
+   "Woman suffrage amendment"
+  ],
+  "type": "Law",
+  "domain": "democracy-and-elections",
+  "level": "introductory",
+  "evidenceStatus": "interpretive",
+  "file": "articles/democracy-and-elections/nineteenth-amendment.md",
+  "created": "2026-11-19",
+  "summary": "The 1920 amendment to the U.S. Constitution that forbids the United States and the states from denying or abridging citizens' right to vote on account of sex, and gives Congress power to enforce that ban; first introduced in Congress in 1878, it was passed in 1919 and ratified when Tennessee approved it on August 18, 1920.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "us:voting-rights-in-the-united-states"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:womens-suffrage-movement"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:fifteenth-amendment"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:fourteenth-amendment"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:twenty-sixth-amendment"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:twenty-fourth-amendment"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:voting-rights-act-of-1965"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:leser-v-garnett"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:breedlove-v-suttles"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:adkins-v-childrens-hospital"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:minor-v-happersett"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:harper-v-virginia-state-board-of-elections"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:tennessee"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:wyoming"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:woodrow-wilson"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:harry-t-burn"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:bainbridge-colby"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:susan-b-anthony"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:progressive-era"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:liberty-bell"
+   },
+   {
+    "predicate": "uso:requires",
+    "object": "us:united-states-constitution"
+   },
+   {
+    "predicate": "uso:requires",
+    "object": "us:womens-suffrage-movement"
+   },
+   {
+    "predicate": "uso:amends",
+    "object": "us:united-states-constitution",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:enactedBy",
+    "object": "us:united-states-congress",
+    "source": "s4",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:protects",
+    "object": "us:right-to-vote",
+    "source": "s3",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:introducedBy",
+    "object": "us:aaron-sargent",
+    "source": "s4",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:influencedBy",
+    "object": "us:fifteenth-amendment",
+    "source": "s7",
+    "confidence": "medium"
+   }
+  ],
+  "start": "1920-08-18",
+  "end": null,
+  "review": [
+   {
+    "question": "Why did suffragists turn to a federal amendment rather than continuing to win the vote state by state?",
+    "answer": "State campaigns were slow and uneven; by 1914 only about ten states had joined Wyoming in granting full suffrage, and advocates had largely given up on changing each state's laws, so they concentrated on an amendment that would bar sex discrimination in voting in every state at once."
+   },
+   {
+    "question": "How did Leser v. Garnett settle doubts about whether the amendment was valid?",
+    "answer": "The Court held that the amendment was identical in form and method of adoption to the Fifteenth, so both had to be valid; that a state legislature's ratification is a federal function that state constitutions cannot limit; and that the Secretary of State's certification of ratification was conclusive on the courts."
+   },
+   {
+    "question": "Why did ratification in 1920 not bring the vote to all American women?",
+    "answer": "The amendment only barred denial on account of sex, so other barriers remained; Black women in the Jim Crow South met the same poll taxes, literacy tests and violence used against Black men, many Mexican American women in the West were also disfranchised, and most American Indian and Chinese immigrant women were shut out because they lacked citizenship."
+   }
+  ],
+  "timeline": [
+   {
+    "date": "1869",
+    "event": "Wyoming Territory gives women the vote on equal terms with men, and keeps it at statehood."
+   },
+   {
+    "date": "1878-01-10",
+    "event": "Senator Aaron Sargent of California introduces the woman suffrage amendment as S.Res. 12."
+   },
+   {
+    "date": "1887-01-25",
+    "event": "The Senate holds its first vote on the amendment and defeats it, 16 to 34."
+   },
+   {
+    "date": "1914-03-19",
+    "event": "A Senate majority of 35 to 34 falls well short of the two-thirds needed."
+   },
+   {
+    "date": "1918-01-10",
+    "event": "The House narrowly reaches a two-thirds majority for the amendment."
+   },
+   {
+    "date": "1918-10-01",
+    "event": "A day after President Woodrow Wilson addresses the Senate in its favor, the amendment fails 53 to 31, two votes short."
+   },
+   {
+    "date": "1919-02-10",
+    "event": "The Senate rejects it again, 55 to 29, one vote short."
+   },
+   {
+    "date": "1919-05-21",
+    "event": "The House of the new Sixty-sixth Congress passes the amendment."
+   },
+   {
+    "date": "1919-06-04",
+    "event": "The Senate passes it 56 to 25, sending it to the states."
+   },
+   {
+    "date": "1919-06-10",
+    "event": "Wisconsin, Illinois and Michigan ratify; Wisconsin is counted as the first state."
+   },
+   {
+    "date": "1920-08-18",
+    "event": "Tennessee's House approves ratification 49 to 47, making Tennessee the thirty-sixth state."
+   },
+   {
+    "date": "1920-08-26",
+    "event": "Secretary of State Bainbridge Colby certifies the amendment."
+   },
+   {
+    "date": "1922-02-27",
+    "event": "In Leser v. Garnett the Supreme Court rejects challenges to the amendment's validity."
+   },
+   {
+    "date": "1937",
+    "event": "In Breedlove v. Suttles the Court holds that a Georgia poll tax charged to men but not to non-registering women does not violate the amendment."
+   },
+   {
+    "date": "1984-03-22",
+    "event": "Mississippi, which had rejected the amendment in 1920, becomes the last state to ratify it."
+   }
+  ],
+  "misconception": {
+   "myth": "No American woman could vote until the Nineteenth Amendment was ratified in 1920.",
+   "fact": "Kentucky let some women vote in school elections from 1838, Wyoming Territory granted women equal suffrage in 1869, and the National Park Service counts 19 states that recognized women's voting rights before 1920; the amendment made sex an unconstitutional basis for denying the vote everywhere.",
+   "why": "Treating 1920 as the first time women voted hides the decades of state and territorial campaigns, mostly in the West, that built the pressure for a federal amendment."
+  },
+  "source_urls": [
+   "https://www.archives.gov/milestone-documents/19th-amendment",
+   "https://www.law.cornell.edu/constitution-conan/amendment-19/nineteenth-amendment-historical-background",
+   "https://www.law.cornell.edu/constitution-conan/amendment-19/the-scope-of-the-nineteenth-amendment",
+   "https://www.senate.gov/about/women-of-the-senate/nineteenth-amendment-vertical-timeline.htm",
+   "https://www.everycrsreport.com/reports/LSB10899.html",
+   "https://www.everycrsreport.com/reports/LSB10900.html",
+   "https://supreme.justia.com/cases/federal/us/258/130/case.html",
+   "https://www.nps.gov/subjects/womenshistory/19th-amendment-by-state.htm",
+   "https://www.nps.gov/articles/000/suffrage60seconds_harry_burn.htm",
+   "https://www.nps.gov/articles/african-american-women-and-the-nineteenth-amendment.htm",
+   "https://sas.rutgers.edu/about/news/faculty/faculty-news-detail/what-did-ratification-of-the-19th-amendment-mean-to-women",
+   "https://www.yalelawjournal.org/pdf/Siegel_TheNineteenthAmendmentandtheDemocratizationoftheFamily_2wr9iaz1.pdf"
+  ]
+ },
+ {
   "id": "us:obergefell-v-hodges",
   "title": "Obergefell v. Hodges",
   "aliases": [

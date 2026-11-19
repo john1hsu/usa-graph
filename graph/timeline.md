@@ -929,6 +929,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1869 | The Central Pacific and Union Pacific railroads meet in Utah, completing the first transcontinental line. — [The West](../articles/regions-cities-and-landmarks/the-west.md) |
 | 1869 | The movement splits over the Fifteenth Amendment into the National and American Woman Suffrage Associations; Wyoming Territory enfranchises women. — [Women's suffrage movement](../articles/gilded-age-and-progressive-era/womens-suffrage-movement.md) |
 | 1869 | With Stanton, forms the National Woman Suffrage Association after the movement splits over the Fifteenth Amendment. — [Susan B. Anthony](../articles/people-who-shaped-america/susan-b-anthony.md) |
+| 1869 | Wyoming Territory gives women the vote on equal terms with men, and keeps it at statehood. — [Nineteenth Amendment](../articles/democracy-and-elections/nineteenth-amendment.md) |
 | 1869-01-11 | Representative George Boutwell proposes a suffrage amendment in the House. — [Fifteenth Amendment](../articles/democracy-and-elections/fifteenth-amendment.md) |
 | 1869-02-26 | After a conference committee narrows the text to racial discrimination, Congress gives final approval (House 144 to 44, Senate 39 to 13). — [Fifteenth Amendment](../articles/democracy-and-elections/fifteenth-amendment.md) |
 | 1869-04-10 | Congress fixes the Court at nine justices, where it has remained. — [Supreme Court of the United States](../articles/constitution-and-government/supreme-court-of-the-united-states.md) |
@@ -1033,6 +1034,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1877-08-23 | About 800 Nez Perce (Nimiipuu) people fleeing the U.S. Army enter the park and cross it in 13 days. — [Yellowstone National Park](../articles/geography-and-environment/yellowstone-national-park.md) |
 | 1878 | J. Franklin Reigart's book embellishes the tale, crediting Ross with originating the first flag. — [Betsy Ross flag myth](../articles/symbols-and-national-identity/betsy-ross-flag-myth.md) |
 | 1878-01-10 | Senator Aaron Sargent introduces the woman suffrage amendment that suffragists later call the Anthony Amendment. — [Susan B. Anthony](../articles/people-who-shaped-america/susan-b-anthony.md) |
+| 1878-01-10 | Senator Aaron Sargent of California introduces the woman suffrage amendment as S.Res. 12. — [Nineteenth Amendment](../articles/democracy-and-elections/nineteenth-amendment.md) |
 | 1878-01-10 | Senator Aaron Sargent of California introduces the woman suffrage amendment in the Senate. — [Women's suffrage movement](../articles/gilded-age-and-progressive-era/womens-suffrage-movement.md) |
 | 1878-03-18 | Northern Arapaho led by Black Coal arrive under military escort on the Shoshone reservation at Wind River. — [Wyoming](../articles/states-and-territories/wyoming.md) |
 | 1879 | Henry George publishes Progress and Poverty, a bestselling critique of inequality. — [Gilded Age](../articles/gilded-age-and-progressive-era/gilded-age.md) |
@@ -1081,6 +1083,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1887 | The General Allotment (Dawes) Act breaks up tribal lands into individual allotments and opens land west of the Mississippi to non-Indian settlers. — [Native Americans](../articles/native-nations/native-americans.md) |
 | 1887 | The Hatch Act funds agricultural experiment stations at the land-grant colleges. — [Morrill Land-Grant College Act](../articles/science-and-innovation/morrill-land-grant-college-act.md) |
 | 1887 | White landowners and businessmen force King Kalākaua to sign a constitution that strips him of power. — [Hawaii](../articles/states-and-territories/hawaii.md) |
+| 1887-01-25 | The Senate holds its first vote on the amendment and defeats it, 16 to 34. — [Nineteenth Amendment](../articles/democracy-and-elections/nineteenth-amendment.md) |
 | 1887-01-25 | The Senate takes its first vote on the amendment and defeats it, 16 to 34. — [Women's suffrage movement](../articles/gilded-age-and-progressive-era/womens-suffrage-movement.md) |
 | 1887-02-08 | **[Dawes Act](../articles/native-nations/dawes-act.md)** (Law) |
 | 1887-02-08 | Congress approves the Dawes Act, dividing reservation land held in common into individual allotments. — [Gilded Age](../articles/gilded-age-and-progressive-era/gilded-age.md) |
@@ -1327,6 +1330,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1914 | The Clayton Antitrust Act and the Federal Trade Commission law are enacted. — [Progressive Era](../articles/gilded-age-and-progressive-era/progressive-era.md) |
 | 1914 | The Smith-Lever Act creates the Cooperative Extension System. — [Morrill Land-Grant College Act](../articles/science-and-innovation/morrill-land-grant-college-act.md) |
 | 1914-03-11 | Blanck and Harris settle 23 civil suits, paying $75 for each life lost. — [Triangle Shirtwaist Factory fire](../articles/economy-and-work/triangle-shirtwaist-factory-fire.md) |
+| 1914-03-19 | A Senate majority of 35 to 34 falls well short of the two-thirds needed. — [Nineteenth Amendment](../articles/democracy-and-elections/nineteenth-amendment.md) |
 | 1914-08-15 | **[Panama Canal](../articles/foreign-relations-and-military/panama-canal.md)** (Landmark) |
 | 1914-08-15 | The Ancon makes the canal's first official transit. — [Gatun Locks](../articles/regions-cities-and-landmarks/gatun-locks.md) |
 | 1914-08-15 | The cement boat Ancon makes the first official transit, opening the canal. — [Panama Canal](../articles/foreign-relations-and-military/panama-canal.md) |
@@ -1358,22 +1362,31 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1918 | A Navy band plays it at Game 1 of the World Series, starting a ballpark tradition. — [The Star-Spangled Banner](../articles/symbols-and-national-identity/star-spangled-banner.md) |
 | 1918 | Congress passes a minimum wage law for women and minors in the District of Columbia. — [Minimum wage](../articles/economy-and-work/minimum-wage.md) |
 | 1918 | The new National Park Service takes over management and the Army leaves. — [Yellowstone National Park](../articles/geography-and-environment/yellowstone-national-park.md) |
+| 1918-01-10 | The House narrowly reaches a two-thirds majority for the amendment. — [Nineteenth Amendment](../articles/democracy-and-elections/nineteenth-amendment.md) |
 | 1918-09-30 | President Wilson addresses the Senate to urge passage of the amendment, which fails the next day. — [Women's suffrage movement](../articles/gilded-age-and-progressive-era/womens-suffrage-movement.md) |
+| 1918-10-01 | A day after President Woodrow Wilson addresses the Senate in its favor, the amendment fails 53 to 31, two votes short. — [Nineteenth Amendment](../articles/democracy-and-elections/nineteenth-amendment.md) |
 | 1919 | Five days of racial violence leave 23 Black Chicagoans dead and about 300 wounded. — [Chicago](../articles/regions-cities-and-landmarks/chicago.md) |
 | 1919 | Takes part in a Pan-African congress in Paris on the fate of Africa's colonies after the First World War. — [W. E. B. Du Bois](../articles/people-who-shaped-america/w-e-b-du-bois.md) |
 | 1919 | The Red Summer brings anti-Black riots in northern and southern cities as white residents react to demographic change. — [Great Migration](../articles/gilded-age-and-progressive-era/great-migration.md) |
 | 1919-01-06 | Dies at Oyster Bay, New York. — [Theodore Roosevelt](../articles/presidents-and-founders/theodore-roosevelt.md) |
 | 1919-02 | Congress creates the American Relief Administration, which Hoover directs, with a $100 million budget. — [Herbert Hoover](../articles/presidents-and-founders/herbert-hoover.md) |
+| 1919-02-10 | The Senate rejects it again, 55 to 29, one vote short. — [Nineteenth Amendment](../articles/democracy-and-elections/nineteenth-amendment.md) |
 | 1919-05-21 | The House of Representatives passes the amendment. — [Women's suffrage movement](../articles/gilded-age-and-progressive-era/womens-suffrage-movement.md) |
+| 1919-05-21 | The House of the new Sixty-sixth Congress passes the amendment. — [Nineteenth Amendment](../articles/democracy-and-elections/nineteenth-amendment.md) |
+| 1919-06-04 | The Senate passes it 56 to 25, sending it to the states. — [Nineteenth Amendment](../articles/democracy-and-elections/nineteenth-amendment.md) |
 | 1919-06-04 | The Senate passes the amendment 56 to 25, sending it to the states. — [Women's suffrage movement](../articles/gilded-age-and-progressive-era/womens-suffrage-movement.md) |
 | 1919-06-10 | Wisconsin becomes the first state to ratify. — [Women's suffrage movement](../articles/gilded-age-and-progressive-era/womens-suffrage-movement.md) |
+| 1919-06-10 | Wisconsin, Illinois and Michigan ratify; Wisconsin is counted as the first state. — [Nineteenth Amendment](../articles/democracy-and-elections/nineteenth-amendment.md) |
 | 1920 | During the 1920s about 810,000 Black southerners leave the region, including 260,000 Georgians. — [Great Migration](../articles/gilded-age-and-progressive-era/great-migration.md) |
 | 1920 | Mamie Smith records "Crazy Blues," the first commercial vaudeville blues record by a Black vocalist. — [Blues](../articles/culture-and-arts/blues.md) |
 | 1920 | The census shows a shift to cities; Congress fails to reapportion for the only time. — [Census and apportionment](../articles/democracy-and-elections/census-and-apportionment.md) |
 | 1920-01-27 | Wyoming ratifies the Nineteenth Amendment. — [Wyoming](../articles/states-and-territories/wyoming.md) |
+| 1920-08-18 | **[Nineteenth Amendment](../articles/democracy-and-elections/nineteenth-amendment.md)** (Law) |
 | 1920-08-18 | Tennessee becomes the 36th state to ratify the Nineteenth Amendment, the same year national Prohibition under the Eighteenth Amendment takes effect. — [Progressive Era](../articles/gilded-age-and-progressive-era/progressive-era.md) |
 | 1920-08-18 | Tennessee becomes the thirty-sixth state to ratify, completing ratification. — [Women's suffrage movement](../articles/gilded-age-and-progressive-era/womens-suffrage-movement.md) |
+| 1920-08-18 | Tennessee's House approves ratification 49 to 47, making Tennessee the thirty-sixth state. — [Nineteenth Amendment](../articles/democracy-and-elections/nineteenth-amendment.md) |
 | 1920-08-26 | Secretary of State Bainbridge Colby certifies the Nineteenth Amendment. — [Women's suffrage movement](../articles/gilded-age-and-progressive-era/womens-suffrage-movement.md) |
+| 1920-08-26 | Secretary of State Bainbridge Colby certifies the amendment. — [Nineteenth Amendment](../articles/democracy-and-elections/nineteenth-amendment.md) |
 | 1920-09-25 | Pennsylvania suffragists first ring their replica Justice Bell at Independence Square after the Nineteenth Amendment. — [Liberty Bell](../articles/symbols-and-national-identity/liberty-bell.md) |
 | 1920-11-02 | Loses the vice-presidential election on the Democratic ticket headed by James Cox. — [Franklin D. Roosevelt](../articles/presidents-and-founders/franklin-d-roosevelt.md) |
 | 1921 | Becomes secretary of commerce under Warren Harding, a post he keeps under Calvin Coolidge. — [Herbert Hoover](../articles/presidents-and-founders/herbert-hoover.md) |
@@ -1382,6 +1395,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1922 | Kid Ory's band records in California, the first recording by a Black New Orleans jazz band; Louis Armstrong joins King Oliver's Creole Jazz Band in Chicago. — [Jazz](../articles/culture-and-arts/jazz.md) |
 | 1922 | Producers form the Motion Picture Producers and Distributors of America under Will H. Hays to head off government censorship through self-regulation. — [Hollywood](../articles/culture-and-arts/hollywood.md) |
 | 1922 | Reclamation surveyors J. G. Tierney and Harold Connelly drown in the Colorado River while studying possible dam sites. — [Hoover Dam](../articles/regions-cities-and-landmarks/hoover-dam.md) |
+| 1922-02-27 | In Leser v. Garnett the Supreme Court rejects challenges to the amendment's validity. — [Nineteenth Amendment](../articles/democracy-and-elections/nineteenth-amendment.md) |
 | 1922-11-24 | Representatives of seven states and the federal government sign the Colorado River Compact at Santa Fe, New Mexico. — [Colorado River](../articles/geography-and-environment/colorado-river.md) |
 | 1922-11-24 | Seven basin states sign the Colorado River Compact at Santa Fe. — [Hoover Dam](../articles/regions-cities-and-landmarks/hoover-dam.md) |
 | 1923 | Bessie Smith makes her first recordings, beginning a 14-year recording career of more than 150 songs. — [Blues](../articles/culture-and-arts/blues.md) |
@@ -1512,6 +1526,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1936-12-03 | The Buenos Aires peace conference opens with Roosevelt in attendance; the United States accepts its non-intervention protocol without reservation. — [Good Neighbor Policy](../articles/foreign-relations-and-military/good-neighbor-policy.md) |
 | 1936-12-30 | Auto workers sit down inside General Motors' Fisher Body plant in Flint, Michigan. — [Labor movement](../articles/economy-and-work/labor-movement.md) |
 | 1937 | After federal spending cuts, a sharp recession pushes unemployment up again and cuts industrial production by about a third. — [Great Depression](../articles/depression-and-world-war/great-depression.md) |
+| 1937 | In Breedlove v. Suttles the Court holds that a Georgia poll tax charged to men but not to non-registering women does not violate the amendment. — [Nineteenth Amendment](../articles/democracy-and-elections/nineteenth-amendment.md) |
 | 1937 | In February Roosevelt asks Congress to add up to six justices to the Supreme Court; the plan fails, but the Court begins upholding New Deal laws. — [New Deal](../articles/depression-and-world-war/new-deal.md) |
 | 1937 | Migration peaks in 1937 and 1938; up to 37,000 migrants reach Arizona's cotton fields. — [Okies](../articles/society-and-people/okies.md) |
 | 1937 | Spending cuts help bring on a sharp recession beginning in the fall; industrial production falls by a third. — [New Deal](../articles/depression-and-world-war/new-deal.md) |
@@ -1971,6 +1986,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1984 | Former residents of Chenega resettle at Chenega Bay on Evans Island, twenty years after the tsunami. — [1964 Alaska earthquake](../articles/geography-and-environment/1964-alaska-earthquake.md) |
 | 1984 | The "Montgomery GI Bill" creates an education program for the all-volunteer force, funded partly by a pay reduction during a recruit's first year. — [Servicemen's Readjustment Act of 1944](../articles/cold-war-and-civil-rights/servicemens-readjustment-act-of-1944.md) |
 | 1984 | Video Music Box becomes the first music-video program devoted to hip hop. — [Hip hop](../articles/culture-and-arts/hip-hop.md) |
+| 1984-03-22 | Mississippi, which had rejected the amendment in 1920, becomes the last state to ratify it. — [Nineteenth Amendment](../articles/democracy-and-elections/nineteenth-amendment.md) |
 | 1985 | The Interior Department designates the dam a National Historic Landmark. — [Hoover Dam](../articles/regions-cities-and-landmarks/hoover-dam.md) |
 | 1985-05-13 | A bomb dropped on the MOVE house on Osage Avenue kills eleven people and burns more than 60 homes. — [Philadelphia](../articles/regions-cities-and-landmarks/philadelphia.md) |
 | 1985-10 | Ronald Reagan and Mikhail Gorbachev hold their first summit, in Geneva. — [Cold War](../articles/cold-war-and-civil-rights/cold-war.md) |

@@ -801,6 +801,21 @@ Every review question (with its answer) and every myth-versus-fact in the graph,
 - **Q:** How is the Voting Rights Act of 1965 connected to the Fifteenth Amendment?
   **A:** The Act used the enforcement power in the amendment's Section 2; President Johnson asked Congress for a law that would make it impossible to thwart the amendment, and the Act abolished remaining barriers and authorized federal supervision of registration.
 
+### [Nineteenth Amendment](../articles/democracy-and-elections/nineteenth-amendment.md) — Law
+
+| Myth | Fact |
+|---|---|
+| No American woman could vote until the Nineteenth Amendment was ratified in 1920. | Kentucky let some women vote in school elections from 1838, Wyoming Territory granted women equal suffrage in 1869, and the National Park Service counts 19 states that recognized women's voting rights before 1920; the amendment made sex an unconstitutional basis for denying the vote everywhere. |
+
+**Why it matters:** Treating 1920 as the first time women voted hides the decades of state and territorial campaigns, mostly in the West, that built the pressure for a federal amendment.
+
+- **Q:** Why did suffragists turn to a federal amendment rather than continuing to win the vote state by state?
+  **A:** State campaigns were slow and uneven; by 1914 only about ten states had joined Wyoming in granting full suffrage, and advocates had largely given up on changing each state's laws, so they concentrated on an amendment that would bar sex discrimination in voting in every state at once.
+- **Q:** How did Leser v. Garnett settle doubts about whether the amendment was valid?
+  **A:** The Court held that the amendment was identical in form and method of adoption to the Fifteenth, so both had to be valid; that a state legislature's ratification is a federal function that state constitutions cannot limit; and that the Secretary of State's certification of ratification was conclusive on the courts.
+- **Q:** Why did ratification in 1920 not bring the vote to all American women?
+  **A:** The amendment only barred denial on account of sex, so other barriers remained; Black women in the Jim Crow South met the same poll taxes, literacy tests and violence used against Black men, many Mexican American women in the West were also disfranchised, and most American Indian and Chinese immigrant women were shut out because they lacked citizenship.
+
 ### [Reynolds v. Sims](../articles/democracy-and-elections/reynolds-v-sims.md) — CourtCase
 
 | Myth | Fact |
