@@ -901,6 +901,8 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1868 | The Burlingame Treaty secures free migration between the United States and China. — [Chinese Exclusion Act](../articles/gilded-age-and-progressive-era/chinese-exclusion-act.md) |
 | 1868 | The Fourteenth Amendment replaces the three-fifths formula with a count of the whole number of persons. — [Census and apportionment](../articles/democracy-and-elections/census-and-apportionment.md) |
 | 1868 | The Fourteenth Amendment's citizenship clause makes all persons born in the United States citizens, overturning the decision's citizenship holding. — [Dred Scott v. Sandford](../articles/rights-and-law/dred-scott-v-sandford.md) |
+| 1868-02-23 – 1963-08-27 | **[W. E. B. Du Bois](../articles/people-who-shaped-america/w-e-b-du-bois.md)** (Person) |
+| 1868-02-23 | Born in Great Barrington, Massachusetts. — [W. E. B. Du Bois](../articles/people-who-shaped-america/w-e-b-du-bois.md) |
 | 1868-06-22 | Arkansas becomes the first state readmitted to congressional representation under the Reconstruction Acts. — [Reconstruction era](../articles/civil-war-and-reconstruction/reconstruction-era.md) |
 | 1868-07-03 | The second Fort Bridger treaty sets aside about 3.2 million acres in the Wind River Valley for the Eastern Shoshone. — [Wyoming](../articles/states-and-territories/wyoming.md) |
 | 1868-07-09 | **[Equal protection](../articles/rights-and-law/equal-protection.md)** (Right) |
@@ -1048,9 +1050,11 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1883 | In the Civil Rights Cases the Supreme Court strikes down key parts of the Civil Rights Act of 1875. — [Jim Crow laws](../articles/gilded-age-and-progressive-era/jim-crow-laws.md) |
 | 1883-09 | First travels to the Dakota Badlands, where he later ranches. — [Theodore Roosevelt](../articles/presidents-and-founders/theodore-roosevelt.md) |
 | 1883-11-26 | Dies at her home in Battle Creek, Michigan, and is buried in Oak Hill Cemetery. — [Sojourner Truth](../articles/people-who-shaped-america/sojourner-truth.md) |
+| 1884 | Graduates from Great Barrington's high school, its first African American graduate. — [W. E. B. Du Bois](../articles/people-who-shaped-america/w-e-b-du-bois.md) |
 | 1884 | His mother and his first wife, Alice, die in the same house on the same day. — [Theodore Roosevelt](../articles/presidents-and-founders/theodore-roosevelt.md) |
 | 1884-11-03 | Elk v. Wilkins holds that Native Americans who had left their nations were still not U.S. citizens. — [Fourteenth Amendment](../articles/rights-and-law/fourteenth-amendment.md) |
 | 1885 | A Tiffany & Co. die corrects the errors of the 1841 and 1877 dies. — [Great Seal of the United States](../articles/symbols-and-national-identity/great-seal-of-the-united-states.md) |
+| 1885 | Enrolls at Fisk University in Nashville, Tennessee. — [W. E. B. Du Bois](../articles/people-who-shaped-america/w-e-b-du-bois.md) |
 | 1885 | The bell travels to the World's Industrial and Cotton Centennial Exposition in New Orleans, the first of seven trips. — [Liberty Bell](../articles/symbols-and-national-identity/liberty-bell.md) |
 | 1885-08-10 | James Marshall dies at 75 after decades of setbacks, having once been stranded penniless. — [California Gold Rush](../articles/early-republic-and-expansion/california-gold-rush.md) |
 | 1885-09-02 | White miners in Rock Springs kill 28 Chinese coal miners and wound 15. — [Wyoming](../articles/states-and-territories/wyoming.md) |
@@ -1081,6 +1085,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1889-11-05 | Voters ratify the state constitution, which keeps equal suffrage for women. — [Wyoming](../articles/states-and-territories/wyoming.md) |
 | 1890 – 1920 | **[Progressive Era](../articles/gilded-age-and-progressive-era/progressive-era.md)** (Era) |
 | 1890 | A second Morrill Act adds annual appropriations and leads to the founding of separate land-grant institutions for Black students in the segregated South. — [Morrill Land-Grant College Act](../articles/science-and-innovation/morrill-land-grant-college-act.md) |
+| 1890 | Earns a BA cum laude from Harvard, followed by an MA in 1891. — [W. E. B. Du Bois](../articles/people-who-shaped-america/w-e-b-du-bois.md) |
 | 1890 | Jacob Riis publishes How the Other Half Lives, exposing conditions in New York City tenements. — [Progressive Era](../articles/gilded-age-and-progressive-era/progressive-era.md) |
 | 1890 | Jacob Riis publishes How the Other Half Lives, using photographs to expose New York City tenement conditions. — [Muckrakers](../articles/gilded-age-and-progressive-era/muckrakers.md) |
 | 1890 | Louisiana passes the Separate Car Act, one of nine state laws of 1887–1892 separating passengers by race. — [Jim Crow laws](../articles/gilded-age-and-progressive-era/jim-crow-laws.md) |
@@ -1096,6 +1101,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1891-09-05 | Creole of color activists announce the Comité des Citoyens to challenge Louisiana's Separate Car Law. — [New Orleans](../articles/regions-cities-and-landmarks/new-orleans.md) |
 | 1892 | After the lynching of her friend Thomas Moss in Memphis, Ida B. Wells investigates lynchings across the South and publishes Southern Horrors; a mob destroys her newspaper office. — [Muckrakers](../articles/gilded-age-and-progressive-era/muckrakers.md) |
 | 1892 | Becomes president of NAWSA, serving until Carrie Chapman Catt succeeds her in 1900. — [Susan B. Anthony](../articles/people-who-shaped-america/susan-b-anthony.md) |
+| 1892 | Begins two years of study at the University of Berlin. — [W. E. B. Du Bois](../articles/people-who-shaped-america/w-e-b-du-bois.md) |
 | 1892 | The Geary Act extends exclusion for ten more years and requires Chinese residents to carry certificates of residence. — [Chinese Exclusion Act](../articles/gilded-age-and-progressive-era/chinese-exclusion-act.md) |
 | 1892 | The Homestead Strike ends in defeat for the steelworkers' union. — [Pennsylvania](../articles/states-and-territories/pennsylvania.md) |
 | 1892 | The Homestead strike is broken at Carnegie's Pennsylvania steel works; the People's Party adopts its Omaha Platform; Ida B. Wells publishes Southern Horrors. — [Gilded Age](../articles/gilded-age-and-progressive-era/gilded-age.md) |
@@ -1123,6 +1129,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1895 | Cornetist Buddy Bolden forms his own band, an early landmark of New Orleans jazz. — [New Orleans](../articles/regions-cities-and-landmarks/new-orleans.md) |
 | 1895 | Graduates in geology from the new Stanford University, where he met Lou Henry. — [Herbert Hoover](../articles/presidents-and-founders/herbert-hoover.md) |
 | 1895 | In United States v. E. C. Knight the Supreme Court holds that the national government cannot regulate manufacturing, a hallmark of dual federalism. — [Federalism](../articles/constitution-and-government/federalism.md) |
+| 1895 | Receives a Harvard PhD; his dissertation on the suppression of the African slave trade is published in 1896. — [W. E. B. Du Bois](../articles/people-who-shaped-america/w-e-b-du-bois.md) |
 | 1895 | Resigns from the Civil Service Commission and becomes a New York City police commissioner. — [Theodore Roosevelt](../articles/presidents-and-founders/theodore-roosevelt.md) |
 | 1895 | Southern states begin adopting grandfather clauses that exempt mostly white voters from literacy tests. — [Fifteenth Amendment](../articles/democracy-and-elections/fifteenth-amendment.md) |
 | 1895-02-20 | Dies at Cedar Hill, his Washington home, after attending a meeting of the National Council of Women. — [Frederick Douglass](../articles/people-who-shaped-america/frederick-douglass.md) |
@@ -1138,6 +1145,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1897-09-10 | **[Lattimer massacre](../articles/economy-and-work/lattimer-massacre.md)** (Event) |
 | 1897-09-10 | Sheriff James Martin's deputies fire on about 400 marching strikers near Lattimer, killing nineteen and wounding dozens. — [Lattimer massacre](../articles/economy-and-work/lattimer-massacre.md) |
 | 1897-09-11 | Members of Hui Aloha ʻĀina sign petitions against annexation; the drive gathers 21,269 Native Hawaiian signatures. — [Hawaii](../articles/states-and-territories/hawaii.md) |
+| 1897-12 | Begins teaching at Atlanta University and directing empirical studies of Black life in the South. — [W. E. B. Du Bois](../articles/people-who-shaped-america/w-e-b-du-bois.md) |
 | 1898 | In United States v. Wong Kim Ark the Supreme Court rules 6–2 that he is a citizen by birth under the Fourteenth Amendment. — [Chinese Americans](../articles/society-and-people/chinese-americans.md) |
 | 1898 | Louisiana's new constitution mandates segregated schools and restricts Black men's voting. — [Jim Crow laws](../articles/gilded-age-and-progressive-era/jim-crow-laws.md) |
 | 1898 | United States v. Wong Kim Ark applies birthright citizenship to a U.S.-born son of Chinese parents. — [Fourteenth Amendment](../articles/rights-and-law/fourteenth-amendment.md) |
@@ -1149,6 +1157,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1898-07-07 | President McKinley signs the Newlands Resolution annexing Hawaiʻi by joint resolution, after an annexation treaty failed in the Senate. — [Hawaii](../articles/states-and-territories/hawaii.md) |
 | 1898-08-12 | The United States formally annexes Hawaiʻi. — [Hawaii](../articles/states-and-territories/hawaii.md) |
 | 1898-12-19 | Queen Liliuokalani writes to the House objecting to the U.S. claim of ownership over Hawaii. — [United States](../articles/states-and-territories/united-states.md) |
+| 1899 | Publishes The Philadelphia Negro, a study of the city's Seventh Ward. — [W. E. B. Du Bois](../articles/people-who-shaped-america/w-e-b-du-bois.md) |
 | 1899-01-19 | Congress passes H.R. 4982, raising her pension to $20 a month in recognition of her service as an army nurse. — [Harriet Tubman](../articles/people-who-shaped-america/harriet-tubman.md) |
 | 1900 | About 41 percent of the American workforce is employed in agriculture. — [Economic history of the United States](../articles/economy-and-work/economic-history-of-the-united-states.md) |
 | 1900 | Hawaiʻi becomes a U.S. territory with a single non-voting delegate in the House. — [Hawaii](../articles/states-and-territories/hawaii.md) |
@@ -1176,6 +1185,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1902-11 | Ida Tarbell's History of the Standard Oil Company begins appearing in McClure's. — [Muckrakers](../articles/gilded-age-and-progressive-era/muckrakers.md) |
 | 1903 | Bandleader W. C. Handy settles in Clarksdale, Mississippi, and around this year hears a slide guitarist playing a blues at the Tutwiler railroad station. — [Blues](../articles/culture-and-arts/blues.md) |
 | 1903 | In Lone Wolf v. Hitchcock the Supreme Court rejects a Kiowa challenge to allotment, holding that a treaty cannot limit Congress's power over tribal land. — [Dawes Act](../articles/native-nations/dawes-act.md) |
+| 1903 | Publishes The Souls of Black Folk. — [W. E. B. Du Bois](../articles/people-who-shaped-america/w-e-b-du-bois.md) |
 | 1903-01 | McClure's prints exposés by Tarbell, Lincoln Steffens and Ray Stannard Baker in one issue, with an editorial linking them. — [Muckrakers](../articles/gilded-age-and-progressive-era/muckrakers.md) |
 | 1903-03-23 | The brothers file their patent application for a "Flying-Machine". — [Wright brothers' first flight](../articles/science-and-innovation/wright-brothers-first-flight.md) |
 | 1903-11-03 | Panama declares independence from Colombia while U.S. warships stand off Colón and Panama City. — [Panama Canal](../articles/foreign-relations-and-military/panama-canal.md) |
@@ -1198,6 +1208,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1904-12-09 | The season ends after 105 starts adding up to under an hour in the air. — [Huffman Prairie Flying Field](../articles/science-and-innovation/huffman-prairie.md) |
 | 1905 | Lochner v. New York strikes down a workplace regulation on "freedom of contract" grounds. — [Due process](../articles/rights-and-law/due-process.md) |
 | 1905 | The War Department transfers 20 acres of Angel Island for an immigration station. — [Angel Island Immigration Station](../articles/society-and-people/angel-island-immigration-station.md) |
+| 1905 | Twenty-nine activists led by Du Bois and William Monroe Trotter meet at Fort Erie, Ontario, founding the Niagara Movement. — [W. E. B. Du Bois](../articles/people-who-shaped-america/w-e-b-du-bois.md) |
 | 1905 | W. E. B. Du Bois and other Black leaders found the Niagara Movement on the Canadian side of Niagara Falls. — [Progressive Era](../articles/gilded-age-and-progressive-era/progressive-era.md) |
 | 1905-01-20 | A U.S.-Dominican executive agreement gives the United States control of Dominican customhouses; critics say it bypasses the Senate. — [Roosevelt Corollary](../articles/foreign-relations-and-military/roosevelt-corollary.md) |
 | 1905-03-17 | Marries Eleanor Roosevelt. — [Franklin D. Roosevelt](../articles/presidents-and-founders/franklin-d-roosevelt.md) |
@@ -1209,6 +1220,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1906 | Awarded the Nobel Peace Prize for his role in ending the Russo-Japanese War. — [Theodore Roosevelt](../articles/presidents-and-founders/theodore-roosevelt.md) |
 | 1906 | Congress passes the Meat Inspection Act and the Pure Food and Drug Act. — [Progressive Era](../articles/gilded-age-and-progressive-era/progressive-era.md) |
 | 1906 | The Burke Act withholds citizenship until an allottee receives a fee patent and lets the Interior secretary declare allottees competent. — [Dawes Act](../articles/native-nations/dawes-act.md) |
+| 1906 | The Niagara Movement holds its second meeting at Storer College in Harpers Ferry. — [W. E. B. Du Bois](../articles/people-who-shaped-america/w-e-b-du-bois.md) |
 | 1906 | The San Francisco earthquake and fire destroy many birth and immigration records, opening the way for "paper son" identities. — [Angel Island Immigration Station](../articles/society-and-people/angel-island-immigration-station.md) |
 | 1906 | The seat of government moves from Sitka to Juneau. — [Alaska](../articles/states-and-territories/alaska.md) |
 | 1906-02 | Attends her last NAWSA convention, in Baltimore, and gives her final public remarks. — [Susan B. Anthony](../articles/people-who-shaped-america/susan-b-anthony.md) |
@@ -1236,6 +1248,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1909 | Over the next two decades farmers break about 32 million acres of Great Plains sod, much of it for wheat. — [Dust Bowl](../articles/depression-and-world-war/dust-bowl.md) |
 | 1909 | The NAACP is founded in the aftermath of the 1908 Springfield, Illinois, race riot. — [Progressive Era](../articles/gilded-age-and-progressive-era/progressive-era.md) |
 | 1909 | Triangle workers join the garment strike known as the Uprising of the 20,000, which lasts about three months. — [Triangle Shirtwaist Factory fire](../articles/economy-and-work/triangle-shirtwaist-factory-fire.md) |
+| 1909-05-31 | Speaks at the National Negro Conference in New York, which leads to the NAACP. — [W. E. B. Du Bois](../articles/people-who-shaped-america/w-e-b-du-bois.md) |
 | 1909-08-24 | Workers pour the first concrete at the Gatun lock site. — [Gatun Locks](../articles/regions-cities-and-landmarks/gatun-locks.md) |
 | 1909-11 | The independent New York Motion Picture Company arrives in Los Angeles and stays; many more companies follow in 1910. — [Hollywood](../articles/culture-and-arts/hollywood.md) |
 | 1910 – 1940 | **[Chinese detention-barracks poetry](../articles/culture-and-arts/chinese-detention-barracks-poetry.md)** (Work) |
@@ -1257,6 +1270,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1910-05 | The Wright School of Aviation moves its training to Huffman Field. — [Huffman Prairie Flying Field](../articles/science-and-innovation/huffman-prairie.md) |
 | 1910-05 | The school moves its permanent operations to Huffman Field (Simms Station) east of Dayton. — [Wright Company School of Aviation](../articles/science-and-innovation/wright-company-school-of-aviation.md) |
 | 1910-05-06 | Walter Brookins flies solo for about 12 minutes, the Montgomery camp's only graduate. — [Wright Company School of Aviation](../articles/science-and-innovation/wright-company-school-of-aviation.md) |
+| 1910-11 | Launches The Crisis as the NAACP's monthly magazine, which he edits until 1934. — [W. E. B. Du Bois](../articles/people-who-shaped-america/w-e-b-du-bois.md) |
 | 1911 | A federal law fixes the House at 433 seats, plus one each for Arizona and New Mexico on statehood. — [United States Congress](../articles/constitution-and-government/united-states-congress.md) |
 | 1911 | Deep in debt, S. S. McClure surrenders McClure's Magazine to creditors in the autumn. — [Muckrakers](../articles/gilded-age-and-progressive-era/muckrakers.md) |
 | 1911 | In the 1911–1912 season the Nestor company builds what is regarded as the first studio in Hollywood, at Sunset and Gower. — [Hollywood](../articles/culture-and-arts/hollywood.md) |
@@ -1336,6 +1350,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1918 | The new National Park Service takes over management and the Army leaves. — [Yellowstone National Park](../articles/geography-and-environment/yellowstone-national-park.md) |
 | 1918-09-30 | President Wilson addresses the Senate to urge passage of the amendment, which fails the next day. — [Women's suffrage movement](../articles/gilded-age-and-progressive-era/womens-suffrage-movement.md) |
 | 1919 | Five days of racial violence leave 23 Black Chicagoans dead and about 300 wounded. — [Chicago](../articles/regions-cities-and-landmarks/chicago.md) |
+| 1919 | Takes part in a Pan-African congress in Paris on the fate of Africa's colonies after the First World War. — [W. E. B. Du Bois](../articles/people-who-shaped-america/w-e-b-du-bois.md) |
 | 1919 | The Red Summer brings anti-Black riots in northern and southern cities as white residents react to demographic change. — [Great Migration](../articles/gilded-age-and-progressive-era/great-migration.md) |
 | 1919-01-06 | Dies at Oyster Bay, New York. — [Theodore Roosevelt](../articles/presidents-and-founders/theodore-roosevelt.md) |
 | 1919-02 | Congress creates the American Relief Administration, which Hoover directs, with a $100 million budget. — [Herbert Hoover](../articles/presidents-and-founders/herbert-hoover.md) |
@@ -1458,11 +1473,13 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1934 | The Indian Reorganization Act ends the allotment policy of the Dawes Act and encourages tribal self-government. — [New Deal](../articles/depression-and-world-war/new-deal.md) |
 | 1934 | The Indian Reorganization Act establishes modern tribal governments. — [Native Americans](../articles/native-nations/native-americans.md) |
 | 1934-05-11 | A great dust storm carries Plains soil over Washington, D.C., and out over the Atlantic. — [Dust Bowl](../articles/depression-and-world-war/dust-bowl.md) |
+| 1934-06 | Resigns from the NAACP after disputes with its leadership. — [W. E. B. Du Bois](../articles/people-who-shaped-america/w-e-b-du-bois.md) |
 | 1934-06-06 | Roosevelt signs the Securities Exchange Act of 1934. — [Stock market crash of 1929](../articles/economy-and-work/stock-market-crash-of-1929.md) |
 | 1935 | Congress passes the Social Security Act, the Wagner Act and the relief appropriation that funds the Works Progress Administration. — [Great Depression](../articles/depression-and-world-war/great-depression.md) |
 | 1935 | Franklin D. Roosevelt approves a one-dollar bill design showing both sides of the Great Seal, putting the motto on the back of the note. — [E pluribus unum](../articles/symbols-and-national-identity/e-pluribus-unum.md) |
 | 1935 | Franklin D. Roosevelt approves a one-dollar bill showing both sides of the seal. — [Great Seal of the United States](../articles/symbols-and-national-identity/great-seal-of-the-united-states.md) |
 | 1935 | John L. Lewis and allied unions form the Committee for Industrial Organization inside the AFL. — [Labor movement](../articles/economy-and-work/labor-movement.md) |
+| 1935 | Publishes Black Reconstruction in America. — [W. E. B. Du Bois](../articles/people-who-shaped-america/w-e-b-du-bois.md) |
 | 1935 | The Court moves into its own building in its 146th year. — [Supreme Court of the United States](../articles/constitution-and-government/supreme-court-of-the-united-states.md) |
 | 1935 | The migration to California begins in earnest; that summer economist Paul Taylor reports on white migrant families in the farm districts. — [Okies](../articles/society-and-people/okies.md) |
 | 1935-02-01 | The dam begins impounding water in Lake Mead. — [Hoover Dam](../articles/regions-cities-and-landmarks/hoover-dam.md) |
@@ -1595,6 +1612,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1943-08 | Governor Kelly's fact-finding committee issues its report, which critics call a whitewash of local authorities. — [1943 Detroit race riot](../articles/depression-and-world-war/detroit-race-riot-of-1943.md) |
 | 1943-11 | The American Legion drafts its own "GI Bill of Rights"; former national commander Harry Colmery sketches its ideas at the Mayflower Hotel in Washington. — [Servicemen's Readjustment Act of 1944](../articles/cold-war-and-civil-rights/servicemens-readjustment-act-of-1944.md) |
 | 1944 | A water treaty with Mexico commits 1.5 million acre-feet a year of the river's flow to Mexico. — [Colorado River](../articles/geography-and-environment/colorado-river.md) |
+| 1944 | Returns to the NAACP as director of special research; forced out again in 1948. — [W. E. B. Du Bois](../articles/people-who-shaped-america/w-e-b-du-bois.md) |
 | 1944 | The G.I. Bill offers veterans low-interest home loans, college stipends and business loans. — [Economic history of the United States](../articles/economy-and-work/economic-history-of-the-united-states.md) |
 | 1944 | The bill, S. 1767, passes both chambers of Congress unanimously in the spring. — [Servicemen's Readjustment Act of 1944](../articles/cold-war-and-civil-rights/servicemens-readjustment-act-of-1944.md) |
 | 1944-01-22 | Creates the War Refugee Board. — [Franklin D. Roosevelt](../articles/presidents-and-founders/franklin-d-roosevelt.md) |
@@ -1663,6 +1681,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1950-09 | Congress passes the McCarran Internal Security Act, requiring communist organizations to register with the government. — [McCarthyism](../articles/cold-war-and-civil-rights/mccarthyism.md) |
 | 1950-12 | General Dwight D. Eisenhower becomes the first Supreme Allied Commander Europe. — [North Atlantic Treaty Organization](../articles/foreign-relations-and-military/nato.md) |
 | 1951 | The Bureau of Indian Affairs sets up a Branch of Placement and Relocation to move Native people from reservations to cities. — [Native Americans](../articles/native-nations/native-americans.md) |
+| 1951-02-09 | Indicted with officers of the Peace Information Center; acquitted after a trial that November. — [W. E. B. Du Bois](../articles/people-who-shaped-america/w-e-b-du-bois.md) |
 | 1951-02-27 | The Twenty-second Amendment is ratified, limiting presidents to two elected terms. — [Presidency of the United States](../articles/constitution-and-government/presidency-of-the-united-states.md) |
 | 1951-04-23 | Students led by 16-year-old Barbara Rose Johns walk out of the overcrowded Robert Russa Moton High School in Farmville, Virginia. — [Brown v. Board of Education](../articles/cold-war-and-civil-rights/brown-v-board-of-education.md) |
 | 1951-05-23 | NAACP lawyers file Davis v. County School Board of Prince Edward County, later joined to Brown. — [Brown v. Board of Education](../articles/cold-war-and-civil-rights/brown-v-board-of-education.md) |
@@ -1770,6 +1789,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1961-08 | Young Jefferson County lawyers file suit in the U.S. District Court for the Middle District of Alabama, with M. O. Sims among the plaintiffs. — [Reynolds v. Sims](../articles/democracy-and-elections/reynolds-v-sims.md) |
 | 1961-09 | Congress honors Samuel Wilson of Troy, New York, as the progenitor of Uncle Sam. — [National symbols of the United States](../articles/symbols-and-national-identity/national-symbols-of-the-united-states.md) |
 | 1961-09-03 | Amendments extending coverage to large retail and service enterprises take effect. — [Minimum wage](../articles/economy-and-work/minimum-wage.md) |
+| 1961-10-07 | Leaves for Ghana to direct the Encyclopedia Africana project, days after applying to join the Communist Party. — [W. E. B. Du Bois](../articles/people-who-shaped-america/w-e-b-du-bois.md) |
 | 1961-12-01 | The final original generating unit, N-8, goes online. — [Hoover Dam](../articles/regions-cities-and-landmarks/hoover-dam.md) |
 | 1961-12-11 | Martin Luther King Jr. addresses the AFL-CIO convention and urges it to fight discrimination. — [Labor movement](../articles/economy-and-work/labor-movement.md) |
 | 1962 | California passes New York as the most populous state. — [California](../articles/states-and-territories/california.md) |
@@ -1783,6 +1803,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1963 | In Arizona v. California the Supreme Court settles the Lower Basin division and recognizes reserved water rights for five reservations. — [Colorado River](../articles/geography-and-environment/colorado-river.md) |
 | 1963 | In Gray v. Sanders the Court strikes down Georgia's county-unit system, declaring the principle of one person, one vote. — [Reynolds v. Sims](../articles/democracy-and-elections/reynolds-v-sims.md) |
 | 1963-04 | Arrested during SCLC's Birmingham campaign; writes his Letter from Birmingham Jail. — [Martin Luther King Jr.](../articles/people-who-shaped-america/martin-luther-king-jr.md) |
+| 1963-08-27 | Dies in Ghana as a Ghanaian citizen, the day before the March on Washington. — [W. E. B. Du Bois](../articles/people-who-shaped-america/w-e-b-du-bois.md) |
 | 1963-08-28 | More than 200,000 people join the March on Washington for Jobs and Freedom. — [Civil rights movement](../articles/cold-war-and-civil-rights/civil-rights-movement.md) |
 | 1963-08-28 | Speaks at the March on Washington for Jobs and Freedom before more than 200,000 people. — [Martin Luther King Jr.](../articles/people-who-shaped-america/martin-luther-king-jr.md) |
 | 1963-10 | Attorney General Robert Kennedy authorizes FBI wiretaps on King's home and SCLC offices. — [Martin Luther King Jr.](../articles/people-who-shaped-america/martin-luther-king-jr.md) |

@@ -28317,6 +28317,217 @@
   ]
  },
  {
+  "id": "us:w-e-b-du-bois",
+  "title": "W. E. B. Du Bois",
+  "aliases": [
+   "William Edward Burghardt Du Bois",
+   "W.E.B. Du Bois",
+   "W. E. B. DuBois"
+  ],
+  "type": "Person",
+  "domain": "people-who-shaped-america",
+  "level": "introductory",
+  "evidenceStatus": "interpretive",
+  "file": "articles/people-who-shaped-america/w-e-b-du-bois.md",
+  "created": "2026-11-19",
+  "summary": "A sociologist, historian, editor and civil rights leader (1868–1963) who was the first African American to earn a Harvard PhD, wrote The Souls of Black Folk (1903), helped found the Niagara Movement and the NAACP, edited its magazine The Crisis for more than two decades, and died a citizen of Ghana.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "us:african-american-history"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:booker-t-washington"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:the-souls-of-black-folk"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:niagara-movement"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:naacp"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:jim-crow-laws"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:reconstruction-era"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:progressive-era"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:african-americans"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:cold-war"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:march-on-washington-for-jobs-and-freedom"
+   },
+   {
+    "predicate": "uso:requires",
+    "object": "us:jim-crow-laws"
+   },
+   {
+    "predicate": "uso:participatedIn",
+    "object": "us:niagara-movement",
+    "source": "s7",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:memberOf",
+    "object": "us:naacp",
+    "source": "s4",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:participatedIn",
+    "object": "us:civil-rights-movement",
+    "source": "s3",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "uso:participatedIn",
+    "object": "us:pan-african-congresses",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:contrastsWith",
+    "object": "us:booker-t-washington",
+    "source": "s9",
+    "confidence": "high"
+   }
+  ],
+  "start": "1868-02-23",
+  "end": "1963-08-27",
+  "review": [
+   {
+    "question": "Why did Du Bois object to Booker T. Washington's program, even though both men sought Black advancement?",
+    "answer": "Du Bois argued in The Souls of Black Folk that Washington's acceptance of segregation and stress on industrial training asked Black Americans to give up political power, insistence on civil rights and higher education for their young, and that this had helped bring disfranchisement and a legal status of civil inferiority."
+   },
+   {
+    "question": "How did the Niagara Movement lead to the NAACP?",
+    "answer": "The Niagara Movement, founded in 1905, organized Black activists around open agitation for equal rights, but it faded through internal division and money problems; after the 1908 Springfield riot, an interracial group called the 1909 National Negro Conference, Niagara veterans including Du Bois joined it, and the new NAACP made him editor of The Crisis."
+   },
+   {
+    "question": "What did Black Reconstruction argue, and how was it received?",
+    "answer": "It argued that enslaved people helped free themselves by leaving plantations and joining the Union cause, and it attacked the Dunning School's racist portrait of Reconstruction; it was widely denounced in 1935 and largely ignored until historians took up its themes from the 1960s on."
+   }
+  ],
+  "timeline": [
+   {
+    "date": "1868-02-23",
+    "event": "Born in Great Barrington, Massachusetts."
+   },
+   {
+    "date": "1884",
+    "event": "Graduates from Great Barrington's high school, its first African American graduate."
+   },
+   {
+    "date": "1885",
+    "event": "Enrolls at Fisk University in Nashville, Tennessee."
+   },
+   {
+    "date": "1890",
+    "event": "Earns a BA cum laude from Harvard, followed by an MA in 1891."
+   },
+   {
+    "date": "1892",
+    "event": "Begins two years of study at the University of Berlin."
+   },
+   {
+    "date": "1895",
+    "event": "Receives a Harvard PhD; his dissertation on the suppression of the African slave trade is published in 1896."
+   },
+   {
+    "date": "1897-12",
+    "event": "Begins teaching at Atlanta University and directing empirical studies of Black life in the South."
+   },
+   {
+    "date": "1899",
+    "event": "Publishes The Philadelphia Negro, a study of the city's Seventh Ward."
+   },
+   {
+    "date": "1903",
+    "event": "Publishes The Souls of Black Folk."
+   },
+   {
+    "date": "1905",
+    "event": "Twenty-nine activists led by Du Bois and William Monroe Trotter meet at Fort Erie, Ontario, founding the Niagara Movement."
+   },
+   {
+    "date": "1906",
+    "event": "The Niagara Movement holds its second meeting at Storer College in Harpers Ferry."
+   },
+   {
+    "date": "1909-05-31",
+    "event": "Speaks at the National Negro Conference in New York, which leads to the NAACP."
+   },
+   {
+    "date": "1910-11",
+    "event": "Launches The Crisis as the NAACP's monthly magazine, which he edits until 1934."
+   },
+   {
+    "date": "1919",
+    "event": "Takes part in a Pan-African congress in Paris on the fate of Africa's colonies after the First World War."
+   },
+   {
+    "date": "1934-06",
+    "event": "Resigns from the NAACP after disputes with its leadership."
+   },
+   {
+    "date": "1935",
+    "event": "Publishes Black Reconstruction in America."
+   },
+   {
+    "date": "1944",
+    "event": "Returns to the NAACP as director of special research; forced out again in 1948."
+   },
+   {
+    "date": "1951-02-09",
+    "event": "Indicted with officers of the Peace Information Center; acquitted after a trial that November."
+   },
+   {
+    "date": "1961-10-07",
+    "event": "Leaves for Ghana to direct the Encyclopedia Africana project, days after applying to join the Communist Party."
+   },
+   {
+    "date": "1963-08-27",
+    "event": "Dies in Ghana as a Ghanaian citizen, the day before the March on Washington."
+   }
+  ],
+  "misconception": {
+   "myth": "Du Bois coined the phrase \"the Talented Tenth.\"",
+   "fact": "The phrase came from Henry Lyman Morehouse, a white man for whom Morehouse College was named, in an April 1896 essay in the Independent; Du Bois popularized it in his 1903 essay of the same name.",
+   "why": "Crediting the right author shows that the idea of an educated Black leadership class was part of a wider debate over Black education, not a single thinker's invention."
+  },
+  "source_urls": [
+   "https://hutchinscenter.fas.harvard.edu/web-dubois",
+   "https://library.umass.edu/about-w-e-b-du-bois",
+   "https://www.nps.gov/hafe/learn/historyculture/w-e-b-dubois.htm",
+   "https://www.loc.gov/exhibits/naacp/founding-and-early-years.html",
+   "https://www.gutenberg.org/ebooks/408.epub.noimages",
+   "https://www.docsouth.unc.edu/church/duboissouls/summary.html",
+   "https://teachingamericanhistory.org/niagara-movement/",
+   "https://www.pbs.org/wnet/african-americans-many-rivers-to-cross/history/who-really-invented-the-talented-tenth",
+   "https://teachersinstitute.yale.edu/curriculum/units/1978/2/78.02.02.x.html",
+   "https://www.aaihs.org/when-slaves-go-on-strike/"
+  ]
+ },
+ {
   "id": "us:war-in-afghanistan",
   "title": "War in Afghanistan (2001–2021)",
   "aliases": [

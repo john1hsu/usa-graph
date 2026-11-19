@@ -22818,6 +22818,66 @@
 <https://github.com/john1hsu/usa-graph/id/source/voting-rights-act-of-1965/s8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
 <https://github.com/john1hsu/usa-graph/id/source/voting-rights-act-of-1965/s8> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "primary" .
 <https://github.com/john1hsu/usa-graph/id/source/voting-rights-act-of-1965/s8> <https://schema.org/url> <https://www.supremecourt.gov/opinions/25pdf/24-109_21o3.pdf> .
+<https://github.com/john1hsu/usa-graph/id/source/w-e-b-du-bois/s10> <http://purl.org/dc/terms/date> "2026-11-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/w-e-b-du-bois/s10> <http://purl.org/dc/terms/publisher> "Guy Emerson Mount, Black Perspectives, African American Intellectual History Society" .
+<https://github.com/john1hsu/usa-graph/id/source/w-e-b-du-bois/s10> <http://purl.org/dc/terms/title> "When Slaves Go on Strike: W.E.B. Du Bois's Black Reconstruction 80 Years Later" .
+<https://github.com/john1hsu/usa-graph/id/source/w-e-b-du-bois/s10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/w-e-b-du-bois/s10> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/usa-graph/id/source/w-e-b-du-bois/s10> <https://schema.org/url> <https://www.aaihs.org/when-slaves-go-on-strike/> .
+<https://github.com/john1hsu/usa-graph/id/source/w-e-b-du-bois/s1> <http://purl.org/dc/terms/date> "2026-11-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/w-e-b-du-bois/s1> <http://purl.org/dc/terms/publisher> "Hutchins Center for African & African American Research, Harvard University" .
+<https://github.com/john1hsu/usa-graph/id/source/w-e-b-du-bois/s1> <http://purl.org/dc/terms/title> "W. E. B. Du Bois (adapted from Thomas C. Holt, African American National Biography)" .
+<https://github.com/john1hsu/usa-graph/id/source/w-e-b-du-bois/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/w-e-b-du-bois/s1> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/usa-graph/id/source/w-e-b-du-bois/s1> <https://schema.org/url> <https://hutchinscenter.fas.harvard.edu/web-dubois> .
+<https://github.com/john1hsu/usa-graph/id/source/w-e-b-du-bois/s2> <http://purl.org/dc/terms/date> "2026-11-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/w-e-b-du-bois/s2> <http://purl.org/dc/terms/publisher> "University of Massachusetts Amherst Libraries" .
+<https://github.com/john1hsu/usa-graph/id/source/w-e-b-du-bois/s2> <http://purl.org/dc/terms/title> "About W. E. B. Du Bois" .
+<https://github.com/john1hsu/usa-graph/id/source/w-e-b-du-bois/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/w-e-b-du-bois/s2> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/usa-graph/id/source/w-e-b-du-bois/s2> <https://schema.org/url> <https://library.umass.edu/about-w-e-b-du-bois> .
+<https://github.com/john1hsu/usa-graph/id/source/w-e-b-du-bois/s3> <http://purl.org/dc/terms/date> "2026-11-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/w-e-b-du-bois/s3> <http://purl.org/dc/terms/publisher> "National Park Service, Harpers Ferry National Historical Park" .
+<https://github.com/john1hsu/usa-graph/id/source/w-e-b-du-bois/s3> <http://purl.org/dc/terms/title> "W E B Du Bois" .
+<https://github.com/john1hsu/usa-graph/id/source/w-e-b-du-bois/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/w-e-b-du-bois/s3> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/usa-graph/id/source/w-e-b-du-bois/s3> <https://schema.org/url> <https://www.nps.gov/hafe/learn/historyculture/w-e-b-dubois.htm> .
+<https://github.com/john1hsu/usa-graph/id/source/w-e-b-du-bois/s4> <http://purl.org/dc/terms/date> "2026-11-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/w-e-b-du-bois/s4> <http://purl.org/dc/terms/publisher> "Library of Congress" .
+<https://github.com/john1hsu/usa-graph/id/source/w-e-b-du-bois/s4> <http://purl.org/dc/terms/title> "Founding and Early Years (NAACP: A Century in the Fight for Freedom)" .
+<https://github.com/john1hsu/usa-graph/id/source/w-e-b-du-bois/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/w-e-b-du-bois/s4> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/usa-graph/id/source/w-e-b-du-bois/s4> <https://schema.org/url> <https://www.loc.gov/exhibits/naacp/founding-and-early-years.html> .
+<https://github.com/john1hsu/usa-graph/id/source/w-e-b-du-bois/s5> <http://purl.org/dc/terms/date> "2026-11-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/w-e-b-du-bois/s5> <http://purl.org/dc/terms/publisher> "W. E. B. Du Bois, Project Gutenberg edition" .
+<https://github.com/john1hsu/usa-graph/id/source/w-e-b-du-bois/s5> <http://purl.org/dc/terms/title> "The Souls of Black Folk (1903)" .
+<https://github.com/john1hsu/usa-graph/id/source/w-e-b-du-bois/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/w-e-b-du-bois/s5> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/usa-graph/id/source/w-e-b-du-bois/s5> <https://schema.org/url> <https://www.gutenberg.org/ebooks/408.epub.noimages> .
+<https://github.com/john1hsu/usa-graph/id/source/w-e-b-du-bois/s6> <http://purl.org/dc/terms/date> "2026-11-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/w-e-b-du-bois/s6> <http://purl.org/dc/terms/publisher> "Andrew Leiter, Documenting the American South, University of North Carolina at Chapel Hill" .
+<https://github.com/john1hsu/usa-graph/id/source/w-e-b-du-bois/s6> <http://purl.org/dc/terms/title> "Summary of The Souls of Black Folk: Essays and Sketches" .
+<https://github.com/john1hsu/usa-graph/id/source/w-e-b-du-bois/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/w-e-b-du-bois/s6> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/usa-graph/id/source/w-e-b-du-bois/s6> <https://schema.org/url> <https://www.docsouth.unc.edu/church/duboissouls/summary.html> .
+<https://github.com/john1hsu/usa-graph/id/source/w-e-b-du-bois/s7> <http://purl.org/dc/terms/date> "2026-11-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/w-e-b-du-bois/s7> <http://purl.org/dc/terms/publisher> "Teaching American History (Ashbrook Center)" .
+<https://github.com/john1hsu/usa-graph/id/source/w-e-b-du-bois/s7> <http://purl.org/dc/terms/title> "W. E. B. Du Bois and the Niagara Movement" .
+<https://github.com/john1hsu/usa-graph/id/source/w-e-b-du-bois/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/w-e-b-du-bois/s7> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "institutional" .
+<https://github.com/john1hsu/usa-graph/id/source/w-e-b-du-bois/s7> <https://schema.org/url> <https://teachingamericanhistory.org/niagara-movement/> .
+<https://github.com/john1hsu/usa-graph/id/source/w-e-b-du-bois/s8> <http://purl.org/dc/terms/date> "2026-11-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/w-e-b-du-bois/s8> <http://purl.org/dc/terms/publisher> "Henry Louis Gates Jr., PBS, African Americans: Many Rivers to Cross" .
+<https://github.com/john1hsu/usa-graph/id/source/w-e-b-du-bois/s8> <http://purl.org/dc/terms/title> "Who Really Invented the 'Talented Tenth'?" .
+<https://github.com/john1hsu/usa-graph/id/source/w-e-b-du-bois/s8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/w-e-b-du-bois/s8> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "magazine" .
+<https://github.com/john1hsu/usa-graph/id/source/w-e-b-du-bois/s8> <https://schema.org/url> <https://www.pbs.org/wnet/african-americans-many-rivers-to-cross/history/who-really-invented-the-talented-tenth> .
+<https://github.com/john1hsu/usa-graph/id/source/w-e-b-du-bois/s9> <http://purl.org/dc/terms/date> "2026-11-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/w-e-b-du-bois/s9> <http://purl.org/dc/terms/publisher> "Robert A. Gibson, Yale-New Haven Teachers Institute (1978)" .
+<https://github.com/john1hsu/usa-graph/id/source/w-e-b-du-bois/s9> <http://purl.org/dc/terms/title> "Booker T. Washington and W. E. B. DuBois: The Problem of Negro Leadership" .
+<https://github.com/john1hsu/usa-graph/id/source/w-e-b-du-bois/s9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/w-e-b-du-bois/s9> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/usa-graph/id/source/w-e-b-du-bois/s9> <https://schema.org/url> <https://teachersinstitute.yale.edu/curriculum/units/1978/2/78.02.02.x.html> .
 <https://github.com/john1hsu/usa-graph/id/source/war-in-afghanistan/s10> <http://purl.org/dc/terms/date> "2026-11-13"^^<http://www.w3.org/2001/XMLSchema#date> .
 <https://github.com/john1hsu/usa-graph/id/source/war-in-afghanistan/s10> <http://purl.org/dc/terms/publisher> "Air & Space Forces Magazine" .
 <https://github.com/john1hsu/usa-graph/id/source/war-in-afghanistan/s10> <http://purl.org/dc/terms/title> "Kabul Airlift Continues After Suicide Bombing Kills 13 Troops, Dozens of Afghans" .
@@ -25898,6 +25958,147 @@
 <https://github.com/john1hsu/usa-graph/id/voting-rights-act-of-1965> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/voting-rights-act-of-1965/timeline/8> .
 <https://github.com/john1hsu/usa-graph/id/voting-rights-act-of-1965> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/voting-rights-act-of-1965/timeline/9> .
 <https://github.com/john1hsu/usa-graph/id/voting-rights-act-of-1965> <https://schema.org/startDate> "1965-08-06"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/w-e-b-du-bois/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Misconception> .
+<https://github.com/john1hsu/usa-graph/id/w-e-b-du-bois/misconception> <https://github.com/john1hsu/usa-graph/ontology#fact> "The phrase came from Henry Lyman Morehouse, a white man for whom Morehouse College was named, in an April 1896 essay in the Independent; Du Bois popularized it in his 1903 essay of the same name." .
+<https://github.com/john1hsu/usa-graph/id/w-e-b-du-bois/misconception> <https://github.com/john1hsu/usa-graph/ontology#myth> "Du Bois coined the phrase \"the Talented Tenth.\"" .
+<https://github.com/john1hsu/usa-graph/id/w-e-b-du-bois/misconception> <https://github.com/john1hsu/usa-graph/ontology#why> "Crediting the right author shows that the idea of an educated Black leadership class was part of a wider debate over Black education, not a single thinker's invention." .
+<https://github.com/john1hsu/usa-graph/id/w-e-b-du-bois/review/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+<https://github.com/john1hsu/usa-graph/id/w-e-b-du-bois/review/1> <http://www.w3.org/2000/01/rdf-schema#label> "Why did Du Bois object to Booker T. Washington's program, even though both men sought Black advancement?" .
+<https://github.com/john1hsu/usa-graph/id/w-e-b-du-bois/review/1> <https://github.com/john1hsu/usa-graph/ontology#answer> "Du Bois argued in The Souls of Black Folk that Washington's acceptance of segregation and stress on industrial training asked Black Americans to give up political power, insistence on civil rights and higher education for their young, and that this had helped bring disfranchisement and a legal status of civil inferiority." .
+<https://github.com/john1hsu/usa-graph/id/w-e-b-du-bois/review/1> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/w-e-b-du-bois> .
+<https://github.com/john1hsu/usa-graph/id/w-e-b-du-bois/review/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+<https://github.com/john1hsu/usa-graph/id/w-e-b-du-bois/review/2> <http://www.w3.org/2000/01/rdf-schema#label> "How did the Niagara Movement lead to the NAACP?" .
+<https://github.com/john1hsu/usa-graph/id/w-e-b-du-bois/review/2> <https://github.com/john1hsu/usa-graph/ontology#answer> "The Niagara Movement, founded in 1905, organized Black activists around open agitation for equal rights, but it faded through internal division and money problems; after the 1908 Springfield riot, an interracial group called the 1909 National Negro Conference, Niagara veterans including Du Bois joined it, and the new NAACP made him editor of The Crisis." .
+<https://github.com/john1hsu/usa-graph/id/w-e-b-du-bois/review/2> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/w-e-b-du-bois> .
+<https://github.com/john1hsu/usa-graph/id/w-e-b-du-bois/review/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+<https://github.com/john1hsu/usa-graph/id/w-e-b-du-bois/review/3> <http://www.w3.org/2000/01/rdf-schema#label> "What did Black Reconstruction argue, and how was it received?" .
+<https://github.com/john1hsu/usa-graph/id/w-e-b-du-bois/review/3> <https://github.com/john1hsu/usa-graph/ontology#answer> "It argued that enslaved people helped free themselves by leaving plantations and joining the Union cause, and it attacked the Dunning School's racist portrait of Reconstruction; it was widely denounced in 1935 and largely ignored until historians took up its themes from the 1960s on." .
+<https://github.com/john1hsu/usa-graph/id/w-e-b-du-bois/review/3> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/w-e-b-du-bois> .
+<https://github.com/john1hsu/usa-graph/id/w-e-b-du-bois/timeline/10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/w-e-b-du-bois/timeline/10> <http://www.w3.org/2000/01/rdf-schema#label> "Twenty-nine activists led by Du Bois and William Monroe Trotter meet at Fort Erie, Ontario, founding the Niagara Movement." .
+<https://github.com/john1hsu/usa-graph/id/w-e-b-du-bois/timeline/10> <https://github.com/john1hsu/usa-graph/ontology#date> "1905"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://github.com/john1hsu/usa-graph/id/w-e-b-du-bois/timeline/11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/w-e-b-du-bois/timeline/11> <http://www.w3.org/2000/01/rdf-schema#label> "The Niagara Movement holds its second meeting at Storer College in Harpers Ferry." .
+<https://github.com/john1hsu/usa-graph/id/w-e-b-du-bois/timeline/11> <https://github.com/john1hsu/usa-graph/ontology#date> "1906"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://github.com/john1hsu/usa-graph/id/w-e-b-du-bois/timeline/12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/w-e-b-du-bois/timeline/12> <http://www.w3.org/2000/01/rdf-schema#label> "Speaks at the National Negro Conference in New York, which leads to the NAACP." .
+<https://github.com/john1hsu/usa-graph/id/w-e-b-du-bois/timeline/12> <https://github.com/john1hsu/usa-graph/ontology#date> "1909-05-31"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/w-e-b-du-bois/timeline/13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/w-e-b-du-bois/timeline/13> <http://www.w3.org/2000/01/rdf-schema#label> "Launches The Crisis as the NAACP's monthly magazine, which he edits until 1934." .
+<https://github.com/john1hsu/usa-graph/id/w-e-b-du-bois/timeline/13> <https://github.com/john1hsu/usa-graph/ontology#date> "1910-11"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> .
+<https://github.com/john1hsu/usa-graph/id/w-e-b-du-bois/timeline/14> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/w-e-b-du-bois/timeline/14> <http://www.w3.org/2000/01/rdf-schema#label> "Takes part in a Pan-African congress in Paris on the fate of Africa's colonies after the First World War." .
+<https://github.com/john1hsu/usa-graph/id/w-e-b-du-bois/timeline/14> <https://github.com/john1hsu/usa-graph/ontology#date> "1919"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://github.com/john1hsu/usa-graph/id/w-e-b-du-bois/timeline/15> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/w-e-b-du-bois/timeline/15> <http://www.w3.org/2000/01/rdf-schema#label> "Resigns from the NAACP after disputes with its leadership." .
+<https://github.com/john1hsu/usa-graph/id/w-e-b-du-bois/timeline/15> <https://github.com/john1hsu/usa-graph/ontology#date> "1934-06"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> .
+<https://github.com/john1hsu/usa-graph/id/w-e-b-du-bois/timeline/16> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/w-e-b-du-bois/timeline/16> <http://www.w3.org/2000/01/rdf-schema#label> "Publishes Black Reconstruction in America." .
+<https://github.com/john1hsu/usa-graph/id/w-e-b-du-bois/timeline/16> <https://github.com/john1hsu/usa-graph/ontology#date> "1935"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://github.com/john1hsu/usa-graph/id/w-e-b-du-bois/timeline/17> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/w-e-b-du-bois/timeline/17> <http://www.w3.org/2000/01/rdf-schema#label> "Returns to the NAACP as director of special research; forced out again in 1948." .
+<https://github.com/john1hsu/usa-graph/id/w-e-b-du-bois/timeline/17> <https://github.com/john1hsu/usa-graph/ontology#date> "1944"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://github.com/john1hsu/usa-graph/id/w-e-b-du-bois/timeline/18> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/w-e-b-du-bois/timeline/18> <http://www.w3.org/2000/01/rdf-schema#label> "Indicted with officers of the Peace Information Center; acquitted after a trial that November." .
+<https://github.com/john1hsu/usa-graph/id/w-e-b-du-bois/timeline/18> <https://github.com/john1hsu/usa-graph/ontology#date> "1951-02-09"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/w-e-b-du-bois/timeline/19> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/w-e-b-du-bois/timeline/19> <http://www.w3.org/2000/01/rdf-schema#label> "Leaves for Ghana to direct the Encyclopedia Africana project, days after applying to join the Communist Party." .
+<https://github.com/john1hsu/usa-graph/id/w-e-b-du-bois/timeline/19> <https://github.com/john1hsu/usa-graph/ontology#date> "1961-10-07"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/w-e-b-du-bois/timeline/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/w-e-b-du-bois/timeline/1> <http://www.w3.org/2000/01/rdf-schema#label> "Born in Great Barrington, Massachusetts." .
+<https://github.com/john1hsu/usa-graph/id/w-e-b-du-bois/timeline/1> <https://github.com/john1hsu/usa-graph/ontology#date> "1868-02-23"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/w-e-b-du-bois/timeline/20> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/w-e-b-du-bois/timeline/20> <http://www.w3.org/2000/01/rdf-schema#label> "Dies in Ghana as a Ghanaian citizen, the day before the March on Washington." .
+<https://github.com/john1hsu/usa-graph/id/w-e-b-du-bois/timeline/20> <https://github.com/john1hsu/usa-graph/ontology#date> "1963-08-27"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/w-e-b-du-bois/timeline/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/w-e-b-du-bois/timeline/2> <http://www.w3.org/2000/01/rdf-schema#label> "Graduates from Great Barrington's high school, its first African American graduate." .
+<https://github.com/john1hsu/usa-graph/id/w-e-b-du-bois/timeline/2> <https://github.com/john1hsu/usa-graph/ontology#date> "1884"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://github.com/john1hsu/usa-graph/id/w-e-b-du-bois/timeline/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/w-e-b-du-bois/timeline/3> <http://www.w3.org/2000/01/rdf-schema#label> "Enrolls at Fisk University in Nashville, Tennessee." .
+<https://github.com/john1hsu/usa-graph/id/w-e-b-du-bois/timeline/3> <https://github.com/john1hsu/usa-graph/ontology#date> "1885"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://github.com/john1hsu/usa-graph/id/w-e-b-du-bois/timeline/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/w-e-b-du-bois/timeline/4> <http://www.w3.org/2000/01/rdf-schema#label> "Earns a BA cum laude from Harvard, followed by an MA in 1891." .
+<https://github.com/john1hsu/usa-graph/id/w-e-b-du-bois/timeline/4> <https://github.com/john1hsu/usa-graph/ontology#date> "1890"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://github.com/john1hsu/usa-graph/id/w-e-b-du-bois/timeline/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/w-e-b-du-bois/timeline/5> <http://www.w3.org/2000/01/rdf-schema#label> "Begins two years of study at the University of Berlin." .
+<https://github.com/john1hsu/usa-graph/id/w-e-b-du-bois/timeline/5> <https://github.com/john1hsu/usa-graph/ontology#date> "1892"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://github.com/john1hsu/usa-graph/id/w-e-b-du-bois/timeline/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/w-e-b-du-bois/timeline/6> <http://www.w3.org/2000/01/rdf-schema#label> "Receives a Harvard PhD; his dissertation on the suppression of the African slave trade is published in 1896." .
+<https://github.com/john1hsu/usa-graph/id/w-e-b-du-bois/timeline/6> <https://github.com/john1hsu/usa-graph/ontology#date> "1895"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://github.com/john1hsu/usa-graph/id/w-e-b-du-bois/timeline/7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/w-e-b-du-bois/timeline/7> <http://www.w3.org/2000/01/rdf-schema#label> "Begins teaching at Atlanta University and directing empirical studies of Black life in the South." .
+<https://github.com/john1hsu/usa-graph/id/w-e-b-du-bois/timeline/7> <https://github.com/john1hsu/usa-graph/ontology#date> "1897-12"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> .
+<https://github.com/john1hsu/usa-graph/id/w-e-b-du-bois/timeline/8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/w-e-b-du-bois/timeline/8> <http://www.w3.org/2000/01/rdf-schema#label> "Publishes The Philadelphia Negro, a study of the city's Seventh Ward." .
+<https://github.com/john1hsu/usa-graph/id/w-e-b-du-bois/timeline/8> <https://github.com/john1hsu/usa-graph/ontology#date> "1899"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://github.com/john1hsu/usa-graph/id/w-e-b-du-bois/timeline/9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/w-e-b-du-bois/timeline/9> <http://www.w3.org/2000/01/rdf-schema#label> "Publishes The Souls of Black Folk." .
+<https://github.com/john1hsu/usa-graph/id/w-e-b-du-bois/timeline/9> <https://github.com/john1hsu/usa-graph/ontology#date> "1903"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://github.com/john1hsu/usa-graph/id/w-e-b-du-bois> <http://purl.org/dc/terms/created> "2026-11-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/w-e-b-du-bois> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Person> .
+<https://github.com/john1hsu/usa-graph/id/w-e-b-du-bois> <http://www.w3.org/2000/01/rdf-schema#label> "W. E. B. Du Bois" .
+<https://github.com/john1hsu/usa-graph/id/w-e-b-du-bois> <http://www.w3.org/2004/02/skos/core#altLabel> "W. E. B. DuBois" .
+<https://github.com/john1hsu/usa-graph/id/w-e-b-du-bois> <http://www.w3.org/2004/02/skos/core#altLabel> "W.E.B. Du Bois" .
+<https://github.com/john1hsu/usa-graph/id/w-e-b-du-bois> <http://www.w3.org/2004/02/skos/core#altLabel> "William Edward Burghardt Du Bois" .
+<https://github.com/john1hsu/usa-graph/id/w-e-b-du-bois> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/usa-graph/id/african-american-history> .
+<https://github.com/john1hsu/usa-graph/id/w-e-b-du-bois> <http://www.w3.org/2004/02/skos/core#definition> "A sociologist, historian, editor and civil rights leader (1868–1963) who was the first African American to earn a Harvard PhD, wrote The Souls of Black Folk (1903), helped found the Niagara Movement and the NAACP, edited its magazine The Crisis for more than two decades, and died a citizen of Ghana." .
+<https://github.com/john1hsu/usa-graph/id/w-e-b-du-bois> <http://www.w3.org/2004/02/skos/core#inScheme> <https://github.com/john1hsu/usa-graph/id/scheme/people-who-shaped-america> .
+<https://github.com/john1hsu/usa-graph/id/w-e-b-du-bois> <http://www.w3.org/2004/02/skos/core#prefLabel> "W. E. B. Du Bois" .
+<https://github.com/john1hsu/usa-graph/id/w-e-b-du-bois> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/african-americans> .
+<https://github.com/john1hsu/usa-graph/id/w-e-b-du-bois> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/booker-t-washington> .
+<https://github.com/john1hsu/usa-graph/id/w-e-b-du-bois> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/cold-war> .
+<https://github.com/john1hsu/usa-graph/id/w-e-b-du-bois> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/jim-crow-laws> .
+<https://github.com/john1hsu/usa-graph/id/w-e-b-du-bois> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/march-on-washington-for-jobs-and-freedom> .
+<https://github.com/john1hsu/usa-graph/id/w-e-b-du-bois> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/naacp> .
+<https://github.com/john1hsu/usa-graph/id/w-e-b-du-bois> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/niagara-movement> .
+<https://github.com/john1hsu/usa-graph/id/w-e-b-du-bois> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/progressive-era> .
+<https://github.com/john1hsu/usa-graph/id/w-e-b-du-bois> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/reconstruction-era> .
+<https://github.com/john1hsu/usa-graph/id/w-e-b-du-bois> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/the-souls-of-black-folk> .
+<https://github.com/john1hsu/usa-graph/id/w-e-b-du-bois> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/w-e-b-du-bois/s10> .
+<https://github.com/john1hsu/usa-graph/id/w-e-b-du-bois> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/w-e-b-du-bois/s1> .
+<https://github.com/john1hsu/usa-graph/id/w-e-b-du-bois> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/w-e-b-du-bois/s2> .
+<https://github.com/john1hsu/usa-graph/id/w-e-b-du-bois> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/w-e-b-du-bois/s3> .
+<https://github.com/john1hsu/usa-graph/id/w-e-b-du-bois> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/w-e-b-du-bois/s4> .
+<https://github.com/john1hsu/usa-graph/id/w-e-b-du-bois> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/w-e-b-du-bois/s5> .
+<https://github.com/john1hsu/usa-graph/id/w-e-b-du-bois> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/w-e-b-du-bois/s6> .
+<https://github.com/john1hsu/usa-graph/id/w-e-b-du-bois> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/w-e-b-du-bois/s7> .
+<https://github.com/john1hsu/usa-graph/id/w-e-b-du-bois> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/w-e-b-du-bois/s8> .
+<https://github.com/john1hsu/usa-graph/id/w-e-b-du-bois> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/w-e-b-du-bois/s9> .
+<https://github.com/john1hsu/usa-graph/id/w-e-b-du-bois> <https://github.com/john1hsu/usa-graph/ontology#contrastsWith> <https://github.com/john1hsu/usa-graph/id/booker-t-washington> .
+<https://github.com/john1hsu/usa-graph/id/w-e-b-du-bois> <https://github.com/john1hsu/usa-graph/ontology#domain> "people-who-shaped-america" .
+<https://github.com/john1hsu/usa-graph/id/w-e-b-du-bois> <https://github.com/john1hsu/usa-graph/ontology#evidenceStatus> "interpretive" .
+<https://github.com/john1hsu/usa-graph/id/w-e-b-du-bois> <https://github.com/john1hsu/usa-graph/ontology#file> "articles/people-who-shaped-america/w-e-b-du-bois.md" .
+<https://github.com/john1hsu/usa-graph/id/w-e-b-du-bois> <https://github.com/john1hsu/usa-graph/ontology#level> "introductory" .
+<https://github.com/john1hsu/usa-graph/id/w-e-b-du-bois> <https://github.com/john1hsu/usa-graph/ontology#memberOf> <https://github.com/john1hsu/usa-graph/id/naacp> .
+<https://github.com/john1hsu/usa-graph/id/w-e-b-du-bois> <https://github.com/john1hsu/usa-graph/ontology#misconception> <https://github.com/john1hsu/usa-graph/id/w-e-b-du-bois/misconception> .
+<https://github.com/john1hsu/usa-graph/id/w-e-b-du-bois> <https://github.com/john1hsu/usa-graph/ontology#participatedIn> <https://github.com/john1hsu/usa-graph/id/civil-rights-movement> .
+<https://github.com/john1hsu/usa-graph/id/w-e-b-du-bois> <https://github.com/john1hsu/usa-graph/ontology#participatedIn> <https://github.com/john1hsu/usa-graph/id/niagara-movement> .
+<https://github.com/john1hsu/usa-graph/id/w-e-b-du-bois> <https://github.com/john1hsu/usa-graph/ontology#participatedIn> <https://github.com/john1hsu/usa-graph/id/pan-african-congresses> .
+<https://github.com/john1hsu/usa-graph/id/w-e-b-du-bois> <https://github.com/john1hsu/usa-graph/ontology#requires> <https://github.com/john1hsu/usa-graph/id/jim-crow-laws> .
+<https://github.com/john1hsu/usa-graph/id/w-e-b-du-bois> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/w-e-b-du-bois/timeline/10> .
+<https://github.com/john1hsu/usa-graph/id/w-e-b-du-bois> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/w-e-b-du-bois/timeline/11> .
+<https://github.com/john1hsu/usa-graph/id/w-e-b-du-bois> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/w-e-b-du-bois/timeline/12> .
+<https://github.com/john1hsu/usa-graph/id/w-e-b-du-bois> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/w-e-b-du-bois/timeline/13> .
+<https://github.com/john1hsu/usa-graph/id/w-e-b-du-bois> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/w-e-b-du-bois/timeline/14> .
+<https://github.com/john1hsu/usa-graph/id/w-e-b-du-bois> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/w-e-b-du-bois/timeline/15> .
+<https://github.com/john1hsu/usa-graph/id/w-e-b-du-bois> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/w-e-b-du-bois/timeline/16> .
+<https://github.com/john1hsu/usa-graph/id/w-e-b-du-bois> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/w-e-b-du-bois/timeline/17> .
+<https://github.com/john1hsu/usa-graph/id/w-e-b-du-bois> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/w-e-b-du-bois/timeline/18> .
+<https://github.com/john1hsu/usa-graph/id/w-e-b-du-bois> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/w-e-b-du-bois/timeline/19> .
+<https://github.com/john1hsu/usa-graph/id/w-e-b-du-bois> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/w-e-b-du-bois/timeline/1> .
+<https://github.com/john1hsu/usa-graph/id/w-e-b-du-bois> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/w-e-b-du-bois/timeline/20> .
+<https://github.com/john1hsu/usa-graph/id/w-e-b-du-bois> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/w-e-b-du-bois/timeline/2> .
+<https://github.com/john1hsu/usa-graph/id/w-e-b-du-bois> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/w-e-b-du-bois/timeline/3> .
+<https://github.com/john1hsu/usa-graph/id/w-e-b-du-bois> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/w-e-b-du-bois/timeline/4> .
+<https://github.com/john1hsu/usa-graph/id/w-e-b-du-bois> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/w-e-b-du-bois/timeline/5> .
+<https://github.com/john1hsu/usa-graph/id/w-e-b-du-bois> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/w-e-b-du-bois/timeline/6> .
+<https://github.com/john1hsu/usa-graph/id/w-e-b-du-bois> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/w-e-b-du-bois/timeline/7> .
+<https://github.com/john1hsu/usa-graph/id/w-e-b-du-bois> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/w-e-b-du-bois/timeline/8> .
+<https://github.com/john1hsu/usa-graph/id/w-e-b-du-bois> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/w-e-b-du-bois/timeline/9> .
+<https://github.com/john1hsu/usa-graph/id/w-e-b-du-bois> <https://schema.org/birthDate> "1868-02-23"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/w-e-b-du-bois> <https://schema.org/deathDate> "1963-08-27"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/w-e-b-du-bois> <https://schema.org/endDate> "1963-08-27"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/w-e-b-du-bois> <https://schema.org/startDate> "1868-02-23"^^<http://www.w3.org/2001/XMLSchema#date> .
 <https://github.com/john1hsu/usa-graph/id/war-in-afghanistan/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Misconception> .
 <https://github.com/john1hsu/usa-graph/id/war-in-afghanistan/misconception> <https://github.com/john1hsu/usa-graph/ontology#fact> "At least 66,000 Afghan troops were killed in the war (SIGAR, 2021), and Congressional researchers traced the collapse to structural causes — corruption that left soldiers unpaid or unfed, dependence on departing U.S. contractors for maintenance, intelligence and air support, overstretched rural outposts, and demoralization after the 2020 U.S.-Taliban agreement." .
 <https://github.com/john1hsu/usa-graph/id/war-in-afghanistan/misconception> <https://github.com/john1hsu/usa-graph/ontology#myth> "Afghanistan's army collapsed in 2021 simply because its soldiers would not fight." .

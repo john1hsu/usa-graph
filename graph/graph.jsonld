@@ -39249,6 +39249,146 @@
    "uso:sourceType": "primary"
   },
   {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/w-e-b-du-bois/s1",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "Hutchins Center for African & African American Research, Harvard University",
+   "dcterms:title": "W. E. B. Du Bois (adapted from Thomas C. Holt, African American National Biography)",
+   "schema:url": {
+    "@id": "https://hutchinscenter.fas.harvard.edu/web-dubois"
+   },
+   "uso:sourceType": "academic"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/w-e-b-du-bois/s10",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "Guy Emerson Mount, Black Perspectives, African American Intellectual History Society",
+   "dcterms:title": "When Slaves Go on Strike: W.E.B. Du Bois's Black Reconstruction 80 Years Later",
+   "schema:url": {
+    "@id": "https://www.aaihs.org/when-slaves-go-on-strike/"
+   },
+   "uso:sourceType": "academic"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/w-e-b-du-bois/s2",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "University of Massachusetts Amherst Libraries",
+   "dcterms:title": "About W. E. B. Du Bois",
+   "schema:url": {
+    "@id": "https://library.umass.edu/about-w-e-b-du-bois"
+   },
+   "uso:sourceType": "academic"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/w-e-b-du-bois/s3",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "National Park Service, Harpers Ferry National Historical Park",
+   "dcterms:title": "W E B Du Bois",
+   "schema:url": {
+    "@id": "https://www.nps.gov/hafe/learn/historyculture/w-e-b-dubois.htm"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/w-e-b-du-bois/s4",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "Library of Congress",
+   "dcterms:title": "Founding and Early Years (NAACP: A Century in the Fight for Freedom)",
+   "schema:url": {
+    "@id": "https://www.loc.gov/exhibits/naacp/founding-and-early-years.html"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/w-e-b-du-bois/s5",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "W. E. B. Du Bois, Project Gutenberg edition",
+   "dcterms:title": "The Souls of Black Folk (1903)",
+   "schema:url": {
+    "@id": "https://www.gutenberg.org/ebooks/408.epub.noimages"
+   },
+   "uso:sourceType": "primary"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/w-e-b-du-bois/s6",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "Andrew Leiter, Documenting the American South, University of North Carolina at Chapel Hill",
+   "dcterms:title": "Summary of The Souls of Black Folk: Essays and Sketches",
+   "schema:url": {
+    "@id": "https://www.docsouth.unc.edu/church/duboissouls/summary.html"
+   },
+   "uso:sourceType": "academic"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/w-e-b-du-bois/s7",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "Teaching American History (Ashbrook Center)",
+   "dcterms:title": "W. E. B. Du Bois and the Niagara Movement",
+   "schema:url": {
+    "@id": "https://teachingamericanhistory.org/niagara-movement/"
+   },
+   "uso:sourceType": "institutional"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/w-e-b-du-bois/s8",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "Henry Louis Gates Jr., PBS, African Americans: Many Rivers to Cross",
+   "dcterms:title": "Who Really Invented the 'Talented Tenth'?",
+   "schema:url": {
+    "@id": "https://www.pbs.org/wnet/african-americans-many-rivers-to-cross/history/who-really-invented-the-talented-tenth"
+   },
+   "uso:sourceType": "magazine"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/w-e-b-du-bois/s9",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "Robert A. Gibson, Yale-New Haven Teachers Institute (1978)",
+   "dcterms:title": "Booker T. Washington and W. E. B. DuBois: The Problem of Negro Leadership",
+   "schema:url": {
+    "@id": "https://teachersinstitute.yale.edu/curriculum/units/1978/2/78.02.02.x.html"
+   },
+   "uso:sourceType": "academic"
+  },
+  {
    "@id": "https://github.com/john1hsu/usa-graph/id/source/war-in-afghanistan/s1",
    "@type": "uso:Source",
    "dcterms:date": {
@@ -44146,6 +44286,220 @@
    "uso:date": {
     "@type": "xsd:gYear",
     "@value": "1970"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/w-e-b-du-bois/misconception",
+   "@type": "uso:Misconception",
+   "uso:fact": "The phrase came from Henry Lyman Morehouse, a white man for whom Morehouse College was named, in an April 1896 essay in the Independent; Du Bois popularized it in his 1903 essay of the same name.",
+   "uso:myth": "Du Bois coined the phrase \"the Talented Tenth.\"",
+   "uso:why": "Crediting the right author shows that the idea of an educated Black leadership class was part of a wider debate over Black education, not a single thinker's invention."
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/w-e-b-du-bois/review/1",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "Why did Du Bois object to Booker T. Washington's program, even though both men sought Black advancement?",
+   "uso:answer": "Du Bois argued in The Souls of Black Folk that Washington's acceptance of segregation and stress on industrial training asked Black Americans to give up political power, insistence on civil rights and higher education for their young, and that this had helped bring disfranchisement and a legal status of civil inferiority.",
+   "uso:questionFor": {
+    "@id": "us:w-e-b-du-bois"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/w-e-b-du-bois/review/2",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "How did the Niagara Movement lead to the NAACP?",
+   "uso:answer": "The Niagara Movement, founded in 1905, organized Black activists around open agitation for equal rights, but it faded through internal division and money problems; after the 1908 Springfield riot, an interracial group called the 1909 National Negro Conference, Niagara veterans including Du Bois joined it, and the new NAACP made him editor of The Crisis.",
+   "uso:questionFor": {
+    "@id": "us:w-e-b-du-bois"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/w-e-b-du-bois/review/3",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "What did Black Reconstruction argue, and how was it received?",
+   "uso:answer": "It argued that enslaved people helped free themselves by leaving plantations and joining the Union cause, and it attacked the Dunning School's racist portrait of Reconstruction; it was widely denounced in 1935 and largely ignored until historians took up its themes from the 1960s on.",
+   "uso:questionFor": {
+    "@id": "us:w-e-b-du-bois"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/w-e-b-du-bois/timeline/1",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Born in Great Barrington, Massachusetts.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1868-02-23"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/w-e-b-du-bois/timeline/10",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Twenty-nine activists led by Du Bois and William Monroe Trotter meet at Fort Erie, Ontario, founding the Niagara Movement.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1905"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/w-e-b-du-bois/timeline/11",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The Niagara Movement holds its second meeting at Storer College in Harpers Ferry.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1906"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/w-e-b-du-bois/timeline/12",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Speaks at the National Negro Conference in New York, which leads to the NAACP.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1909-05-31"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/w-e-b-du-bois/timeline/13",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Launches The Crisis as the NAACP's monthly magazine, which he edits until 1934.",
+   "uso:date": {
+    "@type": "xsd:gYearMonth",
+    "@value": "1910-11"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/w-e-b-du-bois/timeline/14",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Takes part in a Pan-African congress in Paris on the fate of Africa's colonies after the First World War.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1919"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/w-e-b-du-bois/timeline/15",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Resigns from the NAACP after disputes with its leadership.",
+   "uso:date": {
+    "@type": "xsd:gYearMonth",
+    "@value": "1934-06"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/w-e-b-du-bois/timeline/16",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Publishes Black Reconstruction in America.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1935"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/w-e-b-du-bois/timeline/17",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Returns to the NAACP as director of special research; forced out again in 1948.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1944"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/w-e-b-du-bois/timeline/18",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Indicted with officers of the Peace Information Center; acquitted after a trial that November.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1951-02-09"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/w-e-b-du-bois/timeline/19",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Leaves for Ghana to direct the Encyclopedia Africana project, days after applying to join the Communist Party.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1961-10-07"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/w-e-b-du-bois/timeline/2",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Graduates from Great Barrington's high school, its first African American graduate.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1884"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/w-e-b-du-bois/timeline/20",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Dies in Ghana as a Ghanaian citizen, the day before the March on Washington.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1963-08-27"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/w-e-b-du-bois/timeline/3",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Enrolls at Fisk University in Nashville, Tennessee.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1885"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/w-e-b-du-bois/timeline/4",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Earns a BA cum laude from Harvard, followed by an MA in 1891.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1890"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/w-e-b-du-bois/timeline/5",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Begins two years of study at the University of Berlin.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1892"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/w-e-b-du-bois/timeline/6",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Receives a Harvard PhD; his dissertation on the suppression of the African slave trade is published in 1896.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1895"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/w-e-b-du-bois/timeline/7",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Begins teaching at Atlanta University and directing empirical studies of Black life in the South.",
+   "uso:date": {
+    "@type": "xsd:gYearMonth",
+    "@value": "1897-12"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/w-e-b-du-bois/timeline/8",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Publishes The Philadelphia Negro, a study of the city's Seventh Ward.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1899"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/w-e-b-du-bois/timeline/9",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Publishes The Souls of Black Folk.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1903"
    }
   },
   {
@@ -70059,6 +70413,197 @@
     },
     {
      "@id": "https://github.com/john1hsu/usa-graph/id/voting-rights-act-of-1965/timeline/9"
+    }
+   ]
+  },
+  {
+   "@id": "us:w-e-b-du-bois",
+   "@type": "uso:Person",
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/w-e-b-du-bois/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/w-e-b-du-bois/s10"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/w-e-b-du-bois/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/w-e-b-du-bois/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/w-e-b-du-bois/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/w-e-b-du-bois/s5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/w-e-b-du-bois/s6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/w-e-b-du-bois/s7"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/w-e-b-du-bois/s8"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/w-e-b-du-bois/s9"
+    }
+   ],
+   "rdfs:label": "W. E. B. Du Bois",
+   "schema:birthDate": {
+    "@type": "xsd:date",
+    "@value": "1868-02-23"
+   },
+   "schema:deathDate": {
+    "@type": "xsd:date",
+    "@value": "1963-08-27"
+   },
+   "schema:endDate": {
+    "@type": "xsd:date",
+    "@value": "1963-08-27"
+   },
+   "schema:startDate": {
+    "@type": "xsd:date",
+    "@value": "1868-02-23"
+   },
+   "skos:altLabel": [
+    "W. E. B. DuBois",
+    "W.E.B. Du Bois",
+    "William Edward Burghardt Du Bois"
+   ],
+   "skos:broader": {
+    "@id": "us:african-american-history"
+   },
+   "skos:definition": "A sociologist, historian, editor and civil rights leader (1868–1963) who was the first African American to earn a Harvard PhD, wrote The Souls of Black Folk (1903), helped found the Niagara Movement and the NAACP, edited its magazine The Crisis for more than two decades, and died a citizen of Ghana.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/usa-graph/id/scheme/people-who-shaped-america"
+   },
+   "skos:prefLabel": "W. E. B. Du Bois",
+   "skos:related": [
+    {
+     "@id": "us:african-americans"
+    },
+    {
+     "@id": "us:booker-t-washington"
+    },
+    {
+     "@id": "us:cold-war"
+    },
+    {
+     "@id": "us:jim-crow-laws"
+    },
+    {
+     "@id": "us:march-on-washington-for-jobs-and-freedom"
+    },
+    {
+     "@id": "us:naacp"
+    },
+    {
+     "@id": "us:niagara-movement"
+    },
+    {
+     "@id": "us:progressive-era"
+    },
+    {
+     "@id": "us:reconstruction-era"
+    },
+    {
+     "@id": "us:the-souls-of-black-folk"
+    }
+   ],
+   "uso:contrastsWith": {
+    "@id": "us:booker-t-washington"
+   },
+   "uso:domain": "people-who-shaped-america",
+   "uso:evidenceStatus": "interpretive",
+   "uso:file": "articles/people-who-shaped-america/w-e-b-du-bois.md",
+   "uso:level": "introductory",
+   "uso:memberOf": {
+    "@id": "us:naacp"
+   },
+   "uso:misconception": {
+    "@id": "https://github.com/john1hsu/usa-graph/id/w-e-b-du-bois/misconception"
+   },
+   "uso:participatedIn": [
+    {
+     "@id": "us:civil-rights-movement"
+    },
+    {
+     "@id": "us:niagara-movement"
+    },
+    {
+     "@id": "us:pan-african-congresses"
+    }
+   ],
+   "uso:requires": {
+    "@id": "us:jim-crow-laws"
+   },
+   "uso:timelineEntry": [
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/w-e-b-du-bois/timeline/1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/w-e-b-du-bois/timeline/10"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/w-e-b-du-bois/timeline/11"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/w-e-b-du-bois/timeline/12"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/w-e-b-du-bois/timeline/13"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/w-e-b-du-bois/timeline/14"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/w-e-b-du-bois/timeline/15"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/w-e-b-du-bois/timeline/16"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/w-e-b-du-bois/timeline/17"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/w-e-b-du-bois/timeline/18"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/w-e-b-du-bois/timeline/19"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/w-e-b-du-bois/timeline/2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/w-e-b-du-bois/timeline/20"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/w-e-b-du-bois/timeline/3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/w-e-b-du-bois/timeline/4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/w-e-b-du-bois/timeline/5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/w-e-b-du-bois/timeline/6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/w-e-b-du-bois/timeline/7"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/w-e-b-du-bois/timeline/8"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/w-e-b-du-bois/timeline/9"
     }
    ]
   },

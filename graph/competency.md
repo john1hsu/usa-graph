@@ -124,7 +124,7 @@ _Which nodes are myths, contested or open to competing interpretations, and what
 | `us:good-neighbor-policy` | interpretive |  |
 | `us:great-depression` | interpretive |  |
 
-…and 49 more.
+…and 50 more.
 
 ## Places with nothing tied to them (gap)
 

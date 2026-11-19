@@ -1807,6 +1807,21 @@ Every review question (with its answer) and every myth-versus-fact in the graph,
 - **Q:** Why is the Nineteenth Amendment often called the Susan B. Anthony Amendment?
   **A:** It grew out of the woman suffrage amendment that Senator Aaron Sargent introduced in her name in 1878, after her National Woman Suffrage Association returned to petitioning Congress, and which she campaigned for until her death; it was ratified in 1920, fourteen years after she died.
 
+### [W. E. B. Du Bois](../articles/people-who-shaped-america/w-e-b-du-bois.md) — Person
+
+| Myth | Fact |
+|---|---|
+| Du Bois coined the phrase "the Talented Tenth." | The phrase came from Henry Lyman Morehouse, a white man for whom Morehouse College was named, in an April 1896 essay in the Independent; Du Bois popularized it in his 1903 essay of the same name. |
+
+**Why it matters:** Crediting the right author shows that the idea of an educated Black leadership class was part of a wider debate over Black education, not a single thinker's invention.
+
+- **Q:** Why did Du Bois object to Booker T. Washington's program, even though both men sought Black advancement?
+  **A:** Du Bois argued in The Souls of Black Folk that Washington's acceptance of segregation and stress on industrial training asked Black Americans to give up political power, insistence on civil rights and higher education for their young, and that this had helped bring disfranchisement and a legal status of civil inferiority.
+- **Q:** How did the Niagara Movement lead to the NAACP?
+  **A:** The Niagara Movement, founded in 1905, organized Black activists around open agitation for equal rights, but it faded through internal division and money problems; after the 1908 Springfield riot, an interracial group called the 1909 National Negro Conference, Niagara veterans including Du Bois joined it, and the new NAACP made him editor of The Crisis.
+- **Q:** What did Black Reconstruction argue, and how was it received?
+  **A:** It argued that enslaved people helped free themselves by leaving plantations and joining the Union cause, and it attacked the Dunning School's racist portrait of Reconstruction; it was widely denounced in 1935 and largely ignored until historians took up its themes from the 1960s on.
+
 ## presidents-and-founders
 
 ### [Abraham Lincoln](../articles/presidents-and-founders/abraham-lincoln.md) — Person
