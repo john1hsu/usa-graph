@@ -1495,6 +1495,21 @@ Every review question (with its answer) and every myth-versus-fact in the graph,
 - **Q:** Why do some historians, such as Rebecca Edwards, argue that "Gilded Age" is a poor label?
   **A:** The name was meant as an indictment of the elite, so it focuses attention on robber barons and corrupt politicians and misses the grassroots ferment of the period, from farmers' alliances and unions to women's organizations and Black activism.
 
+### [Great Migration](../articles/gilded-age-and-progressive-era/great-migration.md) — Event
+
+| Myth | Fact |
+|---|---|
+| The Great Migration was a single wartime exodus of Black southerners to a few northern cities such as Chicago and New York. | It unfolded in two waves over about six decades; the second wave, during and after World War II, was larger than the first, and it carried migrants west to Los Angeles, Oakland, Portland and Seattle as well as north and to the Midwest. |
+
+**Why it matters:** The World War I exodus, the Chicago Defender's "Promised Land" campaign and the Harlem Renaissance dominate popular memory, while the larger, more dispersed post-1940 movement has been less studied and, some historians argue, undercounted.
+
+- **Q:** Why did the First Great Migration begin in earnest during World War I rather than earlier?
+  **A:** Black southerners already had strong reasons to leave Jim Crow, lynching and sharecropping, but before the war most northern industries turned them away. When the war cut off European immigration and drew white men into the military, factories faced labor shortages and sent recruiters south, opening jobs that made the move possible.
+- **Q:** How did the Second Great Migration differ from the first?
+  **A:** It began with the defense-industry boom of World War II, was larger (about 1.45 million left in the 1940s alone), was also driven by farm mechanization and falling cotton prices, and reached western cities such as Los Angeles, Oakland, Portland and Seattle as well as the North and Midwest.
+- **Q:** Why do historians give different totals and end dates for the Great Migration?
+  **A:** Agencies such as the Census Bureau and the National Archives use about six million for 1910–1970, but historian James Gregory argues the second wave was underestimated, counting about five million departures from 1940 into the late 1970s and about eight million over the century, and census birthplace data for the 1960s and 1970s are themselves uncertain.
+
 ### [Jim Crow laws](../articles/gilded-age-and-progressive-era/jim-crow-laws.md) — Policy
 
 | Myth | Fact |

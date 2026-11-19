@@ -11437,6 +11437,230 @@
   ]
  },
  {
+  "id": "us:great-migration",
+  "title": "Great Migration",
+  "aliases": [
+   "Great Black Migration",
+   "Black Great Migration",
+   "African American Great Migration"
+  ],
+  "type": "Event",
+  "domain": "gilded-age-and-progressive-era",
+  "level": "introductory",
+  "evidenceStatus": "interpretive",
+  "file": "articles/gilded-age-and-progressive-era/great-migration.md",
+  "created": "2026-11-19",
+  "summary": "The movement of about six million Black Americans out of the South to cities in the North, Midwest and West between roughly 1910 and 1970, in two great waves tied to the labor demands of the two world wars, which turned a mostly rural, Southern people into a mostly urban, nationwide one.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "us:african-american-history"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:african-americans"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:jim-crow-laws"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:chicago"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:detroit"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:blues"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:okies"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:detroit-race-riot-of-1943"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:chicago-race-riot-of-1919"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:chicago-defender"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:sharecropping"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:redlining"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:fair-housing-act-of-1968"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:civil-rights-movement"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:great-depression"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:los-angeles"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:new-york-city"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:philadelphia"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:pittsburgh"
+   },
+   {
+    "predicate": "uso:requires",
+    "object": "us:jim-crow-laws"
+   },
+   {
+    "predicate": "uso:affected",
+    "object": "us:african-americans",
+    "source": "s4",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:influencedBy",
+    "object": "us:jim-crow-laws",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:influencedBy",
+    "object": "us:world-war-i",
+    "source": "s2",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:influencedBy",
+    "object": "us:world-war-ii-and-the-united-states",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:occurredIn",
+    "object": "us:chicago",
+    "source": "s6",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:occurredIn",
+    "object": "us:detroit",
+    "source": "s3",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:occurredIn",
+    "object": "us:los-angeles",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:ledTo",
+    "object": "us:red-summer",
+    "source": "s5",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "uso:ledTo",
+    "object": "us:harlem-renaissance",
+    "source": "s5",
+    "confidence": "medium"
+   }
+  ],
+  "start": "1910",
+  "end": "1970",
+  "review": [
+   {
+    "question": "Why did the First Great Migration begin in earnest during World War I rather than earlier?",
+    "answer": "Black southerners already had strong reasons to leave Jim Crow, lynching and sharecropping, but before the war most northern industries turned them away. When the war cut off European immigration and drew white men into the military, factories faced labor shortages and sent recruiters south, opening jobs that made the move possible."
+   },
+   {
+    "question": "How did the Second Great Migration differ from the first?",
+    "answer": "It began with the defense-industry boom of World War II, was larger (about 1.45 million left in the 1940s alone), was also driven by farm mechanization and falling cotton prices, and reached western cities such as Los Angeles, Oakland, Portland and Seattle as well as the North and Midwest."
+   },
+   {
+    "question": "Why do historians give different totals and end dates for the Great Migration?",
+    "answer": "Agencies such as the Census Bureau and the National Archives use about six million for 1910–1970, but historian James Gregory argues the second wave was underestimated, counting about five million departures from 1940 into the late 1970s and about eight million over the century, and census birthplace data for the 1960s and 1970s are themselves uncertain."
+   }
+  ],
+  "timeline": [
+   {
+    "date": "1910",
+    "event": "Almost nine in ten Black Americans live in the South; the First Great Migration begins."
+   },
+   {
+    "date": "1915",
+    "event": "Boll weevil damage and floods in 1915–1916 ruin cotton crops and push sharecroppers off the land."
+   },
+   {
+    "date": "1917",
+    "event": "With European immigration cut off by World War I, northern labor agents recruit Black workers; almost half a million Black southerners leave in 1917–1918."
+   },
+   {
+    "date": "1919",
+    "event": "The Red Summer brings anti-Black riots in northern and southern cities as white residents react to demographic change."
+   },
+   {
+    "date": "1920",
+    "event": "During the 1920s about 810,000 Black southerners leave the region, including 260,000 Georgians."
+   },
+   {
+    "date": "1930",
+    "event": "Depression-era hardship slows the outflow to nearly 400,000 during the 1930s."
+   },
+   {
+    "date": "1940",
+    "event": "The Second Great Migration begins as defense industries expand; about 1.45 million Black southerners leave in the 1940s, many for Los Angeles, Oakland, Portland and Seattle."
+   },
+   {
+    "date": "1950",
+    "event": "About 1.2 million Black southerners leave per decade through the 1950s and 1960s."
+   },
+   {
+    "date": "1968",
+    "event": "The Fair Housing Act follows the Chicago Freedom Movement's campaign against discriminatory housing in northern cities."
+   },
+   {
+    "date": "1970",
+    "event": "Only about half of Black Americans still live in the South, most of them now in urban areas."
+   }
+  ],
+  "misconception": {
+   "myth": "The Great Migration was a single wartime exodus of Black southerners to a few northern cities such as Chicago and New York.",
+   "fact": "It unfolded in two waves over about six decades; the second wave, during and after World War II, was larger than the first, and it carried migrants west to Los Angeles, Oakland, Portland and Seattle as well as north and to the Midwest.",
+   "why": "The World War I exodus, the Chicago Defender's \"Promised Land\" campaign and the Harlem Renaissance dominate popular memory, while the larger, more dispersed post-1940 movement has been less studied and, some historians argue, undercounted."
+  },
+  "source_urls": [
+   "https://www.archives.gov/research/african-americans/migrations/great-migration",
+   "https://www.archives.gov/research/african-americans/wwi/great-migration",
+   "https://www.census.gov/library/visualizations/time-series/demo/the-great-migration.html",
+   "https://www.searchablemuseum.com/the-great-migration/",
+   "https://www.georgiaencyclopedia.org/articles/history-archaeology/great-migration/",
+   "https://encyclopedia.chicagohistory.org/pages/545.html",
+   "https://depts.washington.edu/moving1/second_great_migration.shtml"
+  ]
+ },
+ {
   "id": "us:great-railroad-strike-of-1877",
   "title": "Great Railroad Strike of 1877",
   "aliases": [

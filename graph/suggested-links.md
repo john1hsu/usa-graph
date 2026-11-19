@@ -20,6 +20,7 @@ Pairs of written nodes that share many neighbours but are not yet connected (Ada
 | 3.10 | `us:native-americans` | `us:slavery-in-the-united-states` | `us:andrew-jackson`, `us:census-and-apportionment`, `us:chesapeake-bay`, `us:indian-removal-act`, `us:jamestown` |
 | 3.08 | `us:slavery-in-the-united-states` | `us:united-states-congress` | `us:census-and-apportionment`, `us:constitutional-convention`, `us:electoral-college`, `us:indian-removal-act`, `us:mexican-american-war` |
 | 3.00 | `us:american-revolutionary-war` | `us:slavery-in-the-united-states` | `us:african-americans`, `us:andrew-jackson`, `us:benjamin-franklin`, `us:chesapeake-bay`, `us:declaration-of-independence` |
+| 2.96 | `us:great-migration` | `us:servicemens-readjustment-act-of-1944` | `us:fair-housing-act-of-1968`, `us:jim-crow-laws`, `us:redlining`, `us:world-war-ii-and-the-united-states` |
 | 2.79 | `us:constitutional-convention` | `us:thomas-jefferson` | `us:benjamin-franklin`, `us:census-and-apportionment`, `us:declaration-of-independence`, `us:electoral-college`, `us:george-washington` |
 | 2.72 | `us:federalism` | `us:united-states-congress` | `us:articles-of-confederation`, `us:electoral-college`, `us:fourteenth-amendment`, `us:mcculloch-v-maryland`, `us:separation-of-powers` |
 | 2.67 | `us:federalist-papers` | `us:treaty-of-paris-1783` | `us:articles-of-confederation`, `us:founding-documents-of-the-united-states`, `us:john-jay`, `us:united-states-constitution` |
@@ -28,4 +29,3 @@ Pairs of written nodes that share many neighbours but are not yet connected (Ada
 | 2.56 | `us:chesapeake-bay` | `us:treaty-of-paris-1783` | `us:american-revolutionary-war`, `us:battle-of-the-capes`, `us:mississippi-river`, `us:native-americans`, `us:siege-of-yorktown` |
 | 2.53 | `us:george-washington` | `us:james-madison` | `us:alexander-hamilton`, `us:articles-of-confederation`, `us:constitutional-convention`, `us:presidency-of-the-united-states`, `us:presidents-of-the-united-states` |
 | 2.47 | `us:native-americans` | `us:united-states-congress` | `us:census-and-apportionment`, `us:covid-19-pandemic-in-the-united-states`, `us:dawes-act`, `us:hayden-geological-survey-of-1871`, `us:indian-removal-act` |
-| 2.45 | `us:brown-v-board-of-education` | `us:reynolds-v-sims` | `us:earl-warren`, `us:equal-protection`, `us:fourteenth-amendment`, `us:supreme-court-of-the-united-states` |

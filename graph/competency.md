@@ -57,7 +57,7 @@ _Which nodes led to, established or affected the most other things in the graph?
 | `us:census-and-apportionment` | 3 | Native Americans, United States House of Representatives, redistricting-in-the-united-states |
 | `us:cherokee-nation-v-georgia` | 3 | cherokee-nation, federal-trust-responsibility, worcester-v-georgia |
 
-…and 97 more.
+…and 98 more.
 
 ## Happenings by era
 
@@ -121,10 +121,10 @@ _Which nodes are myths, contested or open to competing interpretations, and what
 | `us:gilded-age` | interpretive |  |
 | `us:good-neighbor-policy` | interpretive |  |
 | `us:great-depression` | interpretive |  |
+| `us:great-migration` | interpretive |  |
 | `us:great-railroad-strike-of-1877` | interpretive |  |
-| `us:great-recession` | interpretive |  |
 
-…and 45 more.
+…and 46 more.
 
 ## Places with nothing tied to them (gap)
 

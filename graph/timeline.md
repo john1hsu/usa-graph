@@ -1216,6 +1216,8 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1909-08-24 | Workers pour the first concrete at the Gatun lock site. — [Gatun Locks](../articles/regions-cities-and-landmarks/gatun-locks.md) |
 | 1909-11 | The independent New York Motion Picture Company arrives in Los Angeles and stays; many more companies follow in 1910. — [Hollywood](../articles/culture-and-arts/hollywood.md) |
 | 1910 – 1940 | **[Chinese detention-barracks poetry](../articles/culture-and-arts/chinese-detention-barracks-poetry.md)** (Work) |
+| 1910 – 1970 | **[Great Migration](../articles/gilded-age-and-progressive-era/great-migration.md)** (Event) |
+| 1910 | Almost nine in ten Black Americans live in the South; the First Great Migration begins. — [Great Migration](../articles/gilded-age-and-progressive-era/great-migration.md) |
 | 1910 | Elected to the New York State Senate. — [Franklin D. Roosevelt](../articles/presidents-and-founders/franklin-d-roosevelt.md) |
 | 1910 | Southwesterners begin moving west to California in significant numbers. — [Okies](../articles/society-and-people/okies.md) |
 | 1910 | The Angel Island Immigration Station opens in San Francisco Bay; it operates until 1940. — [Chinese Americans](../articles/society-and-people/chinese-americans.md) |
@@ -1278,6 +1280,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1914-08-15 | The Ancon makes the canal's first official transit. — [Gatun Locks](../articles/regions-cities-and-landmarks/gatun-locks.md) |
 | 1914-08-15 | The cement boat Ancon makes the first official transit, opening the canal. — [Panama Canal](../articles/foreign-relations-and-military/panama-canal.md) |
 | 1914-10 | Founds the Commission for Relief in Belgium to feed civilians in German-occupied Belgium, later northern France as well. — [Herbert Hoover](../articles/presidents-and-founders/herbert-hoover.md) |
+| 1915 | Boll weevil damage and floods in 1915–1916 ruin cotton crops and push sharecroppers off the land. — [Great Migration](../articles/gilded-age-and-progressive-era/great-migration.md) |
 | 1915 | Guinn v. United States unanimously strikes down Oklahoma's grandfather clause. — [Fifteenth Amendment](../articles/democracy-and-elections/fifteenth-amendment.md) |
 | 1915 | Tom Brown's band leaves New Orleans for Chicago. — [Jazz](../articles/culture-and-arts/jazz.md) |
 | 1915-06 | In Guinn v. United States the Supreme Court rules Oklahoma's grandfather clause violates the Fifteenth Amendment. — [Jim Crow laws](../articles/gilded-age-and-progressive-era/jim-crow-laws.md) |
@@ -1293,6 +1296,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1917 | Appointed by Woodrow Wilson to head the U.S. Food Administration. — [Herbert Hoover](../articles/presidents-and-founders/herbert-hoover.md) |
 | 1917 | The Army leases the land around the field for Wilbur Wright Field, a World War I training post. — [Huffman Prairie Flying Field](../articles/science-and-innovation/huffman-prairie.md) |
 | 1917 | The Senate adopts its first cloture rule to limit filibusters. — [United States Congress](../articles/constitution-and-government/united-states-congress.md) |
+| 1917 | With European immigration cut off by World War I, northern labor agents recruit Black workers; almost half a million Black southerners leave in 1917–1918. — [Great Migration](../articles/gilded-age-and-progressive-era/great-migration.md) |
 | 1917-01 | The National Woman's Party's Silent Sentinels begin picketing the White House. — [Women's suffrage movement](../articles/gilded-age-and-progressive-era/womens-suffrage-movement.md) |
 | 1917-02 | The Original Dixieland Jazz Band makes the first commercial jazz recordings in New York City. — [Jazz](../articles/culture-and-arts/jazz.md) |
 | 1917-04-02 | Jeannette Rankin of Montana is sworn in as the first woman elected to Congress. — [United States House of Representatives](../articles/constitution-and-government/house-of-representatives.md) |
@@ -1303,11 +1307,13 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1918 | The new National Park Service takes over management and the Army leaves. — [Yellowstone National Park](../articles/geography-and-environment/yellowstone-national-park.md) |
 | 1918-09-30 | President Wilson addresses the Senate to urge passage of the amendment, which fails the next day. — [Women's suffrage movement](../articles/gilded-age-and-progressive-era/womens-suffrage-movement.md) |
 | 1919 | Five days of racial violence leave 23 Black Chicagoans dead and about 300 wounded. — [Chicago](../articles/regions-cities-and-landmarks/chicago.md) |
+| 1919 | The Red Summer brings anti-Black riots in northern and southern cities as white residents react to demographic change. — [Great Migration](../articles/gilded-age-and-progressive-era/great-migration.md) |
 | 1919-01-06 | Dies at Oyster Bay, New York. — [Theodore Roosevelt](../articles/presidents-and-founders/theodore-roosevelt.md) |
 | 1919-02 | Congress creates the American Relief Administration, which Hoover directs, with a $100 million budget. — [Herbert Hoover](../articles/presidents-and-founders/herbert-hoover.md) |
 | 1919-05-21 | The House of Representatives passes the amendment. — [Women's suffrage movement](../articles/gilded-age-and-progressive-era/womens-suffrage-movement.md) |
 | 1919-06-04 | The Senate passes the amendment 56 to 25, sending it to the states. — [Women's suffrage movement](../articles/gilded-age-and-progressive-era/womens-suffrage-movement.md) |
 | 1919-06-10 | Wisconsin becomes the first state to ratify. — [Women's suffrage movement](../articles/gilded-age-and-progressive-era/womens-suffrage-movement.md) |
+| 1920 | During the 1920s about 810,000 Black southerners leave the region, including 260,000 Georgians. — [Great Migration](../articles/gilded-age-and-progressive-era/great-migration.md) |
 | 1920 | Mamie Smith records "Crazy Blues," the first commercial vaudeville blues record by a Black vocalist. — [Blues](../articles/culture-and-arts/blues.md) |
 | 1920 | The census shows a shift to cities; Congress fails to reapportion for the only time. — [Census and apportionment](../articles/democracy-and-elections/census-and-apportionment.md) |
 | 1920-01-27 | Wyoming ratifies the Nineteenth Amendment. — [Wyoming](../articles/states-and-territories/wyoming.md) |
@@ -1362,6 +1368,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1929-10-30 | Before trading opens, the New York Fed announces it will buy $100 million in government securities. — [Stock market crash of 1929](../articles/economy-and-work/stock-market-crash-of-1929.md) |
 | 1929-11 | After the stock market crash, asks business leaders to hold wages and labor leaders not to press for raises. — [Herbert Hoover](../articles/presidents-and-founders/herbert-hoover.md) |
 | 1929-11 | By mid-November the Dow has lost almost half its value. — [Stock market crash of 1929](../articles/economy-and-work/stock-market-crash-of-1929.md) |
+| 1930 | Depression-era hardship slows the outflow to nearly 400,000 during the 1930s. — [Great Migration](../articles/gilded-age-and-progressive-era/great-migration.md) |
 | 1930 | Son House records for Paramount. — [Blues](../articles/culture-and-arts/blues.md) |
 | 1930 | The industry adopts the Production Code; from 1934 the Production Code Administration under Joseph Breen enforces it. — [Hollywood](../articles/culture-and-arts/hollywood.md) |
 | 1930-04-21 | The House of Representatives passes H.R. 14. — [The Star-Spangled Banner](../articles/symbols-and-national-identity/star-spangled-banner.md) |
@@ -1482,6 +1489,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1939-09 | War breaks out in Europe; Roosevelt declares the United States neutral in law, and a new Neutrality Act lets warring nations buy American arms only on a cash-and-carry basis. — [World War II and the United States](../articles/depression-and-world-war/world-war-ii-and-the-united-states.md) |
 | 1939-12 | Fred Edwards drives from California to Spur, Texas, to bring back his brother-in-law Frank Duncan, and is later convicted. — [Okies](../articles/society-and-people/okies.md) |
 | 1940 | The Attorney General concludes that no American Indians remain 'not taxed' for census purposes. — [Census and apportionment](../articles/democracy-and-elections/census-and-apportionment.md) |
+| 1940 | The Second Great Migration begins as defense industries expand; about 1.45 million Black southerners leave in the 1940s, many for Los Angeles, Oakland, Portland and Seattle. — [Great Migration](../articles/gilded-age-and-progressive-era/great-migration.md) |
 | 1940 | With near-normal rain returning from 1938, the drought ends. — [Dust Bowl](../articles/depression-and-world-war/dust-bowl.md) |
 | 1940-01-13 | The State Department tells Panama that a funding bill will again lack equal hiring for Panamanians, with an amending bill promised. — [Third Locks Project](../articles/foreign-relations-and-military/third-locks-project.md) |
 | 1940-07-01 | Excavation begins for a wider third set of locks near the existing ones. — [Gatun Locks](../articles/regions-cities-and-landmarks/gatun-locks.md) |
@@ -1615,6 +1623,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1949-07-25 | President Harry S. Truman ratifies the treaty. — [North Atlantic Treaty Organization](../articles/foreign-relations-and-military/nato.md) |
 | 1949-08-24 | The treaty enters into force after the remaining instruments of ratification are deposited. — [North Atlantic Treaty Organization](../articles/foreign-relations-and-military/nato.md) |
 | 1949-08-29 | The Soviet Union tests its first atomic bomb, ending the U.S. nuclear monopoly. — [Cold War](../articles/cold-war-and-civil-rights/cold-war.md) |
+| 1950 | About 1.2 million Black southerners leave per decade through the 1950s and 1960s. — [Great Migration](../articles/gilded-age-and-progressive-era/great-migration.md) |
 | 1950 | Mullane v. Central Hanover Bank sets minimum requirements of notice, a hearing and an impartial tribunal. — [Due process](../articles/rights-and-law/due-process.md) |
 | 1950 | The census records the city's peak population, 3,620,962. — [Chicago](../articles/regions-cities-and-landmarks/chicago.md) |
 | 1950-02-09 | Senator Joseph McCarthy tells the Women's Republican Club of Wheeling, West Virginia, that he holds a list of 205 State Department Communists. — [McCarthyism](../articles/cold-war-and-civil-rights/mccarthyism.md) |
@@ -1806,6 +1815,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1968 | Avery v. Midland County extends the equal-population rule to elected local governments. — [Reynolds v. Sims](../articles/democracy-and-elections/reynolds-v-sims.md) |
 | 1968 | Dennis Banks, Clyde Bellecourt and George Mitchell found the American Indian Movement in Minneapolis. — [Native Americans](../articles/native-nations/native-americans.md) |
 | 1968 | Pigmeat Markham's comic, funk-based "Here Comes the Judge" anticipates later rap boasting. — [Hip hop](../articles/culture-and-arts/hip-hop.md) |
+| 1968 | The Fair Housing Act follows the Chicago Freedom Movement's campaign against discriminatory housing in northern cities. — [Great Migration](../articles/gilded-age-and-progressive-era/great-migration.md) |
 | 1968-03 | Oil companies announce the Prudhoe Bay discovery on the North Slope. — [Alaska](../articles/states-and-territories/alaska.md) |
 | 1968-04-03 | Gives his last speech at Bishop Charles J. Mason Temple in Memphis while supporting striking sanitation workers. — [Martin Luther King Jr.](../articles/people-who-shaped-america/martin-luther-king-jr.md) |
 | 1968-04-04 | Assassinated on a balcony of the Lorraine Motel in Memphis. — [Martin Luther King Jr.](../articles/people-who-shaped-america/martin-luther-king-jr.md) |
@@ -1827,6 +1837,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1969-08-20 | McDonald Observatory in Texas makes its first acquisition measurements of the array. — [Lunar Laser Ranging Experiment](../articles/science-and-innovation/lunar-laser-ranging-experiment.md) |
 | 1970 | Congress extends Section 5 preclearance for five years. — [Voting Rights Act of 1965](../articles/democracy-and-elections/voting-rights-act-of-1965.md) |
 | 1970 | Frank James (Wamsutta), an Aquinnah Wampanoag, speaks on Cole's Hill in Plymouth on Thanksgiving Day, beginning the annual National Day of Mourning. — [Thanksgiving](../articles/culture-and-arts/thanksgiving.md) |
+| 1970 | Only about half of Black Americans still live in the South, most of them now in urban areas. — [Great Migration](../articles/gilded-age-and-progressive-era/great-migration.md) |
 | 1970 | State park ranger Alexander Weiss finds Chinese poems carved into the detention barracks walls, which were slated for demolition. — [Angel Island Immigration Station](../articles/society-and-people/angel-island-immigration-station.md) |
 | 1970 | The Nixon administration repudiates termination and turns federal policy toward tribal self-determination. — [Tribal sovereignty](../articles/native-nations/tribal-sovereignty.md) |
 | 1970 | The Soviet Luna 17 mission lands the Lunokhod 1 rover carrying a reflector array. — [Lunar Laser Ranging Experiment](../articles/science-and-innovation/lunar-laser-ranging-experiment.md) |

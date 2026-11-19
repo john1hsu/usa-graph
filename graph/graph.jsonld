@@ -9202,6 +9202,130 @@
    }
   },
   {
+   "@id": "https://github.com/john1hsu/usa-graph/id/great-migration/misconception",
+   "@type": "uso:Misconception",
+   "uso:fact": "It unfolded in two waves over about six decades; the second wave, during and after World War II, was larger than the first, and it carried migrants west to Los Angeles, Oakland, Portland and Seattle as well as north and to the Midwest.",
+   "uso:myth": "The Great Migration was a single wartime exodus of Black southerners to a few northern cities such as Chicago and New York.",
+   "uso:why": "The World War I exodus, the Chicago Defender's \"Promised Land\" campaign and the Harlem Renaissance dominate popular memory, while the larger, more dispersed post-1940 movement has been less studied and, some historians argue, undercounted."
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/great-migration/review/1",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "Why did the First Great Migration begin in earnest during World War I rather than earlier?",
+   "uso:answer": "Black southerners already had strong reasons to leave Jim Crow, lynching and sharecropping, but before the war most northern industries turned them away. When the war cut off European immigration and drew white men into the military, factories faced labor shortages and sent recruiters south, opening jobs that made the move possible.",
+   "uso:questionFor": {
+    "@id": "us:great-migration"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/great-migration/review/2",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "How did the Second Great Migration differ from the first?",
+   "uso:answer": "It began with the defense-industry boom of World War II, was larger (about 1.45 million left in the 1940s alone), was also driven by farm mechanization and falling cotton prices, and reached western cities such as Los Angeles, Oakland, Portland and Seattle as well as the North and Midwest.",
+   "uso:questionFor": {
+    "@id": "us:great-migration"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/great-migration/review/3",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "Why do historians give different totals and end dates for the Great Migration?",
+   "uso:answer": "Agencies such as the Census Bureau and the National Archives use about six million for 1910–1970, but historian James Gregory argues the second wave was underestimated, counting about five million departures from 1940 into the late 1970s and about eight million over the century, and census birthplace data for the 1960s and 1970s are themselves uncertain.",
+   "uso:questionFor": {
+    "@id": "us:great-migration"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/great-migration/timeline/1",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Almost nine in ten Black Americans live in the South; the First Great Migration begins.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1910"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/great-migration/timeline/10",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Only about half of Black Americans still live in the South, most of them now in urban areas.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1970"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/great-migration/timeline/2",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Boll weevil damage and floods in 1915–1916 ruin cotton crops and push sharecroppers off the land.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1915"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/great-migration/timeline/3",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "With European immigration cut off by World War I, northern labor agents recruit Black workers; almost half a million Black southerners leave in 1917–1918.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1917"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/great-migration/timeline/4",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The Red Summer brings anti-Black riots in northern and southern cities as white residents react to demographic change.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1919"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/great-migration/timeline/5",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "During the 1920s about 810,000 Black southerners leave the region, including 260,000 Georgians.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1920"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/great-migration/timeline/6",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Depression-era hardship slows the outflow to nearly 400,000 during the 1930s.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1930"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/great-migration/timeline/7",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The Second Great Migration begins as defense industries expand; about 1.45 million Black southerners leave in the 1940s, many for Los Angeles, Oakland, Portland and Seattle.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1940"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/great-migration/timeline/8",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "About 1.2 million Black southerners leave per decade through the 1950s and 1960s.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1950"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/great-migration/timeline/9",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The Fair Housing Act follows the Chicago Freedom Movement's campaign against discriminatory housing in northern cities.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1968"
+   }
+  },
+  {
    "@id": "https://github.com/john1hsu/usa-graph/id/great-railroad-strike-of-1877/misconception",
    "@type": "uso:Misconception",
    "uso:fact": "The walkout began on the Baltimore and Ohio Railroad and spread largely on its own along the rail lines; almost none of the strikers belonged to a union and no leaders or organization controlled the strike as a whole, although local groups such as a railroad firemen's organization in West Virginia and socialists in Chicago and St. Louis played real roles in particular places.",
@@ -27320,6 +27444,104 @@
     "@id": "https://law.justia.com/codes/california/code-gov/title-2/division-1/chapter-8-5/section-8721/"
    },
    "uso:sourceType": "primary"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/great-migration/s1",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "National Archives and Records Administration, African American Heritage",
+   "dcterms:title": "The Great Migration (1910-1970)",
+   "schema:url": {
+    "@id": "https://www.archives.gov/research/african-americans/migrations/great-migration"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/great-migration/s2",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "National Archives and Records Administration, African Americans and World War I",
+   "dcterms:title": "The First Great Migration (1910-1940)",
+   "schema:url": {
+    "@id": "https://www.archives.gov/research/african-americans/wwi/great-migration"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/great-migration/s3",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "U.S. Census Bureau",
+   "dcterms:title": "The Great Migration, 1910 to 1970",
+   "schema:url": {
+    "@id": "https://www.census.gov/library/visualizations/time-series/demo/the-great-migration.html"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/great-migration/s4",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "Smithsonian National Museum of African American History and Culture, Searchable Museum",
+   "dcterms:title": "The Great Migration",
+   "schema:url": {
+    "@id": "https://www.searchablemuseum.com/the-great-migration/"
+   },
+   "uso:sourceType": "museum"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/great-migration/s5",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "New Georgia Encyclopedia (Matthew O'Neal)",
+   "dcterms:title": "Great Migration",
+   "schema:url": {
+    "@id": "https://www.georgiaencyclopedia.org/articles/history-archaeology/great-migration/"
+   },
+   "uso:sourceType": "scholarly-encyclopedia"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/great-migration/s6",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "The Encyclopedia of Chicago (Newberry Library and Chicago Historical Society)",
+   "dcterms:title": "Great Migration",
+   "schema:url": {
+    "@id": "https://encyclopedia.chicagohistory.org/pages/545.html"
+   },
+   "uso:sourceType": "scholarly-encyclopedia"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/great-migration/s7",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "James N. Gregory, Civil Rights and Labor History Consortium, University of Washington",
+   "dcterms:title": "The Second Great Migration: An Historical Overview",
+   "schema:url": {
+    "@id": "https://depts.washington.edu/moving1/second_great_migration.shtml"
+   },
+   "uso:sourceType": "academic"
   },
   {
    "@id": "https://github.com/john1hsu/usa-graph/id/source/great-railroad-strike-of-1877/s1",
@@ -54462,6 +54684,190 @@
     },
     {
      "@id": "https://github.com/john1hsu/usa-graph/id/great-depression/timeline/9"
+    }
+   ]
+  },
+  {
+   "@id": "us:great-migration",
+   "@type": "uso:Event",
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/great-migration/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/great-migration/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/great-migration/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/great-migration/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/great-migration/s5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/great-migration/s6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/great-migration/s7"
+    }
+   ],
+   "rdfs:label": "Great Migration",
+   "schema:endDate": {
+    "@type": "xsd:gYear",
+    "@value": "1970"
+   },
+   "schema:startDate": {
+    "@type": "xsd:gYear",
+    "@value": "1910"
+   },
+   "skos:altLabel": [
+    "African American Great Migration",
+    "Black Great Migration",
+    "Great Black Migration"
+   ],
+   "skos:broader": {
+    "@id": "us:african-american-history"
+   },
+   "skos:definition": "The movement of about six million Black Americans out of the South to cities in the North, Midwest and West between roughly 1910 and 1970, in two great waves tied to the labor demands of the two world wars, which turned a mostly rural, Southern people into a mostly urban, nationwide one.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/usa-graph/id/scheme/gilded-age-and-progressive-era"
+   },
+   "skos:prefLabel": "Great Migration",
+   "skos:related": [
+    {
+     "@id": "us:african-americans"
+    },
+    {
+     "@id": "us:blues"
+    },
+    {
+     "@id": "us:chicago"
+    },
+    {
+     "@id": "us:chicago-defender"
+    },
+    {
+     "@id": "us:chicago-race-riot-of-1919"
+    },
+    {
+     "@id": "us:civil-rights-movement"
+    },
+    {
+     "@id": "us:detroit"
+    },
+    {
+     "@id": "us:detroit-race-riot-of-1943"
+    },
+    {
+     "@id": "us:fair-housing-act-of-1968"
+    },
+    {
+     "@id": "us:great-depression"
+    },
+    {
+     "@id": "us:jim-crow-laws"
+    },
+    {
+     "@id": "us:los-angeles"
+    },
+    {
+     "@id": "us:new-york-city"
+    },
+    {
+     "@id": "us:okies"
+    },
+    {
+     "@id": "us:philadelphia"
+    },
+    {
+     "@id": "us:pittsburgh"
+    },
+    {
+     "@id": "us:redlining"
+    },
+    {
+     "@id": "us:sharecropping"
+    }
+   ],
+   "uso:affected": {
+    "@id": "us:african-americans"
+   },
+   "uso:domain": "gilded-age-and-progressive-era",
+   "uso:evidenceStatus": "interpretive",
+   "uso:file": "articles/gilded-age-and-progressive-era/great-migration.md",
+   "uso:influencedBy": [
+    {
+     "@id": "us:jim-crow-laws"
+    },
+    {
+     "@id": "us:world-war-i"
+    },
+    {
+     "@id": "us:world-war-ii-and-the-united-states"
+    }
+   ],
+   "uso:ledTo": [
+    {
+     "@id": "us:harlem-renaissance"
+    },
+    {
+     "@id": "us:red-summer"
+    }
+   ],
+   "uso:level": "introductory",
+   "uso:misconception": {
+    "@id": "https://github.com/john1hsu/usa-graph/id/great-migration/misconception"
+   },
+   "uso:occurredIn": [
+    {
+     "@id": "us:chicago"
+    },
+    {
+     "@id": "us:detroit"
+    },
+    {
+     "@id": "us:los-angeles"
+    }
+   ],
+   "uso:requires": {
+    "@id": "us:jim-crow-laws"
+   },
+   "uso:timelineEntry": [
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/great-migration/timeline/1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/great-migration/timeline/10"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/great-migration/timeline/2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/great-migration/timeline/3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/great-migration/timeline/4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/great-migration/timeline/5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/great-migration/timeline/6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/great-migration/timeline/7"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/great-migration/timeline/8"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/great-migration/timeline/9"
     }
    ]
   },
