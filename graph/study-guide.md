@@ -2056,6 +2056,23 @@ Every review question (with its answer) and every myth-versus-fact in the graph,
 - **Q:** Why did so much of the city flood in 2005 when its oldest districts stayed relatively high?
   **A:** Most of the city was built on drained swamp that has subsided since the early 1900s, creating a bowl below sea level; when levees separating the city from Lake Pontchartrain broke during Katrina, at least 80 percent of New Orleans flooded, while the original city on natural levees stood 5 to 10 feet above sea level.
 
+### [Philadelphia](../articles/regions-cities-and-landmarks/philadelphia.md) — City
+
+| Myth | Fact |
+|---|---|
+| Philadelphia was the first capital of the United States under the Constitution. | The First Congress met and Washington was inaugurated at Federal Hall in New York City in 1789; Congress moved to Philadelphia in 1790, and it served as a temporary capital for ten years until the federal government moved to Washington, D.C., in 1800. |
+
+**Why it matters:** Philadelphia hosted the Continental Congresses, the Declaration and the Constitutional Convention, so it is easy to assume the new federal government also began there.
+
+- **Q:** Why did Penn plan Philadelphia with large lots, wide streets and public squares?
+  **A:** London's 1665 plague and 1666 fire shaped his thinking; he wanted a "greene Country Towne" whose spacing would limit the spread of fire and disease, with five squares to break up the grid.
+- **Q:** How did Pennsylvania's gradual abolition law affect George Washington's household while Philadelphia was the capital?
+  **A:** Washington brought enslaved people to the President's House and sent some back to Virginia so they could not claim freedom under the law; Oney Judge escaped from Philadelphia in 1796 and Hercules fled in 1797.
+- **Q:** Why did Philadelphia's industrial economy shrink after the 1950s, according to historian Walter Licht?
+  **A:** Licht ties the decline mainly to shifts in consumer tastes that undercut the city's specialized products, such as synthetic fibers ending the silk hosiery trade; manufacturing fell from 45% of the workforce in 1953 to about 5%.
+- **Q:** What did the 1854 Consolidation Act change, and why was it passed?
+  **A:** It made the city's borders the same as Philadelphia County's, growing it to nearly 130 square miles with a single mayor and police force; supporters wanted to end costly duplicated services and the weak policing exposed by the riots of 1844 and 1849.
+
 ### [The West](../articles/regions-cities-and-landmarks/the-west.md) — Region
 
 | Myth | Fact |

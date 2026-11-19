@@ -17617,6 +17617,157 @@
    }
   },
   {
+   "@id": "https://github.com/john1hsu/usa-graph/id/philadelphia/misconception",
+   "@type": "uso:Misconception",
+   "uso:fact": "The First Congress met and Washington was inaugurated at Federal Hall in New York City in 1789; Congress moved to Philadelphia in 1790, and it served as a temporary capital for ten years until the federal government moved to Washington, D.C., in 1800.",
+   "uso:myth": "Philadelphia was the first capital of the United States under the Constitution.",
+   "uso:why": "Philadelphia hosted the Continental Congresses, the Declaration and the Constitutional Convention, so it is easy to assume the new federal government also began there."
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/philadelphia/review/1",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "Why did Penn plan Philadelphia with large lots, wide streets and public squares?",
+   "uso:answer": "London's 1665 plague and 1666 fire shaped his thinking; he wanted a \"greene Country Towne\" whose spacing would limit the spread of fire and disease, with five squares to break up the grid.",
+   "uso:questionFor": {
+    "@id": "us:philadelphia"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/philadelphia/review/2",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "How did Pennsylvania's gradual abolition law affect George Washington's household while Philadelphia was the capital?",
+   "uso:answer": "Washington brought enslaved people to the President's House and sent some back to Virginia so they could not claim freedom under the law; Oney Judge escaped from Philadelphia in 1796 and Hercules fled in 1797.",
+   "uso:questionFor": {
+    "@id": "us:philadelphia"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/philadelphia/review/3",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "Why did Philadelphia's industrial economy shrink after the 1950s, according to historian Walter Licht?",
+   "uso:answer": "Licht ties the decline mainly to shifts in consumer tastes that undercut the city's specialized products, such as synthetic fibers ending the silk hosiery trade; manufacturing fell from 45% of the workforce in 1953 to about 5%.",
+   "uso:questionFor": {
+    "@id": "us:philadelphia"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/philadelphia/review/4",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "What did the 1854 Consolidation Act change, and why was it passed?",
+   "uso:answer": "It made the city's borders the same as Philadelphia County's, growing it to nearly 130 square miles with a single mayor and police force; supporters wanted to end costly duplicated services and the weak policing exposed by the riots of 1844 and 1849.",
+   "uso:questionFor": {
+    "@id": "us:philadelphia"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/philadelphia/timeline/1",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "William Penn arrives on the Welcome; within two years about 4,000 settlers have come.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1682-10-28"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/philadelphia/timeline/10",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Manufacturing employs 359,000 Philadelphians, 45% of the city's workforce.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1953"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/philadelphia/timeline/11",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "A bomb dropped on the MOVE house on Osage Avenue kills eleven people and burns more than 60 homes.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1985-05-13"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/philadelphia/timeline/12",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The census counts 1,603,797 residents.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "2020-04-01"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/philadelphia/timeline/2",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Penn and surveyor Thomas Holme lay out the street grid with five public squares.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1683"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/philadelphia/timeline/3",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The Second Continental Congress, meeting in the State House, approves the Declaration of Independence.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1776-07-04"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/philadelphia/timeline/4",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Richard Allen, Absalom Jones and others found the Free African Society.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1787"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/philadelphia/timeline/5",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The Constitutional Convention completes its work in the State House.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1787-09-17"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/philadelphia/timeline/6",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Congress moves from New York; Philadelphia is the temporary national capital until 1800.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1790"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/philadelphia/timeline/7",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Yellow fever kills an estimated 5,000 people; federal and state officials leave the city.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1793"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/philadelphia/timeline/8",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The Consolidation Act merges the city with all of Philadelphia County, growing it from about 2 to nearly 130 square miles.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1854"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/philadelphia/timeline/9",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The Centennial Exhibition, the first major U.S. world's fair, opens in Fairmount Park.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1876-05-10"
+   }
+  },
+  {
    "@id": "https://github.com/john1hsu/usa-graph/id/plessy-v-ferguson/misconception",
    "@type": "uso:Misconception",
    "uso:fact": "The majority opinion speaks of the statute's \"equal but separate\" accommodations; the words \"separate but equal\" appear in Justice Harlan's dissent, and the label for the doctrine became common afterward.",
@@ -34893,6 +35044,230 @@
     "@id": "https://www.phmc.state.pa.us/portal/communities/pa-history/1861-1945.html"
    },
    "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/philadelphia/s1",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "Encyclopedia of Greater Philadelphia (Rutgers University–Camden), by Stephanie Grauman Wolf",
+   "dcterms:title": "Founding of Pennsylvania",
+   "schema:url": {
+    "@id": "https://philadelphiaencyclopedia.org/?p=20580"
+   },
+   "uso:sourceType": "scholarly-encyclopedia"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/philadelphia/s10",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "National Park Service, Independence National Historical Park",
+   "dcterms:title": "President's House Site: Enslaved People in the Washington Household",
+   "schema:url": {
+    "@id": "https://www.nps.gov/inde/learn/historyculture/enslaved-people.htm"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/philadelphia/s11",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "Encyclopedia of Greater Philadelphia (Rutgers University–Camden), by Andrew Heath",
+   "dcterms:title": "Consolidation Act of 1854",
+   "schema:url": {
+    "@id": "https://philadelphiaencyclopedia.org/?p=5658"
+   },
+   "uso:sourceType": "scholarly-encyclopedia"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/philadelphia/s12",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "Encyclopedia of Greater Philadelphia (Rutgers University–Camden), by Stephanie Grauman Wolf",
+   "dcterms:title": "Centennial Exhibition (1876)",
+   "schema:url": {
+    "@id": "https://philadelphiaencyclopedia.org/?p=4493"
+   },
+   "uso:sourceType": "scholarly-encyclopedia"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/philadelphia/s13",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "Encyclopedia of Greater Philadelphia (Rutgers University–Camden)",
+   "dcterms:title": "Twentieth Century to 1945",
+   "schema:url": {
+    "@id": "https://philadelphiaencyclopedia.org/archive/twentieth-century-to-1945"
+   },
+   "uso:sourceType": "scholarly-encyclopedia"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/philadelphia/s14",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "The Pew Charitable Trusts (December 13, 2023)",
+   "dcterms:title": "10 Ways Philadelphia Has Changed in 75 Years",
+   "schema:url": {
+    "@id": "https://www.pewtrusts.org/ar/research-and-analysis/articles/2023/12/13/10-ways-philadelphia-has-changed-in-75-years"
+   },
+   "uso:sourceType": "institutional"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/philadelphia/s15",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "Encyclopedia of Greater Philadelphia (Rutgers University–Camden), by Beverly C. Tomek",
+   "dcterms:title": "MOVE",
+   "schema:url": {
+    "@id": "https://philadelphiaencyclopedia.org/essays/move/"
+   },
+   "uso:sourceType": "scholarly-encyclopedia"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/philadelphia/s16",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "U.S. Census Bureau",
+   "dcterms:title": "QuickFacts: Philadelphia city, Pennsylvania (Population, Census, April 1, 2020)",
+   "schema:url": {
+    "@id": "https://census.gov/quickfacts/geo/chart/philadelphiacitypennsylvania/POP010220"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/philadelphia/s2",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "Monument Lab, by Marian Leech (October 4, 2022)",
+   "dcterms:title": "Place Names as Monuments: The Entangled Histories of Coaquannock and Philadelphia",
+   "schema:url": {
+    "@id": "https://monumentlab.com/bulletin/place-names-as-monuments-the-entangled-histories-of-coaquannock-and-philadelphia"
+   },
+   "uso:sourceType": "institutional"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/philadelphia/s3",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "Encyclopedia of Greater Philadelphia (Rutgers University–Camden), by Inga Saffron",
+   "dcterms:title": "Green Country Town",
+   "schema:url": {
+    "@id": "https://philadelphiaencyclopedia.org/themes/green-country-town/"
+   },
+   "uso:sourceType": "scholarly-encyclopedia"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/philadelphia/s4",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "Encyclopedia of Greater Philadelphia (Rutgers University–Camden), by Walter Licht",
+   "dcterms:title": "Workshop of the World",
+   "schema:url": {
+    "@id": "https://philadelphiaencyclopedia.org/themes/workshop-of-the-world"
+   },
+   "uso:sourceType": "scholarly-encyclopedia"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/philadelphia/s5",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "Encyclopedia of Greater Philadelphia (Rutgers University–Camden), by Hillary S. Kativa",
+   "dcterms:title": "Capital of the United States (Selection of Philadelphia)",
+   "schema:url": {
+    "@id": "https://philadelphiaencyclopedia.org/essays/capital-of-the-us-selection/"
+   },
+   "uso:sourceType": "scholarly-encyclopedia"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/philadelphia/s6",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "National Park Service, Federal Hall National Memorial",
+   "dcterms:title": "The Congress at Federal Hall",
+   "schema:url": {
+    "@id": "https://www.nps.gov/feha/learn/historyculture/the-congress-at-federal-hall.htm"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/philadelphia/s7",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "Encyclopedia of Greater Philadelphia (Rutgers University–Camden), by Charlene Mires",
+   "dcterms:title": "Independence Hall",
+   "schema:url": {
+    "@id": "https://philadelphiaencyclopedia.org/?p=2775"
+   },
+   "uso:sourceType": "scholarly-encyclopedia"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/philadelphia/s8",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "Encyclopedia of Greater Philadelphia (Rutgers University–Camden), by Andrew Diemer",
+   "dcterms:title": "Free Black Communities",
+   "schema:url": {
+    "@id": "https://philadelphiaencyclopedia.org/essays/free-black-communities/"
+   },
+   "uso:sourceType": "scholarly-encyclopedia"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/philadelphia/s9",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "Encyclopedia of Greater Philadelphia (Rutgers University–Camden), by Simon Finger",
+   "dcterms:title": "Yellow Fever",
+   "schema:url": {
+    "@id": "https://philadelphiaencyclopedia.org/?p=2249"
+   },
+   "uso:sourceType": "scholarly-encyclopedia"
   },
   {
    "@id": "https://github.com/john1hsu/usa-graph/id/source/plessy-v-ferguson/s1",
@@ -64896,6 +65271,221 @@
     },
     {
      "@id": "https://github.com/john1hsu/usa-graph/id/pennsylvania/timeline/9"
+    }
+   ]
+  },
+  {
+   "@id": "us:philadelphia",
+   "@type": "uso:City",
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/philadelphia/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/philadelphia/s10"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/philadelphia/s11"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/philadelphia/s12"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/philadelphia/s13"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/philadelphia/s14"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/philadelphia/s15"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/philadelphia/s16"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/philadelphia/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/philadelphia/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/philadelphia/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/philadelphia/s5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/philadelphia/s6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/philadelphia/s7"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/philadelphia/s8"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/philadelphia/s9"
+    }
+   ],
+   "rdfs:label": "Philadelphia",
+   "schema:startDate": {
+    "@type": "xsd:date",
+    "@value": "1682-10-28"
+   },
+   "skos:altLabel": [
+    "City of Brotherly Love",
+    "City of Philadelphia",
+    "Coaquannock",
+    "Philadelphia, Pennsylvania",
+    "Philly"
+   ],
+   "skos:broader": {
+    "@id": "us:mid-atlantic"
+   },
+   "skos:definition": "Pennsylvania's largest city, laid out by William Penn in 1682–83 on Lenape land along the Delaware River; the meeting place of the Continental Congresses and the Constitutional Convention, the national capital from 1790 to 1800, a center of free Black life and of American manufacturing, and a city of 1,603,797 people at the 2020 census.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/usa-graph/id/scheme/regions-cities-and-landmarks"
+   },
+   "skos:prefLabel": "Philadelphia",
+   "skos:related": [
+    {
+     "@id": "us:african-americans"
+    },
+    {
+     "@id": "us:benjamin-franklin"
+    },
+    {
+     "@id": "us:centennial-exhibition"
+    },
+    {
+     "@id": "us:chicago"
+    },
+    {
+     "@id": "us:constitutional-convention"
+    },
+    {
+     "@id": "us:declaration-of-independence"
+    },
+    {
+     "@id": "us:delaware-river"
+    },
+    {
+     "@id": "us:detroit"
+    },
+    {
+     "@id": "us:free-african-society"
+    },
+    {
+     "@id": "us:george-washington"
+    },
+    {
+     "@id": "us:great-migration"
+    },
+    {
+     "@id": "us:independence-hall"
+    },
+    {
+     "@id": "us:lenape"
+    },
+    {
+     "@id": "us:liberty-bell"
+    },
+    {
+     "@id": "us:move-bombing"
+    },
+    {
+     "@id": "us:new-york-city"
+    },
+    {
+     "@id": "us:pennsylvania"
+    },
+    {
+     "@id": "us:pennsylvania-gradual-abolition-act"
+    },
+    {
+     "@id": "us:presidents-house-philadelphia"
+    },
+    {
+     "@id": "us:quakers"
+    },
+    {
+     "@id": "us:richard-allen"
+    },
+    {
+     "@id": "us:second-continental-congress"
+    },
+    {
+     "@id": "us:washington-dc"
+    },
+    {
+     "@id": "us:william-penn"
+    },
+    {
+     "@id": "us:yellow-fever-epidemic-of-1793"
+    }
+   ],
+   "uso:borders": {
+    "@id": "us:delaware-river"
+   },
+   "uso:capitalOf": {
+    "@id": "us:united-states"
+   },
+   "uso:domain": "regions-cities-and-landmarks",
+   "uso:evidenceStatus": "established",
+   "uso:file": "articles/regions-cities-and-landmarks/philadelphia.md",
+   "uso:foundedBy": {
+    "@id": "us:william-penn"
+   },
+   "uso:level": "introductory",
+   "uso:locatedIn": {
+    "@id": "us:pennsylvania"
+   },
+   "uso:misconception": {
+    "@id": "https://github.com/john1hsu/usa-graph/id/philadelphia/misconception"
+   },
+   "uso:originatedIn": {
+    "@id": "us:lenape"
+   },
+   "uso:timelineEntry": [
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/philadelphia/timeline/1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/philadelphia/timeline/10"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/philadelphia/timeline/11"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/philadelphia/timeline/12"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/philadelphia/timeline/2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/philadelphia/timeline/3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/philadelphia/timeline/4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/philadelphia/timeline/5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/philadelphia/timeline/6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/philadelphia/timeline/7"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/philadelphia/timeline/8"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/philadelphia/timeline/9"
     }
    ]
   },

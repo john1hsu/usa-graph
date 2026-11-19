@@ -74,7 +74,10 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1676-09 | Followers of Nathaniel Bacon burn Jamestown during Bacon's Rebellion. — [Jamestown Colony](../articles/colonial-and-revolutionary/jamestown.md) |
 | 1681-03-04 | Charles II grants William Penn the Charter of Pennsylvania, settling a debt owed to Penn's father. — [Pennsylvania](../articles/states-and-territories/pennsylvania.md) |
 | 1682-10 | Penn arrives on the Welcome; Philadelphia is laid out as the capital. — [Pennsylvania](../articles/states-and-territories/pennsylvania.md) |
+| 1682-10-28 | **[Philadelphia](../articles/regions-cities-and-landmarks/philadelphia.md)** (City) |
+| 1682-10-28 | William Penn arrives on the Welcome; within two years about 4,000 settlers have come. — [Philadelphia](../articles/regions-cities-and-landmarks/philadelphia.md) |
 | 1682-12-07 | The provincial Assembly adopts the Great Law. — [Pennsylvania](../articles/states-and-territories/pennsylvania.md) |
+| 1683 | Penn and surveyor Thomas Holme lay out the street grid with five public squares. — [Philadelphia](../articles/regions-cities-and-landmarks/philadelphia.md) |
 | 1692-01 | Pierre Motteux's London Gentleman's Journal carries the motto, the earliest printing Deutsch traced; the Gentleman's Magazine later puts it on its title page. — [E pluribus unum](../articles/symbols-and-national-identity/e-pluribus-unum.md) |
 | 1698 | Fire destroys the statehouse and prison. — [Jamestown Colony](../articles/colonial-and-revolutionary/jamestown.md) |
 | 1699 | Pierre Le Moyne d'Iberville's French expedition learns from Native guides of a ridge linking the Mississippi to Bayou St. John and Lake Pontchartrain. — [New Orleans](../articles/regions-cities-and-landmarks/new-orleans.md) |
@@ -174,6 +177,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1776-07-04 | Congress names Franklin, Adams and Jefferson a committee to devise a seal for the new nation. — [Great Seal of the United States](../articles/symbols-and-national-identity/great-seal-of-the-united-states.md) |
 | 1776-07-04 | The Continental Congress appoints Benjamin Franklin, John Adams and Thomas Jefferson as a committee to design a seal. — [E pluribus unum](../articles/symbols-and-national-identity/e-pluribus-unum.md) |
 | 1776-07-04 | The Second Continental Congress appoints Benjamin Franklin, John Adams and Thomas Jefferson to design a seal for the United States. — [National symbols of the United States](../articles/symbols-and-national-identity/national-symbols-of-the-united-states.md) |
+| 1776-07-04 | The Second Continental Congress, meeting in the State House, approves the Declaration of Independence. — [Philadelphia](../articles/regions-cities-and-landmarks/philadelphia.md) |
 | 1776-07-08 | John Nixon gives the first public reading in the State House Yard in Philadelphia. — [Declaration of Independence](../articles/colonial-and-revolutionary/declaration-of-independence.md) |
 | 1776-07-12 | The committee, with John Dickinson as principal writer, presents its draft to Congress. — [Articles of Confederation](../articles/colonial-and-revolutionary/articles-of-confederation.md) |
 | 1776-07-19 | Congress orders the text engrossed on parchment under a new title for members to sign. — [Declaration of Independence](../articles/colonial-and-revolutionary/declaration-of-independence.md) |
@@ -284,6 +288,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1786-09-11 | Delegates from several states gather at the Annapolis Convention. — [Articles of Confederation](../articles/colonial-and-revolutionary/articles-of-confederation.md) |
 | 1787 | Becomes president of the Pennsylvania abolition society and sits as the oldest delegate to the Constitutional Convention. — [Benjamin Franklin](../articles/presidents-and-founders/benjamin-franklin.md) |
 | 1787 | Richard Allen and Absalom Jones found the Free African Society in Philadelphia. — [African Americans](../articles/society-and-people/african-americans.md) |
+| 1787 | Richard Allen, Absalom Jones and others found the Free African Society. — [Philadelphia](../articles/regions-cities-and-landmarks/philadelphia.md) |
 | 1787 | The Philadelphia Convention drafts a Constitution that divides power between a national government and the states. — [Federalism](../articles/constitution-and-government/federalism.md) |
 | 1787-02 | New York's refusal of the revised impost ends Congress's attempt to win a national tariff. — [Articles of Confederation](../articles/colonial-and-revolutionary/articles-of-confederation.md) |
 | 1787-02-21 | The Confederation Congress calls a convention to meet in Philadelphia in May to revise the Articles of Confederation. — [Constitutional Convention](../articles/constitution-and-government/constitutional-convention.md) |
@@ -305,6 +310,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1787-08 | A bargain between New England and Deep South delegates protects the Atlantic slave trade until 1808. — [Constitutional Convention](../articles/constitution-and-government/constitutional-convention.md) |
 | 1787-09-17 | **[United States Constitution](../articles/constitution-and-government/united-states-constitution.md)** (Document) |
 | 1787-09-17 | Delegates sign the finished four-page Constitution in Philadelphia. — [United States Constitution](../articles/constitution-and-government/united-states-constitution.md) |
+| 1787-09-17 | The Constitutional Convention completes its work in the State House. — [Philadelphia](../articles/regions-cities-and-landmarks/philadelphia.md) |
 | 1787-09-17 | The Philadelphia Convention proposes the Constitution and sends it to the states for ratification. — [The Federalist Papers](../articles/constitution-and-government/federalist-papers.md) |
 | 1787-09-17 | Thirty-eight delegates sign thirty-nine names to the finished Constitution; three present delegates refuse. — [Constitutional Convention](../articles/constitution-and-government/constitutional-convention.md) |
 | 1787-09-28 | Congress unanimously resolves to send the Constitution to the states for ratifying conventions. — [Constitutional Convention](../articles/constitution-and-government/constitutional-convention.md) |
@@ -352,6 +358,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1789-09-25 | The First Congress proposes twelve amendments to the states. — [United States Constitution](../articles/constitution-and-government/united-states-constitution.md) |
 | 1789-10-03 | At Congress's request, George Washington proclaims Thursday, November 26, 1789, a day of public thanksgiving and prayer. — [Thanksgiving](../articles/culture-and-arts/thanksgiving.md) |
 | 1790 | Becomes secretary of state under George Washington; resigns in 1793. — [Thomas Jefferson](../articles/presidents-and-founders/thomas-jefferson.md) |
+| 1790 | Congress moves from New York; Philadelphia is the temporary national capital until 1800. — [Philadelphia](../articles/regions-cities-and-landmarks/philadelphia.md) |
 | 1790 | The Residence Act fixes the permanent seat of government on the Potomac River; Congress moves to Washington in 1800. — [United States](../articles/states-and-territories/united-states.md) |
 | 1790-02-02 | The Court first convenes in the Exchange Building in New York City, a day late because some justices could not arrive in time. — [Supreme Court of the United States](../articles/constitution-and-government/supreme-court-of-the-united-states.md) |
 | 1790-02-03 | Benjamin Franklin, as president of the Pennsylvania Abolition Society, signs an antislavery petition to the First Congress, which tables it. — [Abolitionism](../articles/civil-war-and-reconstruction/abolitionism.md) |
@@ -375,6 +382,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1793 – 1865 | **[Underground Railroad](../articles/civil-war-and-reconstruction/underground-railroad.md)** (Movement) |
 | 1793 | Congress passes the first federal fugitive slave law, letting enslavers seize freedom seekers even in free states. — [Underground Railroad](../articles/civil-war-and-reconstruction/underground-railroad.md) |
 | 1793 | Eli Whitney develops the cotton gin, speeding the spread of cotton growing by enslaved people. — [Economic history of the United States](../articles/economy-and-work/economic-history-of-the-united-states.md) |
+| 1793 | Yellow fever kills an estimated 5,000 people; federal and state officials leave the city. — [Philadelphia](../articles/regions-cities-and-landmarks/philadelphia.md) |
 | 1793-04 | Issues a proclamation of neutrality in the war between France and Britain. — [George Washington](../articles/presidents-and-founders/george-washington.md) |
 | 1794 | President Washington leads an army to suppress the Whiskey Rebellion in western Pennsylvania. — [Pennsylvania](../articles/states-and-territories/pennsylvania.md) |
 | 1794-01-01 | Delegates from abolition societies in six states meet in Philadelphia and agree to petition Congress against the slave trade. — [Abolitionism](../articles/civil-war-and-reconstruction/abolitionism.md) |
@@ -752,6 +760,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1852-07-08 | The U.S. Senate refuses to ratify 18 treaties negotiated with California tribes, which had promised them about 7.5 million acres. — [California](../articles/states-and-territories/california.md) |
 | 1853 | In O'Reilly v. Morse (December Term 1853) the Supreme Court upholds Morse's patent but strikes down his broadest claim. — [Electric telegraph](../articles/science-and-innovation/telegraph.md) |
 | 1854 | Anthony Burns escapes from Richmond; he is arrested in Boston and returned to slavery under the 1850 law. — [Underground Railroad](../articles/civil-war-and-reconstruction/underground-railroad.md) |
+| 1854 | The Consolidation Act merges the city with all of Philadelphia County, growing it from about 2 to nearly 130 square miles. — [Philadelphia](../articles/regions-cities-and-landmarks/philadelphia.md) |
 | 1854 | The Kansas-Nebraska Act repeals the 36°30′ restriction after 34 years. — [Missouri Compromise](../articles/early-republic-and-expansion/missouri-compromise.md) |
 | 1854 | The state capital moves to Sacramento after stints in San Jose, Vallejo and Benicia. — [California](../articles/states-and-territories/california.md) |
 | 1854-05 | In the federal suit against John F. A. Sanford, Judge Robert W. Wells rules that Missouri law governs and finds for Sanford. — [Dred Scott v. Sandford](../articles/rights-and-law/dred-scott-v-sandford.md) |
@@ -1004,6 +1013,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1875-03-29 | Minor v. Happersett holds that citizenship does not carry a right to vote. — [Fourteenth Amendment](../articles/rights-and-law/fourteenth-amendment.md) |
 | 1876 | Alexander Graham Bell patents the telephone; Western Union declines to buy the patent. — [Electric telegraph](../articles/science-and-innovation/telegraph.md) |
 | 1876 | United States v. Reese and United States v. Cruikshank narrow federal enforcement. — [Fifteenth Amendment](../articles/democracy-and-elections/fifteenth-amendment.md) |
+| 1876-05-10 | The Centennial Exhibition, the first major U.S. world's fair, opens in Fairmount Park. — [Philadelphia](../articles/regions-cities-and-landmarks/philadelphia.md) |
 | 1876-06 | George Armstrong Custer and 268 of his men are killed at the Little Bighorn. — [The West](../articles/regions-cities-and-landmarks/the-west.md) |
 | 1876-07-04 | Reads a Declaration of Rights of Women outside Independence Hall during the Centennial. — [Susan B. Anthony](../articles/people-who-shaped-america/susan-b-anthony.md) |
 | 1877 – 1968 | **[Jim Crow laws](../articles/gilded-age-and-progressive-era/jim-crow-laws.md)** (Policy) |
@@ -1690,6 +1700,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1952 | The Veterans Readjustment Assistance Act extends education and training benefits to Korean War veterans. — [Servicemen's Readjustment Act of 1944](../articles/cold-war-and-civil-rights/servicemens-readjustment-act-of-1944.md) |
 | 1952-12-09 | The Supreme Court hears the first arguments in the consolidated school cases. — [Brown v. Board of Education](../articles/cold-war-and-civil-rights/brown-v-board-of-education.md) |
 | 1953 | Congress passes the Outer Continental Shelf Lands Act, affirming federal jurisdiction over offshore mineral resources and putting Interior in charge of leasing. — [Bureau of Ocean Energy Management](../articles/geography-and-environment/bureau-of-ocean-energy-management.md) |
+| 1953 | Manufacturing employs 359,000 Philadelphians, 45% of the city's workforce. — [Philadelphia](../articles/regions-cities-and-landmarks/philadelphia.md) |
 | 1953 | The American Indian Center of Chicago is founded. — [Chicago](../articles/regions-cities-and-landmarks/chicago.md) |
 | 1953-04-27 | President Dwight D. Eisenhower issues Executive Order 10450, which bars gay men and lesbians from federal employment. — [McCarthyism](../articles/cold-war-and-civil-rights/mccarthyism.md) |
 | 1953-06-18 | Marries Coretta Scott in Marion, Alabama. — [Martin Luther King Jr.](../articles/people-who-shaped-america/martin-luther-king-jr.md) |
@@ -1961,6 +1972,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1984 | The "Montgomery GI Bill" creates an education program for the all-volunteer force, funded partly by a pay reduction during a recruit's first year. — [Servicemen's Readjustment Act of 1944](../articles/cold-war-and-civil-rights/servicemens-readjustment-act-of-1944.md) |
 | 1984 | Video Music Box becomes the first music-video program devoted to hip hop. — [Hip hop](../articles/culture-and-arts/hip-hop.md) |
 | 1985 | The Interior Department designates the dam a National Historic Landmark. — [Hoover Dam](../articles/regions-cities-and-landmarks/hoover-dam.md) |
+| 1985-05-13 | A bomb dropped on the MOVE house on Osage Avenue kills eleven people and burns more than 60 homes. — [Philadelphia](../articles/regions-cities-and-landmarks/philadelphia.md) |
 | 1985-10 | Ronald Reagan and Mikhail Gorbachev hold their first summit, in Geneva. — [Cold War](../articles/cold-war-and-civil-rights/cold-war.md) |
 | 1986 | Run-DMC's Raising Hell becomes the first hip hop album certified platinum. — [Hip hop](../articles/culture-and-arts/hip-hop.md) |
 | 1986 | The Bureau of Engraving and Printing makes the master die from which current dies are produced. — [Great Seal of the United States](../articles/symbols-and-national-identity/great-seal-of-the-united-states.md) |
@@ -2162,6 +2174,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 2020-04-01 | The 2020 census counts 78,588,572 people in the West region. — [The West](../articles/regions-cities-and-landmarks/the-west.md) |
 | 2020-04-01 | The 2020 census counts about 5.2 million people who identify as Chinese (except Taiwanese) alone or in any combination. — [Chinese Americans](../articles/society-and-people/chinese-americans.md) |
 | 2020-04-01 | The census counts 1,455,271 residents, 7.0 percent more than in 2010. — [Hawaii](../articles/states-and-territories/hawaii.md) |
+| 2020-04-01 | The census counts 1,603,797 residents. — [Philadelphia](../articles/regions-cities-and-landmarks/philadelphia.md) |
 | 2020-04-01 | The census counts 13,002,700 residents. — [Pennsylvania](../articles/states-and-territories/pennsylvania.md) |
 | 2020-04-01 | The census counts 331,449,281 residents, up 7.4 percent from 2010. — [United States](../articles/states-and-territories/united-states.md) |
 | 2020-04-01 | The census counts 39,538,223 residents; California remains the most populous state but loses one House seat. — [California](../articles/states-and-territories/california.md) |

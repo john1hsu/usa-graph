@@ -21877,6 +21877,253 @@
   ]
  },
  {
+  "id": "us:philadelphia",
+  "title": "Philadelphia",
+  "aliases": [
+   "Philly",
+   "City of Brotherly Love",
+   "Coaquannock",
+   "City of Philadelphia",
+   "Philadelphia, Pennsylvania"
+  ],
+  "type": "City",
+  "domain": "regions-cities-and-landmarks",
+  "level": "introductory",
+  "evidenceStatus": "established",
+  "file": "articles/regions-cities-and-landmarks/philadelphia.md",
+  "created": "2026-11-19",
+  "summary": "Pennsylvania's largest city, laid out by William Penn in 1682–83 on Lenape land along the Delaware River; the meeting place of the Continental Congresses and the Constitutional Convention, the national capital from 1790 to 1800, a center of free Black life and of American manufacturing, and a city of 1,603,797 people at the 2020 census.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "us:mid-atlantic"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:pennsylvania"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:lenape"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:william-penn"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:quakers"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:delaware-river"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:independence-hall"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:liberty-bell"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:second-continental-congress"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:declaration-of-independence"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:constitutional-convention"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:presidents-house-philadelphia"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:george-washington"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:benjamin-franklin"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:pennsylvania-gradual-abolition-act"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:free-african-society"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:richard-allen"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:yellow-fever-epidemic-of-1793"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:centennial-exhibition"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:great-migration"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:african-americans"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:move-bombing"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:new-york-city"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:washington-dc"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:detroit"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:chicago"
+   },
+   {
+    "predicate": "uso:locatedIn",
+    "object": "us:pennsylvania",
+    "source": "s11",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:borders",
+    "object": "us:delaware-river",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:foundedBy",
+    "object": "us:william-penn",
+    "source": "s3",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:capitalOf",
+    "object": "us:united-states",
+    "source": "s5",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:originatedIn",
+    "object": "us:lenape",
+    "source": "s2",
+    "confidence": "medium"
+   }
+  ],
+  "start": "1682-10-28",
+  "end": null,
+  "review": [
+   {
+    "question": "Why did Penn plan Philadelphia with large lots, wide streets and public squares?",
+    "answer": "London's 1665 plague and 1666 fire shaped his thinking; he wanted a \"greene Country Towne\" whose spacing would limit the spread of fire and disease, with five squares to break up the grid."
+   },
+   {
+    "question": "How did Pennsylvania's gradual abolition law affect George Washington's household while Philadelphia was the capital?",
+    "answer": "Washington brought enslaved people to the President's House and sent some back to Virginia so they could not claim freedom under the law; Oney Judge escaped from Philadelphia in 1796 and Hercules fled in 1797."
+   },
+   {
+    "question": "Why did Philadelphia's industrial economy shrink after the 1950s, according to historian Walter Licht?",
+    "answer": "Licht ties the decline mainly to shifts in consumer tastes that undercut the city's specialized products, such as synthetic fibers ending the silk hosiery trade; manufacturing fell from 45% of the workforce in 1953 to about 5%."
+   },
+   {
+    "question": "What did the 1854 Consolidation Act change, and why was it passed?",
+    "answer": "It made the city's borders the same as Philadelphia County's, growing it to nearly 130 square miles with a single mayor and police force; supporters wanted to end costly duplicated services and the weak policing exposed by the riots of 1844 and 1849."
+   }
+  ],
+  "timeline": [
+   {
+    "date": "1682-10-28",
+    "event": "William Penn arrives on the Welcome; within two years about 4,000 settlers have come."
+   },
+   {
+    "date": "1683",
+    "event": "Penn and surveyor Thomas Holme lay out the street grid with five public squares."
+   },
+   {
+    "date": "1776-07-04",
+    "event": "The Second Continental Congress, meeting in the State House, approves the Declaration of Independence."
+   },
+   {
+    "date": "1787",
+    "event": "Richard Allen, Absalom Jones and others found the Free African Society."
+   },
+   {
+    "date": "1787-09-17",
+    "event": "The Constitutional Convention completes its work in the State House."
+   },
+   {
+    "date": "1790",
+    "event": "Congress moves from New York; Philadelphia is the temporary national capital until 1800."
+   },
+   {
+    "date": "1793",
+    "event": "Yellow fever kills an estimated 5,000 people; federal and state officials leave the city."
+   },
+   {
+    "date": "1854",
+    "event": "The Consolidation Act merges the city with all of Philadelphia County, growing it from about 2 to nearly 130 square miles."
+   },
+   {
+    "date": "1876-05-10",
+    "event": "The Centennial Exhibition, the first major U.S. world's fair, opens in Fairmount Park."
+   },
+   {
+    "date": "1953",
+    "event": "Manufacturing employs 359,000 Philadelphians, 45% of the city's workforce."
+   },
+   {
+    "date": "1985-05-13",
+    "event": "A bomb dropped on the MOVE house on Osage Avenue kills eleven people and burns more than 60 homes."
+   },
+   {
+    "date": "2020-04-01",
+    "event": "The census counts 1,603,797 residents."
+   }
+  ],
+  "misconception": {
+   "myth": "Philadelphia was the first capital of the United States under the Constitution.",
+   "fact": "The First Congress met and Washington was inaugurated at Federal Hall in New York City in 1789; Congress moved to Philadelphia in 1790, and it served as a temporary capital for ten years until the federal government moved to Washington, D.C., in 1800.",
+   "why": "Philadelphia hosted the Continental Congresses, the Declaration and the Constitutional Convention, so it is easy to assume the new federal government also began there."
+  },
+  "source_urls": [
+   "https://philadelphiaencyclopedia.org/?p=20580",
+   "https://monumentlab.com/bulletin/place-names-as-monuments-the-entangled-histories-of-coaquannock-and-philadelphia",
+   "https://philadelphiaencyclopedia.org/themes/green-country-town/",
+   "https://philadelphiaencyclopedia.org/themes/workshop-of-the-world",
+   "https://philadelphiaencyclopedia.org/essays/capital-of-the-us-selection/",
+   "https://www.nps.gov/feha/learn/historyculture/the-congress-at-federal-hall.htm",
+   "https://philadelphiaencyclopedia.org/?p=2775",
+   "https://philadelphiaencyclopedia.org/essays/free-black-communities/",
+   "https://philadelphiaencyclopedia.org/?p=2249",
+   "https://www.nps.gov/inde/learn/historyculture/enslaved-people.htm",
+   "https://philadelphiaencyclopedia.org/?p=5658",
+   "https://philadelphiaencyclopedia.org/?p=4493",
+   "https://philadelphiaencyclopedia.org/archive/twentieth-century-to-1945",
+   "https://www.pewtrusts.org/ar/research-and-analysis/articles/2023/12/13/10-ways-philadelphia-has-changed-in-75-years",
+   "https://philadelphiaencyclopedia.org/essays/move/",
+   "https://census.gov/quickfacts/geo/chart/philadelphiacitypennsylvania/POP010220"
+  ]
+ },
+ {
   "id": "us:plessy-v-ferguson",
   "title": "Plessy v. Ferguson",
   "aliases": [
