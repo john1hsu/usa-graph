@@ -1572,6 +1572,23 @@ Every review question (with its answer) and every myth-versus-fact in the graph,
 
 ## native-nations
 
+### [Cahokia](../articles/native-nations/cahokia.md) — Landmark
+
+| Myth | Fact |
+|---|---|
+| Cahokia's mounds were built by a vanished "lost race" of Mound Builders, not by the ancestors of American Indians. | The Smithsonian's Bureau of Ethnology, in Cyrus Thomas's 1894 study, concluded that American Indians built the mounds; archaeology now traces Cahokia to the Mississippian culture, and in 2015 a federal review committee recognized the Osage as culturally affiliated with the Mississippian people. |
+
+**Why it matters:** Nineteenth-century settlers puzzled by the mounds noted that the Native people they knew did not build them, and popular writers filled the gap with tales of Israelites, Europeans or Atlanteans, and the story was useful because it implied Native nations were themselves usurpers whose removal was justified.
+
+- **Q:** Why do archaeologists call Cahokia's growth around 1050 a "Big Bang"?
+  **A:** Within about a generation a village of perhaps 1,000–2,000 people was redesigned into a planned city of about 10,000 around a great plaza, drawing immigrants from as far as southern Missouri and northeast Arkansas, and the change was sudden and its cause unclear.
+- **Q:** How did the Mound Builder myth relate to U.S. policy toward Native nations?
+  **A:** By crediting the mounds to a vanished race that Indians had supposedly destroyed, it cast Native nations as usurpers; Andrew Jackson invoked a vanished race while defending Indian removal in 1830, until Cyrus Thomas's 1894 study showed American Indians built the mounds.
+- **Q:** Why do scholars still disagree about why Cahokia was abandoned?
+  **A:** Evidence points in several directions — drought, a large Mississippi flood around 1200, warfare implied by the palisade, and political factionalism — while the 1993 theory that deforestation caused local flooding found no support in Caitlin Rankin's 2021 soil study, so many researchers now reject single-cause explanations.
+- **Q:** Why was most of the Cahokia region's mound landscape lost even though Monks Mound survived?
+  **A:** As St. Louis and East St. Louis grew in the 1800s, mounds were leveled — in East St. Louis for fill, factories and rail yards — and St. Louis lost nearly all of its mounds by 1875; Cahokia's core was protected only after Illinois made it a state park in 1925.
+
 ### [Cherokee Nation v. Georgia](../articles/native-nations/cherokee-nation-v-georgia.md) — CourtCase
 
 | Myth | Fact |

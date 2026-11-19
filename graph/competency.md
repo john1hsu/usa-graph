@@ -101,6 +101,7 @@ _Which nodes are myths, contested or open to competing interpretations, and what
 | `us:attack-on-pearl-harbor` | interpretive |  |
 | `us:battle-of-the-capes` | interpretive |  |
 | `us:blues` | interpretive |  |
+| `us:cahokia` | interpretive |  |
 | `us:chinese-exclusion-act` | interpretive |  |
 | `us:civil-rights-movement` | interpretive |  |
 | `us:cold-war` | interpretive |  |
@@ -122,15 +123,16 @@ _Which nodes are myths, contested or open to competing interpretations, and what
 | `us:good-neighbor-policy` | interpretive |  |
 | `us:great-depression` | interpretive |  |
 | `us:great-migration` | interpretive |  |
-| `us:great-railroad-strike-of-1877` | interpretive |  |
 
-…and 46 more.
+…and 47 more.
 
 ## Places with nothing tied to them (gap)
 
 _Which written places have no event, person, tradition or landmark in the graph tied to them?_ — `queries/07-places-without-history.rq`
 
-_No results._
+| node | type |
+|---|---|
+| `us:cahokia` | uso:Landmark |
 
 ## Orphan articles (gap)
 

@@ -4,12 +4,17 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 
 | Date | What |
 |---|---|
+| 0700 – 1400 | **[Cahokia](../articles/native-nations/cahokia.md)** (Landmark) |
+| 0700 | Native people begin living at the site on the Mississippi floodplain east of present-day St. Louis. — [Cahokia](../articles/native-nations/cahokia.md) |
 | 1000 | By about 1000–1200 CE, according to recent carbon dating, Polynesian voyagers from the Marquesas have settled the islands; later voyagers come from the Society Islands. — [Hawaii](../articles/states-and-territories/hawaii.md) |
 | 1000 | The Mississippian culture flourishes in the river valley; its greatest center, Cahokia, rises near present-day St. Louis and lasts until about 1350. — [Mississippi River](../articles/geography-and-environment/mississippi-river.md) |
+| 1050 | A village of perhaps 1,000–2,000 people is rapidly redesigned into a planned city around a great plaza; archaeologist Timothy Pauketat calls it ancient America's "Big Bang." — [Cahokia](../articles/native-nations/cahokia.md) |
 | 1050 | Cahokia, east of present-day St. Louis, undergoes a rapid political and social transformation; its population grows almost fivefold in a generation. — [Native Americans](../articles/native-nations/native-americans.md) |
 | 1050 | Cahokia, near present-day St. Louis, enters a period of rapid growth; at its peak it is the largest settlement north of Mexico. — [United States](../articles/states-and-territories/united-states.md) |
+| 1200 | After a peak of roughly 1050–1200, decline sets in; lake sediments record a major Mississippi River flood around this time. — [Cahokia](../articles/native-nations/cahokia.md) |
 | 1215 | Magna Carta promises that free men will be judged by their peers or by the law of the land. — [Due process](../articles/rights-and-law/due-process.md) |
 | 1354 | An English statute restating Magna Carta first uses the phrase "due process of law." — [Due process](../articles/rights-and-law/due-process.md) |
+| 1400 | The city has been abandoned; its people have dispersed and joined other Native communities. — [Cahokia](../articles/native-nations/cahokia.md) |
 | 1507 | The mapmaker Martin Waldseemüller labels the Western Hemisphere's landmasses "America" after Amerigo Vespucci. — [United States](../articles/states-and-territories/united-states.md) |
 | 1533 | Spanish explorers reach the tip of present-day Baja California and give the name California. — [California](../articles/states-and-territories/california.md) |
 | 1540 | Hopi guides lead a party under García López de Cárdenas, part of Coronado's expedition, to the rim of the Grand Canyon. — [Colorado River](../articles/geography-and-environment/colorado-river.md) |
@@ -111,6 +116,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1759-02 | Takes his seat in the Virginia House of Burgesses, weeks after marrying Martha Dandridge Custis. — [George Washington](../articles/presidents-and-founders/george-washington.md) |
 | 1760 | The British take over Detroit during the French and Indian War. — [Detroit](../articles/regions-cities-and-landmarks/detroit.md) |
 | 1763 | Odawa leader Pontiac (Obwandiyag) besieges the British fort, which is never taken. — [Detroit](../articles/regions-cities-and-landmarks/detroit.md) |
+| 1764 | French colonists begin building St. Louis across the river, amid what were probably hundreds of mounds. — [Cahokia](../articles/native-nations/cahokia.md) |
 | 1765 | The bell rings in protest as a ship carrying stamped paper for the Stamp Act approaches. — [Liberty Bell](../articles/symbols-and-national-identity/liberty-bell.md) |
 | 1767 | Mason and Dixon survey the boundary with Maryland. — [Pennsylvania](../articles/states-and-territories/pennsylvania.md) |
 | 1767-03-15 – 1845-06-08 | **[Andrew Jackson](../articles/presidents-and-founders/andrew-jackson.md)** (Person) |
@@ -983,6 +989,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1875 | Congress passes a Civil Rights Act requiring equal treatment in public places and on juries. — [Reconstruction era](../articles/civil-war-and-reconstruction/reconstruction-era.md) |
 | 1875 | Tennessee's Chapter 130 permits discrimination in hotels, theaters, trains and streetcars. — [Jim Crow laws](../articles/gilded-age-and-progressive-era/jim-crow-laws.md) |
 | 1875 | The Page Act bars contract laborers, prostitutes and felons from China and Japan; its enforcement keeps most Chinese women out. — [Chinese Exclusion Act](../articles/gilded-age-and-progressive-era/chinese-exclusion-act.md) |
+| 1875 | The mounds of St. Louis, once called "Mound City," are almost entirely destroyed; only Sugarloaf Mound survives. — [Cahokia](../articles/native-nations/cahokia.md) |
 | 1875-01 | The Specie Resumption Act commits the Treasury to retire greenbacks and return to gold-backed currency within four years. — [Panic of 1873](../articles/economy-and-work/panic-of-1873.md) |
 | 1875-01-30 | The United States and the Kingdom of Hawaiʻi sign a Treaty of Reciprocity. — [Hawaii](../articles/states-and-territories/hawaii.md) |
 | 1875-03-29 | Minor v. Happersett holds that citizenship does not carry a right to vote. — [Fourteenth Amendment](../articles/rights-and-law/fourteenth-amendment.md) |
@@ -1097,6 +1104,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1893-05-09 | Edison's Kinetoscope, a peephole motion-picture viewer developed largely by W. K. L. Dickson, is first shown publicly at the Brooklyn Institute of Arts and Sciences. — [Hollywood](../articles/culture-and-arts/hollywood.md) |
 | 1893-11-01 | Dawes, now retired, is appointed to head a commission to negotiate the end of common landholding with the Five Tribes, whom the 1887 act had exempted. — [Dawes Act](../articles/native-nations/dawes-act.md) |
 | 1894 | After soldiers arrest the bison poacher Ed Howell, Congress passes the National Park Protection Act (Lacey Act) banning hunting in the park. — [Yellowstone National Park](../articles/geography-and-environment/yellowstone-national-park.md) |
+| 1894 | Cyrus Thomas's Bureau of Ethnology study concludes that American Indians built the eastern mounds, refuting the "lost race" theory. — [Cahokia](../articles/native-nations/cahokia.md) |
 | 1894 | Federal troops break the Pullman sympathy strike led by the American Railway Union, and Eugene Debs is jailed. — [Gilded Age](../articles/gilded-age-and-progressive-era/gilded-age.md) |
 | 1894-05-11 | Pullman factory workers strike; the American Railway Union's boycott of Pullman cars follows. — [Chicago](../articles/regions-cities-and-landmarks/chicago.md) |
 | 1894-05-11 | The Pullman strike begins; the American Railway Union boycott spreads nationwide until federal troops break it in July. — [Labor movement](../articles/economy-and-work/labor-movement.md) |
@@ -1336,6 +1344,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1924-06-24 | The Indian Citizenship Act makes Native Americans U.S. citizens. — [Fourteenth Amendment](../articles/rights-and-law/fourteenth-amendment.md) |
 | 1925 | A. Philip Randolph and Pullman porters found the Brotherhood of Sleeping Car Porters in New York City. — [Labor movement](../articles/economy-and-work/labor-movement.md) |
 | 1925 | Armstrong's Hot Five and Hot Seven recordings (1925–1928) begin shifting jazz toward the improvising soloist. — [Jazz](../articles/culture-and-arts/jazz.md) |
+| 1925 | Illinois sets aside part of Cahokia as a state park. — [Cahokia](../articles/native-nations/cahokia.md) |
 | 1925-01-05 | Nellie Tayloe Ross takes office as the first elected woman governor in the United States. — [Wyoming](../articles/states-and-territories/wyoming.md) |
 | 1926 | U.S. Marines return to Nicaragua amid renewed fighting, a year after an earlier deployment ended. — [Good Neighbor Policy](../articles/foreign-relations-and-military/good-neighbor-policy.md) |
 | 1927 | Duke Ellington's band begins its engagement at Harlem's whites-only Cotton Club, with nightly radio broadcasts. — [Jazz](../articles/culture-and-arts/jazz.md) |
@@ -1771,6 +1780,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1964-06-21 | Mississippi Freedom Summer begins; James Chaney, Andrew Goodman and Michael Schwerner are murdered by Klansmen in Neshoba County. — [Civil rights movement](../articles/cold-war-and-civil-rights/civil-rights-movement.md) |
 | 1964-07-02 | President Lyndon B. Johnson signs the Civil Rights Act of 1964. — [Civil rights movement](../articles/cold-war-and-civil-rights/civil-rights-movement.md) |
 | 1964-07-02 | The Civil Rights Act outlaws segregation in businesses such as theaters, restaurants and hotels. — [Jim Crow laws](../articles/gilded-age-and-progressive-era/jim-crow-laws.md) |
+| 1964-07-19 | Cahokia Mounds is designated a National Historic Landmark. — [Cahokia](../articles/native-nations/cahokia.md) |
 | 1964-09-08 | Prince Edward County's public schools reopen after the Supreme Court's Griffin decision. — [Brown v. Board of Education](../articles/cold-war-and-civil-rights/brown-v-board-of-education.md) |
 | 1964-10-20 | Dies in New York City at age 90; buried at West Branch, Iowa. — [Herbert Hoover](../articles/presidents-and-founders/herbert-hoover.md) |
 | 1964-12 | Receives the Nobel Peace Prize. — [Martin Luther King Jr.](../articles/people-who-shaped-america/martin-luther-king-jr.md) |
@@ -1895,6 +1905,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1981-09-25 | Sandra Day O'Connor is sworn in as the first woman justice. — [Supreme Court of the United States](../articles/constitution-and-government/supreme-court-of-the-united-states.md) |
 | 1982 | Afrika Bambaataa's "Planet Rock" and Grandmaster Flash and the Furious Five's "The Message" are released. — [Hip hop](../articles/culture-and-arts/hip-hop.md) |
 | 1982 | Congress renews the special provisions for 25 years and amends Section 2 so plaintiffs need not prove discriminatory purpose, responding to Mobile v. Bolden (1980). — [Voting Rights Act of 1965](../articles/democracy-and-elections/voting-rights-act-of-1965.md) |
+| 1982 | UNESCO inscribes Cahokia Mounds State Historic Site on the World Heritage List. — [Cahokia](../articles/native-nations/cahokia.md) |
 | 1982-01-19 | Secretarial Order 3071 establishes the Minerals Management Service, which later combines offshore leasing, safety oversight and royalty collection. — [Bureau of Ocean Energy Management](../articles/geography-and-environment/bureau-of-ocean-energy-management.md) |
 | 1982-11 | A severe recession that followed the Federal Reserve's anti-inflation policy ends; the Great Inflation era closes. — [Economic history of the United States](../articles/economy-and-work/economic-history-of-the-united-states.md) |
 | 1983 | The first Chesapeake Bay Agreement creates the Chesapeake Executive Council. — [Chesapeake Bay](../articles/geography-and-environment/chesapeake-bay.md) |
@@ -2012,6 +2023,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 2009-05-07 | Regulators publish the results of the first bank stress tests. — [Great Recession](../articles/contemporary-america/great-recession.md) |
 | 2009-06 | The recession ends, after 18 months. — [Great Recession](../articles/contemporary-america/great-recession.md) |
 | 2009-07-24 | The federal minimum rises to $7.25 an hour, its rate since. — [Minimum wage](../articles/economy-and-work/minimum-wage.md) |
+| 2009-08 | The Osage Nation buys Sugarloaf Mound in St. Louis, the city's last surviving mound. — [Cahokia](../articles/native-nations/cahokia.md) |
 | 2009-09-09 | President Obama addresses a joint session of Congress to press for health care reform. — [Affordable Care Act](../articles/contemporary-america/affordable-care-act.md) |
 | 2009-10 | Unemployment peaks at 10.0 percent. — [Great Recession](../articles/contemporary-america/great-recession.md) |
 | 2009-12-01 | In a speech at West Point, President Obama approves a surge of 33,000 more U.S. troops, with withdrawals to begin in July 2011. — [War in Afghanistan (2001–2021)](../articles/foreign-relations-and-military/war-in-afghanistan.md) |
@@ -2075,6 +2087,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 2015-06-26 | **[Obergefell v. Hodges](../articles/contemporary-america/obergefell-v-hodges.md)** (CourtCase) |
 | 2015-06-26 | The Court rules 5–4 that states must license and recognize same-sex marriages, overruling Baker v. Nelson. — [Obergefell v. Hodges](../articles/contemporary-america/obergefell-v-hodges.md) |
 | 2015-10-05 | The Justice Department announces a $20.8 billion civil settlement with BP, the United States and five Gulf states. — [Deepwater Horizon oil spill](../articles/contemporary-america/deepwater-horizon-oil-spill.md) |
+| 2015-11-18 | The national NAGPRA Review Committee unanimously finds the Osage culturally affiliated with the Mississippian people. — [Cahokia](../articles/native-nations/cahokia.md) |
 | 2016 | Evenwel v. Abbott holds that states may draw legislative districts using total population. — [Reynolds v. Sims](../articles/democracy-and-elections/reynolds-v-sims.md) |
 | 2016-01 | Obama vetoes the first repeal bill Congress sends him. — [Affordable Care Act](../articles/contemporary-america/affordable-care-act.md) |
 | 2016-04-04 | A federal court enters the consent decree, including up to $8.8 billion for natural resource damages. — [Deepwater Horizon oil spill](../articles/contemporary-america/deepwater-horizon-oil-spill.md) |
@@ -2118,6 +2131,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 2020-12-11 | FDA issues the first COVID-19 vaccine emergency use authorization, for the Pfizer-BioNTech vaccine. — [COVID-19 pandemic in the United States](../articles/contemporary-america/covid-19-pandemic-in-the-united-states.md) |
 | 2020-12-14 | New York nurse Sandra Lindsay becomes the first American outside clinical trials to receive a COVID-19 vaccine. — [COVID-19 pandemic in the United States](../articles/contemporary-america/covid-19-pandemic-in-the-united-states.md) |
 | 2021 | The Smithsonian releases the Smithsonian Anthology of Hip-Hop and Rap, 129 tracks on nine CDs. — [Hip hop](../articles/culture-and-arts/hip-hop.md) |
+| 2021-04-08 | A study in Geoarchaeology reports no physical evidence for the long-accepted theory that deforestation caused floods that doomed Cahokia. — [Cahokia](../articles/native-nations/cahokia.md) |
 | 2021-04-14 | President Biden announces a final withdrawal to begin May 1, later setting August 31 as the end of the military mission. — [War in Afghanistan (2001–2021)](../articles/foreign-relations-and-military/war-in-afghanistan.md) |
 | 2021-04-26 | The Census Bureau delivers 2020 apportionment counts; Texas gains two seats and seven states lose one. — [Census and apportionment](../articles/democracy-and-elections/census-and-apportionment.md) |
 | 2021-06 | The City Council votes to rename Lake Shore Drive in honor of DuSable. — [Chicago](../articles/regions-cities-and-landmarks/chicago.md) |

@@ -3769,6 +3769,177 @@
   ]
  },
  {
+  "id": "us:cahokia",
+  "title": "Cahokia",
+  "aliases": [
+   "Cahokia Mounds",
+   "Cahokia Mounds State Historic Site",
+   "Monks Mound"
+  ],
+  "type": "Landmark",
+  "domain": "native-nations",
+  "level": "introductory",
+  "evidenceStatus": "interpretive",
+  "file": "articles/native-nations/cahokia.md",
+  "created": "2026-11-19",
+  "summary": "Cahokia was the largest Native American city north of Mexico, built by people of the Mississippian culture on the Mississippi River floodplain opposite present-day St. Louis; it peaked between about 1050 and 1200, was abandoned by about 1400, and its surviving earthworks, including Monks Mound, are preserved as an Illinois state historic site and UNESCO World Heritage Site.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "us:mississippian-culture"
+   },
+   {
+    "predicate": "skos:broader",
+    "object": "us:native-americans"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:mississippi-river"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:united-states"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:osage-nation"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:mound-builder-myth"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:sugarloaf-mound"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:east-st-louis-mound-center"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:indian-removal-act"
+   },
+   {
+    "predicate": "uso:requires",
+    "object": "us:native-americans"
+   },
+   {
+    "predicate": "uso:locatedIn",
+    "object": "us:illinois",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:partOf",
+    "object": "us:mississippian-culture",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:studiedIn",
+    "object": "us:archaeology",
+    "source": "s4",
+    "confidence": "high"
+   }
+  ],
+  "start": "0700",
+  "end": "1400",
+  "review": [
+   {
+    "question": "Why do archaeologists call Cahokia's growth around 1050 a \"Big Bang\"?",
+    "answer": "Within about a generation a village of perhaps 1,000–2,000 people was redesigned into a planned city of about 10,000 around a great plaza, drawing immigrants from as far as southern Missouri and northeast Arkansas, and the change was sudden and its cause unclear."
+   },
+   {
+    "question": "How did the Mound Builder myth relate to U.S. policy toward Native nations?",
+    "answer": "By crediting the mounds to a vanished race that Indians had supposedly destroyed, it cast Native nations as usurpers; Andrew Jackson invoked a vanished race while defending Indian removal in 1830, until Cyrus Thomas's 1894 study showed American Indians built the mounds."
+   },
+   {
+    "question": "Why do scholars still disagree about why Cahokia was abandoned?",
+    "answer": "Evidence points in several directions — drought, a large Mississippi flood around 1200, warfare implied by the palisade, and political factionalism — while the 1993 theory that deforestation caused local flooding found no support in Caitlin Rankin's 2021 soil study, so many researchers now reject single-cause explanations."
+   },
+   {
+    "question": "Why was most of the Cahokia region's mound landscape lost even though Monks Mound survived?",
+    "answer": "As St. Louis and East St. Louis grew in the 1800s, mounds were leveled — in East St. Louis for fill, factories and rail yards — and St. Louis lost nearly all of its mounds by 1875; Cahokia's core was protected only after Illinois made it a state park in 1925."
+   }
+  ],
+  "timeline": [
+   {
+    "date": "0700",
+    "event": "Native people begin living at the site on the Mississippi floodplain east of present-day St. Louis."
+   },
+   {
+    "date": "1050",
+    "event": "A village of perhaps 1,000–2,000 people is rapidly redesigned into a planned city around a great plaza; archaeologist Timothy Pauketat calls it ancient America's \"Big Bang.\""
+   },
+   {
+    "date": "1200",
+    "event": "After a peak of roughly 1050–1200, decline sets in; lake sediments record a major Mississippi River flood around this time."
+   },
+   {
+    "date": "1400",
+    "event": "The city has been abandoned; its people have dispersed and joined other Native communities."
+   },
+   {
+    "date": "1764",
+    "event": "French colonists begin building St. Louis across the river, amid what were probably hundreds of mounds."
+   },
+   {
+    "date": "1875",
+    "event": "The mounds of St. Louis, once called \"Mound City,\" are almost entirely destroyed; only Sugarloaf Mound survives."
+   },
+   {
+    "date": "1894",
+    "event": "Cyrus Thomas's Bureau of Ethnology study concludes that American Indians built the eastern mounds, refuting the \"lost race\" theory."
+   },
+   {
+    "date": "1925",
+    "event": "Illinois sets aside part of Cahokia as a state park."
+   },
+   {
+    "date": "1964-07-19",
+    "event": "Cahokia Mounds is designated a National Historic Landmark."
+   },
+   {
+    "date": "1982",
+    "event": "UNESCO inscribes Cahokia Mounds State Historic Site on the World Heritage List."
+   },
+   {
+    "date": "2009-08",
+    "event": "The Osage Nation buys Sugarloaf Mound in St. Louis, the city's last surviving mound."
+   },
+   {
+    "date": "2015-11-18",
+    "event": "The national NAGPRA Review Committee unanimously finds the Osage culturally affiliated with the Mississippian people."
+   },
+   {
+    "date": "2021-04-08",
+    "event": "A study in Geoarchaeology reports no physical evidence for the long-accepted theory that deforestation caused floods that doomed Cahokia."
+   }
+  ],
+  "misconception": {
+   "myth": "Cahokia's mounds were built by a vanished \"lost race\" of Mound Builders, not by the ancestors of American Indians.",
+   "fact": "The Smithsonian's Bureau of Ethnology, in Cyrus Thomas's 1894 study, concluded that American Indians built the mounds; archaeology now traces Cahokia to the Mississippian culture, and in 2015 a federal review committee recognized the Osage as culturally affiliated with the Mississippian people.",
+   "why": "Nineteenth-century settlers puzzled by the mounds noted that the Native people they knew did not build them, and popular writers filled the gap with tales of Israelites, Europeans or Atlanteans, and the story was useful because it implied Native nations were themselves usurpers whose removal was justified."
+  },
+  "source_urls": [
+   "https://www.nps.gov/articles/midwest-region-s-only-world-heritage-site-and-a-promise-of-more-to-come.htm",
+   "https://www.britannica.com/place/Cahokia-Mounds",
+   "https://muse.jhu.edu/journals/historically_speaking/v011/11.1.yerxa01.pdf",
+   "https://isas.illinois.edu/transportation_archaeology/nmrb/a_tale_of_two_cities",
+   "https://www.museum.state.il.us/RiverWeb/landings/Ambot/prehistory/mississippian/technology/fac-woodhenges.html",
+   "https://source.washu.edu/2015/05/as-the-river-risescahokias-emergence-and-decline-linked-to-mississippi-river-flooding/",
+   "https://www.eurekalert.org/news-releases/751389",
+   "https://www.nationalgeographic.com/environment/article/why-was-ancient-city-of-cahokia-abandoned-new-clues-rule-out-one-theory",
+   "https://wisconsinhistory.org/turningpoints/search.asp?id=122",
+   "https://daily.jstor.org/native-origin-stories-as-tools-of-conquest",
+   "https://www.nps.gov/crps/CRMJournal/Winter2010/research3.html",
+   "https://osagenews.org/natl-nagpra-review-committee-confirms-osages-were-part-of-mound-culture/",
+   "https://mythicmississippi.illinois.edu/native-illinois/cahokia-mounds-whs/",
+   "https://cahokiamounds.org/?p=268"
+  ]
+ },
+ {
   "id": "us:california",
   "title": "California",
   "aliases": [
