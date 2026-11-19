@@ -1162,6 +1162,9 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1892-05-25 | In Abbott v. Hicks the Louisiana Supreme Court rules that the act does not apply to interstate passengers. — [Plessy v. Ferguson](../articles/gilded-age-and-progressive-era/plessy-v-ferguson.md) |
 | 1892-06-07 | Homer Plessy is arrested after sitting in the whites-only coach of an East Louisiana Railroad train to Covington. — [Plessy v. Ferguson](../articles/gilded-age-and-progressive-era/plessy-v-ferguson.md) |
 | 1892-07-06 | A gunfight between strikers and Pinkerton guards at Carnegie Steel's Homestead works leaves three Pinkertons and six workers dead. — [Labor movement](../articles/economy-and-work/labor-movement.md) |
+| 1892-09-08 | **[Pledge of Allegiance](../articles/symbols-and-national-identity/pledge-of-allegiance.md)** (Symbol) |
+| 1892-09-08 | The Youth's Companion, a Boston magazine for young readers, first publishes the pledge, without a byline or copyright. — [Pledge of Allegiance](../articles/symbols-and-national-identity/pledge-of-allegiance.md) |
+| 1892-10-21 | Schoolchildren recite it at Columbus Day ceremonies marking 400 years since Columbus's arrival. — [Pledge of Allegiance](../articles/symbols-and-national-identity/pledge-of-allegiance.md) |
 | 1892-11-18 | Judge John Howard Ferguson of the Orleans Parish Criminal Court rules against Plessy. — [Plessy v. Ferguson](../articles/gilded-age-and-progressive-era/plessy-v-ferguson.md) |
 | 1892-12 | The Louisiana Supreme Court upholds Ferguson's ruling. — [Plessy v. Ferguson](../articles/gilded-age-and-progressive-era/plessy-v-ferguson.md) |
 | 1893 | Charles Weisgerber's painting of the scene draws crowds at the World's Columbian Exposition and is widely reproduced. — [Betsy Ross flag myth](../articles/symbols-and-national-identity/betsy-ross-flag-myth.md) |
@@ -1440,10 +1443,12 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1922-02-27 | In Leser v. Garnett the Supreme Court rejects challenges to the amendment's validity. — [Nineteenth Amendment](../articles/democracy-and-elections/nineteenth-amendment.md) |
 | 1922-11-24 | Representatives of seven states and the federal government sign the Colorado River Compact at Santa Fe, New Mexico. — [Colorado River](../articles/geography-and-environment/colorado-river.md) |
 | 1922-11-24 | Seven basin states sign the Colorado River Compact at Santa Fe. — [Hoover Dam](../articles/regions-cities-and-landmarks/hoover-dam.md) |
+| 1923 | A National Flag Conference led by the American Legion and the Daughters of the American Revolution changes 'my Flag' to 'the flag of the United States'. — [Pledge of Allegiance](../articles/symbols-and-national-identity/pledge-of-allegiance.md) |
 | 1923 | Bessie Smith makes her first recordings, beginning a 14-year recording career of more than 150 songs. — [Blues](../articles/culture-and-arts/blues.md) |
 | 1923 | In Adkins v. Children's Hospital the Supreme Court voids the District of Columbia law; sixteen states then have minimum wage laws for women. — [Minimum wage](../articles/economy-and-work/minimum-wage.md) |
 | 1924 | Ma Rainey records "See See Rider Blues" with Louis Armstrong and Fletcher Henderson. — [Blues](../articles/culture-and-arts/blues.md) |
 | 1924 | The Immigration Act of 1924 sets national-origins quotas that favor northern and western Europe and bar Asian immigrants. — [Immigration and Nationality Act of 1965](../articles/society-and-people/immigration-and-nationality-act-of-1965.md) |
+| 1924 | The conference adds 'of America'. — [Pledge of Allegiance](../articles/symbols-and-national-identity/pledge-of-allegiance.md) |
 | 1924-06-02 | The Indian Citizenship Act makes Native Americans born in the United States citizens; about 40 percent had not been citizens before. — [Native Americans](../articles/native-nations/native-americans.md) |
 | 1924-06-24 | The Indian Citizenship Act makes Native Americans U.S. citizens. — [Fourteenth Amendment](../articles/rights-and-law/fourteenth-amendment.md) |
 | 1925 | A. Philip Randolph and Pullman porters found the Brotherhood of Sleeping Car Porters in New York City. — [Labor movement](../articles/economy-and-work/labor-movement.md) |
@@ -1561,6 +1566,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1935-08-14 | Signs the Social Security Act. — [Franklin D. Roosevelt](../articles/presidents-and-founders/franklin-d-roosevelt.md) |
 | 1935-09-30 | President Franklin D. Roosevelt dedicates the dam, then called Boulder Dam; Hansen's star map later records the sky at this moment. — [Winged Figures of the Republic](../articles/culture-and-arts/winged-figures-of-the-republic.md) |
 | 1935-09-30 | President Franklin D. Roosevelt dedicates the dam. — [Hoover Dam](../articles/regions-cities-and-landmarks/hoover-dam.md) |
+| 1935-11 | Lillian and William Gobitas are expelled from school in Minersville, Pennsylvania, for refusing the flag salute. — [Pledge of Allegiance](../articles/symbols-and-national-identity/pledge-of-allegiance.md) |
 | 1936 | In United States v. Butler the Supreme Court strikes down the Agricultural Adjustment Act's processing tax. — [New Deal](../articles/depression-and-world-war/new-deal.md) |
 | 1936 | Los Angeles police post a border patrol, the "bum blockade", to turn back poor arrivals; it is withdrawn under threat of lawsuits. — [Okies](../articles/society-and-people/okies.md) |
 | 1936 | Robert Johnson makes the first of his 1936–1937 recordings. — [Blues](../articles/culture-and-arts/blues.md) |
@@ -1610,6 +1616,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1940 | The Second Great Migration begins as defense industries expand; about 1.45 million Black southerners leave in the 1940s, many for Los Angeles, Oakland, Portland and Seattle. — [Great Migration](../articles/gilded-age-and-progressive-era/great-migration.md) |
 | 1940 | With near-normal rain returning from 1938, the drought ends. — [Dust Bowl](../articles/depression-and-world-war/dust-bowl.md) |
 | 1940-01-13 | The State Department tells Panama that a funding bill will again lack equal hiring for Panamanians, with an amending bill promised. — [Third Locks Project](../articles/foreign-relations-and-military/third-locks-project.md) |
+| 1940-06-03 | In Minersville School District v. Gobitis the Supreme Court, 8-1, upholds compulsory flag salutes. — [Pledge of Allegiance](../articles/symbols-and-national-identity/pledge-of-allegiance.md) |
 | 1940-07-01 | Excavation begins for a wider third set of locks near the existing ones. — [Gatun Locks](../articles/regions-cities-and-landmarks/gatun-locks.md) |
 | 1940-07-01 | Excavation begins, with dredging at the Pacific end of the channel to the new Miraflores lock site. — [Third Locks Project](../articles/foreign-relations-and-military/third-locks-project.md) |
 | 1940-08-12 | Fire destroys the administration building, including the women's quarters and many records. — [Angel Island Immigration Station](../articles/society-and-people/angel-island-immigration-station.md) |
@@ -1644,6 +1651,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1941-12-26 | Roosevelt signs H.J. Res. 41, fixing Thanksgiving on the fourth Thursday of November from 1942. — [Thanksgiving](../articles/culture-and-arts/thanksgiving.md) |
 | 1942 | A joint resolution of Congress puts the Pledge of Allegiance into federal law. — [National symbols of the United States](../articles/symbols-and-national-identity/national-symbols-of-the-united-states.md) |
 | 1942 | Japan occupies Attu and Kiska; U.S. authorities evacuate 881 Unangax̂ from nine villages to camps in Southeast Alaska. — [Alaska](../articles/states-and-territories/alaska.md) |
+| 1942-01-09 | West Virginia's Board of Education makes the salute and pledge compulsory in public schools. — [Pledge of Allegiance](../articles/symbols-and-national-identity/pledge-of-allegiance.md) |
 | 1942-02-19 – 1946-03-20 | **[Japanese American incarceration during World War II](../articles/depression-and-world-war/japanese-american-incarceration.md)** (Event) |
 | 1942-02-19 | President Franklin D. Roosevelt signs Executive Order 9066, letting military commanders designate areas from which any person may be excluded. — [Japanese American incarceration during World War II](../articles/depression-and-world-war/japanese-american-incarceration.md) |
 | 1942-02-19 | Roosevelt signs Executive Order 9066, leading to the forced removal and incarceration of Japanese Americans. — [World War II and the United States](../articles/depression-and-world-war/world-war-ii-and-the-united-states.md) |
@@ -1660,6 +1668,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1942-05-27 | Admiral Chester Nimitz presents the Navy Cross to Mess Attendant Doris Miller for his conduct aboard USS West Virginia during the attack. — [Attack on Pearl Harbor](../articles/depression-and-world-war/attack-on-pearl-harbor.md) |
 | 1942-06-04 | The Battle of Midway begins; by June 6 U.S. aircraft have wrecked four Japanese carriers, and USS Yorktown sinks on June 7. — [World War II and the United States](../articles/depression-and-world-war/world-war-ii-and-the-united-states.md) |
 | 1942-06-22 | A federal act sets out how people should stand and salute while the anthem is played. — [The Star-Spangled Banner](../articles/symbols-and-national-identity/star-spangled-banner.md) |
+| 1942-06-22 | A joint resolution of Congress writes the pledge into federal law as part of a code of flag customs. — [Pledge of Allegiance](../articles/symbols-and-national-identity/pledge-of-allegiance.md) |
 | 1942-08-04 | The bracero program begins bringing Mexican farm workers to the United States. — [World War II and the United States](../articles/depression-and-world-war/world-war-ii-and-the-united-states.md) |
 | 1942-08-12 | The first Japanese Americans arrive at the Heart Mountain incarceration camp between Cody and Powell. — [Wyoming](../articles/states-and-territories/wyoming.md) |
 | 1942-11 | American combat troops land in French Morocco, opening the campaign in North Africa. — [World War II and the United States](../articles/depression-and-world-war/world-war-ii-and-the-united-states.md) |
@@ -1672,6 +1681,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1943-02-03 | The WRA begins giving incarcerated adults the so-called loyalty questionnaire. — [Japanese American incarceration during World War II](../articles/depression-and-world-war/japanese-american-incarceration.md) |
 | 1943-06 | The National Resources Planning Board recommends education and training programs for returning service members. — [Servicemen's Readjustment Act of 1944](../articles/cold-war-and-civil-rights/servicemens-readjustment-act-of-1944.md) |
 | 1943-06 | White workers at Packard walk off the job to protest the promotion of three Black workers, one of several wartime 'hate strikes' in Detroit plants. — [1943 Detroit race riot](../articles/depression-and-world-war/detroit-race-riot-of-1943.md) |
+| 1943-06-14 | In West Virginia State Board of Education v. Barnette the Court overrules Gobitis: schools may not compel the salute or pledge. — [Pledge of Allegiance](../articles/symbols-and-national-identity/pledge-of-allegiance.md) |
 | 1943-06-20 – 1943-06-21 | **[1943 Detroit race riot](../articles/depression-and-world-war/detroit-race-riot-of-1943.md)** (Event) |
 | 1943-06-20 | Fighting on Belle Isle sets off a riot in which 34 people die, 25 of them Black. — [Detroit](../articles/regions-cities-and-landmarks/detroit.md) |
 | 1943-06-20 | On a hot Sunday with nearly 100,000 people on Belle Isle, fighting between Black and white youths breaks out; police quell it by about midnight. — [1943 Detroit race riot](../articles/depression-and-world-war/detroit-race-riot-of-1943.md) |
@@ -1692,6 +1702,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1944-11-07 | Elected to a fourth term, defeating Thomas E. Dewey. — [Franklin D. Roosevelt](../articles/presidents-and-founders/franklin-d-roosevelt.md) |
 | 1944-12-18 | The Supreme Court upholds exclusion in Korematsu v. United States but rules in Ex parte Endo that loyal citizens cannot be held. — [Japanese American incarceration during World War II](../articles/depression-and-world-war/japanese-american-incarceration.md) |
 | 1945 – 1991-12-25 | **[Cold War](../articles/cold-war-and-civil-rights/cold-war.md)** (Era) |
+| 1945 | Congress adopts the official name 'The Pledge of Allegiance'. — [Pledge of Allegiance](../articles/symbols-and-national-identity/pledge-of-allegiance.md) |
 | 1945 | U.S. telegraph traffic peaks at about 236 million messages; Western Union and Postal Telegraph merge. — [Electric telegraph](../articles/science-and-innovation/telegraph.md) |
 | 1945-01-02 | The West Coast exclusion orders are lifted. — [Japanese American incarceration during World War II](../articles/depression-and-world-war/japanese-american-incarceration.md) |
 | 1945-01-03 | The House makes the Committee on Un-American Activities (HUAC) a permanent standing committee. — [McCarthyism](../articles/cold-war-and-civil-rights/mccarthyism.md) |
@@ -1786,6 +1797,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1954-05-17 | The Supreme Court rules in Brown v. Board of Education that segregated public schools are unconstitutional. — [Desegregation of Little Rock Central High School](../articles/cold-war-and-civil-rights/desegregation-of-little-rock-central-high-school.md) |
 | 1954-05-21 | Council president Jo Ann Robinson writes to the mayor that many local groups have discussed a city-wide boycott. — [Montgomery bus boycott](../articles/cold-war-and-civil-rights/montgomery-bus-boycott.md) |
 | 1954-06-09 | Army counsel Joseph Welch rebukes McCarthy on live television after McCarthy attacks a young lawyer on Welch's staff. — [McCarthyism](../articles/cold-war-and-civil-rights/mccarthyism.md) |
+| 1954-06-14 | President Eisenhower signs the act adding 'under God' after 'one Nation'. — [Pledge of Allegiance](../articles/symbols-and-national-identity/pledge-of-allegiance.md) |
 | 1954-08 | The Communist Control Act effectively criminalizes membership in the Communist Party. — [McCarthyism](../articles/cold-war-and-civil-rights/mccarthyism.md) |
 | 1954-11-23 | The Dow finally regains its 1929 high. — [Stock market crash of 1929](../articles/economy-and-work/stock-market-crash-of-1929.md) |
 | 1954-12-02 | The Senate votes 67 to 22 to censure McCarthy. — [McCarthyism](../articles/cold-war-and-civil-rights/mccarthyism.md) |
@@ -2108,8 +2120,10 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 2001-12-07 | Hamid Karzai's southern opposition forces and U.S. Marines take Kandahar after the Taliban abandon Kabul and the north. — [War in Afghanistan (2001–2021)](../articles/foreign-relations-and-military/war-in-afghanistan.md) |
 | 2002-05-30 | The recovery effort at Ground Zero formally ends with the removal of the Last Column. — [September 11 attacks](../articles/contemporary-america/september-11-attacks.md) |
 | 2002-06-06 | President George W. Bush, reversing his earlier position, proposes a Cabinet-level department in an address to the nation. — [Department of Homeland Security](../articles/contemporary-america/department-of-homeland-security.md) |
+| 2002-06-26 | A divided Ninth Circuit panel holds the 1954 words unconstitutional in a California school case brought by Michael Newdow. — [Pledge of Allegiance](../articles/symbols-and-national-identity/pledge-of-allegiance.md) |
 | 2002-07-26 | The House passes H.R. 5005, 295–132. — [Department of Homeland Security](../articles/contemporary-america/department-of-homeland-security.md) |
 | 2002-11-13 | Congress reenacts the national-motto statute without changing its wording. — [E pluribus unum](../articles/symbols-and-national-identity/e-pluribus-unum.md) |
+| 2002-11-13 | Congress reenacts the pledge with 'under God' and adds findings rejecting the Ninth Circuit's ruling. — [Pledge of Allegiance](../articles/symbols-and-national-identity/pledge-of-allegiance.md) |
 | 2002-11-19 | The Senate passes the amended bill, 90–9; the House agrees to it on November 22. — [Department of Homeland Security](../articles/contemporary-america/department-of-homeland-security.md) |
 | 2002-11-25 | Bush signs the Homeland Security Act of 2002 (Public Law 107-296). — [Department of Homeland Security](../articles/contemporary-america/department-of-homeland-security.md) |
 | 2003 | The U.S. Senate marks the centennial of Handy's Tutwiler encounter by declaring 2003 the Year of the Blues. — [Blues](../articles/culture-and-arts/blues.md) |
@@ -2123,6 +2137,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 2004 | The bipartisan 9/11 Commission issues its final report and closes on August 21, 2004. — [September 11 attacks](../articles/contemporary-america/september-11-attacks.md) |
 | 2004-02-14 | The Mississippi African-American Monument is dedicated in Vicksburg National Military Park. — [Siege of Vicksburg](../articles/civil-war-and-reconstruction/siege-of-vicksburg.md) |
 | 2004-05-17 | Goodridge takes effect and Massachusetts becomes the first state where same-sex couples can marry. — [Obergefell v. Hodges](../articles/contemporary-america/obergefell-v-hodges.md) |
+| 2004-06-14 | In Elk Grove Unified School District v. Newdow the Supreme Court reverses on standing without ruling on 'under God'. — [Pledge of Allegiance](../articles/symbols-and-national-identity/pledge-of-allegiance.md) |
 | 2004-12-08 | Congress designates the oak as the national tree. — [National symbols of the United States](../articles/symbols-and-national-identity/national-symbols-of-the-united-states.md) |
 | 2005 | Secretary Michael Chertoff's Second Stage Review leads to a major internal reorganization. — [Department of Homeland Security](../articles/contemporary-america/department-of-homeland-security.md) |
 | 2005 | The Energy Policy Act extends offshore authority to renewable energy such as wind, wave and ocean-current power. — [Bureau of Ocean Energy Management](../articles/geography-and-environment/bureau-of-ocean-energy-management.md) |
@@ -2203,6 +2218,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 2013-06-25 | In Shelby County v. Holder the Supreme Court, 5 to 4, holds the Section 4(b) coverage formula unconstitutional, halting preclearance. — [Voting Rights Act of 1965](../articles/democracy-and-elections/voting-rights-act-of-1965.md) |
 | 2013-06-25 | The Court rules 5 to 4 that the Section 4(b) coverage formula is unconstitutional. — [Shelby County v. Holder](../articles/democracy-and-elections/shelby-county-v-holder.md) |
 | 2013-07-18 | Detroit files for Chapter 9 bankruptcy, the largest municipal filing in U.S. history. — [Detroit](../articles/regions-cities-and-landmarks/detroit.md) |
+| 2013-12-26 | Congress allows veterans and service members out of uniform to give the military salute during the pledge. — [Pledge of Allegiance](../articles/symbols-and-national-identity/pledge-of-allegiance.md) |
 | 2014 | A second, expanded edition of Island is published by the University of Washington Press. — [Chinese detention-barracks poetry](../articles/culture-and-arts/chinese-detention-barracks-poetry.md) |
 | 2014 | The individual mandate, the exchanges with their premium tax credits and the ban on preexisting-condition exclusions for all ages take effect. — [Affordable Care Act](../articles/contemporary-america/affordable-care-act.md) |
 | 2014-03-23 | A pulse flow under Minute 319 of the 1944 treaty begins; it eventually reaches the river's estuary in the Gulf of California. — [Colorado River](../articles/geography-and-environment/colorado-river.md) |

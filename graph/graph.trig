@@ -2073,6 +2073,19 @@
 <https://github.com/john1hsu/usa-graph/id/national-symbols-of-the-united-states#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/national-symbols-of-the-united-states/s9> .
 <https://github.com/john1hsu/usa-graph/id/national-symbols-of-the-united-states#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/national-symbols-of-the-united-states/s10> .
 <https://github.com/john1hsu/usa-graph/id/national-symbols-of-the-united-states#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/national-symbols-of-the-united-states/s11> .
+<https://github.com/john1hsu/usa-graph/id/pledge-of-allegiance#graph> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity> .
+<https://github.com/john1hsu/usa-graph/id/pledge-of-allegiance#graph> <http://purl.org/dc/terms/subject> <https://github.com/john1hsu/usa-graph/id/pledge-of-allegiance> .
+<https://github.com/john1hsu/usa-graph/id/pledge-of-allegiance#graph> <http://purl.org/dc/terms/source> "https://github.com/john1hsu/usa-graph/blob/main/articles/symbols-and-national-identity/pledge-of-allegiance.md" .
+<https://github.com/john1hsu/usa-graph/id/pledge-of-allegiance#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/pledge-of-allegiance/s1> .
+<https://github.com/john1hsu/usa-graph/id/pledge-of-allegiance#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/pledge-of-allegiance/s2> .
+<https://github.com/john1hsu/usa-graph/id/pledge-of-allegiance#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/pledge-of-allegiance/s3> .
+<https://github.com/john1hsu/usa-graph/id/pledge-of-allegiance#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/pledge-of-allegiance/s4> .
+<https://github.com/john1hsu/usa-graph/id/pledge-of-allegiance#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/pledge-of-allegiance/s5> .
+<https://github.com/john1hsu/usa-graph/id/pledge-of-allegiance#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/pledge-of-allegiance/s6> .
+<https://github.com/john1hsu/usa-graph/id/pledge-of-allegiance#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/pledge-of-allegiance/s7> .
+<https://github.com/john1hsu/usa-graph/id/pledge-of-allegiance#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/pledge-of-allegiance/s8> .
+<https://github.com/john1hsu/usa-graph/id/pledge-of-allegiance#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/pledge-of-allegiance/s9> .
+<https://github.com/john1hsu/usa-graph/id/pledge-of-allegiance#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/pledge-of-allegiance/s10> .
 <https://github.com/john1hsu/usa-graph/id/star-spangled-banner#graph> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity> .
 <https://github.com/john1hsu/usa-graph/id/star-spangled-banner#graph> <http://purl.org/dc/terms/subject> <https://github.com/john1hsu/usa-graph/id/star-spangled-banner> .
 <https://github.com/john1hsu/usa-graph/id/star-spangled-banner#graph> <http://purl.org/dc/terms/source> "https://github.com/john1hsu/usa-graph/blob/main/articles/symbols-and-national-identity/star-spangled-banner.md" .
@@ -30889,6 +30902,191 @@
   <https://github.com/john1hsu/usa-graph/id/source/national-symbols-of-the-united-states/s9> <https://schema.org/url> <https://www.nps.gov/articles/uncle-sam.htm> .
 }
 
+<https://github.com/john1hsu/usa-graph/id/pledge-of-allegiance#graph> {
+  <https://github.com/john1hsu/usa-graph/id/pledge-of-allegiance/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Misconception> .
+  <https://github.com/john1hsu/usa-graph/id/pledge-of-allegiance/misconception> <https://github.com/john1hsu/usa-graph/ontology#fact> "The pledge was written in 1892, more than a century after independence, and the version Congress first put into law in 1942 contained no reference to God; the words \"under God\" were added on June 14, 1954." .
+  <https://github.com/john1hsu/usa-graph/id/pledge-of-allegiance/misconception> <https://github.com/john1hsu/usa-graph/ontology#myth> "The Pledge of Allegiance dates from the founding era and has always said \"one Nation under God.\"" .
+  <https://github.com/john1hsu/usa-graph/id/pledge-of-allegiance/misconception> <https://github.com/john1hsu/usa-graph/ontology#why> "The pledge is recited so routinely, and so often alongside founding-era symbols, that its late origin and its several revisions are easy to forget; the 2002 congressional findings defending the phrase also linked it to the Mayflower Compact and the Declaration of Independence." .
+  <https://github.com/john1hsu/usa-graph/id/pledge-of-allegiance/review/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+  <https://github.com/john1hsu/usa-graph/id/pledge-of-allegiance/review/1> <http://www.w3.org/2000/01/rdf-schema#label> "Why was the pledge first written, and how did it reach so many schoolchildren at once?" .
+  <https://github.com/john1hsu/usa-graph/id/pledge-of-allegiance/review/1> <https://github.com/john1hsu/usa-graph/ontology#answer> "The Youth's Companion, a magazine with about half a million subscribers, organized a national school program for the October 1892 Columbus Day quadricentennial; Francis Bellamy, on its staff, wrote the pledge for the ceremony, and the magazine published it in September and lobbied Congress and President Harrison to back the holiday." .
+  <https://github.com/john1hsu/usa-graph/id/pledge-of-allegiance/review/1> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/pledge-of-allegiance> .
+  <https://github.com/john1hsu/usa-graph/id/pledge-of-allegiance/review/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+  <https://github.com/john1hsu/usa-graph/id/pledge-of-allegiance/review/2> <http://www.w3.org/2000/01/rdf-schema#label> "How did the Supreme Court move from upholding compulsory flag salutes to forbidding them within three years?" .
+  <https://github.com/john1hsu/usa-graph/id/pledge-of-allegiance/review/2> <https://github.com/john1hsu/usa-graph/ontology#answer> "In Gobitis (1940) it ruled 8-1 that schools could require the salute, and a wave of mob violence against Jehovah's Witnesses followed. When West Virginia made the salute and pledge compulsory in 1942, the Barnett family sued, and in Barnette (1943) the Court overruled Gobitis, holding that officials may not force citizens to profess beliefs about politics, nationalism or religion." .
+  <https://github.com/john1hsu/usa-graph/id/pledge-of-allegiance/review/2> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/pledge-of-allegiance> .
+  <https://github.com/john1hsu/usa-graph/id/pledge-of-allegiance/review/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+  <https://github.com/john1hsu/usa-graph/id/pledge-of-allegiance/review/3> <http://www.w3.org/2000/01/rdf-schema#label> "Why did the Supreme Court's 2004 Newdow decision leave the constitutionality of \"under God\" unresolved?" .
+  <https://github.com/john1hsu/usa-graph/id/pledge-of-allegiance/review/3> <https://github.com/john1hsu/usa-graph/ontology#answer> "The majority decided only that Michael Newdow lacked standing to sue on his daughter's behalf, because under California custody law he could not act as her next friend; only three justices, concurring in the judgment, addressed the merits and found the phrase constitutional." .
+  <https://github.com/john1hsu/usa-graph/id/pledge-of-allegiance/review/3> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/pledge-of-allegiance> .
+  <https://github.com/john1hsu/usa-graph/id/pledge-of-allegiance/timeline/10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/pledge-of-allegiance/timeline/10> <http://www.w3.org/2000/01/rdf-schema#label> "Congress adopts the official name 'The Pledge of Allegiance'." .
+  <https://github.com/john1hsu/usa-graph/id/pledge-of-allegiance/timeline/10> <https://github.com/john1hsu/usa-graph/ontology#date> "1945"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+  <https://github.com/john1hsu/usa-graph/id/pledge-of-allegiance/timeline/11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/pledge-of-allegiance/timeline/11> <http://www.w3.org/2000/01/rdf-schema#label> "President Eisenhower signs the act adding 'under God' after 'one Nation'." .
+  <https://github.com/john1hsu/usa-graph/id/pledge-of-allegiance/timeline/11> <https://github.com/john1hsu/usa-graph/ontology#date> "1954-06-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/pledge-of-allegiance/timeline/12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/pledge-of-allegiance/timeline/12> <http://www.w3.org/2000/01/rdf-schema#label> "A divided Ninth Circuit panel holds the 1954 words unconstitutional in a California school case brought by Michael Newdow." .
+  <https://github.com/john1hsu/usa-graph/id/pledge-of-allegiance/timeline/12> <https://github.com/john1hsu/usa-graph/ontology#date> "2002-06-26"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/pledge-of-allegiance/timeline/13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/pledge-of-allegiance/timeline/13> <http://www.w3.org/2000/01/rdf-schema#label> "Congress reenacts the pledge with 'under God' and adds findings rejecting the Ninth Circuit's ruling." .
+  <https://github.com/john1hsu/usa-graph/id/pledge-of-allegiance/timeline/13> <https://github.com/john1hsu/usa-graph/ontology#date> "2002-11-13"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/pledge-of-allegiance/timeline/14> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/pledge-of-allegiance/timeline/14> <http://www.w3.org/2000/01/rdf-schema#label> "In Elk Grove Unified School District v. Newdow the Supreme Court reverses on standing without ruling on 'under God'." .
+  <https://github.com/john1hsu/usa-graph/id/pledge-of-allegiance/timeline/14> <https://github.com/john1hsu/usa-graph/ontology#date> "2004-06-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/pledge-of-allegiance/timeline/15> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/pledge-of-allegiance/timeline/15> <http://www.w3.org/2000/01/rdf-schema#label> "Congress allows veterans and service members out of uniform to give the military salute during the pledge." .
+  <https://github.com/john1hsu/usa-graph/id/pledge-of-allegiance/timeline/15> <https://github.com/john1hsu/usa-graph/ontology#date> "2013-12-26"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/pledge-of-allegiance/timeline/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/pledge-of-allegiance/timeline/1> <http://www.w3.org/2000/01/rdf-schema#label> "The Youth's Companion, a Boston magazine for young readers, first publishes the pledge, without a byline or copyright." .
+  <https://github.com/john1hsu/usa-graph/id/pledge-of-allegiance/timeline/1> <https://github.com/john1hsu/usa-graph/ontology#date> "1892-09-08"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/pledge-of-allegiance/timeline/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/pledge-of-allegiance/timeline/2> <http://www.w3.org/2000/01/rdf-schema#label> "Schoolchildren recite it at Columbus Day ceremonies marking 400 years since Columbus's arrival." .
+  <https://github.com/john1hsu/usa-graph/id/pledge-of-allegiance/timeline/2> <https://github.com/john1hsu/usa-graph/ontology#date> "1892-10-21"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/pledge-of-allegiance/timeline/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/pledge-of-allegiance/timeline/3> <http://www.w3.org/2000/01/rdf-schema#label> "A National Flag Conference led by the American Legion and the Daughters of the American Revolution changes 'my Flag' to 'the flag of the United States'." .
+  <https://github.com/john1hsu/usa-graph/id/pledge-of-allegiance/timeline/3> <https://github.com/john1hsu/usa-graph/ontology#date> "1923"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+  <https://github.com/john1hsu/usa-graph/id/pledge-of-allegiance/timeline/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/pledge-of-allegiance/timeline/4> <http://www.w3.org/2000/01/rdf-schema#label> "The conference adds 'of America'." .
+  <https://github.com/john1hsu/usa-graph/id/pledge-of-allegiance/timeline/4> <https://github.com/john1hsu/usa-graph/ontology#date> "1924"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+  <https://github.com/john1hsu/usa-graph/id/pledge-of-allegiance/timeline/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/pledge-of-allegiance/timeline/5> <http://www.w3.org/2000/01/rdf-schema#label> "Lillian and William Gobitas are expelled from school in Minersville, Pennsylvania, for refusing the flag salute." .
+  <https://github.com/john1hsu/usa-graph/id/pledge-of-allegiance/timeline/5> <https://github.com/john1hsu/usa-graph/ontology#date> "1935-11"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> .
+  <https://github.com/john1hsu/usa-graph/id/pledge-of-allegiance/timeline/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/pledge-of-allegiance/timeline/6> <http://www.w3.org/2000/01/rdf-schema#label> "In Minersville School District v. Gobitis the Supreme Court, 8-1, upholds compulsory flag salutes." .
+  <https://github.com/john1hsu/usa-graph/id/pledge-of-allegiance/timeline/6> <https://github.com/john1hsu/usa-graph/ontology#date> "1940-06-03"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/pledge-of-allegiance/timeline/7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/pledge-of-allegiance/timeline/7> <http://www.w3.org/2000/01/rdf-schema#label> "West Virginia's Board of Education makes the salute and pledge compulsory in public schools." .
+  <https://github.com/john1hsu/usa-graph/id/pledge-of-allegiance/timeline/7> <https://github.com/john1hsu/usa-graph/ontology#date> "1942-01-09"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/pledge-of-allegiance/timeline/8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/pledge-of-allegiance/timeline/8> <http://www.w3.org/2000/01/rdf-schema#label> "A joint resolution of Congress writes the pledge into federal law as part of a code of flag customs." .
+  <https://github.com/john1hsu/usa-graph/id/pledge-of-allegiance/timeline/8> <https://github.com/john1hsu/usa-graph/ontology#date> "1942-06-22"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/pledge-of-allegiance/timeline/9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/pledge-of-allegiance/timeline/9> <http://www.w3.org/2000/01/rdf-schema#label> "In West Virginia State Board of Education v. Barnette the Court overrules Gobitis: schools may not compel the salute or pledge." .
+  <https://github.com/john1hsu/usa-graph/id/pledge-of-allegiance/timeline/9> <https://github.com/john1hsu/usa-graph/ontology#date> "1943-06-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/pledge-of-allegiance> <http://purl.org/dc/terms/created> "2026-11-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/pledge-of-allegiance> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Symbol> .
+  <https://github.com/john1hsu/usa-graph/id/pledge-of-allegiance> <http://www.w3.org/2000/01/rdf-schema#label> "Pledge of Allegiance" .
+  <https://github.com/john1hsu/usa-graph/id/pledge-of-allegiance> <http://www.w3.org/2004/02/skos/core#altLabel> "Bellamy's pledge" .
+  <https://github.com/john1hsu/usa-graph/id/pledge-of-allegiance> <http://www.w3.org/2004/02/skos/core#altLabel> "Pledge of Allegiance to the Flag" .
+  <https://github.com/john1hsu/usa-graph/id/pledge-of-allegiance> <http://www.w3.org/2004/02/skos/core#altLabel> "Pledge to the Flag" .
+  <https://github.com/john1hsu/usa-graph/id/pledge-of-allegiance> <http://www.w3.org/2004/02/skos/core#altLabel> "The Pledge of Allegiance" .
+  <https://github.com/john1hsu/usa-graph/id/pledge-of-allegiance> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/usa-graph/id/national-symbols-of-the-united-states> .
+  <https://github.com/john1hsu/usa-graph/id/pledge-of-allegiance> <http://www.w3.org/2004/02/skos/core#definition> "The oath of loyalty to the U.S. flag and the republic it stands for, first published in The Youth's Companion in September 1892 for school Columbus Day celebrations, written into federal law in 1942 and amended to add \"under God\" in 1954; since 1943 no public school may compel anyone to recite it." .
+  <https://github.com/john1hsu/usa-graph/id/pledge-of-allegiance> <http://www.w3.org/2004/02/skos/core#inScheme> <https://github.com/john1hsu/usa-graph/id/scheme/symbols-and-national-identity> .
+  <https://github.com/john1hsu/usa-graph/id/pledge-of-allegiance> <http://www.w3.org/2004/02/skos/core#prefLabel> "Pledge of Allegiance" .
+  <https://github.com/john1hsu/usa-graph/id/pledge-of-allegiance> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/american-legion> .
+  <https://github.com/john1hsu/usa-graph/id/pledge-of-allegiance> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/dwight-d-eisenhower> .
+  <https://github.com/john1hsu/usa-graph/id/pledge-of-allegiance> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/e-pluribus-unum> .
+  <https://github.com/john1hsu/usa-graph/id/pledge-of-allegiance> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/elk-grove-unified-school-district-v-newdow> .
+  <https://github.com/john1hsu/usa-graph/id/pledge-of-allegiance> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/first-amendment> .
+  <https://github.com/john1hsu/usa-graph/id/pledge-of-allegiance> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/flag-day> .
+  <https://github.com/john1hsu/usa-graph/id/pledge-of-allegiance> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/flag-of-the-united-states> .
+  <https://github.com/john1hsu/usa-graph/id/pledge-of-allegiance> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/in-god-we-trust> .
+  <https://github.com/john1hsu/usa-graph/id/pledge-of-allegiance> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/jehovahs-witnesses> .
+  <https://github.com/john1hsu/usa-graph/id/pledge-of-allegiance> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/minersville-school-district-v-gobitis> .
+  <https://github.com/john1hsu/usa-graph/id/pledge-of-allegiance> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/pledge-of-allegiance-under-god-myth> .
+  <https://github.com/john1hsu/usa-graph/id/pledge-of-allegiance> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/worlds-columbian-exposition> .
+  <https://github.com/john1hsu/usa-graph/id/pledge-of-allegiance> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/pledge-of-allegiance/s10> .
+  <https://github.com/john1hsu/usa-graph/id/pledge-of-allegiance> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/pledge-of-allegiance/s1> .
+  <https://github.com/john1hsu/usa-graph/id/pledge-of-allegiance> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/pledge-of-allegiance/s2> .
+  <https://github.com/john1hsu/usa-graph/id/pledge-of-allegiance> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/pledge-of-allegiance/s3> .
+  <https://github.com/john1hsu/usa-graph/id/pledge-of-allegiance> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/pledge-of-allegiance/s4> .
+  <https://github.com/john1hsu/usa-graph/id/pledge-of-allegiance> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/pledge-of-allegiance/s5> .
+  <https://github.com/john1hsu/usa-graph/id/pledge-of-allegiance> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/pledge-of-allegiance/s6> .
+  <https://github.com/john1hsu/usa-graph/id/pledge-of-allegiance> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/pledge-of-allegiance/s7> .
+  <https://github.com/john1hsu/usa-graph/id/pledge-of-allegiance> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/pledge-of-allegiance/s8> .
+  <https://github.com/john1hsu/usa-graph/id/pledge-of-allegiance> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/pledge-of-allegiance/s9> .
+  <https://github.com/john1hsu/usa-graph/id/pledge-of-allegiance> <https://github.com/john1hsu/usa-graph/ontology#domain> "symbols-and-national-identity" .
+  <https://github.com/john1hsu/usa-graph/id/pledge-of-allegiance> <https://github.com/john1hsu/usa-graph/ontology#establishedBy> <https://github.com/john1hsu/usa-graph/id/united-states-code> .
+  <https://github.com/john1hsu/usa-graph/id/pledge-of-allegiance> <https://github.com/john1hsu/usa-graph/ontology#evidenceStatus> "interpretive" .
+  <https://github.com/john1hsu/usa-graph/id/pledge-of-allegiance> <https://github.com/john1hsu/usa-graph/ontology#file> "articles/symbols-and-national-identity/pledge-of-allegiance.md" .
+  <https://github.com/john1hsu/usa-graph/id/pledge-of-allegiance> <https://github.com/john1hsu/usa-graph/ontology#influencedBy> <https://github.com/john1hsu/usa-graph/id/cold-war> .
+  <https://github.com/john1hsu/usa-graph/id/pledge-of-allegiance> <https://github.com/john1hsu/usa-graph/ontology#introducedBy> <https://github.com/john1hsu/usa-graph/id/francis-bellamy> .
+  <https://github.com/john1hsu/usa-graph/id/pledge-of-allegiance> <https://github.com/john1hsu/usa-graph/ontology#introducedIn> <https://github.com/john1hsu/usa-graph/id/youths-companion> .
+  <https://github.com/john1hsu/usa-graph/id/pledge-of-allegiance> <https://github.com/john1hsu/usa-graph/ontology#ledTo> <https://github.com/john1hsu/usa-graph/id/west-virginia-state-board-of-education-v-barnette> .
+  <https://github.com/john1hsu/usa-graph/id/pledge-of-allegiance> <https://github.com/john1hsu/usa-graph/ontology#level> "introductory" .
+  <https://github.com/john1hsu/usa-graph/id/pledge-of-allegiance> <https://github.com/john1hsu/usa-graph/ontology#misconception> <https://github.com/john1hsu/usa-graph/id/pledge-of-allegiance/misconception> .
+  <https://github.com/john1hsu/usa-graph/id/pledge-of-allegiance> <https://github.com/john1hsu/usa-graph/ontology#requires> <https://github.com/john1hsu/usa-graph/id/flag-of-the-united-states> .
+  <https://github.com/john1hsu/usa-graph/id/pledge-of-allegiance> <https://github.com/john1hsu/usa-graph/ontology#symbolizes> <https://github.com/john1hsu/usa-graph/id/united-states> .
+  <https://github.com/john1hsu/usa-graph/id/pledge-of-allegiance> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/pledge-of-allegiance/timeline/10> .
+  <https://github.com/john1hsu/usa-graph/id/pledge-of-allegiance> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/pledge-of-allegiance/timeline/11> .
+  <https://github.com/john1hsu/usa-graph/id/pledge-of-allegiance> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/pledge-of-allegiance/timeline/12> .
+  <https://github.com/john1hsu/usa-graph/id/pledge-of-allegiance> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/pledge-of-allegiance/timeline/13> .
+  <https://github.com/john1hsu/usa-graph/id/pledge-of-allegiance> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/pledge-of-allegiance/timeline/14> .
+  <https://github.com/john1hsu/usa-graph/id/pledge-of-allegiance> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/pledge-of-allegiance/timeline/15> .
+  <https://github.com/john1hsu/usa-graph/id/pledge-of-allegiance> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/pledge-of-allegiance/timeline/1> .
+  <https://github.com/john1hsu/usa-graph/id/pledge-of-allegiance> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/pledge-of-allegiance/timeline/2> .
+  <https://github.com/john1hsu/usa-graph/id/pledge-of-allegiance> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/pledge-of-allegiance/timeline/3> .
+  <https://github.com/john1hsu/usa-graph/id/pledge-of-allegiance> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/pledge-of-allegiance/timeline/4> .
+  <https://github.com/john1hsu/usa-graph/id/pledge-of-allegiance> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/pledge-of-allegiance/timeline/5> .
+  <https://github.com/john1hsu/usa-graph/id/pledge-of-allegiance> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/pledge-of-allegiance/timeline/6> .
+  <https://github.com/john1hsu/usa-graph/id/pledge-of-allegiance> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/pledge-of-allegiance/timeline/7> .
+  <https://github.com/john1hsu/usa-graph/id/pledge-of-allegiance> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/pledge-of-allegiance/timeline/8> .
+  <https://github.com/john1hsu/usa-graph/id/pledge-of-allegiance> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/pledge-of-allegiance/timeline/9> .
+  <https://github.com/john1hsu/usa-graph/id/pledge-of-allegiance> <https://schema.org/startDate> "1892-09-08"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/pledge-of-allegiance/s10> <http://purl.org/dc/terms/date> "2026-11-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/pledge-of-allegiance/s10> <http://purl.org/dc/terms/publisher> "The American Presidency Project, University of California, Santa Barbara" .
+  <https://github.com/john1hsu/usa-graph/id/source/pledge-of-allegiance/s10> <http://purl.org/dc/terms/title> "Statement by the President Upon Signing Bill To Include the Words \"Under God\" in the Pledge to the Flag (June 14, 1954)" .
+  <https://github.com/john1hsu/usa-graph/id/source/pledge-of-allegiance/s10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/pledge-of-allegiance/s10> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "academic" .
+  <https://github.com/john1hsu/usa-graph/id/source/pledge-of-allegiance/s10> <https://schema.org/url> <https://www.presidency.ucsb.edu/documents/statement-the-president-upon-signing-bill-include-the-words-under-god-the-pledge-the-flag> .
+  <https://github.com/john1hsu/usa-graph/id/source/pledge-of-allegiance/s1> <http://purl.org/dc/terms/date> "2026-11-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/pledge-of-allegiance/s1> <http://purl.org/dc/terms/publisher> "U.S. Government Publishing Office (govinfo)" .
+  <https://github.com/john1hsu/usa-graph/id/source/pledge-of-allegiance/s1> <http://purl.org/dc/terms/title> "4 U.S.C. 4 - Pledge of allegiance to the flag; manner of delivery (U.S. Code, 2018 edition)" .
+  <https://github.com/john1hsu/usa-graph/id/source/pledge-of-allegiance/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/pledge-of-allegiance/s1> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "primary" .
+  <https://github.com/john1hsu/usa-graph/id/source/pledge-of-allegiance/s1> <https://schema.org/url> <https://www.govinfo.gov/content/pkg/USCODE-2018-title4/html/USCODE-2018-title4-chap1-sec4.htm> .
+  <https://github.com/john1hsu/usa-graph/id/source/pledge-of-allegiance/s2> <http://purl.org/dc/terms/date> "2026-11-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/pledge-of-allegiance/s2> <http://purl.org/dc/terms/publisher> "U.S. Government Publishing Office (govinfo)" .
+  <https://github.com/john1hsu/usa-graph/id/source/pledge-of-allegiance/s2> <http://purl.org/dc/terms/title> "Public Law 107-293: To reaffirm the reference to one Nation under God in the Pledge of Allegiance" .
+  <https://github.com/john1hsu/usa-graph/id/source/pledge-of-allegiance/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/pledge-of-allegiance/s2> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "primary" .
+  <https://github.com/john1hsu/usa-graph/id/source/pledge-of-allegiance/s2> <https://schema.org/url> <https://www.govinfo.gov/content/pkg/PLAW-107publ293/html/PLAW-107publ293.htm> .
+  <https://github.com/john1hsu/usa-graph/id/source/pledge-of-allegiance/s3> <http://purl.org/dc/terms/date> "2026-11-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/pledge-of-allegiance/s3> <http://purl.org/dc/terms/publisher> "U.S. Department of Veterans Affairs" .
+  <https://github.com/john1hsu/usa-graph/id/source/pledge-of-allegiance/s3> <http://purl.org/dc/terms/title> "The Pledge of Allegiance" .
+  <https://github.com/john1hsu/usa-graph/id/source/pledge-of-allegiance/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/pledge-of-allegiance/s3> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+  <https://github.com/john1hsu/usa-graph/id/source/pledge-of-allegiance/s3> <https://schema.org/url> <https://www.va.gov:443/opa/publications/celebrate/pledge.pdf> .
+  <https://github.com/john1hsu/usa-graph/id/source/pledge-of-allegiance/s4> <http://purl.org/dc/terms/date> "2026-11-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/pledge-of-allegiance/s4> <http://purl.org/dc/terms/publisher> "Smithsonian Magazine" .
+  <https://github.com/john1hsu/usa-graph/id/source/pledge-of-allegiance/s4> <http://purl.org/dc/terms/title> "The Man Who Wrote the Pledge of Allegiance" .
+  <https://github.com/john1hsu/usa-graph/id/source/pledge-of-allegiance/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/pledge-of-allegiance/s4> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "magazine" .
+  <https://github.com/john1hsu/usa-graph/id/source/pledge-of-allegiance/s4> <https://schema.org/url> <https://www.smithsonianmag.com/history/the-man-who-wrote-the-pledge-of-allegiance-93907224/.> .
+  <https://github.com/john1hsu/usa-graph/id/source/pledge-of-allegiance/s5> <http://purl.org/dc/terms/date> "2026-11-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/pledge-of-allegiance/s5> <http://purl.org/dc/terms/publisher> "Encyclopaedia Britannica" .
+  <https://github.com/john1hsu/usa-graph/id/source/pledge-of-allegiance/s5> <http://purl.org/dc/terms/title> "Pledge of Allegiance to the Flag of the United States of America" .
+  <https://github.com/john1hsu/usa-graph/id/source/pledge-of-allegiance/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/pledge-of-allegiance/s5> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "encyclopedia" .
+  <https://github.com/john1hsu/usa-graph/id/source/pledge-of-allegiance/s5> <https://schema.org/url> <https://britannica.com/event/Pledge-of-Allegiance-to-the-Flag-of-the-United-States-of-America> .
+  <https://github.com/john1hsu/usa-graph/id/source/pledge-of-allegiance/s6> <http://purl.org/dc/terms/date> "2026-11-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/pledge-of-allegiance/s6> <http://purl.org/dc/terms/publisher> "Legal Information Institute, Cornell Law School" .
+  <https://github.com/john1hsu/usa-graph/id/source/pledge-of-allegiance/s6> <http://purl.org/dc/terms/title> "West Virginia State Board of Education v. Barnette, 319 U.S. 624 (1943)" .
+  <https://github.com/john1hsu/usa-graph/id/source/pledge-of-allegiance/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/pledge-of-allegiance/s6> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "primary" .
+  <https://github.com/john1hsu/usa-graph/id/source/pledge-of-allegiance/s6> <https://schema.org/url> <https://www.law.cornell.edu/supremecourt/text/319/624> .
+  <https://github.com/john1hsu/usa-graph/id/source/pledge-of-allegiance/s7> <http://purl.org/dc/terms/date> "2026-11-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/pledge-of-allegiance/s7> <http://purl.org/dc/terms/publisher> "Federal Judicial Center" .
+  <https://github.com/john1hsu/usa-graph/id/source/pledge-of-allegiance/s7> <http://purl.org/dc/terms/title> "The Flag Salute Cases (Federal Trials and Great Debates in United States History)" .
+  <https://github.com/john1hsu/usa-graph/id/source/pledge-of-allegiance/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/pledge-of-allegiance/s7> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+  <https://github.com/john1hsu/usa-graph/id/source/pledge-of-allegiance/s7> <https://schema.org/url> <https://www.fjc.gov/sites/default/files/trials/Flag_Salute_Cases.pdf> .
+  <https://github.com/john1hsu/usa-graph/id/source/pledge-of-allegiance/s8> <http://purl.org/dc/terms/date> "2026-11-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/pledge-of-allegiance/s8> <http://purl.org/dc/terms/publisher> "Congressional Research Service, via EveryCRSReport" .
+  <https://github.com/john1hsu/usa-graph/id/source/pledge-of-allegiance/s8> <http://purl.org/dc/terms/title> "The Constitutionality of Including the Phrase \"Under God\" in the Pledge of Allegiance (CRS Report RS21250, updated June 18, 2004)" .
+  <https://github.com/john1hsu/usa-graph/id/source/pledge-of-allegiance/s8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/pledge-of-allegiance/s8> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+  <https://github.com/john1hsu/usa-graph/id/source/pledge-of-allegiance/s8> <https://schema.org/url> <https://www.everycrsreport.com/files/20040618_RS21250_2a2eb68d647f8c274aa99fb43dd2c186e0167c0b.html> .
+  <https://github.com/john1hsu/usa-graph/id/source/pledge-of-allegiance/s9> <http://purl.org/dc/terms/date> "2026-11-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/pledge-of-allegiance/s9> <http://purl.org/dc/terms/publisher> "Legal Information Institute, Cornell Law School" .
+  <https://github.com/john1hsu/usa-graph/id/source/pledge-of-allegiance/s9> <http://purl.org/dc/terms/title> "Elk Grove Unified School District v. Newdow, 542 U.S. 1 (2004), Rehnquist, C.J., concurring in the judgment" .
+  <https://github.com/john1hsu/usa-graph/id/source/pledge-of-allegiance/s9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/pledge-of-allegiance/s9> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "primary" .
+  <https://github.com/john1hsu/usa-graph/id/source/pledge-of-allegiance/s9> <https://schema.org/url> <https://www.law.cornell.edu/supct/html/02-1624.ZC.html> .
+}
+
 <https://github.com/john1hsu/usa-graph/id/star-spangled-banner#graph> {
   <https://github.com/john1hsu/usa-graph/id/source/star-spangled-banner/s10> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
   <https://github.com/john1hsu/usa-graph/id/source/star-spangled-banner/s10> <http://purl.org/dc/terms/publisher> "WGBH News" .
@@ -31447,6 +31645,7 @@
   <https://github.com/john1hsu/usa-graph/id/american-home-front-during-world-war-ii> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/usa-graph/id/detroit-race-riot-of-1943> .
   <https://github.com/john1hsu/usa-graph/id/american-home-front-during-world-war-ii> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/detroit-race-riot-of-1943> .
   <https://github.com/john1hsu/usa-graph/id/american-indian-movement> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/native-americans> .
+  <https://github.com/john1hsu/usa-graph/id/american-legion> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/pledge-of-allegiance> .
   <https://github.com/john1hsu/usa-graph/id/american-legion> <https://github.com/john1hsu/usa-graph/ontology#influenced> <https://github.com/john1hsu/usa-graph/id/servicemens-readjustment-act-of-1944> .
   <https://github.com/john1hsu/usa-graph/id/american-national-identity> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/usa-graph/id/national-symbols-of-the-united-states> .
   <https://github.com/john1hsu/usa-graph/id/american-national-identity> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/betsy-ross-flag-myth> .
@@ -31454,6 +31653,7 @@
   <https://github.com/john1hsu/usa-graph/id/american-national-identity> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/great-seal-of-the-united-states> .
   <https://github.com/john1hsu/usa-graph/id/american-national-identity> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/liberty-bell> .
   <https://github.com/john1hsu/usa-graph/id/american-national-identity> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/national-symbols-of-the-united-states> .
+  <https://github.com/john1hsu/usa-graph/id/american-national-identity> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/pledge-of-allegiance> .
   <https://github.com/john1hsu/usa-graph/id/american-national-identity> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/star-spangled-banner> .
   <https://github.com/john1hsu/usa-graph/id/american-poetry> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/usa-graph/id/chinese-detention-barracks-poetry> .
   <https://github.com/john1hsu/usa-graph/id/american-poetry> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/chinese-detention-barracks-poetry> .
@@ -32496,6 +32696,7 @@
   <https://github.com/john1hsu/usa-graph/id/cold-war> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/immigration-and-nationality-act-of-1965> .
   <https://github.com/john1hsu/usa-graph/id/cold-war> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/jazz> .
   <https://github.com/john1hsu/usa-graph/id/cold-war> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/w-e-b-du-bois> .
+  <https://github.com/john1hsu/usa-graph/id/cold-war> <https://github.com/john1hsu/usa-graph/ontology#influenced> <https://github.com/john1hsu/usa-graph/id/pledge-of-allegiance> .
   <https://github.com/john1hsu/usa-graph/id/cold-war> <https://github.com/john1hsu/usa-graph/ontology#periodOf> <https://github.com/john1hsu/usa-graph/id/apollo-11> .
   <https://github.com/john1hsu/usa-graph/id/cold-war> <https://github.com/john1hsu/usa-graph/ontology#periodOf> <https://github.com/john1hsu/usa-graph/id/desegregation-of-little-rock-central-high-school> .
   <https://github.com/john1hsu/usa-graph/id/cold-war> <https://github.com/john1hsu/usa-graph/ontology#periodOf> <https://github.com/john1hsu/usa-graph/id/lunar-laser-ranging-experiment> .
@@ -33039,6 +33240,7 @@
   <https://github.com/john1hsu/usa-graph/id/dwight-d-eisenhower> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/alaska> .
   <https://github.com/john1hsu/usa-graph/id/dwight-d-eisenhower> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/desegregation-of-little-rock-central-high-school> .
   <https://github.com/john1hsu/usa-graph/id/dwight-d-eisenhower> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/nato> .
+  <https://github.com/john1hsu/usa-graph/id/dwight-d-eisenhower> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/pledge-of-allegiance> .
   <https://github.com/john1hsu/usa-graph/id/dwight-d-eisenhower> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/twenty-sixth-amendment> .
   <https://github.com/john1hsu/usa-graph/id/dwight-d-eisenhower> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/world-war-ii-and-the-united-states> .
   <https://github.com/john1hsu/usa-graph/id/e-d-nixon> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/montgomery-bus-boycott> .
@@ -33061,6 +33263,7 @@
   <https://github.com/john1hsu/usa-graph/id/e-pluribus-unum> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/usa-graph/id/american-national-identity> .
   <https://github.com/john1hsu/usa-graph/id/e-pluribus-unum> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/usa-graph/id/national-symbols-of-the-united-states> .
   <https://github.com/john1hsu/usa-graph/id/e-pluribus-unum> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/national-symbols-of-the-united-states> .
+  <https://github.com/john1hsu/usa-graph/id/e-pluribus-unum> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/pledge-of-allegiance> .
   <https://github.com/john1hsu/usa-graph/id/e-pluribus-unum> <https://github.com/john1hsu/usa-graph/ontology#requires> <https://github.com/john1hsu/usa-graph/id/thirteen-colonies> .
   <https://github.com/john1hsu/usa-graph/id/earl-warren> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/earl-warren> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Person> .
@@ -33160,6 +33363,7 @@
   <https://github.com/john1hsu/usa-graph/id/elizabeth-cady-stanton> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/womens-suffrage-movement> .
   <https://github.com/john1hsu/usa-graph/id/elizabeth-eckford> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/desegregation-of-little-rock-central-high-school> .
   <https://github.com/john1hsu/usa-graph/id/elizabeth-peratrovich> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/alaska> .
+  <https://github.com/john1hsu/usa-graph/id/elk-grove-unified-school-district-v-newdow> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/pledge-of-allegiance> .
   <https://github.com/john1hsu/usa-graph/id/elk-v-wilkins> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/fourteenth-amendment> .
   <https://github.com/john1hsu/usa-graph/id/ella-baker> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/civil-rights-movement> .
   <https://github.com/john1hsu/usa-graph/id/ella-baker> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/martin-luther-king-jr> .
@@ -33381,18 +33585,22 @@
   <https://github.com/john1hsu/usa-graph/id/fifth-amendment> <https://github.com/john1hsu/usa-graph/ontology#interpretedIn> <https://github.com/john1hsu/usa-graph/id/dred-scott-v-sandford> .
   <https://github.com/john1hsu/usa-graph/id/financial-crisis-inquiry-commission> <https://github.com/john1hsu/usa-graph/ontology#resultedFrom> <https://github.com/john1hsu/usa-graph/id/great-recession> .
   <https://github.com/john1hsu/usa-graph/id/first-amendment> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/bill-of-rights> .
+  <https://github.com/john1hsu/usa-graph/id/first-amendment> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/pledge-of-allegiance> .
   <https://github.com/john1hsu/usa-graph/id/first-continental-congress> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/second-continental-congress> .
   <https://github.com/john1hsu/usa-graph/id/first-inaugural-address-of-franklin-d-roosevelt> <https://github.com/john1hsu/usa-graph/ontology#introduces> <https://github.com/john1hsu/usa-graph/id/good-neighbor-policy> .
   <https://github.com/john1hsu/usa-graph/id/first-seminole-war> <https://github.com/john1hsu/usa-graph/ontology#participant> <https://github.com/john1hsu/usa-graph/id/andrew-jackson> .
   <https://github.com/john1hsu/usa-graph/id/first-thanksgiving-myth> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/thanksgiving> .
   <https://github.com/john1hsu/usa-graph/id/flag-day> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/betsy-ross-flag-myth> .
   <https://github.com/john1hsu/usa-graph/id/flag-day> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/national-symbols-of-the-united-states> .
+  <https://github.com/john1hsu/usa-graph/id/flag-day> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/pledge-of-allegiance> .
   <https://github.com/john1hsu/usa-graph/id/flag-of-the-united-states> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/usa-graph/id/betsy-ross-flag-myth> .
   <https://github.com/john1hsu/usa-graph/id/flag-of-the-united-states> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/betsy-ross-flag-myth> .
   <https://github.com/john1hsu/usa-graph/id/flag-of-the-united-states> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/e-pluribus-unum> .
   <https://github.com/john1hsu/usa-graph/id/flag-of-the-united-states> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/great-seal-of-the-united-states> .
   <https://github.com/john1hsu/usa-graph/id/flag-of-the-united-states> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/national-symbols-of-the-united-states> .
+  <https://github.com/john1hsu/usa-graph/id/flag-of-the-united-states> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/pledge-of-allegiance> .
   <https://github.com/john1hsu/usa-graph/id/flag-of-the-united-states> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/star-spangled-banner> .
+  <https://github.com/john1hsu/usa-graph/id/flag-of-the-united-states> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/pledge-of-allegiance> .
   <https://github.com/john1hsu/usa-graph/id/flag-resolution-of-1777> <https://github.com/john1hsu/usa-graph/ontology#challenges> <https://github.com/john1hsu/usa-graph/id/betsy-ross-flag-myth> .
   <https://github.com/john1hsu/usa-graph/id/flight-93-national-memorial> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/september-11-attacks> .
   <https://github.com/john1hsu/usa-graph/id/flint-sit-down-strike> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/labor-movement> .
@@ -33507,6 +33715,9 @@
   <https://github.com/john1hsu/usa-graph/id/frances-perkins> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/minimum-wage> .
   <https://github.com/john1hsu/usa-graph/id/frances-perkins> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/new-deal> .
   <https://github.com/john1hsu/usa-graph/id/frances-perkins> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/triangle-shirtwaist-factory-fire> .
+  <https://github.com/john1hsu/usa-graph/id/francis-bellamy> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/francis-bellamy> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Person> .
+  <https://github.com/john1hsu/usa-graph/id/francis-bellamy> <https://github.com/john1hsu/usa-graph/ontology#introduced> <https://github.com/john1hsu/usa-graph/id/pledge-of-allegiance> .
   <https://github.com/john1hsu/usa-graph/id/francis-hopkinson> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/betsy-ross-flag-myth> .
   <https://github.com/john1hsu/usa-graph/id/francis-hopkinson> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/e-pluribus-unum> .
   <https://github.com/john1hsu/usa-graph/id/francis-hopkinson> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/great-seal-of-the-united-states> .
@@ -34388,6 +34599,7 @@
   <https://github.com/john1hsu/usa-graph/id/impressment> <https://github.com/john1hsu/usa-graph/ontology#influenced> <https://github.com/john1hsu/usa-graph/id/war-of-1812> .
   <https://github.com/john1hsu/usa-graph/id/in-god-we-trust> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/e-pluribus-unum> .
   <https://github.com/john1hsu/usa-graph/id/in-god-we-trust> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/national-symbols-of-the-united-states> .
+  <https://github.com/john1hsu/usa-graph/id/in-god-we-trust> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/pledge-of-allegiance> .
   <https://github.com/john1hsu/usa-graph/id/in-god-we-trust> <https://github.com/john1hsu/usa-graph/ontology#confusedWith> <https://github.com/john1hsu/usa-graph/id/e-pluribus-unum> .
   <https://github.com/john1hsu/usa-graph/id/income-inequality-in-the-united-states> <https://github.com/john1hsu/usa-graph/ontology#affectedBy> <https://github.com/john1hsu/usa-graph/id/labor-movement> .
   <https://github.com/john1hsu/usa-graph/id/incorporation-of-the-bill-of-rights> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/bill-of-rights> .
@@ -34616,6 +34828,7 @@
   <https://github.com/john1hsu/usa-graph/id/jean-baptiste-le-moyne-de-bienville> <https://github.com/john1hsu/usa-graph/ontology#founded> <https://github.com/john1hsu/usa-graph/id/new-orleans> .
   <https://github.com/john1hsu/usa-graph/id/jean-baptiste-point-du-sable> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/chicago> .
   <https://github.com/john1hsu/usa-graph/id/jeannette-rankin> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/house-of-representatives> .
+  <https://github.com/john1hsu/usa-graph/id/jehovahs-witnesses> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/pledge-of-allegiance> .
   <https://github.com/john1hsu/usa-graph/id/jennings-randolph> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/jennings-randolph> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Person> .
   <https://github.com/john1hsu/usa-graph/id/jennings-randolph> <https://github.com/john1hsu/usa-graph/ontology#introduced> <https://github.com/john1hsu/usa-graph/id/twenty-sixth-amendment> .
@@ -35346,6 +35559,7 @@
   <https://github.com/john1hsu/usa-graph/id/mikhail-gorbachev> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/cold-war> .
   <https://github.com/john1hsu/usa-graph/id/minerals-management-service> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/bureau-of-ocean-energy-management> .
   <https://github.com/john1hsu/usa-graph/id/minerals-management-service> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/deepwater-horizon-oil-spill> .
+  <https://github.com/john1hsu/usa-graph/id/minersville-school-district-v-gobitis> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/pledge-of-allegiance> .
   <https://github.com/john1hsu/usa-graph/id/minimum-wage/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/minimum-wage/review/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/minimum-wage/review/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
@@ -35646,11 +35860,13 @@
   <https://github.com/john1hsu/usa-graph/id/national-symbols-of-the-united-states> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/usa-graph/id/e-pluribus-unum> .
   <https://github.com/john1hsu/usa-graph/id/national-symbols-of-the-united-states> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/usa-graph/id/great-seal-of-the-united-states> .
   <https://github.com/john1hsu/usa-graph/id/national-symbols-of-the-united-states> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/usa-graph/id/liberty-bell> .
+  <https://github.com/john1hsu/usa-graph/id/national-symbols-of-the-united-states> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/usa-graph/id/pledge-of-allegiance> .
   <https://github.com/john1hsu/usa-graph/id/national-symbols-of-the-united-states> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/usa-graph/id/star-spangled-banner> .
   <https://github.com/john1hsu/usa-graph/id/national-symbols-of-the-united-states> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/betsy-ross-flag-myth> .
   <https://github.com/john1hsu/usa-graph/id/national-symbols-of-the-united-states> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/e-pluribus-unum> .
   <https://github.com/john1hsu/usa-graph/id/national-symbols-of-the-united-states> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/great-seal-of-the-united-states> .
   <https://github.com/john1hsu/usa-graph/id/national-symbols-of-the-united-states> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/liberty-bell> .
+  <https://github.com/john1hsu/usa-graph/id/national-symbols-of-the-united-states> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/pledge-of-allegiance> .
   <https://github.com/john1hsu/usa-graph/id/national-symbols-of-the-united-states> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/star-spangled-banner> .
   <https://github.com/john1hsu/usa-graph/id/national-symbols-of-the-united-states> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/war-of-1812> .
   <https://github.com/john1hsu/usa-graph/id/national-symbols-of-the-united-states> <https://github.com/john1hsu/usa-graph/ontology#requires> <https://github.com/john1hsu/usa-graph/id/articles-of-confederation> .
@@ -36226,6 +36442,30 @@
   <https://github.com/john1hsu/usa-graph/id/pittsburgh> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/pennsylvania> .
   <https://github.com/john1hsu/usa-graph/id/pittsburgh> <https://github.com/john1hsu/usa-graph/ontology#siteOf> <https://github.com/john1hsu/usa-graph/id/great-railroad-strike-of-1877> .
   <https://github.com/john1hsu/usa-graph/id/plate-tectonics> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/1964-alaska-earthquake> .
+  <https://github.com/john1hsu/usa-graph/id/pledge-of-allegiance-under-god-myth> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/pledge-of-allegiance> .
+  <https://github.com/john1hsu/usa-graph/id/pledge-of-allegiance/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/pledge-of-allegiance/review/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/pledge-of-allegiance/review/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/pledge-of-allegiance/review/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/pledge-of-allegiance/timeline/10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/pledge-of-allegiance/timeline/11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/pledge-of-allegiance/timeline/12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/pledge-of-allegiance/timeline/13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/pledge-of-allegiance/timeline/14> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/pledge-of-allegiance/timeline/15> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/pledge-of-allegiance/timeline/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/pledge-of-allegiance/timeline/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/pledge-of-allegiance/timeline/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/pledge-of-allegiance/timeline/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/pledge-of-allegiance/timeline/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/pledge-of-allegiance/timeline/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/pledge-of-allegiance/timeline/7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/pledge-of-allegiance/timeline/8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/pledge-of-allegiance/timeline/9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/pledge-of-allegiance> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Concept> .
+  <https://github.com/john1hsu/usa-graph/id/pledge-of-allegiance> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/pledge-of-allegiance> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/usa-graph/id/american-national-identity> .
+  <https://github.com/john1hsu/usa-graph/id/pledge-of-allegiance> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/usa-graph/id/national-symbols-of-the-united-states> .
   <https://github.com/john1hsu/usa-graph/id/pledge-of-allegiance> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/national-symbols-of-the-united-states> .
   <https://github.com/john1hsu/usa-graph/id/plessy-v-ferguson/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/plessy-v-ferguson/review/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
@@ -37728,6 +37968,7 @@
   <https://github.com/john1hsu/usa-graph/id/united-states-code> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Document> .
   <https://github.com/john1hsu/usa-graph/id/united-states-code> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/united-states-code> <https://github.com/john1hsu/usa-graph/ontology#establishes> <https://github.com/john1hsu/usa-graph/id/national-symbols-of-the-united-states> .
+  <https://github.com/john1hsu/usa-graph/id/united-states-code> <https://github.com/john1hsu/usa-graph/ontology#establishes> <https://github.com/john1hsu/usa-graph/id/pledge-of-allegiance> .
   <https://github.com/john1hsu/usa-graph/id/united-states-colored-troops> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/african-americans> .
   <https://github.com/john1hsu/usa-graph/id/united-states-colored-troops> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/american-civil-war> .
   <https://github.com/john1hsu/usa-graph/id/united-states-colored-troops> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/frederick-douglass> .
@@ -37991,6 +38232,7 @@
   <https://github.com/john1hsu/usa-graph/id/united-states> <https://github.com/john1hsu/usa-graph/ontology#symbolizedBy> <https://github.com/john1hsu/usa-graph/id/e-pluribus-unum> .
   <https://github.com/john1hsu/usa-graph/id/united-states> <https://github.com/john1hsu/usa-graph/ontology#symbolizedBy> <https://github.com/john1hsu/usa-graph/id/great-seal-of-the-united-states> .
   <https://github.com/john1hsu/usa-graph/id/united-states> <https://github.com/john1hsu/usa-graph/ontology#symbolizedBy> <https://github.com/john1hsu/usa-graph/id/national-symbols-of-the-united-states> .
+  <https://github.com/john1hsu/usa-graph/id/united-states> <https://github.com/john1hsu/usa-graph/ontology#symbolizedBy> <https://github.com/john1hsu/usa-graph/id/pledge-of-allegiance> .
   <https://github.com/john1hsu/usa-graph/id/united-states> <https://github.com/john1hsu/usa-graph/ontology#symbolizedBy> <https://github.com/john1hsu/usa-graph/id/star-spangled-banner> .
   <https://github.com/john1hsu/usa-graph/id/universal-pictures> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/hollywood> .
   <https://github.com/john1hsu/usa-graph/id/university-of-pennsylvania> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/benjamin-franklin> .
@@ -38208,6 +38450,7 @@
   <https://github.com/john1hsu/usa-graph/id/west-coast-hotel-co-v-parrish> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/supreme-court-of-the-united-states> .
   <https://github.com/john1hsu/usa-graph/id/west-coast-hotel-co-v-parrish> <https://github.com/john1hsu/usa-graph/ontology#influenced> <https://github.com/john1hsu/usa-graph/id/minimum-wage> .
   <https://github.com/john1hsu/usa-graph/id/west-virginia-state-board-of-education-v-barnette> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/national-symbols-of-the-united-states> .
+  <https://github.com/john1hsu/usa-graph/id/west-virginia-state-board-of-education-v-barnette> <https://github.com/john1hsu/usa-graph/ontology#resultedFrom> <https://github.com/john1hsu/usa-graph/id/pledge-of-allegiance> .
   <https://github.com/john1hsu/usa-graph/id/west-virginia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/west-virginia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Place> .
   <https://github.com/john1hsu/usa-graph/id/west-virginia> <https://github.com/john1hsu/usa-graph/ontology#siteOf> <https://github.com/john1hsu/usa-graph/id/great-railroad-strike-of-1877> .
@@ -38408,6 +38651,7 @@
   <https://github.com/john1hsu/usa-graph/id/world-war-ii> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/mccarthyism> .
   <https://github.com/john1hsu/usa-graph/id/world-war-ii> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/nato> .
   <https://github.com/john1hsu/usa-graph/id/worlds-columbian-exposition> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/chicago> .
+  <https://github.com/john1hsu/usa-graph/id/worlds-columbian-exposition> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/pledge-of-allegiance> .
   <https://github.com/john1hsu/usa-graph/id/wounded-knee-massacre> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/the-west> .
   <https://github.com/john1hsu/usa-graph/id/wright-brothers-first-flight/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/wright-brothers-first-flight/review/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
@@ -38547,6 +38791,7 @@
   <https://github.com/john1hsu/usa-graph/id/yellowstone-national-park> <https://github.com/john1hsu/usa-graph/ontology#siteOf> <https://github.com/john1hsu/usa-graph/id/hayden-geological-survey-of-1871> .
   <https://github.com/john1hsu/usa-graph/id/york-of-the-corps-of-discovery> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/lewis-and-clark-expedition> .
   <https://github.com/john1hsu/usa-graph/id/youth-franchise-coalition> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/twenty-sixth-amendment> .
+  <https://github.com/john1hsu/usa-graph/id/youths-companion> <https://github.com/john1hsu/usa-graph/ontology#introduces> <https://github.com/john1hsu/usa-graph/id/pledge-of-allegiance> .
   <https://github.com/john1hsu/usa-graph/id/zachary-taylor> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/zachary-taylor> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Person> .
   <https://github.com/john1hsu/usa-graph/id/zachary-taylor> <https://github.com/john1hsu/usa-graph/ontology#led> <https://github.com/john1hsu/usa-graph/id/mexican-american-war> .

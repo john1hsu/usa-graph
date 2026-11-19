@@ -18399,6 +18399,175 @@
    }
   },
   {
+   "@id": "https://github.com/john1hsu/usa-graph/id/pledge-of-allegiance/misconception",
+   "@type": "uso:Misconception",
+   "uso:fact": "The pledge was written in 1892, more than a century after independence, and the version Congress first put into law in 1942 contained no reference to God; the words \"under God\" were added on June 14, 1954.",
+   "uso:myth": "The Pledge of Allegiance dates from the founding era and has always said \"one Nation under God.\"",
+   "uso:why": "The pledge is recited so routinely, and so often alongside founding-era symbols, that its late origin and its several revisions are easy to forget; the 2002 congressional findings defending the phrase also linked it to the Mayflower Compact and the Declaration of Independence."
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/pledge-of-allegiance/review/1",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "Why was the pledge first written, and how did it reach so many schoolchildren at once?",
+   "uso:answer": "The Youth's Companion, a magazine with about half a million subscribers, organized a national school program for the October 1892 Columbus Day quadricentennial; Francis Bellamy, on its staff, wrote the pledge for the ceremony, and the magazine published it in September and lobbied Congress and President Harrison to back the holiday.",
+   "uso:questionFor": {
+    "@id": "us:pledge-of-allegiance"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/pledge-of-allegiance/review/2",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "How did the Supreme Court move from upholding compulsory flag salutes to forbidding them within three years?",
+   "uso:answer": "In Gobitis (1940) it ruled 8-1 that schools could require the salute, and a wave of mob violence against Jehovah's Witnesses followed. When West Virginia made the salute and pledge compulsory in 1942, the Barnett family sued, and in Barnette (1943) the Court overruled Gobitis, holding that officials may not force citizens to profess beliefs about politics, nationalism or religion.",
+   "uso:questionFor": {
+    "@id": "us:pledge-of-allegiance"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/pledge-of-allegiance/review/3",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "Why did the Supreme Court's 2004 Newdow decision leave the constitutionality of \"under God\" unresolved?",
+   "uso:answer": "The majority decided only that Michael Newdow lacked standing to sue on his daughter's behalf, because under California custody law he could not act as her next friend; only three justices, concurring in the judgment, addressed the merits and found the phrase constitutional.",
+   "uso:questionFor": {
+    "@id": "us:pledge-of-allegiance"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/pledge-of-allegiance/timeline/1",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The Youth's Companion, a Boston magazine for young readers, first publishes the pledge, without a byline or copyright.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1892-09-08"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/pledge-of-allegiance/timeline/10",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Congress adopts the official name 'The Pledge of Allegiance'.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1945"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/pledge-of-allegiance/timeline/11",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "President Eisenhower signs the act adding 'under God' after 'one Nation'.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1954-06-14"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/pledge-of-allegiance/timeline/12",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "A divided Ninth Circuit panel holds the 1954 words unconstitutional in a California school case brought by Michael Newdow.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "2002-06-26"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/pledge-of-allegiance/timeline/13",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Congress reenacts the pledge with 'under God' and adds findings rejecting the Ninth Circuit's ruling.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "2002-11-13"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/pledge-of-allegiance/timeline/14",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "In Elk Grove Unified School District v. Newdow the Supreme Court reverses on standing without ruling on 'under God'.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "2004-06-14"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/pledge-of-allegiance/timeline/15",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Congress allows veterans and service members out of uniform to give the military salute during the pledge.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "2013-12-26"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/pledge-of-allegiance/timeline/2",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Schoolchildren recite it at Columbus Day ceremonies marking 400 years since Columbus's arrival.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1892-10-21"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/pledge-of-allegiance/timeline/3",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "A National Flag Conference led by the American Legion and the Daughters of the American Revolution changes 'my Flag' to 'the flag of the United States'.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1923"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/pledge-of-allegiance/timeline/4",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The conference adds 'of America'.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1924"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/pledge-of-allegiance/timeline/5",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Lillian and William Gobitas are expelled from school in Minersville, Pennsylvania, for refusing the flag salute.",
+   "uso:date": {
+    "@type": "xsd:gYearMonth",
+    "@value": "1935-11"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/pledge-of-allegiance/timeline/6",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "In Minersville School District v. Gobitis the Supreme Court, 8-1, upholds compulsory flag salutes.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1940-06-03"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/pledge-of-allegiance/timeline/7",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "West Virginia's Board of Education makes the salute and pledge compulsory in public schools.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1942-01-09"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/pledge-of-allegiance/timeline/8",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "A joint resolution of Congress writes the pledge into federal law as part of a code of flag customs.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1942-06-22"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/pledge-of-allegiance/timeline/9",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "In West Virginia State Board of Education v. Barnette the Court overrules Gobitis: schools may not compel the salute or pledge.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1943-06-14"
+   }
+  },
+  {
    "@id": "https://github.com/john1hsu/usa-graph/id/plessy-v-ferguson/misconception",
    "@type": "uso:Misconception",
    "uso:fact": "The majority opinion speaks of the statute's \"equal but separate\" accommodations; the words \"separate but equal\" appear in Justice Harlan's dissent, and the label for the doctrine became common afterward.",
@@ -36571,6 +36740,146 @@
     "@id": "https://philadelphiaencyclopedia.org/?p=2249"
    },
    "uso:sourceType": "scholarly-encyclopedia"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/pledge-of-allegiance/s1",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "U.S. Government Publishing Office (govinfo)",
+   "dcterms:title": "4 U.S.C. 4 - Pledge of allegiance to the flag; manner of delivery (U.S. Code, 2018 edition)",
+   "schema:url": {
+    "@id": "https://www.govinfo.gov/content/pkg/USCODE-2018-title4/html/USCODE-2018-title4-chap1-sec4.htm"
+   },
+   "uso:sourceType": "primary"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/pledge-of-allegiance/s10",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "The American Presidency Project, University of California, Santa Barbara",
+   "dcterms:title": "Statement by the President Upon Signing Bill To Include the Words \"Under God\" in the Pledge to the Flag (June 14, 1954)",
+   "schema:url": {
+    "@id": "https://www.presidency.ucsb.edu/documents/statement-the-president-upon-signing-bill-include-the-words-under-god-the-pledge-the-flag"
+   },
+   "uso:sourceType": "academic"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/pledge-of-allegiance/s2",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "U.S. Government Publishing Office (govinfo)",
+   "dcterms:title": "Public Law 107-293: To reaffirm the reference to one Nation under God in the Pledge of Allegiance",
+   "schema:url": {
+    "@id": "https://www.govinfo.gov/content/pkg/PLAW-107publ293/html/PLAW-107publ293.htm"
+   },
+   "uso:sourceType": "primary"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/pledge-of-allegiance/s3",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "U.S. Department of Veterans Affairs",
+   "dcterms:title": "The Pledge of Allegiance",
+   "schema:url": {
+    "@id": "https://www.va.gov:443/opa/publications/celebrate/pledge.pdf"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/pledge-of-allegiance/s4",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "Smithsonian Magazine",
+   "dcterms:title": "The Man Who Wrote the Pledge of Allegiance",
+   "schema:url": {
+    "@id": "https://www.smithsonianmag.com/history/the-man-who-wrote-the-pledge-of-allegiance-93907224/."
+   },
+   "uso:sourceType": "magazine"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/pledge-of-allegiance/s5",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "Encyclopaedia Britannica",
+   "dcterms:title": "Pledge of Allegiance to the Flag of the United States of America",
+   "schema:url": {
+    "@id": "https://britannica.com/event/Pledge-of-Allegiance-to-the-Flag-of-the-United-States-of-America"
+   },
+   "uso:sourceType": "encyclopedia"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/pledge-of-allegiance/s6",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "Legal Information Institute, Cornell Law School",
+   "dcterms:title": "West Virginia State Board of Education v. Barnette, 319 U.S. 624 (1943)",
+   "schema:url": {
+    "@id": "https://www.law.cornell.edu/supremecourt/text/319/624"
+   },
+   "uso:sourceType": "primary"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/pledge-of-allegiance/s7",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "Federal Judicial Center",
+   "dcterms:title": "The Flag Salute Cases (Federal Trials and Great Debates in United States History)",
+   "schema:url": {
+    "@id": "https://www.fjc.gov/sites/default/files/trials/Flag_Salute_Cases.pdf"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/pledge-of-allegiance/s8",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "Congressional Research Service, via EveryCRSReport",
+   "dcterms:title": "The Constitutionality of Including the Phrase \"Under God\" in the Pledge of Allegiance (CRS Report RS21250, updated June 18, 2004)",
+   "schema:url": {
+    "@id": "https://www.everycrsreport.com/files/20040618_RS21250_2a2eb68d647f8c274aa99fb43dd2c186e0167c0b.html"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/pledge-of-allegiance/s9",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "Legal Information Institute, Cornell Law School",
+   "dcterms:title": "Elk Grove Unified School District v. Newdow, 542 U.S. 1 (2004), Rehnquist, C.J., concurring in the judgment",
+   "schema:url": {
+    "@id": "https://www.law.cornell.edu/supct/html/02-1624.ZC.html"
+   },
+   "uso:sourceType": "primary"
   },
   {
    "@id": "https://github.com/john1hsu/usa-graph/id/source/plessy-v-ferguson/s1",
@@ -67959,6 +68268,178 @@
     },
     {
      "@id": "https://github.com/john1hsu/usa-graph/id/philadelphia/timeline/9"
+    }
+   ]
+  },
+  {
+   "@id": "us:pledge-of-allegiance",
+   "@type": "uso:Symbol",
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/pledge-of-allegiance/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/pledge-of-allegiance/s10"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/pledge-of-allegiance/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/pledge-of-allegiance/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/pledge-of-allegiance/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/pledge-of-allegiance/s5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/pledge-of-allegiance/s6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/pledge-of-allegiance/s7"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/pledge-of-allegiance/s8"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/pledge-of-allegiance/s9"
+    }
+   ],
+   "rdfs:label": "Pledge of Allegiance",
+   "schema:startDate": {
+    "@type": "xsd:date",
+    "@value": "1892-09-08"
+   },
+   "skos:altLabel": [
+    "Bellamy's pledge",
+    "Pledge of Allegiance to the Flag",
+    "Pledge to the Flag",
+    "The Pledge of Allegiance"
+   ],
+   "skos:broader": {
+    "@id": "us:national-symbols-of-the-united-states"
+   },
+   "skos:definition": "The oath of loyalty to the U.S. flag and the republic it stands for, first published in The Youth's Companion in September 1892 for school Columbus Day celebrations, written into federal law in 1942 and amended to add \"under God\" in 1954; since 1943 no public school may compel anyone to recite it.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/usa-graph/id/scheme/symbols-and-national-identity"
+   },
+   "skos:prefLabel": "Pledge of Allegiance",
+   "skos:related": [
+    {
+     "@id": "us:american-legion"
+    },
+    {
+     "@id": "us:dwight-d-eisenhower"
+    },
+    {
+     "@id": "us:e-pluribus-unum"
+    },
+    {
+     "@id": "us:elk-grove-unified-school-district-v-newdow"
+    },
+    {
+     "@id": "us:first-amendment"
+    },
+    {
+     "@id": "us:flag-day"
+    },
+    {
+     "@id": "us:flag-of-the-united-states"
+    },
+    {
+     "@id": "us:in-god-we-trust"
+    },
+    {
+     "@id": "us:jehovahs-witnesses"
+    },
+    {
+     "@id": "us:minersville-school-district-v-gobitis"
+    },
+    {
+     "@id": "us:pledge-of-allegiance-under-god-myth"
+    },
+    {
+     "@id": "us:worlds-columbian-exposition"
+    }
+   ],
+   "uso:domain": "symbols-and-national-identity",
+   "uso:establishedBy": {
+    "@id": "us:united-states-code"
+   },
+   "uso:evidenceStatus": "interpretive",
+   "uso:file": "articles/symbols-and-national-identity/pledge-of-allegiance.md",
+   "uso:influencedBy": {
+    "@id": "us:cold-war"
+   },
+   "uso:introducedBy": {
+    "@id": "us:francis-bellamy"
+   },
+   "uso:introducedIn": {
+    "@id": "us:youths-companion"
+   },
+   "uso:ledTo": {
+    "@id": "us:west-virginia-state-board-of-education-v-barnette"
+   },
+   "uso:level": "introductory",
+   "uso:misconception": {
+    "@id": "https://github.com/john1hsu/usa-graph/id/pledge-of-allegiance/misconception"
+   },
+   "uso:requires": {
+    "@id": "us:flag-of-the-united-states"
+   },
+   "uso:symbolizes": {
+    "@id": "us:united-states"
+   },
+   "uso:timelineEntry": [
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/pledge-of-allegiance/timeline/1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/pledge-of-allegiance/timeline/10"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/pledge-of-allegiance/timeline/11"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/pledge-of-allegiance/timeline/12"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/pledge-of-allegiance/timeline/13"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/pledge-of-allegiance/timeline/14"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/pledge-of-allegiance/timeline/15"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/pledge-of-allegiance/timeline/2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/pledge-of-allegiance/timeline/3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/pledge-of-allegiance/timeline/4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/pledge-of-allegiance/timeline/5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/pledge-of-allegiance/timeline/6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/pledge-of-allegiance/timeline/7"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/pledge-of-allegiance/timeline/8"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/pledge-of-allegiance/timeline/9"
     }
    ]
   },

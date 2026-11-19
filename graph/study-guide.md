@@ -2659,6 +2659,21 @@ Every review question (with its answer) and every myth-versus-fact in the graph,
 - **Q:** How is the origin of Uncle Sam different from that of the flag or the national anthem?
   **A:** The flag and anthem were adopted by acts of Congress, while Uncle Sam grew out of popular usage during the War of 1812 and was shaped by cartoonists and poster artists; Congress only honored Samuel Wilson as the figure's progenitor in 1961, and the National Park Service still calls the name's origin disputed.
 
+### [Pledge of Allegiance](../articles/symbols-and-national-identity/pledge-of-allegiance.md) — Symbol
+
+| Myth | Fact |
+|---|---|
+| The Pledge of Allegiance dates from the founding era and has always said "one Nation under God." | The pledge was written in 1892, more than a century after independence, and the version Congress first put into law in 1942 contained no reference to God; the words "under God" were added on June 14, 1954. |
+
+**Why it matters:** The pledge is recited so routinely, and so often alongside founding-era symbols, that its late origin and its several revisions are easy to forget; the 2002 congressional findings defending the phrase also linked it to the Mayflower Compact and the Declaration of Independence.
+
+- **Q:** Why was the pledge first written, and how did it reach so many schoolchildren at once?
+  **A:** The Youth's Companion, a magazine with about half a million subscribers, organized a national school program for the October 1892 Columbus Day quadricentennial; Francis Bellamy, on its staff, wrote the pledge for the ceremony, and the magazine published it in September and lobbied Congress and President Harrison to back the holiday.
+- **Q:** How did the Supreme Court move from upholding compulsory flag salutes to forbidding them within three years?
+  **A:** In Gobitis (1940) it ruled 8-1 that schools could require the salute, and a wave of mob violence against Jehovah's Witnesses followed. When West Virginia made the salute and pledge compulsory in 1942, the Barnett family sued, and in Barnette (1943) the Court overruled Gobitis, holding that officials may not force citizens to profess beliefs about politics, nationalism or religion.
+- **Q:** Why did the Supreme Court's 2004 Newdow decision leave the constitutionality of "under God" unresolved?
+  **A:** The majority decided only that Michael Newdow lacked standing to sue on his daughter's behalf, because under California custody law he could not act as her next friend; only three justices, concurring in the judgment, addressed the merits and found the phrase constitutional.
+
 ### [The Star-Spangled Banner](../articles/symbols-and-national-identity/star-spangled-banner.md) — Symbol
 
 | Myth | Fact |

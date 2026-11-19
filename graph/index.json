@@ -23046,6 +23046,212 @@
   ]
  },
  {
+  "id": "us:pledge-of-allegiance",
+  "title": "Pledge of Allegiance",
+  "aliases": [
+   "Pledge of Allegiance to the Flag",
+   "The Pledge of Allegiance",
+   "Pledge to the Flag",
+   "Bellamy's pledge"
+  ],
+  "type": "Symbol",
+  "domain": "symbols-and-national-identity",
+  "level": "introductory",
+  "evidenceStatus": "interpretive",
+  "file": "articles/symbols-and-national-identity/pledge-of-allegiance.md",
+  "created": "2026-11-19",
+  "summary": "The oath of loyalty to the U.S. flag and the republic it stands for, first published in The Youth's Companion in September 1892 for school Columbus Day celebrations, written into federal law in 1942 and amended to add \"under God\" in 1954; since 1943 no public school may compel anyone to recite it.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "us:national-symbols-of-the-united-states"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:flag-of-the-united-states"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:flag-day"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:in-god-we-trust"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:e-pluribus-unum"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:first-amendment"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:dwight-d-eisenhower"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:american-legion"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:worlds-columbian-exposition"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:minersville-school-district-v-gobitis"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:elk-grove-unified-school-district-v-newdow"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:jehovahs-witnesses"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:pledge-of-allegiance-under-god-myth"
+   },
+   {
+    "predicate": "uso:requires",
+    "object": "us:flag-of-the-united-states"
+   },
+   {
+    "predicate": "uso:introducedBy",
+    "object": "us:francis-bellamy",
+    "source": "s5",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:introducedIn",
+    "object": "us:youths-companion",
+    "source": "s5",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:establishedBy",
+    "object": "us:united-states-code",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:symbolizes",
+    "object": "us:united-states",
+    "source": "s1",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "uso:influencedBy",
+    "object": "us:cold-war",
+    "source": "s9",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "uso:ledTo",
+    "object": "us:west-virginia-state-board-of-education-v-barnette",
+    "source": "s7",
+    "confidence": "medium"
+   }
+  ],
+  "start": "1892-09-08",
+  "end": null,
+  "review": [
+   {
+    "question": "Why was the pledge first written, and how did it reach so many schoolchildren at once?",
+    "answer": "The Youth's Companion, a magazine with about half a million subscribers, organized a national school program for the October 1892 Columbus Day quadricentennial; Francis Bellamy, on its staff, wrote the pledge for the ceremony, and the magazine published it in September and lobbied Congress and President Harrison to back the holiday."
+   },
+   {
+    "question": "How did the Supreme Court move from upholding compulsory flag salutes to forbidding them within three years?",
+    "answer": "In Gobitis (1940) it ruled 8-1 that schools could require the salute, and a wave of mob violence against Jehovah's Witnesses followed. When West Virginia made the salute and pledge compulsory in 1942, the Barnett family sued, and in Barnette (1943) the Court overruled Gobitis, holding that officials may not force citizens to profess beliefs about politics, nationalism or religion."
+   },
+   {
+    "question": "Why did the Supreme Court's 2004 Newdow decision leave the constitutionality of \"under God\" unresolved?",
+    "answer": "The majority decided only that Michael Newdow lacked standing to sue on his daughter's behalf, because under California custody law he could not act as her next friend; only three justices, concurring in the judgment, addressed the merits and found the phrase constitutional."
+   }
+  ],
+  "timeline": [
+   {
+    "date": "1892-09-08",
+    "event": "The Youth's Companion, a Boston magazine for young readers, first publishes the pledge, without a byline or copyright."
+   },
+   {
+    "date": "1892-10-21",
+    "event": "Schoolchildren recite it at Columbus Day ceremonies marking 400 years since Columbus's arrival."
+   },
+   {
+    "date": "1923",
+    "event": "A National Flag Conference led by the American Legion and the Daughters of the American Revolution changes 'my Flag' to 'the flag of the United States'."
+   },
+   {
+    "date": "1924",
+    "event": "The conference adds 'of America'."
+   },
+   {
+    "date": "1935-11",
+    "event": "Lillian and William Gobitas are expelled from school in Minersville, Pennsylvania, for refusing the flag salute."
+   },
+   {
+    "date": "1940-06-03",
+    "event": "In Minersville School District v. Gobitis the Supreme Court, 8-1, upholds compulsory flag salutes."
+   },
+   {
+    "date": "1942-01-09",
+    "event": "West Virginia's Board of Education makes the salute and pledge compulsory in public schools."
+   },
+   {
+    "date": "1942-06-22",
+    "event": "A joint resolution of Congress writes the pledge into federal law as part of a code of flag customs."
+   },
+   {
+    "date": "1943-06-14",
+    "event": "In West Virginia State Board of Education v. Barnette the Court overrules Gobitis: schools may not compel the salute or pledge."
+   },
+   {
+    "date": "1945",
+    "event": "Congress adopts the official name 'The Pledge of Allegiance'."
+   },
+   {
+    "date": "1954-06-14",
+    "event": "President Eisenhower signs the act adding 'under God' after 'one Nation'."
+   },
+   {
+    "date": "2002-06-26",
+    "event": "A divided Ninth Circuit panel holds the 1954 words unconstitutional in a California school case brought by Michael Newdow."
+   },
+   {
+    "date": "2002-11-13",
+    "event": "Congress reenacts the pledge with 'under God' and adds findings rejecting the Ninth Circuit's ruling."
+   },
+   {
+    "date": "2004-06-14",
+    "event": "In Elk Grove Unified School District v. Newdow the Supreme Court reverses on standing without ruling on 'under God'."
+   },
+   {
+    "date": "2013-12-26",
+    "event": "Congress allows veterans and service members out of uniform to give the military salute during the pledge."
+   }
+  ],
+  "misconception": {
+   "myth": "The Pledge of Allegiance dates from the founding era and has always said \"one Nation under God.\"",
+   "fact": "The pledge was written in 1892, more than a century after independence, and the version Congress first put into law in 1942 contained no reference to God; the words \"under God\" were added on June 14, 1954.",
+   "why": "The pledge is recited so routinely, and so often alongside founding-era symbols, that its late origin and its several revisions are easy to forget; the 2002 congressional findings defending the phrase also linked it to the Mayflower Compact and the Declaration of Independence."
+  },
+  "source_urls": [
+   "https://www.govinfo.gov/content/pkg/USCODE-2018-title4/html/USCODE-2018-title4-chap1-sec4.htm",
+   "https://www.govinfo.gov/content/pkg/PLAW-107publ293/html/PLAW-107publ293.htm",
+   "https://www.va.gov:443/opa/publications/celebrate/pledge.pdf",
+   "https://www.smithsonianmag.com/history/the-man-who-wrote-the-pledge-of-allegiance-93907224/.",
+   "https://britannica.com/event/Pledge-of-Allegiance-to-the-Flag-of-the-United-States-of-America",
+   "https://www.law.cornell.edu/supremecourt/text/319/624",
+   "https://www.fjc.gov/sites/default/files/trials/Flag_Salute_Cases.pdf",
+   "https://www.everycrsreport.com/files/20040618_RS21250_2a2eb68d647f8c274aa99fb43dd2c186e0167c0b.html",
+   "https://www.law.cornell.edu/supct/html/02-1624.ZC.html",
+   "https://www.presidency.ucsb.edu/documents/statement-the-president-upon-signing-bill-include-the-words-under-god-the-pledge-the-flag"
+  ]
+ },
+ {
   "id": "us:plessy-v-ferguson",
   "title": "Plessy v. Ferguson",
   "aliases": [

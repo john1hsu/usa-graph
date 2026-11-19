@@ -57,7 +57,7 @@ _Which nodes led to, established or affected the most other things in the graph?
 | `us:census-and-apportionment` | 3 | Native Americans, United States House of Representatives, redistricting-in-the-united-states |
 | `us:cherokee-nation-v-georgia` | 3 | cherokee-nation, federal-trust-responsibility, worcester-v-georgia |
 
-…and 102 more.
+…and 103 more.
 
 ## Happenings by era
 
@@ -124,7 +124,7 @@ _Which nodes are myths, contested or open to competing interpretations, and what
 | `us:gilded-age` | interpretive |  |
 | `us:good-neighbor-policy` | interpretive |  |
 
-…and 53 more.
+…and 54 more.
 
 ## Places with nothing tied to them (gap)
 
@@ -221,7 +221,7 @@ _Which institutions, offices, rights and principles did each document or law est
 | `us:thanksgiving-day-resolution-of-1941` | `us:thanksgiving` |
 | `us:thanksgiving-proclamation-of-1863` | `us:thanksgiving` |
 | `us:united-states-code` | `us:national-symbols-of-the-united-states` |
-| `us:united-states-constitution` | `us:census-and-apportionment` |
+| `us:united-states-code` | `us:pledge-of-allegiance` |
 
-…and 9 more.
+…and 10 more.
 
