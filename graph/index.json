@@ -21358,6 +21358,280 @@
   ]
  },
  {
+  "id": "us:new-york-city",
+  "title": "New York City",
+  "aliases": [
+   "NYC",
+   "City of New York",
+   "City of Greater New York",
+   "New Amsterdam",
+   "Manahatta"
+  ],
+  "type": "City",
+  "domain": "regions-cities-and-landmarks",
+  "level": "introductory",
+  "evidenceStatus": "established",
+  "file": "articles/regions-cities-and-landmarks/new-york-city.md",
+  "created": "2026-11-19",
+  "summary": "The most populous city in the United States, built on Lenape (Munsee) homeland at the mouth of the Hudson River; founded as the Dutch trading town of New Amsterdam in the 1620s, renamed New York under English rule in 1664, briefly the first federal capital, and consolidated into five boroughs in 1898, it became the nation's leading commercial port and a gateway for immigrants, with 8,804,190 residents in the 2020 census.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "us:mid-atlantic"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:new-york"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:lenape"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:new-amsterdam"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:new-netherland"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:dutch-west-india-company"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:purchase-of-manhattan"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:slavery-in-the-united-states"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:african-americans"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:african-burial-ground-national-monument"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:american-revolutionary-war"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:black-loyalists"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:federal-hall"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:george-washington"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:federalist-papers"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:erie-canal"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:hudson-river"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:american-civil-war"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:new-york-city-draft-riots"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:ellis-island"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:statue-of-liberty"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:immigration-to-the-united-states"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:triangle-shirtwaist-factory-fire"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:stock-market-crash-of-1929"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:panic-of-1873"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:harlem-renaissance"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:great-migration"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:stonewall-uprising"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:hip-hop"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:september-11-attacks"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:world-trade-center"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:philadelphia"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:chicago"
+   },
+   {
+    "predicate": "uso:locatedIn",
+    "object": "us:new-york",
+    "source": "s17",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:borders",
+    "object": "us:hudson-river",
+    "source": "s10",
+    "confidence": "medium"
+   }
+  ],
+  "start": null,
+  "end": null,
+  "review": [
+   {
+    "question": "Why is the story that Manhattan was sold for $24 misleading?",
+    "answer": "The only 1626 record says the island was acquired for goods worth 60 guilders; the $24 figure was calculated by a nineteenth-century historian, no record survives of the Lenape participants' understanding, and scholars think they likely saw it as shared or temporary use rather than a final sale."
+   },
+   {
+    "question": "How did the Erie Canal make New York the nation's leading commercial city?",
+    "answer": "Completed in 1825, the canal linked the Great Lakes to the Hudson River, so Midwestern goods could flow through New York's docks to Atlantic markets, an advantage that rival ports blocked by the Appalachians could not match."
+   },
+   {
+    "question": "What role did slavery play in early New York?",
+    "answer": "Enslaved Africans arrived in 1625 to work for the Dutch West India Company and built infrastructure such as the city's wall; the city later ran an official slave market, and the African Burial Ground, rediscovered in 1991, holds the graves of an estimated 20,000 people."
+   },
+   {
+    "question": "How did the 1898 consolidation create the modern city, and why was it controversial?",
+    "answer": "It merged Manhattan, Brooklyn, the Bronx, Queens and Staten Island into one city on January 1, 1898; the referendum passed by only 277 votes, and many in Brooklyn feared losing their independent identity and government."
+   }
+  ],
+  "timeline": [
+   {
+    "date": "1613",
+    "event": "Jan (Juan) Rodrigues, a free Black sailor from Santo Domingo, sets up a trading post with the Lenape on Manhattan."
+   },
+   {
+    "date": "1625",
+    "event": "The first enslaved Africans arrive in New Amsterdam to labor for the Dutch West India Company."
+   },
+   {
+    "date": "1626-11-05",
+    "event": "Pieter Schaghen reports from Amsterdam that colonists have acquired Manhattan from its Native inhabitants for goods worth 60 guilders."
+   },
+   {
+    "date": "1644-02-25",
+    "event": "Eleven enslaved men are freed and granted farmland north of New Amsterdam."
+   },
+   {
+    "date": "1664",
+    "event": "The English seize the Dutch colony and rename the town New York after James, Duke of York."
+   },
+   {
+    "date": "1776",
+    "event": "British forces occupy the city, which becomes their stronghold for seven years."
+   },
+   {
+    "date": "1783-11-25",
+    "event": "Evacuation Day: the last British officials leave; about 3,000 Black Loyalists left the city with the British that year."
+   },
+   {
+    "date": "1789-04-30",
+    "event": "George Washington takes the oath of office as the first president on the balcony of Federal Hall."
+   },
+   {
+    "date": "1825",
+    "event": "The 363-mile Erie Canal is completed, linking the Great Lakes to the Hudson River and the port of New York."
+   },
+   {
+    "date": "1863",
+    "event": "Draft riots kill as many as 119 people, many of them Black New Yorkers, until Union troops end the violence."
+   },
+   {
+    "date": "1892-01-01",
+    "event": "Ellis Island opens as the nation's main federal immigration station."
+   },
+   {
+    "date": "1898-01-01",
+    "event": "Manhattan, Brooklyn, the Bronx, Queens and Staten Island are consolidated into the City of Greater New York."
+   },
+   {
+    "date": "1969-06-28",
+    "event": "A police raid on the Stonewall Inn in Greenwich Village sets off days of protest."
+   },
+   {
+    "date": "1991",
+    "event": "Excavation for a federal office building uncovers the African Burial Ground in Lower Manhattan."
+   },
+   {
+    "date": "2001-09-11",
+    "event": "Terrorist attacks destroy the World Trade Center; 2,753 people are killed in New York."
+   },
+   {
+    "date": "2020-04-01",
+    "event": "The census counts 8,804,190 residents, the city's highest total ever."
+   }
+  ],
+  "misconception": {
+   "myth": "The Lenape sold Manhattan to the Dutch for $24 worth of beads and trinkets, a naive bargain that shows they did not understand what they were giving up.",
+   "fact": "The only contemporary record, Pieter Schaghen's letter of November 5, 1626, says the island was acquired for goods worth 60 guilders and names no Native participants; the $24 figure is a nineteenth-century currency conversion. Scholars caution that the Lenape probably saw the agreement as shared or temporary use, while others stress that Native leaders did transfer and lease land deliberately and were hardly dupes.",
+   "why": "The story turns a poorly documented diplomatic exchange into a joke about the \"greatest real estate deal in history,\" erasing the Lenape's own perspectives and the later wars, disease and unequal bargaining that actually drove them from their homeland."
+  },
+  "source_urls": [
+   "https://www.nysl.nysed.gov/newnetherland/schaghentrans",
+   "https://www.newnetherlandinstitute.org/history-and-heritage/digital-exhibitions/the-dutch-among-the-natives/occupying-the-land/",
+   "https://b.asp.si.edu/nk360/manhattan/schaghen-letter/schaghen-letter.cshtml",
+   "https://archaeology.cityofnewyork.us/collection/nyc-timeline/purchase-of-manhattan",
+   "https://commonplace.online/article/buying-and-selling-staten-island/?print=pdf",
+   "https://www.smithsonianmag.com/history/true-native-new-yorkers-can-never-truly-reclaim-their-homeland-180970472/",
+   "https://www.nps.gov/afbg/learn/historyculture/african-burial-ground-in-history.htm",
+   "https://www.gothamcenter.org/blog/black-loyalists-evaculation-zy4la",
+   "https://nps.gov/places/000/federal-hall-national-memorial.htm",
+   "https://archaeology.cityofnewyork.us/collection/nyc-timeline/completion-of-the-erie-canal",
+   "https://archaeology.cityofnewyork.us/collection/nyc-timeline/civil-war-draft-riots",
+   "https://www.nps.gov/npnh/learn/news/fact-sheet-elis.htm",
+   "https://archaeology.cityofnewyork.us/collection/nyc-timeline/consolidation-of-the-five-borough-city",
+   "https://nmaahc.si.edu/explore/stories/new-african-american-identity-harlem-renaissance",
+   "https://www.govinfo.gov/content/pkg/DCPD-201600424/html/DCPD-201600424.htm",
+   "https://www.911memorial.org/sites/default/files/inline-files/Backgrounder%202021.pdf",
+   "https://www.nyc.gov/assets/planning/download/pdf/planning-level/region/nyc-metro-census-2020-webinar.pdf"
+  ]
+ },
+ {
   "id": "us:nineteenth-amendment",
   "title": "Nineteenth Amendment",
   "aliases": [

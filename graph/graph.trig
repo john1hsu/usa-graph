@@ -1608,6 +1608,26 @@
 <https://github.com/john1hsu/usa-graph/id/new-orleans#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/new-orleans/s9> .
 <https://github.com/john1hsu/usa-graph/id/new-orleans#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/new-orleans/s10> .
 <https://github.com/john1hsu/usa-graph/id/new-orleans#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/new-orleans/s11> .
+<https://github.com/john1hsu/usa-graph/id/new-york-city#graph> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity> .
+<https://github.com/john1hsu/usa-graph/id/new-york-city#graph> <http://purl.org/dc/terms/subject> <https://github.com/john1hsu/usa-graph/id/new-york-city> .
+<https://github.com/john1hsu/usa-graph/id/new-york-city#graph> <http://purl.org/dc/terms/source> "https://github.com/john1hsu/usa-graph/blob/main/articles/regions-cities-and-landmarks/new-york-city.md" .
+<https://github.com/john1hsu/usa-graph/id/new-york-city#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/new-york-city/s1> .
+<https://github.com/john1hsu/usa-graph/id/new-york-city#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/new-york-city/s2> .
+<https://github.com/john1hsu/usa-graph/id/new-york-city#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/new-york-city/s3> .
+<https://github.com/john1hsu/usa-graph/id/new-york-city#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/new-york-city/s4> .
+<https://github.com/john1hsu/usa-graph/id/new-york-city#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/new-york-city/s5> .
+<https://github.com/john1hsu/usa-graph/id/new-york-city#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/new-york-city/s6> .
+<https://github.com/john1hsu/usa-graph/id/new-york-city#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/new-york-city/s7> .
+<https://github.com/john1hsu/usa-graph/id/new-york-city#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/new-york-city/s8> .
+<https://github.com/john1hsu/usa-graph/id/new-york-city#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/new-york-city/s9> .
+<https://github.com/john1hsu/usa-graph/id/new-york-city#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/new-york-city/s10> .
+<https://github.com/john1hsu/usa-graph/id/new-york-city#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/new-york-city/s11> .
+<https://github.com/john1hsu/usa-graph/id/new-york-city#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/new-york-city/s12> .
+<https://github.com/john1hsu/usa-graph/id/new-york-city#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/new-york-city/s13> .
+<https://github.com/john1hsu/usa-graph/id/new-york-city#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/new-york-city/s14> .
+<https://github.com/john1hsu/usa-graph/id/new-york-city#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/new-york-city/s15> .
+<https://github.com/john1hsu/usa-graph/id/new-york-city#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/new-york-city/s16> .
+<https://github.com/john1hsu/usa-graph/id/new-york-city#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/new-york-city/s17> .
 <https://github.com/john1hsu/usa-graph/id/philadelphia#graph> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity> .
 <https://github.com/john1hsu/usa-graph/id/philadelphia#graph> <http://purl.org/dc/terms/subject> <https://github.com/john1hsu/usa-graph/id/philadelphia> .
 <https://github.com/john1hsu/usa-graph/id/philadelphia#graph> <http://purl.org/dc/terms/source> "https://github.com/john1hsu/usa-graph/blob/main/articles/regions-cities-and-landmarks/philadelphia.md" .
@@ -24378,6 +24398,263 @@
   <https://github.com/john1hsu/usa-graph/id/source/new-orleans/s9> <https://schema.org/url> <https://weather.gov/mob/katrina> .
 }
 
+<https://github.com/john1hsu/usa-graph/id/new-york-city#graph> {
+  <https://github.com/john1hsu/usa-graph/id/new-york-city/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Misconception> .
+  <https://github.com/john1hsu/usa-graph/id/new-york-city/misconception> <https://github.com/john1hsu/usa-graph/ontology#fact> "The only contemporary record, Pieter Schaghen's letter of November 5, 1626, says the island was acquired for goods worth 60 guilders and names no Native participants; the $24 figure is a nineteenth-century currency conversion. Scholars caution that the Lenape probably saw the agreement as shared or temporary use, while others stress that Native leaders did transfer and lease land deliberately and were hardly dupes." .
+  <https://github.com/john1hsu/usa-graph/id/new-york-city/misconception> <https://github.com/john1hsu/usa-graph/ontology#myth> "The Lenape sold Manhattan to the Dutch for $24 worth of beads and trinkets, a naive bargain that shows they did not understand what they were giving up." .
+  <https://github.com/john1hsu/usa-graph/id/new-york-city/misconception> <https://github.com/john1hsu/usa-graph/ontology#why> "The story turns a poorly documented diplomatic exchange into a joke about the \"greatest real estate deal in history,\" erasing the Lenape's own perspectives and the later wars, disease and unequal bargaining that actually drove them from their homeland." .
+  <https://github.com/john1hsu/usa-graph/id/new-york-city/review/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+  <https://github.com/john1hsu/usa-graph/id/new-york-city/review/1> <http://www.w3.org/2000/01/rdf-schema#label> "Why is the story that Manhattan was sold for $24 misleading?" .
+  <https://github.com/john1hsu/usa-graph/id/new-york-city/review/1> <https://github.com/john1hsu/usa-graph/ontology#answer> "The only 1626 record says the island was acquired for goods worth 60 guilders; the $24 figure was calculated by a nineteenth-century historian, no record survives of the Lenape participants' understanding, and scholars think they likely saw it as shared or temporary use rather than a final sale." .
+  <https://github.com/john1hsu/usa-graph/id/new-york-city/review/1> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/new-york-city> .
+  <https://github.com/john1hsu/usa-graph/id/new-york-city/review/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+  <https://github.com/john1hsu/usa-graph/id/new-york-city/review/2> <http://www.w3.org/2000/01/rdf-schema#label> "How did the Erie Canal make New York the nation's leading commercial city?" .
+  <https://github.com/john1hsu/usa-graph/id/new-york-city/review/2> <https://github.com/john1hsu/usa-graph/ontology#answer> "Completed in 1825, the canal linked the Great Lakes to the Hudson River, so Midwestern goods could flow through New York's docks to Atlantic markets, an advantage that rival ports blocked by the Appalachians could not match." .
+  <https://github.com/john1hsu/usa-graph/id/new-york-city/review/2> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/new-york-city> .
+  <https://github.com/john1hsu/usa-graph/id/new-york-city/review/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+  <https://github.com/john1hsu/usa-graph/id/new-york-city/review/3> <http://www.w3.org/2000/01/rdf-schema#label> "What role did slavery play in early New York?" .
+  <https://github.com/john1hsu/usa-graph/id/new-york-city/review/3> <https://github.com/john1hsu/usa-graph/ontology#answer> "Enslaved Africans arrived in 1625 to work for the Dutch West India Company and built infrastructure such as the city's wall; the city later ran an official slave market, and the African Burial Ground, rediscovered in 1991, holds the graves of an estimated 20,000 people." .
+  <https://github.com/john1hsu/usa-graph/id/new-york-city/review/3> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/new-york-city> .
+  <https://github.com/john1hsu/usa-graph/id/new-york-city/review/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+  <https://github.com/john1hsu/usa-graph/id/new-york-city/review/4> <http://www.w3.org/2000/01/rdf-schema#label> "How did the 1898 consolidation create the modern city, and why was it controversial?" .
+  <https://github.com/john1hsu/usa-graph/id/new-york-city/review/4> <https://github.com/john1hsu/usa-graph/ontology#answer> "It merged Manhattan, Brooklyn, the Bronx, Queens and Staten Island into one city on January 1, 1898; the referendum passed by only 277 votes, and many in Brooklyn feared losing their independent identity and government." .
+  <https://github.com/john1hsu/usa-graph/id/new-york-city/review/4> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/new-york-city> .
+  <https://github.com/john1hsu/usa-graph/id/new-york-city/timeline/10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/new-york-city/timeline/10> <http://www.w3.org/2000/01/rdf-schema#label> "Draft riots kill as many as 119 people, many of them Black New Yorkers, until Union troops end the violence." .
+  <https://github.com/john1hsu/usa-graph/id/new-york-city/timeline/10> <https://github.com/john1hsu/usa-graph/ontology#date> "1863"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+  <https://github.com/john1hsu/usa-graph/id/new-york-city/timeline/11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/new-york-city/timeline/11> <http://www.w3.org/2000/01/rdf-schema#label> "Ellis Island opens as the nation's main federal immigration station." .
+  <https://github.com/john1hsu/usa-graph/id/new-york-city/timeline/11> <https://github.com/john1hsu/usa-graph/ontology#date> "1892-01-01"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/new-york-city/timeline/12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/new-york-city/timeline/12> <http://www.w3.org/2000/01/rdf-schema#label> "Manhattan, Brooklyn, the Bronx, Queens and Staten Island are consolidated into the City of Greater New York." .
+  <https://github.com/john1hsu/usa-graph/id/new-york-city/timeline/12> <https://github.com/john1hsu/usa-graph/ontology#date> "1898-01-01"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/new-york-city/timeline/13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/new-york-city/timeline/13> <http://www.w3.org/2000/01/rdf-schema#label> "A police raid on the Stonewall Inn in Greenwich Village sets off days of protest." .
+  <https://github.com/john1hsu/usa-graph/id/new-york-city/timeline/13> <https://github.com/john1hsu/usa-graph/ontology#date> "1969-06-28"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/new-york-city/timeline/14> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/new-york-city/timeline/14> <http://www.w3.org/2000/01/rdf-schema#label> "Excavation for a federal office building uncovers the African Burial Ground in Lower Manhattan." .
+  <https://github.com/john1hsu/usa-graph/id/new-york-city/timeline/14> <https://github.com/john1hsu/usa-graph/ontology#date> "1991"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+  <https://github.com/john1hsu/usa-graph/id/new-york-city/timeline/15> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/new-york-city/timeline/15> <http://www.w3.org/2000/01/rdf-schema#label> "Terrorist attacks destroy the World Trade Center; 2,753 people are killed in New York." .
+  <https://github.com/john1hsu/usa-graph/id/new-york-city/timeline/15> <https://github.com/john1hsu/usa-graph/ontology#date> "2001-09-11"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/new-york-city/timeline/16> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/new-york-city/timeline/16> <http://www.w3.org/2000/01/rdf-schema#label> "The census counts 8,804,190 residents, the city's highest total ever." .
+  <https://github.com/john1hsu/usa-graph/id/new-york-city/timeline/16> <https://github.com/john1hsu/usa-graph/ontology#date> "2020-04-01"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/new-york-city/timeline/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/new-york-city/timeline/1> <http://www.w3.org/2000/01/rdf-schema#label> "Jan (Juan) Rodrigues, a free Black sailor from Santo Domingo, sets up a trading post with the Lenape on Manhattan." .
+  <https://github.com/john1hsu/usa-graph/id/new-york-city/timeline/1> <https://github.com/john1hsu/usa-graph/ontology#date> "1613"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+  <https://github.com/john1hsu/usa-graph/id/new-york-city/timeline/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/new-york-city/timeline/2> <http://www.w3.org/2000/01/rdf-schema#label> "The first enslaved Africans arrive in New Amsterdam to labor for the Dutch West India Company." .
+  <https://github.com/john1hsu/usa-graph/id/new-york-city/timeline/2> <https://github.com/john1hsu/usa-graph/ontology#date> "1625"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+  <https://github.com/john1hsu/usa-graph/id/new-york-city/timeline/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/new-york-city/timeline/3> <http://www.w3.org/2000/01/rdf-schema#label> "Pieter Schaghen reports from Amsterdam that colonists have acquired Manhattan from its Native inhabitants for goods worth 60 guilders." .
+  <https://github.com/john1hsu/usa-graph/id/new-york-city/timeline/3> <https://github.com/john1hsu/usa-graph/ontology#date> "1626-11-05"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/new-york-city/timeline/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/new-york-city/timeline/4> <http://www.w3.org/2000/01/rdf-schema#label> "Eleven enslaved men are freed and granted farmland north of New Amsterdam." .
+  <https://github.com/john1hsu/usa-graph/id/new-york-city/timeline/4> <https://github.com/john1hsu/usa-graph/ontology#date> "1644-02-25"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/new-york-city/timeline/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/new-york-city/timeline/5> <http://www.w3.org/2000/01/rdf-schema#label> "The English seize the Dutch colony and rename the town New York after James, Duke of York." .
+  <https://github.com/john1hsu/usa-graph/id/new-york-city/timeline/5> <https://github.com/john1hsu/usa-graph/ontology#date> "1664"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+  <https://github.com/john1hsu/usa-graph/id/new-york-city/timeline/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/new-york-city/timeline/6> <http://www.w3.org/2000/01/rdf-schema#label> "British forces occupy the city, which becomes their stronghold for seven years." .
+  <https://github.com/john1hsu/usa-graph/id/new-york-city/timeline/6> <https://github.com/john1hsu/usa-graph/ontology#date> "1776"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+  <https://github.com/john1hsu/usa-graph/id/new-york-city/timeline/7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/new-york-city/timeline/7> <http://www.w3.org/2000/01/rdf-schema#label> "Evacuation Day: the last British officials leave; about 3,000 Black Loyalists left the city with the British that year." .
+  <https://github.com/john1hsu/usa-graph/id/new-york-city/timeline/7> <https://github.com/john1hsu/usa-graph/ontology#date> "1783-11-25"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/new-york-city/timeline/8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/new-york-city/timeline/8> <http://www.w3.org/2000/01/rdf-schema#label> "George Washington takes the oath of office as the first president on the balcony of Federal Hall." .
+  <https://github.com/john1hsu/usa-graph/id/new-york-city/timeline/8> <https://github.com/john1hsu/usa-graph/ontology#date> "1789-04-30"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/new-york-city/timeline/9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/new-york-city/timeline/9> <http://www.w3.org/2000/01/rdf-schema#label> "The 363-mile Erie Canal is completed, linking the Great Lakes to the Hudson River and the port of New York." .
+  <https://github.com/john1hsu/usa-graph/id/new-york-city/timeline/9> <https://github.com/john1hsu/usa-graph/ontology#date> "1825"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+  <https://github.com/john1hsu/usa-graph/id/new-york-city> <http://purl.org/dc/terms/created> "2026-11-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/new-york-city> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#City> .
+  <https://github.com/john1hsu/usa-graph/id/new-york-city> <http://www.w3.org/2000/01/rdf-schema#label> "New York City" .
+  <https://github.com/john1hsu/usa-graph/id/new-york-city> <http://www.w3.org/2004/02/skos/core#altLabel> "City of Greater New York" .
+  <https://github.com/john1hsu/usa-graph/id/new-york-city> <http://www.w3.org/2004/02/skos/core#altLabel> "City of New York" .
+  <https://github.com/john1hsu/usa-graph/id/new-york-city> <http://www.w3.org/2004/02/skos/core#altLabel> "Manahatta" .
+  <https://github.com/john1hsu/usa-graph/id/new-york-city> <http://www.w3.org/2004/02/skos/core#altLabel> "NYC" .
+  <https://github.com/john1hsu/usa-graph/id/new-york-city> <http://www.w3.org/2004/02/skos/core#altLabel> "New Amsterdam" .
+  <https://github.com/john1hsu/usa-graph/id/new-york-city> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/usa-graph/id/mid-atlantic> .
+  <https://github.com/john1hsu/usa-graph/id/new-york-city> <http://www.w3.org/2004/02/skos/core#definition> "The most populous city in the United States, built on Lenape (Munsee) homeland at the mouth of the Hudson River; founded as the Dutch trading town of New Amsterdam in the 1620s, renamed New York under English rule in 1664, briefly the first federal capital, and consolidated into five boroughs in 1898, it became the nation's leading commercial port and a gateway for immigrants, with 8,804,190 residents in the 2020 census." .
+  <https://github.com/john1hsu/usa-graph/id/new-york-city> <http://www.w3.org/2004/02/skos/core#inScheme> <https://github.com/john1hsu/usa-graph/id/scheme/regions-cities-and-landmarks> .
+  <https://github.com/john1hsu/usa-graph/id/new-york-city> <http://www.w3.org/2004/02/skos/core#prefLabel> "New York City" .
+  <https://github.com/john1hsu/usa-graph/id/new-york-city> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/african-americans> .
+  <https://github.com/john1hsu/usa-graph/id/new-york-city> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/african-burial-ground-national-monument> .
+  <https://github.com/john1hsu/usa-graph/id/new-york-city> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/american-civil-war> .
+  <https://github.com/john1hsu/usa-graph/id/new-york-city> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/american-revolutionary-war> .
+  <https://github.com/john1hsu/usa-graph/id/new-york-city> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/black-loyalists> .
+  <https://github.com/john1hsu/usa-graph/id/new-york-city> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/chicago> .
+  <https://github.com/john1hsu/usa-graph/id/new-york-city> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/dutch-west-india-company> .
+  <https://github.com/john1hsu/usa-graph/id/new-york-city> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/ellis-island> .
+  <https://github.com/john1hsu/usa-graph/id/new-york-city> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/erie-canal> .
+  <https://github.com/john1hsu/usa-graph/id/new-york-city> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/federal-hall> .
+  <https://github.com/john1hsu/usa-graph/id/new-york-city> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/federalist-papers> .
+  <https://github.com/john1hsu/usa-graph/id/new-york-city> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/george-washington> .
+  <https://github.com/john1hsu/usa-graph/id/new-york-city> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/great-migration> .
+  <https://github.com/john1hsu/usa-graph/id/new-york-city> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/harlem-renaissance> .
+  <https://github.com/john1hsu/usa-graph/id/new-york-city> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/hip-hop> .
+  <https://github.com/john1hsu/usa-graph/id/new-york-city> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/hudson-river> .
+  <https://github.com/john1hsu/usa-graph/id/new-york-city> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/immigration-to-the-united-states> .
+  <https://github.com/john1hsu/usa-graph/id/new-york-city> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/lenape> .
+  <https://github.com/john1hsu/usa-graph/id/new-york-city> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/new-amsterdam> .
+  <https://github.com/john1hsu/usa-graph/id/new-york-city> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/new-netherland> .
+  <https://github.com/john1hsu/usa-graph/id/new-york-city> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/new-york-city-draft-riots> .
+  <https://github.com/john1hsu/usa-graph/id/new-york-city> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/new-york> .
+  <https://github.com/john1hsu/usa-graph/id/new-york-city> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/panic-of-1873> .
+  <https://github.com/john1hsu/usa-graph/id/new-york-city> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/philadelphia> .
+  <https://github.com/john1hsu/usa-graph/id/new-york-city> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/purchase-of-manhattan> .
+  <https://github.com/john1hsu/usa-graph/id/new-york-city> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/september-11-attacks> .
+  <https://github.com/john1hsu/usa-graph/id/new-york-city> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> .
+  <https://github.com/john1hsu/usa-graph/id/new-york-city> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/statue-of-liberty> .
+  <https://github.com/john1hsu/usa-graph/id/new-york-city> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/stock-market-crash-of-1929> .
+  <https://github.com/john1hsu/usa-graph/id/new-york-city> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/stonewall-uprising> .
+  <https://github.com/john1hsu/usa-graph/id/new-york-city> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/triangle-shirtwaist-factory-fire> .
+  <https://github.com/john1hsu/usa-graph/id/new-york-city> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/world-trade-center> .
+  <https://github.com/john1hsu/usa-graph/id/new-york-city> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/new-york-city/s10> .
+  <https://github.com/john1hsu/usa-graph/id/new-york-city> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/new-york-city/s11> .
+  <https://github.com/john1hsu/usa-graph/id/new-york-city> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/new-york-city/s12> .
+  <https://github.com/john1hsu/usa-graph/id/new-york-city> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/new-york-city/s13> .
+  <https://github.com/john1hsu/usa-graph/id/new-york-city> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/new-york-city/s14> .
+  <https://github.com/john1hsu/usa-graph/id/new-york-city> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/new-york-city/s15> .
+  <https://github.com/john1hsu/usa-graph/id/new-york-city> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/new-york-city/s16> .
+  <https://github.com/john1hsu/usa-graph/id/new-york-city> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/new-york-city/s17> .
+  <https://github.com/john1hsu/usa-graph/id/new-york-city> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/new-york-city/s1> .
+  <https://github.com/john1hsu/usa-graph/id/new-york-city> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/new-york-city/s2> .
+  <https://github.com/john1hsu/usa-graph/id/new-york-city> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/new-york-city/s3> .
+  <https://github.com/john1hsu/usa-graph/id/new-york-city> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/new-york-city/s4> .
+  <https://github.com/john1hsu/usa-graph/id/new-york-city> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/new-york-city/s5> .
+  <https://github.com/john1hsu/usa-graph/id/new-york-city> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/new-york-city/s6> .
+  <https://github.com/john1hsu/usa-graph/id/new-york-city> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/new-york-city/s7> .
+  <https://github.com/john1hsu/usa-graph/id/new-york-city> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/new-york-city/s8> .
+  <https://github.com/john1hsu/usa-graph/id/new-york-city> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/new-york-city/s9> .
+  <https://github.com/john1hsu/usa-graph/id/new-york-city> <https://github.com/john1hsu/usa-graph/ontology#borders> <https://github.com/john1hsu/usa-graph/id/hudson-river> .
+  <https://github.com/john1hsu/usa-graph/id/new-york-city> <https://github.com/john1hsu/usa-graph/ontology#domain> "regions-cities-and-landmarks" .
+  <https://github.com/john1hsu/usa-graph/id/new-york-city> <https://github.com/john1hsu/usa-graph/ontology#evidenceStatus> "established" .
+  <https://github.com/john1hsu/usa-graph/id/new-york-city> <https://github.com/john1hsu/usa-graph/ontology#file> "articles/regions-cities-and-landmarks/new-york-city.md" .
+  <https://github.com/john1hsu/usa-graph/id/new-york-city> <https://github.com/john1hsu/usa-graph/ontology#level> "introductory" .
+  <https://github.com/john1hsu/usa-graph/id/new-york-city> <https://github.com/john1hsu/usa-graph/ontology#locatedIn> <https://github.com/john1hsu/usa-graph/id/new-york> .
+  <https://github.com/john1hsu/usa-graph/id/new-york-city> <https://github.com/john1hsu/usa-graph/ontology#misconception> <https://github.com/john1hsu/usa-graph/id/new-york-city/misconception> .
+  <https://github.com/john1hsu/usa-graph/id/new-york-city> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/new-york-city/timeline/10> .
+  <https://github.com/john1hsu/usa-graph/id/new-york-city> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/new-york-city/timeline/11> .
+  <https://github.com/john1hsu/usa-graph/id/new-york-city> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/new-york-city/timeline/12> .
+  <https://github.com/john1hsu/usa-graph/id/new-york-city> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/new-york-city/timeline/13> .
+  <https://github.com/john1hsu/usa-graph/id/new-york-city> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/new-york-city/timeline/14> .
+  <https://github.com/john1hsu/usa-graph/id/new-york-city> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/new-york-city/timeline/15> .
+  <https://github.com/john1hsu/usa-graph/id/new-york-city> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/new-york-city/timeline/16> .
+  <https://github.com/john1hsu/usa-graph/id/new-york-city> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/new-york-city/timeline/1> .
+  <https://github.com/john1hsu/usa-graph/id/new-york-city> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/new-york-city/timeline/2> .
+  <https://github.com/john1hsu/usa-graph/id/new-york-city> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/new-york-city/timeline/3> .
+  <https://github.com/john1hsu/usa-graph/id/new-york-city> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/new-york-city/timeline/4> .
+  <https://github.com/john1hsu/usa-graph/id/new-york-city> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/new-york-city/timeline/5> .
+  <https://github.com/john1hsu/usa-graph/id/new-york-city> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/new-york-city/timeline/6> .
+  <https://github.com/john1hsu/usa-graph/id/new-york-city> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/new-york-city/timeline/7> .
+  <https://github.com/john1hsu/usa-graph/id/new-york-city> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/new-york-city/timeline/8> .
+  <https://github.com/john1hsu/usa-graph/id/new-york-city> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/new-york-city/timeline/9> .
+  <https://github.com/john1hsu/usa-graph/id/source/new-york-city/s10> <http://purl.org/dc/terms/date> "2026-11-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/new-york-city/s10> <http://purl.org/dc/terms/publisher> "NYC Landmarks Preservation Commission, NYC Archaeological Repository" .
+  <https://github.com/john1hsu/usa-graph/id/source/new-york-city/s10> <http://purl.org/dc/terms/title> "Completion of the Erie Canal (NYC Timeline)" .
+  <https://github.com/john1hsu/usa-graph/id/source/new-york-city/s10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/new-york-city/s10> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+  <https://github.com/john1hsu/usa-graph/id/source/new-york-city/s10> <https://schema.org/url> <https://archaeology.cityofnewyork.us/collection/nyc-timeline/completion-of-the-erie-canal> .
+  <https://github.com/john1hsu/usa-graph/id/source/new-york-city/s11> <http://purl.org/dc/terms/date> "2026-11-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/new-york-city/s11> <http://purl.org/dc/terms/publisher> "NYC Landmarks Preservation Commission, NYC Archaeological Repository" .
+  <https://github.com/john1hsu/usa-graph/id/source/new-york-city/s11> <http://purl.org/dc/terms/title> "Civil War Draft Riots (NYC Timeline)" .
+  <https://github.com/john1hsu/usa-graph/id/source/new-york-city/s11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/new-york-city/s11> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+  <https://github.com/john1hsu/usa-graph/id/source/new-york-city/s11> <https://schema.org/url> <https://archaeology.cityofnewyork.us/collection/nyc-timeline/civil-war-draft-riots> .
+  <https://github.com/john1hsu/usa-graph/id/source/new-york-city/s12> <http://purl.org/dc/terms/date> "2026-11-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/new-york-city/s12> <http://purl.org/dc/terms/publisher> "National Park Service, Statue of Liberty National Monument" .
+  <https://github.com/john1hsu/usa-graph/id/source/new-york-city/s12> <http://purl.org/dc/terms/title> "Fact Sheet: Ellis Island" .
+  <https://github.com/john1hsu/usa-graph/id/source/new-york-city/s12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/new-york-city/s12> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+  <https://github.com/john1hsu/usa-graph/id/source/new-york-city/s12> <https://schema.org/url> <https://www.nps.gov/npnh/learn/news/fact-sheet-elis.htm> .
+  <https://github.com/john1hsu/usa-graph/id/source/new-york-city/s13> <http://purl.org/dc/terms/date> "2026-11-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/new-york-city/s13> <http://purl.org/dc/terms/publisher> "NYC Landmarks Preservation Commission, NYC Archaeological Repository" .
+  <https://github.com/john1hsu/usa-graph/id/source/new-york-city/s13> <http://purl.org/dc/terms/title> "Consolidation of the Five-Borough City (NYC Timeline)" .
+  <https://github.com/john1hsu/usa-graph/id/source/new-york-city/s13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/new-york-city/s13> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+  <https://github.com/john1hsu/usa-graph/id/source/new-york-city/s13> <https://schema.org/url> <https://archaeology.cityofnewyork.us/collection/nyc-timeline/consolidation-of-the-five-borough-city> .
+  <https://github.com/john1hsu/usa-graph/id/source/new-york-city/s14> <http://purl.org/dc/terms/date> "2026-11-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/new-york-city/s14> <http://purl.org/dc/terms/publisher> "Smithsonian National Museum of African American History and Culture" .
+  <https://github.com/john1hsu/usa-graph/id/source/new-york-city/s14> <http://purl.org/dc/terms/title> "A New African American Identity: The Harlem Renaissance" .
+  <https://github.com/john1hsu/usa-graph/id/source/new-york-city/s14> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/new-york-city/s14> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "museum" .
+  <https://github.com/john1hsu/usa-graph/id/source/new-york-city/s14> <https://schema.org/url> <https://nmaahc.si.edu/explore/stories/new-african-american-identity-harlem-renaissance> .
+  <https://github.com/john1hsu/usa-graph/id/source/new-york-city/s15> <http://purl.org/dc/terms/date> "2026-11-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/new-york-city/s15> <http://purl.org/dc/terms/publisher> "Daily Compilation of Presidential Documents, GovInfo" .
+  <https://github.com/john1hsu/usa-graph/id/source/new-york-city/s15> <http://purl.org/dc/terms/title> "Proclamation 9465—Establishment of the Stonewall National Monument (June 24, 2016)" .
+  <https://github.com/john1hsu/usa-graph/id/source/new-york-city/s15> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/new-york-city/s15> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "primary" .
+  <https://github.com/john1hsu/usa-graph/id/source/new-york-city/s15> <https://schema.org/url> <https://www.govinfo.gov/content/pkg/DCPD-201600424/html/DCPD-201600424.htm> .
+  <https://github.com/john1hsu/usa-graph/id/source/new-york-city/s16> <http://purl.org/dc/terms/date> "2026-11-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/new-york-city/s16> <http://purl.org/dc/terms/publisher> "National September 11 Memorial & Museum" .
+  <https://github.com/john1hsu/usa-graph/id/source/new-york-city/s16> <http://purl.org/dc/terms/title> "9/11 Memorial & Museum Backgrounder (rev. July 2021)" .
+  <https://github.com/john1hsu/usa-graph/id/source/new-york-city/s16> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/new-york-city/s16> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "museum" .
+  <https://github.com/john1hsu/usa-graph/id/source/new-york-city/s16> <https://schema.org/url> <https://www.911memorial.org/sites/default/files/inline-files/Backgrounder%202021.pdf> .
+  <https://github.com/john1hsu/usa-graph/id/source/new-york-city/s17> <http://purl.org/dc/terms/date> "2026-11-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/new-york-city/s17> <http://purl.org/dc/terms/publisher> "New York City Department of City Planning, Population Division" .
+  <https://github.com/john1hsu/usa-graph/id/source/new-york-city/s17> <http://purl.org/dc/terms/title> "Demographic Shifts in NYC and the Surrounding Metro Region: Key Insights from the 2020 Census" .
+  <https://github.com/john1hsu/usa-graph/id/source/new-york-city/s17> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/new-york-city/s17> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+  <https://github.com/john1hsu/usa-graph/id/source/new-york-city/s17> <https://schema.org/url> <https://www.nyc.gov/assets/planning/download/pdf/planning-level/region/nyc-metro-census-2020-webinar.pdf> .
+  <https://github.com/john1hsu/usa-graph/id/source/new-york-city/s1> <http://purl.org/dc/terms/date> "2026-11-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/new-york-city/s1> <http://purl.org/dc/terms/publisher> "New York State Library, New Netherland Research Center" .
+  <https://github.com/john1hsu/usa-graph/id/source/new-york-city/s1> <http://purl.org/dc/terms/title> "Translation of Pieter Schaghen's 1626 letter, which mentions the purchase of Manhattes (Manhattan)" .
+  <https://github.com/john1hsu/usa-graph/id/source/new-york-city/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/new-york-city/s1> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "primary" .
+  <https://github.com/john1hsu/usa-graph/id/source/new-york-city/s1> <https://schema.org/url> <https://www.nysl.nysed.gov/newnetherland/schaghentrans> .
+  <https://github.com/john1hsu/usa-graph/id/source/new-york-city/s2> <http://purl.org/dc/terms/date> "2026-11-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/new-york-city/s2> <http://purl.org/dc/terms/publisher> "New Netherland Institute" .
+  <https://github.com/john1hsu/usa-graph/id/source/new-york-city/s2> <http://purl.org/dc/terms/title> "Occupying the Land—Territory, Title, Alienation (The Dutch Among the Natives)" .
+  <https://github.com/john1hsu/usa-graph/id/source/new-york-city/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/new-york-city/s2> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "academic" .
+  <https://github.com/john1hsu/usa-graph/id/source/new-york-city/s2> <https://schema.org/url> <https://www.newnetherlandinstitute.org/history-and-heritage/digital-exhibitions/the-dutch-among-the-natives/occupying-the-land/> .
+  <https://github.com/john1hsu/usa-graph/id/source/new-york-city/s3> <http://purl.org/dc/terms/date> "2026-11-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/new-york-city/s3> <http://purl.org/dc/terms/publisher> "Smithsonian National Museum of the American Indian" .
+  <https://github.com/john1hsu/usa-graph/id/source/new-york-city/s3> <http://purl.org/dc/terms/title> "The Schaghen Letter (Native Knowledge 360°: Did Native People Really Sell Manhattan?)" .
+  <https://github.com/john1hsu/usa-graph/id/source/new-york-city/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/new-york-city/s3> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "museum" .
+  <https://github.com/john1hsu/usa-graph/id/source/new-york-city/s3> <https://schema.org/url> <https://b.asp.si.edu/nk360/manhattan/schaghen-letter/schaghen-letter.cshtml> .
+  <https://github.com/john1hsu/usa-graph/id/source/new-york-city/s4> <http://purl.org/dc/terms/date> "2026-11-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/new-york-city/s4> <http://purl.org/dc/terms/publisher> "NYC Landmarks Preservation Commission, NYC Archaeological Repository" .
+  <https://github.com/john1hsu/usa-graph/id/source/new-york-city/s4> <http://purl.org/dc/terms/title> "Purchase of Manhattan (NYC Timeline)" .
+  <https://github.com/john1hsu/usa-graph/id/source/new-york-city/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/new-york-city/s4> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+  <https://github.com/john1hsu/usa-graph/id/source/new-york-city/s4> <https://schema.org/url> <https://archaeology.cityofnewyork.us/collection/nyc-timeline/purchase-of-manhattan> .
+  <https://github.com/john1hsu/usa-graph/id/source/new-york-city/s5> <http://purl.org/dc/terms/date> "2026-11-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/new-york-city/s5> <http://purl.org/dc/terms/publisher> "Andrew Lipman, Common-place: The Journal of Early American Life 15.2 (2015)" .
+  <https://github.com/john1hsu/usa-graph/id/source/new-york-city/s5> <http://purl.org/dc/terms/title> "Buying and Selling Staten Island" .
+  <https://github.com/john1hsu/usa-graph/id/source/new-york-city/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/new-york-city/s5> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "academic" .
+  <https://github.com/john1hsu/usa-graph/id/source/new-york-city/s5> <https://schema.org/url> <https://commonplace.online/article/buying-and-selling-staten-island/?print=pdf> .
+  <https://github.com/john1hsu/usa-graph/id/source/new-york-city/s6> <http://purl.org/dc/terms/date> "2026-11-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/new-york-city/s6> <http://purl.org/dc/terms/publisher> "Smithsonian Magazine" .
+  <https://github.com/john1hsu/usa-graph/id/source/new-york-city/s6> <http://purl.org/dc/terms/title> "True Native New Yorkers Can Never Truly Reclaim Their Homeland" .
+  <https://github.com/john1hsu/usa-graph/id/source/new-york-city/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/new-york-city/s6> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "magazine" .
+  <https://github.com/john1hsu/usa-graph/id/source/new-york-city/s6> <https://schema.org/url> <https://www.smithsonianmag.com/history/true-native-new-yorkers-can-never-truly-reclaim-their-homeland-180970472/> .
+  <https://github.com/john1hsu/usa-graph/id/source/new-york-city/s7> <http://purl.org/dc/terms/date> "2026-11-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/new-york-city/s7> <http://purl.org/dc/terms/publisher> "National Park Service, African Burial Ground National Monument" .
+  <https://github.com/john1hsu/usa-graph/id/source/new-york-city/s7> <http://purl.org/dc/terms/title> "African Burial Ground in History" .
+  <https://github.com/john1hsu/usa-graph/id/source/new-york-city/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/new-york-city/s7> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+  <https://github.com/john1hsu/usa-graph/id/source/new-york-city/s7> <https://schema.org/url> <https://www.nps.gov/afbg/learn/historyculture/african-burial-ground-in-history.htm> .
+  <https://github.com/john1hsu/usa-graph/id/source/new-york-city/s8> <http://purl.org/dc/terms/date> "2026-11-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/new-york-city/s8> <http://purl.org/dc/terms/publisher> "The Gotham Center for New York City History" .
+  <https://github.com/john1hsu/usa-graph/id/source/new-york-city/s8> <http://purl.org/dc/terms/title> "Black Loyalists in the Evacuation of New York City, 1783" .
+  <https://github.com/john1hsu/usa-graph/id/source/new-york-city/s8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/new-york-city/s8> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "academic" .
+  <https://github.com/john1hsu/usa-graph/id/source/new-york-city/s8> <https://schema.org/url> <https://www.gothamcenter.org/blog/black-loyalists-evaculation-zy4la> .
+  <https://github.com/john1hsu/usa-graph/id/source/new-york-city/s9> <http://purl.org/dc/terms/date> "2026-11-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/new-york-city/s9> <http://purl.org/dc/terms/publisher> "National Park Service" .
+  <https://github.com/john1hsu/usa-graph/id/source/new-york-city/s9> <http://purl.org/dc/terms/title> "Federal Hall National Memorial" .
+  <https://github.com/john1hsu/usa-graph/id/source/new-york-city/s9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/new-york-city/s9> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+  <https://github.com/john1hsu/usa-graph/id/source/new-york-city/s9> <https://schema.org/url> <https://nps.gov/places/000/federal-hall-national-memorial.htm> .
+}
+
 <https://github.com/john1hsu/usa-graph/id/philadelphia#graph> {
   <https://github.com/john1hsu/usa-graph/id/philadelphia/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Misconception> .
   <https://github.com/john1hsu/usa-graph/id/philadelphia/misconception> <https://github.com/john1hsu/usa-graph/ontology#fact> "The First Congress met and Washington was inaugurated at Federal Hall in New York City in 1789; Congress moved to Philadelphia in 1790, and it served as a temporary capital for ten years until the federal government moved to Washington, D.C., in 1800." .
@@ -30745,6 +31022,7 @@
   <https://github.com/john1hsu/usa-graph/id/african-americans> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/lewis-and-clark-expedition> .
   <https://github.com/john1hsu/usa-graph/id/african-americans> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/martin-luther-king-jr> .
   <https://github.com/john1hsu/usa-graph/id/african-americans> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/new-deal> .
+  <https://github.com/john1hsu/usa-graph/id/african-americans> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/new-york-city> .
   <https://github.com/john1hsu/usa-graph/id/african-americans> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/philadelphia> .
   <https://github.com/john1hsu/usa-graph/id/african-americans> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/w-e-b-du-bois> .
   <https://github.com/john1hsu/usa-graph/id/african-americans> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/world-war-ii-and-the-united-states> .
@@ -30763,6 +31041,7 @@
   <https://github.com/john1hsu/usa-graph/id/african-americans> <https://github.com/john1hsu/usa-graph/ontology#originOf> <https://github.com/john1hsu/usa-graph/id/hip-hop> .
   <https://github.com/john1hsu/usa-graph/id/african-americans> <https://github.com/john1hsu/usa-graph/ontology#originOf> <https://github.com/john1hsu/usa-graph/id/jazz> .
   <https://github.com/john1hsu/usa-graph/id/african-americans> <https://github.com/john1hsu/usa-graph/ontology#originOf> <https://github.com/john1hsu/usa-graph/id/underground-railroad> .
+  <https://github.com/john1hsu/usa-graph/id/african-burial-ground-national-monument> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/new-york-city> .
   <https://github.com/john1hsu/usa-graph/id/african-methodist-episcopal-church> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/african-americans> .
   <https://github.com/john1hsu/usa-graph/id/agreement-for-bringing-peace-to-afghanistan> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/war-in-afghanistan> .
   <https://github.com/john1hsu/usa-graph/id/agricultural-adjustment-act> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/new-deal> .
@@ -30876,6 +31155,7 @@
   <https://github.com/john1hsu/usa-graph/id/american-civil-war> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/mexican-american-war> .
   <https://github.com/john1hsu/usa-graph/id/american-civil-war> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/missouri-compromise> .
   <https://github.com/john1hsu/usa-graph/id/american-civil-war> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/morrill-land-grant-college-act> .
+  <https://github.com/john1hsu/usa-graph/id/american-civil-war> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/new-york-city> .
   <https://github.com/john1hsu/usa-graph/id/american-civil-war> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> .
   <https://github.com/john1hsu/usa-graph/id/american-civil-war> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/united-states> .
   <https://github.com/john1hsu/usa-graph/id/american-civil-war> <https://github.com/john1hsu/usa-graph/ontology#affectedBy> <https://github.com/john1hsu/usa-graph/id/telegraph> .
@@ -30966,6 +31246,7 @@
   <https://github.com/john1hsu/usa-graph/id/american-revolutionary-war> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/battle-of-the-capes> .
   <https://github.com/john1hsu/usa-graph/id/american-revolutionary-war> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/betsy-ross-flag-myth> .
   <https://github.com/john1hsu/usa-graph/id/american-revolutionary-war> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/chesapeake-bay> .
+  <https://github.com/john1hsu/usa-graph/id/american-revolutionary-war> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/new-york-city> .
   <https://github.com/john1hsu/usa-graph/id/american-revolutionary-war> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/treaty-of-paris-1783> .
   <https://github.com/john1hsu/usa-graph/id/american-revolutionary-war> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/war-of-1812> .
   <https://github.com/john1hsu/usa-graph/id/american-revolutionary-war> <https://github.com/john1hsu/usa-graph/ontology#hasPart> <https://github.com/john1hsu/usa-graph/id/battle-of-the-capes> .
@@ -31388,6 +31669,7 @@
   <https://github.com/john1hsu/usa-graph/id/black-codes> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/thirteenth-amendment> .
   <https://github.com/john1hsu/usa-graph/id/black-hawk-war> <https://github.com/john1hsu/usa-graph/ontology#participant> <https://github.com/john1hsu/usa-graph/id/abraham-lincoln> .
   <https://github.com/john1hsu/usa-graph/id/black-immigrants-in-the-united-states> <https://github.com/john1hsu/usa-graph/ontology#contrastsWith> <https://github.com/john1hsu/usa-graph/id/african-americans> .
+  <https://github.com/john1hsu/usa-graph/id/black-loyalists> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/new-york-city> .
   <https://github.com/john1hsu/usa-graph/id/black-power-movement> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/hip-hop> .
   <https://github.com/john1hsu/usa-graph/id/black-power-movement> <https://github.com/john1hsu/usa-graph/ontology#resultedFrom> <https://github.com/john1hsu/usa-graph/id/civil-rights-movement> .
   <https://github.com/john1hsu/usa-graph/id/black-sunday-dust-storm> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/dust-bowl> .
@@ -31765,6 +32047,7 @@
   <https://github.com/john1hsu/usa-graph/id/chicago> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/usa-graph/id/the-midwest> .
   <https://github.com/john1hsu/usa-graph/id/chicago> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/detroit> .
   <https://github.com/john1hsu/usa-graph/id/chicago> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/muckrakers> .
+  <https://github.com/john1hsu/usa-graph/id/chicago> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/new-york-city> .
   <https://github.com/john1hsu/usa-graph/id/chicago> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/philadelphia> .
   <https://github.com/john1hsu/usa-graph/id/chicago> <https://github.com/john1hsu/usa-graph/ontology#siteOf> <https://github.com/john1hsu/usa-graph/id/great-migration> .
   <https://github.com/john1hsu/usa-graph/id/chicago> <https://github.com/john1hsu/usa-graph/ontology#siteOf> <https://github.com/john1hsu/usa-graph/id/great-railroad-strike-of-1877> .
@@ -32504,6 +32787,7 @@
   <https://github.com/john1hsu/usa-graph/id/dust-bowl> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/usa-graph/id/great-depression> .
   <https://github.com/john1hsu/usa-graph/id/dust-bowl> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/usa-graph/id/history-of-the-united-states> .
   <https://github.com/john1hsu/usa-graph/id/dust-bowl> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/great-depression> .
+  <https://github.com/john1hsu/usa-graph/id/dutch-west-india-company> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/new-york-city> .
   <https://github.com/john1hsu/usa-graph/id/dwight-d-eisenhower> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/alaska> .
   <https://github.com/john1hsu/usa-graph/id/dwight-d-eisenhower> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/desegregation-of-little-rock-central-high-school> .
   <https://github.com/john1hsu/usa-graph/id/dwight-d-eisenhower> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/nato> .
@@ -32632,6 +32916,7 @@
   <https://github.com/john1hsu/usa-graph/id/ella-baker> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/civil-rights-movement> .
   <https://github.com/john1hsu/usa-graph/id/ella-baker> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/martin-luther-king-jr> .
   <https://github.com/john1hsu/usa-graph/id/ellis-island> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/angel-island-immigration-station> .
+  <https://github.com/john1hsu/usa-graph/id/ellis-island> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/new-york-city> .
   <https://github.com/john1hsu/usa-graph/id/elwood-mead> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/hoover-dam> .
   <https://github.com/john1hsu/usa-graph/id/emancipation-proclamation> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/abolitionism> .
   <https://github.com/john1hsu/usa-graph/id/emancipation-proclamation> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/abraham-lincoln> .
@@ -32674,6 +32959,7 @@
   <https://github.com/john1hsu/usa-graph/id/equal-protection> <https://github.com/john1hsu/usa-graph/ontology#requires> <https://github.com/john1hsu/usa-graph/id/thirteenth-amendment> .
   <https://github.com/john1hsu/usa-graph/id/equity-in-educational-land-grant-status-act> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/morrill-land-grant-college-act> .
   <https://github.com/john1hsu/usa-graph/id/erie-canal> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/chicago> .
+  <https://github.com/john1hsu/usa-graph/id/erie-canal> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/new-york-city> .
   <https://github.com/john1hsu/usa-graph/id/ernest-green> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/desegregation-of-little-rock-central-high-school> .
   <https://github.com/john1hsu/usa-graph/id/esther-hobart-morris> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/wyoming> .
   <https://github.com/john1hsu/usa-graph/id/evenwel-v-abbott> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/reynolds-v-sims> .
@@ -32715,6 +33001,7 @@
   <https://github.com/john1hsu/usa-graph/id/federal-government-of-the-united-states> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/united-states-congress> .
   <https://github.com/john1hsu/usa-graph/id/federal-government-of-the-united-states> <https://github.com/john1hsu/usa-graph/ontology#hasPart> <https://github.com/john1hsu/usa-graph/id/department-of-homeland-security> .
   <https://github.com/john1hsu/usa-graph/id/federal-government-of-the-united-states> <https://github.com/john1hsu/usa-graph/ontology#hasPart> <https://github.com/john1hsu/usa-graph/id/presidency-of-the-united-states> .
+  <https://github.com/john1hsu/usa-graph/id/federal-hall> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/new-york-city> .
   <https://github.com/john1hsu/usa-graph/id/federal-holidays-in-the-united-states> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/usa-graph/id/thanksgiving> .
   <https://github.com/john1hsu/usa-graph/id/federal-holidays-in-the-united-states> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/thanksgiving> .
   <https://github.com/john1hsu/usa-graph/id/federal-indian-boarding-schools> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/dawes-act> .
@@ -32789,6 +33076,7 @@
   <https://github.com/john1hsu/usa-graph/id/federalist-papers> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/bill-of-rights> .
   <https://github.com/john1hsu/usa-graph/id/federalist-papers> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/electoral-college> .
   <https://github.com/john1hsu/usa-graph/id/federalist-papers> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/james-madison> .
+  <https://github.com/john1hsu/usa-graph/id/federalist-papers> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/new-york-city> .
   <https://github.com/john1hsu/usa-graph/id/federalist-papers> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/presidency-of-the-united-states> .
   <https://github.com/john1hsu/usa-graph/id/federalist-papers> <https://github.com/john1hsu/usa-graph/ontology#influenced> <https://github.com/john1hsu/usa-graph/id/judicial-review> .
   <https://github.com/john1hsu/usa-graph/id/federalist-papers> <https://github.com/john1hsu/usa-graph/ontology#requires> <https://github.com/john1hsu/usa-graph/id/articles-of-confederation> .
@@ -33162,6 +33450,7 @@
   <https://github.com/john1hsu/usa-graph/id/george-washington> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/bill-of-rights> .
   <https://github.com/john1hsu/usa-graph/id/george-washington> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/census-and-apportionment> .
   <https://github.com/john1hsu/usa-graph/id/george-washington> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/john-marshall> .
+  <https://github.com/john1hsu/usa-graph/id/george-washington> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/new-york-city> .
   <https://github.com/john1hsu/usa-graph/id/george-washington> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/philadelphia> .
   <https://github.com/john1hsu/usa-graph/id/george-washington> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/presidency-of-the-united-states> .
   <https://github.com/john1hsu/usa-graph/id/george-washington> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/second-continental-congress> .
@@ -33429,6 +33718,7 @@
   <https://github.com/john1hsu/usa-graph/id/gullah-language> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/gullah-geechee> .
   <https://github.com/john1hsu/usa-graph/id/haitian-revolution> <https://github.com/john1hsu/usa-graph/ontology#influenced> <https://github.com/john1hsu/usa-graph/id/louisiana-purchase> .
   <https://github.com/john1hsu/usa-graph/id/hal-walker> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/lunar-laser-ranging-experiment> .
+  <https://github.com/john1hsu/usa-graph/id/harlem-renaissance> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/new-york-city> .
   <https://github.com/john1hsu/usa-graph/id/harlem-renaissance> <https://github.com/john1hsu/usa-graph/ontology#resultedFrom> <https://github.com/john1hsu/usa-graph/id/great-migration> .
   <https://github.com/john1hsu/usa-graph/id/harold-ickes> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/hoover-dam> .
   <https://github.com/john1hsu/usa-graph/id/harold-ickes> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/winged-figures-of-the-republic> .
@@ -33767,6 +34057,10 @@
   <https://github.com/john1hsu/usa-graph/id/house-of-representatives> <https://github.com/john1hsu/usa-graph/ontology#requires> <https://github.com/john1hsu/usa-graph/id/thirteen-colonies> .
   <https://github.com/john1hsu/usa-graph/id/house-un-american-activities-committee> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/hollywood> .
   <https://github.com/john1hsu/usa-graph/id/house-un-american-activities-committee> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/mccarthyism> .
+  <https://github.com/john1hsu/usa-graph/id/hudson-river> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/hudson-river> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Place> .
+  <https://github.com/john1hsu/usa-graph/id/hudson-river> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/new-york-city> .
+  <https://github.com/john1hsu/usa-graph/id/hudson-river> <https://github.com/john1hsu/usa-graph/ontology#borders> <https://github.com/john1hsu/usa-graph/id/new-york-city> .
   <https://github.com/john1hsu/usa-graph/id/huffman-prairie/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/huffman-prairie/review/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/huffman-prairie/review/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
@@ -33839,6 +34133,7 @@
   <https://github.com/john1hsu/usa-graph/id/immigration-to-the-united-states> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/immigration-and-nationality-act-of-1965> .
   <https://github.com/john1hsu/usa-graph/id/immigration-to-the-united-states> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/chinese-detention-barracks-poetry> .
   <https://github.com/john1hsu/usa-graph/id/immigration-to-the-united-states> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/hollywood> .
+  <https://github.com/john1hsu/usa-graph/id/immigration-to-the-united-states> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/new-york-city> .
   <https://github.com/john1hsu/usa-graph/id/immigration-to-the-united-states> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/triangle-shirtwaist-factory-fire> .
   <https://github.com/john1hsu/usa-graph/id/immigration-to-the-united-states> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/chinese-americans> .
   <https://github.com/john1hsu/usa-graph/id/impressment> <https://github.com/john1hsu/usa-graph/ontology#influenced> <https://github.com/john1hsu/usa-graph/id/war-of-1812> .
@@ -34376,6 +34671,7 @@
   <https://github.com/john1hsu/usa-graph/id/lee-resolution> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/second-continental-congress> .
   <https://github.com/john1hsu/usa-graph/id/lehman-brothers> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/great-recession> .
   <https://github.com/john1hsu/usa-graph/id/lemhi-shoshone> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/lewis-and-clark-expedition> .
+  <https://github.com/john1hsu/usa-graph/id/lenape> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/new-york-city> .
   <https://github.com/john1hsu/usa-graph/id/lenape> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/pennsylvania> .
   <https://github.com/john1hsu/usa-graph/id/lenape> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/philadelphia> .
   <https://github.com/john1hsu/usa-graph/id/lenape> <https://github.com/john1hsu/usa-graph/ontology#originOf> <https://github.com/john1hsu/usa-graph/id/philadelphia> .
@@ -34784,7 +35080,9 @@
   <https://github.com/john1hsu/usa-graph/id/michigan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Place> .
   <https://github.com/john1hsu/usa-graph/id/michigan> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/detroit> .
   <https://github.com/john1hsu/usa-graph/id/michigan> <https://github.com/john1hsu/usa-graph/ontology#contains> <https://github.com/john1hsu/usa-graph/id/detroit> .
+  <https://github.com/john1hsu/usa-graph/id/mid-atlantic> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/usa-graph/id/new-york-city> .
   <https://github.com/john1hsu/usa-graph/id/mid-atlantic> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/usa-graph/id/philadelphia> .
+  <https://github.com/john1hsu/usa-graph/id/mid-atlantic> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/new-york-city> .
   <https://github.com/john1hsu/usa-graph/id/mid-atlantic> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/philadelphia> .
   <https://github.com/john1hsu/usa-graph/id/mikhail-gorbachev> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/cold-war> .
   <https://github.com/john1hsu/usa-graph/id/minerals-management-service> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/bureau-of-ocean-energy-management> .
@@ -35199,6 +35497,7 @@
   <https://github.com/john1hsu/usa-graph/id/nevada> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Place> .
   <https://github.com/john1hsu/usa-graph/id/nevada> <https://github.com/john1hsu/usa-graph/ontology#contains> <https://github.com/john1hsu/usa-graph/id/hoover-dam> .
   <https://github.com/john1hsu/usa-graph/id/nevada> <https://github.com/john1hsu/usa-graph/ontology#contains> <https://github.com/john1hsu/usa-graph/id/winged-figures-of-the-republic> .
+  <https://github.com/john1hsu/usa-graph/id/new-amsterdam> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/new-york-city> .
   <https://github.com/john1hsu/usa-graph/id/new-deal/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/new-deal/review/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/new-deal/review/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
@@ -35233,6 +35532,7 @@
   <https://github.com/john1hsu/usa-graph/id/new-mexico> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/new-mexico> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Place> .
   <https://github.com/john1hsu/usa-graph/id/new-mexico> <https://github.com/john1hsu/usa-graph/ontology#siteOf> <https://github.com/john1hsu/usa-graph/id/mexican-american-war> .
+  <https://github.com/john1hsu/usa-graph/id/new-netherland> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/new-york-city> .
   <https://github.com/john1hsu/usa-graph/id/new-orleans-massacre-of-1866> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/new-orleans> .
   <https://github.com/john1hsu/usa-graph/id/new-orleans/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/new-orleans/review/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
@@ -35257,21 +35557,45 @@
   <https://github.com/john1hsu/usa-graph/id/new-orleans> <https://github.com/john1hsu/usa-graph/ontology#originOf> <https://github.com/john1hsu/usa-graph/id/jazz> .
   <https://github.com/john1hsu/usa-graph/id/new-orleans> <https://github.com/john1hsu/usa-graph/ontology#siteOf> <https://github.com/john1hsu/usa-graph/id/louisiana-purchase> .
   <https://github.com/john1hsu/usa-graph/id/new-orleans> <https://github.com/john1hsu/usa-graph/ontology#siteOf> <https://github.com/john1hsu/usa-graph/id/war-of-1812> .
+  <https://github.com/john1hsu/usa-graph/id/new-york-city-draft-riots> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/new-york-city> .
+  <https://github.com/john1hsu/usa-graph/id/new-york-city/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/new-york-city/review/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/new-york-city/review/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/new-york-city/review/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/new-york-city/review/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/new-york-city/timeline/10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/new-york-city/timeline/11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/new-york-city/timeline/12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/new-york-city/timeline/13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/new-york-city/timeline/14> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/new-york-city/timeline/15> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/new-york-city/timeline/16> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/new-york-city/timeline/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/new-york-city/timeline/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/new-york-city/timeline/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/new-york-city/timeline/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/new-york-city/timeline/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/new-york-city/timeline/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/new-york-city/timeline/7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/new-york-city/timeline/8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/new-york-city/timeline/9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/new-york-city> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/new-york-city> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Place> .
-  <https://github.com/john1hsu/usa-graph/id/new-york-city> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/great-migration> .
-  <https://github.com/john1hsu/usa-graph/id/new-york-city> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/hip-hop> .
-  <https://github.com/john1hsu/usa-graph/id/new-york-city> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/philadelphia> .
+  <https://github.com/john1hsu/usa-graph/id/new-york-city> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/usa-graph/id/mid-atlantic> .
   <https://github.com/john1hsu/usa-graph/id/new-york-city> <https://github.com/john1hsu/usa-graph/ontology#originOf> <https://github.com/john1hsu/usa-graph/id/federalist-papers> .
   <https://github.com/john1hsu/usa-graph/id/new-york-city> <https://github.com/john1hsu/usa-graph/ontology#siteOf> <https://github.com/john1hsu/usa-graph/id/panic-of-1873> .
   <https://github.com/john1hsu/usa-graph/id/new-york-city> <https://github.com/john1hsu/usa-graph/ontology#siteOf> <https://github.com/john1hsu/usa-graph/id/stock-market-crash-of-1929> .
   <https://github.com/john1hsu/usa-graph/id/new-york-city> <https://github.com/john1hsu/usa-graph/ontology#siteOf> <https://github.com/john1hsu/usa-graph/id/triangle-shirtwaist-factory-fire> .
   <https://github.com/john1hsu/usa-graph/id/new-york-factory-investigating-commission> <https://github.com/john1hsu/usa-graph/ontology#resultedFrom> <https://github.com/john1hsu/usa-graph/id/triangle-shirtwaist-factory-fire> .
   <https://github.com/john1hsu/usa-graph/id/new-york-stock-exchange> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/stock-market-crash-of-1929> .
+  <https://github.com/john1hsu/usa-graph/id/new-york> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/new-york> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Place> .
   <https://github.com/john1hsu/usa-graph/id/new-york> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/federalist-papers> .
   <https://github.com/john1hsu/usa-graph/id/new-york> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/haudenosaunee> .
+  <https://github.com/john1hsu/usa-graph/id/new-york> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/new-york-city> .
   <https://github.com/john1hsu/usa-graph/id/new-york> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/sojourner-truth> .
   <https://github.com/john1hsu/usa-graph/id/new-york> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/susan-b-anthony> .
+  <https://github.com/john1hsu/usa-graph/id/new-york> <https://github.com/john1hsu/usa-graph/ontology#contains> <https://github.com/john1hsu/usa-graph/id/new-york-city> .
   <https://github.com/john1hsu/usa-graph/id/newlands-resolution> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/hawaii> .
   <https://github.com/john1hsu/usa-graph/id/next-generation-lunar-retroreflector> <https://github.com/john1hsu/usa-graph/ontology#resultedFrom> <https://github.com/john1hsu/usa-graph/id/lunar-laser-ranging-experiment> .
   <https://github.com/john1hsu/usa-graph/id/nez-perce-war> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/yellowstone-national-park> .
@@ -35537,6 +35861,7 @@
   <https://github.com/john1hsu/usa-graph/id/panic-of-1873> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/economic-history-of-the-united-states> .
   <https://github.com/john1hsu/usa-graph/id/panic-of-1873> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/gilded-age> .
   <https://github.com/john1hsu/usa-graph/id/panic-of-1873> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/great-depression> .
+  <https://github.com/john1hsu/usa-graph/id/panic-of-1873> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/new-york-city> .
   <https://github.com/john1hsu/usa-graph/id/panic-of-1873> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/reconstruction-era> .
   <https://github.com/john1hsu/usa-graph/id/panic-of-1873> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/stock-market-crash-of-1929> .
   <https://github.com/john1hsu/usa-graph/id/panic-of-1873> <https://github.com/john1hsu/usa-graph/ontology#influenced> <https://github.com/john1hsu/usa-graph/id/great-railroad-strike-of-1877> .
@@ -35793,6 +36118,7 @@
   <https://github.com/john1hsu/usa-graph/id/puerto-rico> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/united-states> .
   <https://github.com/john1hsu/usa-graph/id/pullman-strike> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/chicago> .
   <https://github.com/john1hsu/usa-graph/id/pullman-strike> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/labor-movement> .
+  <https://github.com/john1hsu/usa-graph/id/purchase-of-manhattan> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/new-york-city> .
   <https://github.com/john1hsu/usa-graph/id/pure-food-and-drug-act> <https://github.com/john1hsu/usa-graph/ontology#resultedFrom> <https://github.com/john1hsu/usa-graph/id/muckrakers> .
   <https://github.com/john1hsu/usa-graph/id/quakers> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/abolitionism> .
   <https://github.com/john1hsu/usa-graph/id/quakers> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/pennsylvania> .
@@ -36105,6 +36431,7 @@
   <https://github.com/john1hsu/usa-graph/id/september-11-attacks> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/usa-graph/id/terrorism-in-the-united-states> .
   <https://github.com/john1hsu/usa-graph/id/september-11-attacks> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/department-of-homeland-security> .
   <https://github.com/john1hsu/usa-graph/id/september-11-attacks> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/nato> .
+  <https://github.com/john1hsu/usa-graph/id/september-11-attacks> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/new-york-city> .
   <https://github.com/john1hsu/usa-graph/id/september-11-attacks> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/department-of-homeland-security> .
   <https://github.com/john1hsu/usa-graph/id/september-11-attacks> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/war-in-afghanistan> .
   <https://github.com/john1hsu/usa-graph/id/september-11-conspiracy-theories> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/september-11-attacks> .
@@ -36247,6 +36574,7 @@
   <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/lewis-and-clark-expedition> .
   <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/louisiana-purchase> .
   <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/mexican-american-war> .
+  <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/new-york-city> .
   <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/sojourner-truth> .
   <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/star-spangled-banner> .
   <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/thomas-jefferson> .
@@ -36421,6 +36749,7 @@
   <https://github.com/john1hsu/usa-graph/id/starving-time> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/lawes-divine-morall-and-martiall> .
   <https://github.com/john1hsu/usa-graph/id/states-rights> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/federalism> .
   <https://github.com/john1hsu/usa-graph/id/statue-of-liberty> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/immigration-and-nationality-act-of-1965> .
+  <https://github.com/john1hsu/usa-graph/id/statue-of-liberty> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/new-york-city> .
   <https://github.com/john1hsu/usa-graph/id/stickball> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/chunkey> .
   <https://github.com/john1hsu/usa-graph/id/stock-market-crash-of-1929/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/stock-market-crash-of-1929/review/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
@@ -36445,6 +36774,8 @@
   <https://github.com/john1hsu/usa-graph/id/stock-market-crash-of-1929> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/usa-graph/id/economic-history-of-the-united-states> .
   <https://github.com/john1hsu/usa-graph/id/stock-market-crash-of-1929> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/usa-graph/id/history-of-the-united-states> .
   <https://github.com/john1hsu/usa-graph/id/stock-market-crash-of-1929> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/economic-history-of-the-united-states> .
+  <https://github.com/john1hsu/usa-graph/id/stock-market-crash-of-1929> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/new-york-city> .
+  <https://github.com/john1hsu/usa-graph/id/stonewall-uprising> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/new-york-city> .
   <https://github.com/john1hsu/usa-graph/id/storyville> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/jazz> .
   <https://github.com/john1hsu/usa-graph/id/storyville> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/new-orleans> .
   <https://github.com/john1hsu/usa-graph/id/stuart-v-laird> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/marbury-v-madison> .
@@ -36983,6 +37314,7 @@
   <https://github.com/john1hsu/usa-graph/id/triangle-shirtwaist-factory-fire> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/usa-graph/id/labor-history-of-the-united-states> .
   <https://github.com/john1hsu/usa-graph/id/triangle-shirtwaist-factory-fire> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/usa-graph/id/progressive-era> .
   <https://github.com/john1hsu/usa-graph/id/triangle-shirtwaist-factory-fire> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/muckrakers> .
+  <https://github.com/john1hsu/usa-graph/id/triangle-shirtwaist-factory-fire> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/new-york-city> .
   <https://github.com/john1hsu/usa-graph/id/triangle-shirtwaist-factory-fire> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/progressive-era> .
   <https://github.com/john1hsu/usa-graph/id/tribal-colleges-and-universities> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/morrill-land-grant-college-act> .
   <https://github.com/john1hsu/usa-graph/id/tribal-sovereignty/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
@@ -37714,6 +38046,7 @@
   <https://github.com/john1hsu/usa-graph/id/works-progress-administration> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/new-deal> .
   <https://github.com/john1hsu/usa-graph/id/world-trade-center> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/world-trade-center> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Place> .
+  <https://github.com/john1hsu/usa-graph/id/world-trade-center> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/new-york-city> .
   <https://github.com/john1hsu/usa-graph/id/world-trade-center> <https://github.com/john1hsu/usa-graph/ontology#siteOf> <https://github.com/john1hsu/usa-graph/id/september-11-attacks> .
   <https://github.com/john1hsu/usa-graph/id/world-war-i> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/hollywood> .
   <https://github.com/john1hsu/usa-graph/id/world-war-i> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/huffman-prairie> .

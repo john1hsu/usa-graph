@@ -2071,6 +2071,23 @@ Every review question (with its answer) and every myth-versus-fact in the graph,
 - **Q:** Why did so much of the city flood in 2005 when its oldest districts stayed relatively high?
   **A:** Most of the city was built on drained swamp that has subsided since the early 1900s, creating a bowl below sea level; when levees separating the city from Lake Pontchartrain broke during Katrina, at least 80 percent of New Orleans flooded, while the original city on natural levees stood 5 to 10 feet above sea level.
 
+### [New York City](../articles/regions-cities-and-landmarks/new-york-city.md) — City
+
+| Myth | Fact |
+|---|---|
+| The Lenape sold Manhattan to the Dutch for $24 worth of beads and trinkets, a naive bargain that shows they did not understand what they were giving up. | The only contemporary record, Pieter Schaghen's letter of November 5, 1626, says the island was acquired for goods worth 60 guilders and names no Native participants; the $24 figure is a nineteenth-century currency conversion. Scholars caution that the Lenape probably saw the agreement as shared or temporary use, while others stress that Native leaders did transfer and lease land deliberately and were hardly dupes. |
+
+**Why it matters:** The story turns a poorly documented diplomatic exchange into a joke about the "greatest real estate deal in history," erasing the Lenape's own perspectives and the later wars, disease and unequal bargaining that actually drove them from their homeland.
+
+- **Q:** Why is the story that Manhattan was sold for $24 misleading?
+  **A:** The only 1626 record says the island was acquired for goods worth 60 guilders; the $24 figure was calculated by a nineteenth-century historian, no record survives of the Lenape participants' understanding, and scholars think they likely saw it as shared or temporary use rather than a final sale.
+- **Q:** How did the Erie Canal make New York the nation's leading commercial city?
+  **A:** Completed in 1825, the canal linked the Great Lakes to the Hudson River, so Midwestern goods could flow through New York's docks to Atlantic markets, an advantage that rival ports blocked by the Appalachians could not match.
+- **Q:** What role did slavery play in early New York?
+  **A:** Enslaved Africans arrived in 1625 to work for the Dutch West India Company and built infrastructure such as the city's wall; the city later ran an official slave market, and the African Burial Ground, rediscovered in 1991, holds the graves of an estimated 20,000 people.
+- **Q:** How did the 1898 consolidation create the modern city, and why was it controversial?
+  **A:** It merged Manhattan, Brooklyn, the Bronx, Queens and Staten Island into one city on January 1, 1898; the referendum passed by only 277 votes, and many in Brooklyn feared losing their independent identity and government.
+
 ### [Philadelphia](../articles/regions-cities-and-landmarks/philadelphia.md) — City
 
 | Myth | Fact |

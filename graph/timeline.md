@@ -50,6 +50,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1612 | John Rolfe introduces a new strain of tobacco that becomes the colony's cash crop. — [Jamestown Colony](../articles/colonial-and-revolutionary/jamestown.md) |
 | 1612 | Smith's map of Virginia, labelling the Chesapeake and its Native towns, is published in England. — [Chesapeake Bay](../articles/geography-and-environment/chesapeake-bay.md) |
 | 1612 | William Strachey publishes the collected orders in London as For the Colony in Virginea Britannia. Lawes Divine, Morall and Martiall, &c. — [Lawes Divine, Morall and Martiall](../articles/colonial-and-revolutionary/lawes-divine-morall-and-martiall.md) |
+| 1613 | Jan (Juan) Rodrigues, a free Black sailor from Santo Domingo, sets up a trading post with the Lenape on Manhattan. — [New York City](../articles/regions-cities-and-landmarks/new-york-city.md) |
 | 1614-04 | Pocahontas marries John Rolfe, bringing a peace that lasts until 1622. — [Jamestown Colony](../articles/colonial-and-revolutionary/jamestown.md) |
 | 1616 | Epidemics brought by Europeans begin sweeping coastal New England; by 1619 they have killed up to 90 percent of the region's Native people. — [Thanksgiving](../articles/culture-and-arts/thanksgiving.md) |
 | 1616-05 | Dale sails for England; George Yeardley serves as deputy governor. — [Lawes Divine, Morall and Martiall](../articles/colonial-and-revolutionary/lawes-divine-morall-and-martiall.md) |
@@ -64,11 +65,15 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1622-03-22 | Opechancanough's coordinated attack kills 350 to 400 of about 1,200 colonists; Jamestown itself is warned and spared. — [Jamestown Colony](../articles/colonial-and-revolutionary/jamestown.md) |
 | 1624 | Virginia's Ancient Planters describe the famine, including cannibalism, in a report commissioned by the General Assembly. — [Starving Time of 1609–1610](../articles/colonial-and-revolutionary/starving-time.md) |
 | 1624-05-24 | The Crown revokes the Virginia Company's charter and Virginia becomes a royal colony. — [Jamestown Colony](../articles/colonial-and-revolutionary/jamestown.md) |
+| 1625 | The first enslaved Africans arrive in New Amsterdam to labor for the Dutch West India Company. — [New York City](../articles/regions-cities-and-landmarks/new-york-city.md) |
+| 1626-11-05 | Pieter Schaghen reports from Amsterdam that colonists have acquired Manhattan from its Native inhabitants for goods worth 60 guilders. — [New York City](../articles/regions-cities-and-landmarks/new-york-city.md) |
 | 1634 | English colonists on the Ark and Dove, including at least two men of African descent, land at St. Clement's Island, Maryland. — [Chesapeake Bay](../articles/geography-and-environment/chesapeake-bay.md) |
 | 1638 | Swedes and Finns found New Sweden on the Delaware River, among Lenape communities already living on both banks. — [Pennsylvania](../articles/states-and-territories/pennsylvania.md) |
 | 1641 | Sir Edward Coke's Second Institutes equates "law of the land" with "due process of law," shaping the founders' understanding. — [Due process](../articles/rights-and-law/due-process.md) |
+| 1644-02-25 | Eleven enslaved men are freed and granted farmland north of New Amsterdam. — [New York City](../articles/regions-cities-and-landmarks/new-york-city.md) |
 | 1662 | Virginia makes slavery hereditary by law; Maryland follows in 1663. — [Chesapeake Bay](../articles/geography-and-environment/chesapeake-bay.md) |
 | 1662-12 | Virginia's General Assembly rules that a child is enslaved or free according to the mother's status, making slavery hereditary. — [Slavery in the United States](../articles/society-and-people/slavery-in-the-united-states.md) |
+| 1664 | The English seize the Dutch colony and rename the town New York after James, Duke of York. — [New York City](../articles/regions-cities-and-landmarks/new-york-city.md) |
 | 1673 | French explorer Louis Jolliet notes the low divide at Chicago between the Great Lakes and Mississippi drainage systems. — [Chicago](../articles/regions-cities-and-landmarks/chicago.md) |
 | 1673 | Louis Jolliet and the Jesuit Jacques Marquette travel the river for France. — [Mississippi River](../articles/geography-and-environment/mississippi-river.md) |
 | 1676-09 | Followers of Nathaniel Bacon burn Jamestown during Bacon's Rebellion. — [Jamestown Colony](../articles/colonial-and-revolutionary/jamestown.md) |
@@ -154,6 +159,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1775-11-29 | Congress creates the Committee of Secret Correspondence to contact friends abroad. — [Second Continental Congress](../articles/colonial-and-revolutionary/second-continental-congress.md) |
 | 1776 | As a delegate to the Second Continental Congress, drafts the Declaration of Independence. — [Thomas Jefferson](../articles/presidents-and-founders/thomas-jefferson.md) |
 | 1776 | At the Virginia Convention, wins wording that widens religious toleration into a right of conscience. — [James Madison](../articles/presidents-and-founders/james-madison.md) |
+| 1776 | British forces occupy the city, which becomes their stronghold for seven years. — [New York City](../articles/regions-cities-and-landmarks/new-york-city.md) |
 | 1776 | Enlists as a lieutenant; he rises to captain in the Continental Army by July 1778. — [John Marshall](../articles/people-who-shaped-america/john-marshall.md) |
 | 1776 | Maryland's and Virginia's new constitutions adopt Magna Carta's "law of the land" protections. — [Due process](../articles/rights-and-law/due-process.md) |
 | 1776 | Sent to France as one of the American commissioners. — [Benjamin Franklin](../articles/presidents-and-founders/benjamin-franklin.md) |
@@ -274,6 +280,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1783-09-03 | The Treaty of Paris is signed, ending the war and recognizing American independence. — [American Revolutionary War](../articles/colonial-and-revolutionary/american-revolutionary-war.md) |
 | 1783-09-03 | The Treaty of Paris recognizes U.S. independence, with a western boundary at the Mississippi River. — [United States](../articles/states-and-territories/united-states.md) |
 | 1783-11-25 | British forces leave New York City, their last stronghold in the United States. — [American Revolutionary War](../articles/colonial-and-revolutionary/american-revolutionary-war.md) |
+| 1783-11-25 | Evacuation Day: the last British officials leave; about 3,000 Black Loyalists left the city with the British that year. — [New York City](../articles/regions-cities-and-landmarks/new-york-city.md) |
 | 1783-12-23 | Resigns his commission to Congress at Annapolis, Maryland. — [George Washington](../articles/presidents-and-founders/george-washington.md) |
 | 1784 | Prince Hall establishes African Lodge No. 459 in Boston, the start of Black Freemasonry. — [African Americans](../articles/society-and-people/african-americans.md) |
 | 1784 | The Treaty of Fort Stanwix affirms that the Haudenosaunee and the United States are separate nations and sets boundaries to stop settlement. — [Haudenosaunee](../articles/native-nations/haudenosaunee.md) |
@@ -349,6 +356,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1789-04-06 | The Senate achieves its first quorum. — [United States Constitution](../articles/constitution-and-government/united-states-constitution.md) |
 | 1789-04-30 | **[Presidency of the United States](../articles/constitution-and-government/presidency-of-the-united-states.md)** (Office) |
 | 1789-04-30 | George Washington takes the first presidential oath at Federal Hall in New York City. — [Presidency of the United States](../articles/constitution-and-government/presidency-of-the-united-states.md) |
+| 1789-04-30 | George Washington takes the oath of office as the first president on the balcony of Federal Hall. — [New York City](../articles/regions-cities-and-landmarks/new-york-city.md) |
 | 1789-04-30 | In his first inaugural address, George Washington suggests that Congress propose amendments securing rights. — [Bill of Rights](../articles/rights-and-law/bill-of-rights.md) |
 | 1789-04-30 | Takes the oath as the first president at Federal Hall in New York City. — [George Washington](../articles/presidents-and-founders/george-washington.md) |
 | 1789-06-08 | Introduces proposed amendments in the House of Representatives. — [James Madison](../articles/presidents-and-founders/james-madison.md) |
@@ -589,6 +597,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1824 | In Osborn v. Bank of the United States the Court holds that Congress may give a national bank the powers essential to its operation. — [McCulloch v. Maryland](../articles/rights-and-law/mcculloch-v-maryland.md) |
 | 1824 | Leads the popular and electoral vote in a four-way race but loses in the House of Representatives to John Quincy Adams. — [Andrew Jackson](../articles/presidents-and-founders/andrew-jackson.md) |
 | 1824 | Reads Congress's commerce power broadly in Gibbons v. Ogden. — [John Marshall](../articles/people-who-shaped-america/john-marshall.md) |
+| 1825 | The 363-mile Erie Canal is completed, linking the Great Lakes to the Hudson River and the port of New York. — [New York City](../articles/regions-cities-and-landmarks/new-york-city.md) |
 | 1825-02-09 | Voting by state delegations, the House chooses John Quincy Adams as president on its first ballot. — [United States House of Representatives](../articles/constitution-and-government/house-of-representatives.md) |
 | 1825-02-09 | With no electoral majority, the House chooses John Quincy Adams over Andrew Jackson, who had led in electoral and popular votes. — [Electoral College](../articles/democracy-and-elections/electoral-college.md) |
 | 1826 | Dumont breaks his promise to free her; she leaves with her infant daughter Sophia and is taken in by the Van Wagenen family. — [Sojourner Truth](../articles/people-who-shaped-america/sojourner-truth.md) |
@@ -827,6 +836,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1862-12-26 | Thirty-eight Dakota men are hanged at Mankato after Lincoln commutes most of the death sentences. — [Abraham Lincoln](../articles/presidents-and-founders/abraham-lincoln.md) |
 | 1863 – 1877 | **[Reconstruction era](../articles/civil-war-and-reconstruction/reconstruction-era.md)** (Era) |
 | 1863 | California repeals its laws legalizing Indian indenture, and African Americans win the right to testify in court. — [California](../articles/states-and-territories/california.md) |
+| 1863 | Draft riots kill as many as 119 people, many of them Black New Yorkers, until Union troops end the violence. — [New York City](../articles/regions-cities-and-landmarks/new-york-city.md) |
 | 1863 | Helps found the Women's Loyal National League to petition for emancipation. — [Susan B. Anthony](../articles/people-who-shaped-america/susan-b-anthony.md) |
 | 1863 | In the fall, President Abraham Lincoln offers amnesty and lets loyal Southerners form new state governments once 10 percent of voters swear an oath of loyalty. — [Reconstruction era](../articles/civil-war-and-reconstruction/reconstruction-era.md) |
 | 1863-01-01 | The Emancipation Proclamation takes effect in areas in rebellion. — [Abraham Lincoln](../articles/presidents-and-founders/abraham-lincoln.md) |
@@ -1130,6 +1140,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1892 | The Geary Act extends exclusion for ten more years and requires Chinese residents to carry certificates of residence. — [Chinese Exclusion Act](../articles/gilded-age-and-progressive-era/chinese-exclusion-act.md) |
 | 1892 | The Homestead Strike ends in defeat for the steelworkers' union. — [Pennsylvania](../articles/states-and-territories/pennsylvania.md) |
 | 1892 | The Homestead strike is broken at Carnegie's Pennsylvania steel works; the People's Party adopts its Omaha Platform; Ida B. Wells publishes Southern Horrors. — [Gilded Age](../articles/gilded-age-and-progressive-era/gilded-age.md) |
+| 1892-01-01 | Ellis Island opens as the nation's main federal immigration station. — [New York City](../articles/regions-cities-and-landmarks/new-york-city.md) |
 | 1892-02-24 | Daniel Desdunes boards a whites-only car on an interstate train in a first test case. — [Plessy v. Ferguson](../articles/gilded-age-and-progressive-era/plessy-v-ferguson.md) |
 | 1892-05-25 | In Abbott v. Hicks the Louisiana Supreme Court rules that the act does not apply to interstate passengers. — [Plessy v. Ferguson](../articles/gilded-age-and-progressive-era/plessy-v-ferguson.md) |
 | 1892-06-07 | Homer Plessy is arrested after sitting in the whites-only coach of an East Louisiana Railroad train to Covington. — [Plessy v. Ferguson](../articles/gilded-age-and-progressive-era/plessy-v-ferguson.md) |
@@ -1175,6 +1186,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1898 | Louisiana's new constitution mandates segregated schools and restricts Black men's voting. — [Jim Crow laws](../articles/gilded-age-and-progressive-era/jim-crow-laws.md) |
 | 1898 | United States v. Wong Kim Ark applies birthright citizenship to a U.S.-born son of Chinese parents. — [Fourteenth Amendment](../articles/rights-and-law/fourteenth-amendment.md) |
 | 1898 | Wilbur H. Siebert publishes The Underground Railroad from Slavery to Freedom, long the standard account. — [Underground Railroad](../articles/civil-war-and-reconstruction/underground-railroad.md) |
+| 1898-01-01 | Manhattan, Brooklyn, the Bronx, Queens and Staten Island are consolidated into the City of Greater New York. — [New York City](../articles/regions-cities-and-landmarks/new-york-city.md) |
 | 1898-02-01 | Martin and his deputies go on trial for murder at the Luzerne County Courthouse in Wilkes-Barre. — [Lattimer massacre](../articles/economy-and-work/lattimer-massacre.md) |
 | 1898-03-02 | The jury acquits all the defendants. — [Lattimer massacre](../articles/economy-and-work/lattimer-massacre.md) |
 | 1898-06-28 | The Curtis Act ratifies the Choctaw-Chickasaw and Creek allotment agreements and gives the Dawes Commission power over tribal enrollment. — [Dawes Act](../articles/native-nations/dawes-act.md) |
@@ -1925,6 +1937,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1968-06-30 | The last national-origins quotas and the transitional immigration pool expire. — [Immigration and Nationality Act of 1965](../articles/society-and-people/immigration-and-nationality-act-of-1965.md) |
 | 1968-07-01 | A ceiling of 120,000 immigrants a year from the Western Hemisphere takes effect for the first time. — [Immigration and Nationality Act of 1965](../articles/society-and-people/immigration-and-nationality-act-of-1965.md) |
 | 1969-02 | NASA reaches agreement with Lick Observatory, leaving only months to prepare the telescope and laser. — [Lunar Laser Ranging Experiment](../articles/science-and-innovation/lunar-laser-ranging-experiment.md) |
+| 1969-06-28 | A police raid on the Stonewall Inn in Greenwich Village sets off days of protest. — [New York City](../articles/regions-cities-and-landmarks/new-york-city.md) |
 | 1969-07-15 | Ralph Abernathy leads hundreds of Poor People's Campaign demonstrators demanding aid for Americans facing hunger and poverty. — [Apollo 11](../articles/science-and-innovation/apollo-11.md) |
 | 1969-07-16 – 1969-07-24 | **[Apollo 11](../articles/science-and-innovation/apollo-11.md)** (Event) |
 | 1969-07-16 | A Saturn V rocket lifts Apollo 11 off Launch Pad 39A at Cape Kennedy, Florida, at 9:32 a.m. EDT. — [Apollo 11](../articles/science-and-innovation/apollo-11.md) |
@@ -2029,6 +2042,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1989-06-21 | In Texas v. Johnson the Supreme Court holds that burning a flag in political protest is protected expression. — [National symbols of the United States](../articles/symbols-and-national-identity/national-symbols-of-the-united-states.md) |
 | 1989-11 | The Berlin Wall falls, and Communist rule collapses across Eastern Europe. — [Cold War](../articles/cold-war-and-civil-rights/cold-war.md) |
 | 1990 | Huffman Prairie Flying Field is designated a National Historic Landmark. — [Huffman Prairie Flying Field](../articles/science-and-innovation/huffman-prairie.md) |
+| 1991 | Excavation for a federal office building uncovers the African Burial Ground in Lower Manhattan. — [New York City](../articles/regions-cities-and-landmarks/new-york-city.md) |
 | 1991-07-17 | The building, renamed the Brown Building, is designated a National Historic Landmark. — [Triangle Shirtwaist Factory fire](../articles/economy-and-work/triangle-shirtwaist-factory-fire.md) |
 | 1991-08 | Hard-line Communists stage a failed coup against Gorbachev. — [Cold War](../articles/cold-war-and-civil-rights/cold-war.md) |
 | 1991-12-25 | Gorbachev resigns as Soviet president and the Soviet flag is lowered over the Kremlin for the last time. — [Cold War](../articles/cold-war-and-civil-rights/cold-war.md) |
@@ -2063,6 +2077,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 2001-07 | By early July all 19 hijackers, who had begun entering the country in January 2000, are inside the United States. — [September 11 attacks](../articles/contemporary-america/september-11-attacks.md) |
 | 2001-09-11 | **[September 11 attacks](../articles/contemporary-america/september-11-attacks.md)** (Event) |
 | 2001-09-11 | Hijacked airliners strike the World Trade Center's North Tower (8:46 a.m.) and South Tower (9:03 a.m.) and the Pentagon (9:37 a.m.); United 93 crashes in Pennsylvania at 10:03 a.m. after a passenger and crew revolt. — [September 11 attacks](../articles/contemporary-america/september-11-attacks.md) |
+| 2001-09-11 | Terrorist attacks destroy the World Trade Center; 2,753 people are killed in New York. — [New York City](../articles/regions-cities-and-landmarks/new-york-city.md) |
 | 2001-09-12 | NATO invokes Article 5 for the first time, the day after the September 11 attacks on the United States. — [North Atlantic Treaty Organization](../articles/foreign-relations-and-military/nato.md) |
 | 2001-09-18 | Congress's Authorization for Use of Military Force against those responsible for the September 11 attacks, and those who harbored them, is approved. — [War in Afghanistan (2001–2021)](../articles/foreign-relations-and-military/war-in-afghanistan.md) |
 | 2001-09-18 | President George W. Bush signs the Authorization for Use of Military Force against those responsible. — [September 11 attacks](../articles/contemporary-america/september-11-attacks.md) |
@@ -2222,6 +2237,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 2020-04-01 | The census counts 576,851 residents, the fewest of any state. — [Wyoming](../articles/states-and-territories/wyoming.md) |
 | 2020-04-01 | The census counts 639,111 residents. — [Detroit](../articles/regions-cities-and-landmarks/detroit.md) |
 | 2020-04-01 | The census counts 733,391 residents. — [Alaska](../articles/states-and-territories/alaska.md) |
+| 2020-04-01 | The census counts 8,804,190 residents, the city's highest total ever. — [New York City](../articles/regions-cities-and-landmarks/new-york-city.md) |
 | 2020-04-30 | The administration launches Operation Warp Speed to speed development of a vaccine. — [COVID-19 pandemic in the United States](../articles/contemporary-america/covid-19-pandemic-in-the-united-states.md) |
 | 2020-05-08 | BLS reports April unemployment of 14.7 percent and a loss of 20.5 million payroll jobs. — [COVID-19 pandemic in the United States](../articles/contemporary-america/covid-19-pandemic-in-the-united-states.md) |
 | 2020-05-28 | Recorded U.S. COVID-19 deaths pass 100,000. — [COVID-19 pandemic in the United States](../articles/contemporary-america/covid-19-pandemic-in-the-united-states.md) |

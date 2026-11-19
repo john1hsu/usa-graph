@@ -17101,6 +17101,193 @@
    }
   },
   {
+   "@id": "https://github.com/john1hsu/usa-graph/id/new-york-city/misconception",
+   "@type": "uso:Misconception",
+   "uso:fact": "The only contemporary record, Pieter Schaghen's letter of November 5, 1626, says the island was acquired for goods worth 60 guilders and names no Native participants; the $24 figure is a nineteenth-century currency conversion. Scholars caution that the Lenape probably saw the agreement as shared or temporary use, while others stress that Native leaders did transfer and lease land deliberately and were hardly dupes.",
+   "uso:myth": "The Lenape sold Manhattan to the Dutch for $24 worth of beads and trinkets, a naive bargain that shows they did not understand what they were giving up.",
+   "uso:why": "The story turns a poorly documented diplomatic exchange into a joke about the \"greatest real estate deal in history,\" erasing the Lenape's own perspectives and the later wars, disease and unequal bargaining that actually drove them from their homeland."
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/new-york-city/review/1",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "Why is the story that Manhattan was sold for $24 misleading?",
+   "uso:answer": "The only 1626 record says the island was acquired for goods worth 60 guilders; the $24 figure was calculated by a nineteenth-century historian, no record survives of the Lenape participants' understanding, and scholars think they likely saw it as shared or temporary use rather than a final sale.",
+   "uso:questionFor": {
+    "@id": "us:new-york-city"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/new-york-city/review/2",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "How did the Erie Canal make New York the nation's leading commercial city?",
+   "uso:answer": "Completed in 1825, the canal linked the Great Lakes to the Hudson River, so Midwestern goods could flow through New York's docks to Atlantic markets, an advantage that rival ports blocked by the Appalachians could not match.",
+   "uso:questionFor": {
+    "@id": "us:new-york-city"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/new-york-city/review/3",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "What role did slavery play in early New York?",
+   "uso:answer": "Enslaved Africans arrived in 1625 to work for the Dutch West India Company and built infrastructure such as the city's wall; the city later ran an official slave market, and the African Burial Ground, rediscovered in 1991, holds the graves of an estimated 20,000 people.",
+   "uso:questionFor": {
+    "@id": "us:new-york-city"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/new-york-city/review/4",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "How did the 1898 consolidation create the modern city, and why was it controversial?",
+   "uso:answer": "It merged Manhattan, Brooklyn, the Bronx, Queens and Staten Island into one city on January 1, 1898; the referendum passed by only 277 votes, and many in Brooklyn feared losing their independent identity and government.",
+   "uso:questionFor": {
+    "@id": "us:new-york-city"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/new-york-city/timeline/1",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Jan (Juan) Rodrigues, a free Black sailor from Santo Domingo, sets up a trading post with the Lenape on Manhattan.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1613"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/new-york-city/timeline/10",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Draft riots kill as many as 119 people, many of them Black New Yorkers, until Union troops end the violence.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1863"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/new-york-city/timeline/11",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Ellis Island opens as the nation's main federal immigration station.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1892-01-01"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/new-york-city/timeline/12",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Manhattan, Brooklyn, the Bronx, Queens and Staten Island are consolidated into the City of Greater New York.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1898-01-01"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/new-york-city/timeline/13",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "A police raid on the Stonewall Inn in Greenwich Village sets off days of protest.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1969-06-28"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/new-york-city/timeline/14",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Excavation for a federal office building uncovers the African Burial Ground in Lower Manhattan.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1991"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/new-york-city/timeline/15",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Terrorist attacks destroy the World Trade Center; 2,753 people are killed in New York.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "2001-09-11"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/new-york-city/timeline/16",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The census counts 8,804,190 residents, the city's highest total ever.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "2020-04-01"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/new-york-city/timeline/2",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The first enslaved Africans arrive in New Amsterdam to labor for the Dutch West India Company.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1625"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/new-york-city/timeline/3",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Pieter Schaghen reports from Amsterdam that colonists have acquired Manhattan from its Native inhabitants for goods worth 60 guilders.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1626-11-05"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/new-york-city/timeline/4",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Eleven enslaved men are freed and granted farmland north of New Amsterdam.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1644-02-25"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/new-york-city/timeline/5",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The English seize the Dutch colony and rename the town New York after James, Duke of York.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1664"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/new-york-city/timeline/6",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "British forces occupy the city, which becomes their stronghold for seven years.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1776"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/new-york-city/timeline/7",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Evacuation Day: the last British officials leave; about 3,000 Black Loyalists left the city with the British that year.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1783-11-25"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/new-york-city/timeline/8",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "George Washington takes the oath of office as the first president on the balcony of Federal Hall.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1789-04-30"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/new-york-city/timeline/9",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The 363-mile Erie Canal is completed, linking the Great Lakes to the Hudson River and the port of New York.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1825"
+   }
+  },
+  {
    "@id": "https://github.com/john1hsu/usa-graph/id/nineteenth-amendment/misconception",
    "@type": "uso:Misconception",
    "uso:fact": "Kentucky let some women vote in school elections from 1838, Wyoming Territory granted women equal suffrage in 1869, and the National Park Service counts 19 states that recognized women's voting rights before 1920; the amendment made sex an unconstitutional basis for denying the vote everywhere.",
@@ -35122,6 +35309,244 @@
    "dcterms:title": "Hurricane Katrina - August 2005",
    "schema:url": {
     "@id": "https://weather.gov/mob/katrina"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/new-york-city/s1",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "New York State Library, New Netherland Research Center",
+   "dcterms:title": "Translation of Pieter Schaghen's 1626 letter, which mentions the purchase of Manhattes (Manhattan)",
+   "schema:url": {
+    "@id": "https://www.nysl.nysed.gov/newnetherland/schaghentrans"
+   },
+   "uso:sourceType": "primary"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/new-york-city/s10",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "NYC Landmarks Preservation Commission, NYC Archaeological Repository",
+   "dcterms:title": "Completion of the Erie Canal (NYC Timeline)",
+   "schema:url": {
+    "@id": "https://archaeology.cityofnewyork.us/collection/nyc-timeline/completion-of-the-erie-canal"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/new-york-city/s11",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "NYC Landmarks Preservation Commission, NYC Archaeological Repository",
+   "dcterms:title": "Civil War Draft Riots (NYC Timeline)",
+   "schema:url": {
+    "@id": "https://archaeology.cityofnewyork.us/collection/nyc-timeline/civil-war-draft-riots"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/new-york-city/s12",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "National Park Service, Statue of Liberty National Monument",
+   "dcterms:title": "Fact Sheet: Ellis Island",
+   "schema:url": {
+    "@id": "https://www.nps.gov/npnh/learn/news/fact-sheet-elis.htm"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/new-york-city/s13",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "NYC Landmarks Preservation Commission, NYC Archaeological Repository",
+   "dcterms:title": "Consolidation of the Five-Borough City (NYC Timeline)",
+   "schema:url": {
+    "@id": "https://archaeology.cityofnewyork.us/collection/nyc-timeline/consolidation-of-the-five-borough-city"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/new-york-city/s14",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "Smithsonian National Museum of African American History and Culture",
+   "dcterms:title": "A New African American Identity: The Harlem Renaissance",
+   "schema:url": {
+    "@id": "https://nmaahc.si.edu/explore/stories/new-african-american-identity-harlem-renaissance"
+   },
+   "uso:sourceType": "museum"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/new-york-city/s15",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "Daily Compilation of Presidential Documents, GovInfo",
+   "dcterms:title": "Proclamation 9465—Establishment of the Stonewall National Monument (June 24, 2016)",
+   "schema:url": {
+    "@id": "https://www.govinfo.gov/content/pkg/DCPD-201600424/html/DCPD-201600424.htm"
+   },
+   "uso:sourceType": "primary"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/new-york-city/s16",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "National September 11 Memorial & Museum",
+   "dcterms:title": "9/11 Memorial & Museum Backgrounder (rev. July 2021)",
+   "schema:url": {
+    "@id": "https://www.911memorial.org/sites/default/files/inline-files/Backgrounder%202021.pdf"
+   },
+   "uso:sourceType": "museum"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/new-york-city/s17",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "New York City Department of City Planning, Population Division",
+   "dcterms:title": "Demographic Shifts in NYC and the Surrounding Metro Region: Key Insights from the 2020 Census",
+   "schema:url": {
+    "@id": "https://www.nyc.gov/assets/planning/download/pdf/planning-level/region/nyc-metro-census-2020-webinar.pdf"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/new-york-city/s2",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "New Netherland Institute",
+   "dcterms:title": "Occupying the Land—Territory, Title, Alienation (The Dutch Among the Natives)",
+   "schema:url": {
+    "@id": "https://www.newnetherlandinstitute.org/history-and-heritage/digital-exhibitions/the-dutch-among-the-natives/occupying-the-land/"
+   },
+   "uso:sourceType": "academic"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/new-york-city/s3",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "Smithsonian National Museum of the American Indian",
+   "dcterms:title": "The Schaghen Letter (Native Knowledge 360°: Did Native People Really Sell Manhattan?)",
+   "schema:url": {
+    "@id": "https://b.asp.si.edu/nk360/manhattan/schaghen-letter/schaghen-letter.cshtml"
+   },
+   "uso:sourceType": "museum"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/new-york-city/s4",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "NYC Landmarks Preservation Commission, NYC Archaeological Repository",
+   "dcterms:title": "Purchase of Manhattan (NYC Timeline)",
+   "schema:url": {
+    "@id": "https://archaeology.cityofnewyork.us/collection/nyc-timeline/purchase-of-manhattan"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/new-york-city/s5",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "Andrew Lipman, Common-place: The Journal of Early American Life 15.2 (2015)",
+   "dcterms:title": "Buying and Selling Staten Island",
+   "schema:url": {
+    "@id": "https://commonplace.online/article/buying-and-selling-staten-island/?print=pdf"
+   },
+   "uso:sourceType": "academic"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/new-york-city/s6",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "Smithsonian Magazine",
+   "dcterms:title": "True Native New Yorkers Can Never Truly Reclaim Their Homeland",
+   "schema:url": {
+    "@id": "https://www.smithsonianmag.com/history/true-native-new-yorkers-can-never-truly-reclaim-their-homeland-180970472/"
+   },
+   "uso:sourceType": "magazine"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/new-york-city/s7",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "National Park Service, African Burial Ground National Monument",
+   "dcterms:title": "African Burial Ground in History",
+   "schema:url": {
+    "@id": "https://www.nps.gov/afbg/learn/historyculture/african-burial-ground-in-history.htm"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/new-york-city/s8",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "The Gotham Center for New York City History",
+   "dcterms:title": "Black Loyalists in the Evacuation of New York City, 1783",
+   "schema:url": {
+    "@id": "https://www.gothamcenter.org/blog/black-loyalists-evaculation-zy4la"
+   },
+   "uso:sourceType": "academic"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/new-york-city/s9",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "National Park Service",
+   "dcterms:title": "Federal Hall National Memorial",
+   "schema:url": {
+    "@id": "https://nps.gov/places/000/federal-hall-national-memorial.htm"
    },
    "uso:sourceType": "government"
   },
@@ -65706,6 +66131,244 @@
     },
     {
      "@id": "https://github.com/john1hsu/usa-graph/id/new-orleans/timeline/9"
+    }
+   ]
+  },
+  {
+   "@id": "us:new-york-city",
+   "@type": "uso:City",
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/new-york-city/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/new-york-city/s10"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/new-york-city/s11"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/new-york-city/s12"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/new-york-city/s13"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/new-york-city/s14"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/new-york-city/s15"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/new-york-city/s16"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/new-york-city/s17"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/new-york-city/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/new-york-city/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/new-york-city/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/new-york-city/s5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/new-york-city/s6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/new-york-city/s7"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/new-york-city/s8"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/new-york-city/s9"
+    }
+   ],
+   "rdfs:label": "New York City",
+   "skos:altLabel": [
+    "City of Greater New York",
+    "City of New York",
+    "Manahatta",
+    "NYC",
+    "New Amsterdam"
+   ],
+   "skos:broader": {
+    "@id": "us:mid-atlantic"
+   },
+   "skos:definition": "The most populous city in the United States, built on Lenape (Munsee) homeland at the mouth of the Hudson River; founded as the Dutch trading town of New Amsterdam in the 1620s, renamed New York under English rule in 1664, briefly the first federal capital, and consolidated into five boroughs in 1898, it became the nation's leading commercial port and a gateway for immigrants, with 8,804,190 residents in the 2020 census.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/usa-graph/id/scheme/regions-cities-and-landmarks"
+   },
+   "skos:prefLabel": "New York City",
+   "skos:related": [
+    {
+     "@id": "us:african-americans"
+    },
+    {
+     "@id": "us:african-burial-ground-national-monument"
+    },
+    {
+     "@id": "us:american-civil-war"
+    },
+    {
+     "@id": "us:american-revolutionary-war"
+    },
+    {
+     "@id": "us:black-loyalists"
+    },
+    {
+     "@id": "us:chicago"
+    },
+    {
+     "@id": "us:dutch-west-india-company"
+    },
+    {
+     "@id": "us:ellis-island"
+    },
+    {
+     "@id": "us:erie-canal"
+    },
+    {
+     "@id": "us:federal-hall"
+    },
+    {
+     "@id": "us:federalist-papers"
+    },
+    {
+     "@id": "us:george-washington"
+    },
+    {
+     "@id": "us:great-migration"
+    },
+    {
+     "@id": "us:harlem-renaissance"
+    },
+    {
+     "@id": "us:hip-hop"
+    },
+    {
+     "@id": "us:hudson-river"
+    },
+    {
+     "@id": "us:immigration-to-the-united-states"
+    },
+    {
+     "@id": "us:lenape"
+    },
+    {
+     "@id": "us:new-amsterdam"
+    },
+    {
+     "@id": "us:new-netherland"
+    },
+    {
+     "@id": "us:new-york"
+    },
+    {
+     "@id": "us:new-york-city-draft-riots"
+    },
+    {
+     "@id": "us:panic-of-1873"
+    },
+    {
+     "@id": "us:philadelphia"
+    },
+    {
+     "@id": "us:purchase-of-manhattan"
+    },
+    {
+     "@id": "us:september-11-attacks"
+    },
+    {
+     "@id": "us:slavery-in-the-united-states"
+    },
+    {
+     "@id": "us:statue-of-liberty"
+    },
+    {
+     "@id": "us:stock-market-crash-of-1929"
+    },
+    {
+     "@id": "us:stonewall-uprising"
+    },
+    {
+     "@id": "us:triangle-shirtwaist-factory-fire"
+    },
+    {
+     "@id": "us:world-trade-center"
+    }
+   ],
+   "uso:borders": {
+    "@id": "us:hudson-river"
+   },
+   "uso:domain": "regions-cities-and-landmarks",
+   "uso:evidenceStatus": "established",
+   "uso:file": "articles/regions-cities-and-landmarks/new-york-city.md",
+   "uso:level": "introductory",
+   "uso:locatedIn": {
+    "@id": "us:new-york"
+   },
+   "uso:misconception": {
+    "@id": "https://github.com/john1hsu/usa-graph/id/new-york-city/misconception"
+   },
+   "uso:timelineEntry": [
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/new-york-city/timeline/1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/new-york-city/timeline/10"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/new-york-city/timeline/11"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/new-york-city/timeline/12"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/new-york-city/timeline/13"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/new-york-city/timeline/14"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/new-york-city/timeline/15"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/new-york-city/timeline/16"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/new-york-city/timeline/2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/new-york-city/timeline/3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/new-york-city/timeline/4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/new-york-city/timeline/5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/new-york-city/timeline/6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/new-york-city/timeline/7"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/new-york-city/timeline/8"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/new-york-city/timeline/9"
     }
    ]
   },
