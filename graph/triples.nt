@@ -13155,6 +13155,123 @@
 <https://github.com/john1hsu/usa-graph/id/presidency-of-the-united-states> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/presidency-of-the-united-states/timeline/8> .
 <https://github.com/john1hsu/usa-graph/id/presidency-of-the-united-states> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/presidency-of-the-united-states/timeline/9> .
 <https://github.com/john1hsu/usa-graph/id/presidency-of-the-united-states> <https://schema.org/startDate> "1789-04-30"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/progressive-era/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Misconception> .
+<https://github.com/john1hsu/usa-graph/id/progressive-era/misconception> <https://github.com/john1hsu/usa-graph/ontology#fact> "Roosevelt launched more than two dozen successful antitrust suits, more than any earlier president, but William Howard Taft initiated about twice as many in a single term." .
+<https://github.com/john1hsu/usa-graph/id/progressive-era/misconception> <https://github.com/john1hsu/usa-graph/ontology#myth> "Theodore Roosevelt was the Progressive Era's leading \"trust-buster.\"" .
+<https://github.com/john1hsu/usa-graph/id/progressive-era/misconception> <https://github.com/john1hsu/usa-graph/ontology#why> "Roosevelt made antitrust action part of his Square Deal and won the landmark Northern Securities case, so the nickname stuck to him, yet he also distinguished \"good\" trusts, which he tolerated, from \"bad\" ones, while Taft's larger record is less remembered." .
+<https://github.com/john1hsu/usa-graph/id/progressive-era/review/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+<https://github.com/john1hsu/usa-graph/id/progressive-era/review/1> <http://www.w3.org/2000/01/rdf-schema#label> "Why did Progressive reformers push for the direct election of U.S. senators?" .
+<https://github.com/john1hsu/usa-graph/id/progressive-era/review/1> <https://github.com/john1hsu/usa-graph/ontology#answer> "Legislatures often deadlocked over Senate seats (after an 1895 deadlock Delaware had no Senate representation for two years), and exposés portrayed senators as tools of industrialists; reformers wanted voters, not legislators, to choose, and the Seventeenth Amendment was ratified on April 8, 1913." .
+<https://github.com/john1hsu/usa-graph/id/progressive-era/review/1> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/progressive-era> .
+<https://github.com/john1hsu/usa-graph/id/progressive-era/review/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+<https://github.com/john1hsu/usa-graph/id/progressive-era/review/2> <http://www.w3.org/2000/01/rdf-schema#label> "How did the Progressive Era fall short for Black Americans even as it expanded democracy for others?" .
+<https://github.com/john1hsu/usa-graph/id/progressive-era/review/2> <https://github.com/john1hsu/usa-graph/ontology#answer> "Southern states used poll taxes and literacy tests to disfranchise Black men, many white reformers treated segregation as a \"Progressive solution,\" the Wilson administration segregated federal offices, and many Black women still could not vote after 1920; in response Black activists built the Niagara Movement and the NAACP." .
+<https://github.com/john1hsu/usa-graph/id/progressive-era/review/2> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/progressive-era> .
+<https://github.com/john1hsu/usa-graph/id/progressive-era/review/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+<https://github.com/john1hsu/usa-graph/id/progressive-era/review/3> <http://www.w3.org/2000/01/rdf-schema#label> "Why do historians disagree about whether there was a single \"progressive movement\"?" .
+<https://github.com/john1hsu/usa-graph/id/progressive-era/review/3> <https://github.com/john1hsu/usa-graph/ontology#answer> "Reformers ranged from business leaders and middle-class professionals to immigrants, urban machines, women's organizations and labor, with conflicting goals; Peter Filene argued in 1970 that the label had outlived its usefulness, while Daniel Rodgers replied that the movement's diversity was the source of its impact." .
+<https://github.com/john1hsu/usa-graph/id/progressive-era/review/3> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/progressive-era> .
+<https://github.com/john1hsu/usa-graph/id/progressive-era/timeline/10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/progressive-era/timeline/10> <http://www.w3.org/2000/01/rdf-schema#label> "The Seventeenth Amendment, providing for popular election of senators, is ratified; the Sixteenth Amendment (income tax) and the Federal Reserve Act also date from 1913." .
+<https://github.com/john1hsu/usa-graph/id/progressive-era/timeline/10> <https://github.com/john1hsu/usa-graph/ontology#date> "1913-04-08"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/progressive-era/timeline/11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/progressive-era/timeline/11> <http://www.w3.org/2000/01/rdf-schema#label> "The Clayton Antitrust Act and the Federal Trade Commission law are enacted." .
+<https://github.com/john1hsu/usa-graph/id/progressive-era/timeline/11> <https://github.com/john1hsu/usa-graph/ontology#date> "1914"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://github.com/john1hsu/usa-graph/id/progressive-era/timeline/12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/progressive-era/timeline/12> <http://www.w3.org/2000/01/rdf-schema#label> "The Adamson Act sets the first federally mandated eight-hour day, for railroad workers." .
+<https://github.com/john1hsu/usa-graph/id/progressive-era/timeline/12> <https://github.com/john1hsu/usa-graph/ontology#date> "1916"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://github.com/john1hsu/usa-graph/id/progressive-era/timeline/13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/progressive-era/timeline/13> <http://www.w3.org/2000/01/rdf-schema#label> "Alice Paul's National Woman's Party begins picketing the White House." .
+<https://github.com/john1hsu/usa-graph/id/progressive-era/timeline/13> <https://github.com/john1hsu/usa-graph/ontology#date> "1917-01"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> .
+<https://github.com/john1hsu/usa-graph/id/progressive-era/timeline/14> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/progressive-era/timeline/14> <http://www.w3.org/2000/01/rdf-schema#label> "Tennessee becomes the 36th state to ratify the Nineteenth Amendment, the same year national Prohibition under the Eighteenth Amendment takes effect." .
+<https://github.com/john1hsu/usa-graph/id/progressive-era/timeline/14> <https://github.com/john1hsu/usa-graph/ontology#date> "1920-08-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/progressive-era/timeline/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/progressive-era/timeline/1> <http://www.w3.org/2000/01/rdf-schema#label> "Jane Addams and Ellen Gates Starr open Hull House, a settlement house in Chicago." .
+<https://github.com/john1hsu/usa-graph/id/progressive-era/timeline/1> <https://github.com/john1hsu/usa-graph/ontology#date> "1889"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://github.com/john1hsu/usa-graph/id/progressive-era/timeline/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/progressive-era/timeline/2> <http://www.w3.org/2000/01/rdf-schema#label> "Jacob Riis publishes How the Other Half Lives, exposing conditions in New York City tenements." .
+<https://github.com/john1hsu/usa-graph/id/progressive-era/timeline/2> <https://github.com/john1hsu/usa-graph/ontology#date> "1890"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://github.com/john1hsu/usa-graph/id/progressive-era/timeline/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/progressive-era/timeline/3> <http://www.w3.org/2000/01/rdf-schema#label> "Theodore Roosevelt becomes president, and Progressive reform reaches the federal government." .
+<https://github.com/john1hsu/usa-graph/id/progressive-era/timeline/3> <https://github.com/john1hsu/usa-graph/ontology#date> "1901"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://github.com/john1hsu/usa-graph/id/progressive-era/timeline/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/progressive-era/timeline/4> <http://www.w3.org/2000/01/rdf-schema#label> "The Supreme Court upholds, 5–4, the government's breakup of the Northern Securities railroad trust." .
+<https://github.com/john1hsu/usa-graph/id/progressive-era/timeline/4> <https://github.com/john1hsu/usa-graph/ontology#date> "1904"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://github.com/john1hsu/usa-graph/id/progressive-era/timeline/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/progressive-era/timeline/5> <http://www.w3.org/2000/01/rdf-schema#label> "W. E. B. Du Bois and other Black leaders found the Niagara Movement on the Canadian side of Niagara Falls." .
+<https://github.com/john1hsu/usa-graph/id/progressive-era/timeline/5> <https://github.com/john1hsu/usa-graph/ontology#date> "1905"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://github.com/john1hsu/usa-graph/id/progressive-era/timeline/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/progressive-era/timeline/6> <http://www.w3.org/2000/01/rdf-schema#label> "Congress passes the Meat Inspection Act and the Pure Food and Drug Act." .
+<https://github.com/john1hsu/usa-graph/id/progressive-era/timeline/6> <https://github.com/john1hsu/usa-graph/ontology#date> "1906"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://github.com/john1hsu/usa-graph/id/progressive-era/timeline/7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/progressive-era/timeline/7> <http://www.w3.org/2000/01/rdf-schema#label> "The NAACP is founded in the aftermath of the 1908 Springfield, Illinois, race riot." .
+<https://github.com/john1hsu/usa-graph/id/progressive-era/timeline/7> <https://github.com/john1hsu/usa-graph/ontology#date> "1909"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://github.com/john1hsu/usa-graph/id/progressive-era/timeline/8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/progressive-era/timeline/8> <http://www.w3.org/2000/01/rdf-schema#label> "The Society of American Indians, the first Native rights organization run by Native people, holds its founding conference in Columbus, Ohio." .
+<https://github.com/john1hsu/usa-graph/id/progressive-era/timeline/8> <https://github.com/john1hsu/usa-graph/ontology#date> "1911-10"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> .
+<https://github.com/john1hsu/usa-graph/id/progressive-era/timeline/9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/progressive-era/timeline/9> <http://www.w3.org/2000/01/rdf-schema#label> "Woodrow Wilson wins the presidency with 42 percent of the popular vote after Roosevelt's Progressive Party splits the Republicans." .
+<https://github.com/john1hsu/usa-graph/id/progressive-era/timeline/9> <https://github.com/john1hsu/usa-graph/ontology#date> "1912"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://github.com/john1hsu/usa-graph/id/progressive-era> <http://purl.org/dc/terms/created> "2026-11-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/progressive-era> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Era> .
+<https://github.com/john1hsu/usa-graph/id/progressive-era> <http://www.w3.org/2000/01/rdf-schema#label> "Progressive Era" .
+<https://github.com/john1hsu/usa-graph/id/progressive-era> <http://www.w3.org/2004/02/skos/core#altLabel> "Progressive period" .
+<https://github.com/john1hsu/usa-graph/id/progressive-era> <http://www.w3.org/2004/02/skos/core#altLabel> "The Progressive Era" .
+<https://github.com/john1hsu/usa-graph/id/progressive-era> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/usa-graph/id/history-of-the-united-states> .
+<https://github.com/john1hsu/usa-graph/id/progressive-era> <http://www.w3.org/2004/02/skos/core#definition> "The period of U.S. history from roughly the 1890s to about 1920 when reformers of many kinds used journalism, voluntary associations and new state and federal laws to tackle the corruption, monopoly power, unsafe work and urban poverty of the industrial age, winning amendments for the income tax, direct election of senators, Prohibition and women's suffrage while largely accepting, and in places deepening, racial segregation and disfranchisement." .
+<https://github.com/john1hsu/usa-graph/id/progressive-era> <http://www.w3.org/2004/02/skos/core#inScheme> <https://github.com/john1hsu/usa-graph/id/scheme/gilded-age-and-progressive-era> .
+<https://github.com/john1hsu/usa-graph/id/progressive-era> <http://www.w3.org/2004/02/skos/core#prefLabel> "Progressive Era" .
+<https://github.com/john1hsu/usa-graph/id/progressive-era> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/gilded-age> .
+<https://github.com/john1hsu/usa-graph/id/progressive-era> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/jim-crow-laws> .
+<https://github.com/john1hsu/usa-graph/id/progressive-era> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/muckrakers> .
+<https://github.com/john1hsu/usa-graph/id/progressive-era> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/naacp> .
+<https://github.com/john1hsu/usa-graph/id/progressive-era> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/new-deal> .
+<https://github.com/john1hsu/usa-graph/id/progressive-era> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/progressive-party-1912> .
+<https://github.com/john1hsu/usa-graph/id/progressive-era> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/society-of-american-indians> .
+<https://github.com/john1hsu/usa-graph/id/progressive-era> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/theodore-roosevelt> .
+<https://github.com/john1hsu/usa-graph/id/progressive-era> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/triangle-shirtwaist-factory-fire> .
+<https://github.com/john1hsu/usa-graph/id/progressive-era> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/womens-suffrage-movement> .
+<https://github.com/john1hsu/usa-graph/id/progressive-era> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/woodrow-wilson> .
+<https://github.com/john1hsu/usa-graph/id/progressive-era> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/world-war-i> .
+<https://github.com/john1hsu/usa-graph/id/progressive-era> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/progressive-era/s10> .
+<https://github.com/john1hsu/usa-graph/id/progressive-era> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/progressive-era/s11> .
+<https://github.com/john1hsu/usa-graph/id/progressive-era> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/progressive-era/s1> .
+<https://github.com/john1hsu/usa-graph/id/progressive-era> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/progressive-era/s2> .
+<https://github.com/john1hsu/usa-graph/id/progressive-era> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/progressive-era/s3> .
+<https://github.com/john1hsu/usa-graph/id/progressive-era> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/progressive-era/s4> .
+<https://github.com/john1hsu/usa-graph/id/progressive-era> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/progressive-era/s5> .
+<https://github.com/john1hsu/usa-graph/id/progressive-era> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/progressive-era/s6> .
+<https://github.com/john1hsu/usa-graph/id/progressive-era> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/progressive-era/s7> .
+<https://github.com/john1hsu/usa-graph/id/progressive-era> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/progressive-era/s8> .
+<https://github.com/john1hsu/usa-graph/id/progressive-era> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/progressive-era/s9> .
+<https://github.com/john1hsu/usa-graph/id/progressive-era> <https://github.com/john1hsu/usa-graph/ontology#contrastsWith> <https://github.com/john1hsu/usa-graph/id/roaring-twenties> .
+<https://github.com/john1hsu/usa-graph/id/progressive-era> <https://github.com/john1hsu/usa-graph/ontology#domain> "gilded-age-and-progressive-era" .
+<https://github.com/john1hsu/usa-graph/id/progressive-era> <https://github.com/john1hsu/usa-graph/ontology#evidenceStatus> "interpretive" .
+<https://github.com/john1hsu/usa-graph/id/progressive-era> <https://github.com/john1hsu/usa-graph/ontology#file> "articles/gilded-age-and-progressive-era/progressive-era.md" .
+<https://github.com/john1hsu/usa-graph/id/progressive-era> <https://github.com/john1hsu/usa-graph/ontology#ledTo> <https://github.com/john1hsu/usa-graph/id/federal-reserve-system> .
+<https://github.com/john1hsu/usa-graph/id/progressive-era> <https://github.com/john1hsu/usa-graph/ontology#ledTo> <https://github.com/john1hsu/usa-graph/id/nineteenth-amendment> .
+<https://github.com/john1hsu/usa-graph/id/progressive-era> <https://github.com/john1hsu/usa-graph/ontology#ledTo> <https://github.com/john1hsu/usa-graph/id/seventeenth-amendment> .
+<https://github.com/john1hsu/usa-graph/id/progressive-era> <https://github.com/john1hsu/usa-graph/ontology#level> "introductory" .
+<https://github.com/john1hsu/usa-graph/id/progressive-era> <https://github.com/john1hsu/usa-graph/ontology#misconception> <https://github.com/john1hsu/usa-graph/id/progressive-era/misconception> .
+<https://github.com/john1hsu/usa-graph/id/progressive-era> <https://github.com/john1hsu/usa-graph/ontology#occurredIn> <https://github.com/john1hsu/usa-graph/id/united-states> .
+<https://github.com/john1hsu/usa-graph/id/progressive-era> <https://github.com/john1hsu/usa-graph/ontology#requires> <https://github.com/john1hsu/usa-graph/id/gilded-age> .
+<https://github.com/john1hsu/usa-graph/id/progressive-era> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/progressive-era/timeline/10> .
+<https://github.com/john1hsu/usa-graph/id/progressive-era> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/progressive-era/timeline/11> .
+<https://github.com/john1hsu/usa-graph/id/progressive-era> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/progressive-era/timeline/12> .
+<https://github.com/john1hsu/usa-graph/id/progressive-era> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/progressive-era/timeline/13> .
+<https://github.com/john1hsu/usa-graph/id/progressive-era> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/progressive-era/timeline/14> .
+<https://github.com/john1hsu/usa-graph/id/progressive-era> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/progressive-era/timeline/1> .
+<https://github.com/john1hsu/usa-graph/id/progressive-era> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/progressive-era/timeline/2> .
+<https://github.com/john1hsu/usa-graph/id/progressive-era> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/progressive-era/timeline/3> .
+<https://github.com/john1hsu/usa-graph/id/progressive-era> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/progressive-era/timeline/4> .
+<https://github.com/john1hsu/usa-graph/id/progressive-era> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/progressive-era/timeline/5> .
+<https://github.com/john1hsu/usa-graph/id/progressive-era> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/progressive-era/timeline/6> .
+<https://github.com/john1hsu/usa-graph/id/progressive-era> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/progressive-era/timeline/7> .
+<https://github.com/john1hsu/usa-graph/id/progressive-era> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/progressive-era/timeline/8> .
+<https://github.com/john1hsu/usa-graph/id/progressive-era> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/progressive-era/timeline/9> .
+<https://github.com/john1hsu/usa-graph/id/progressive-era> <https://schema.org/endDate> "1920"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://github.com/john1hsu/usa-graph/id/progressive-era> <https://schema.org/startDate> "1890"^^<http://www.w3.org/2001/XMLSchema#gYear> .
 <https://github.com/john1hsu/usa-graph/id/reconstruction-era/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Misconception> .
 <https://github.com/john1hsu/usa-graph/id/reconstruction-era/misconception> <https://github.com/john1hsu/usa-graph/ontology#fact> "This \"tragic era\" story, spread by William Dunning's Columbia school, Claude Bowers's The Tragic Era and films, has been rejected by historians; Southern corruption was no worse than national scandals, Black men held a small share of offices, and the Reconstruction governments built the South's first public school systems before being overthrown by violence." .
 <https://github.com/john1hsu/usa-graph/id/reconstruction-era/misconception> <https://github.com/john1hsu/usa-graph/ontology#myth> "Reconstruction failed because vindictive Radicals handed the South to corrupt carpetbaggers and to freedmen unfit to govern, until white \"redeemers\" restored honest rule." .
@@ -20937,6 +21054,72 @@
 <https://github.com/john1hsu/usa-graph/id/source/presidency-of-the-united-states/s9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
 <https://github.com/john1hsu/usa-graph/id/source/presidency-of-the-united-states/s9> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "academic" .
 <https://github.com/john1hsu/usa-graph/id/source/presidency-of-the-united-states/s9> <https://schema.org/url> <https://teachingamericanhistory.org/document/report-of-the-presidents-committee-on-administrative-management-the-brownlow-committee-report/> .
+<https://github.com/john1hsu/usa-graph/id/source/progressive-era/s10> <http://purl.org/dc/terms/date> "2026-11-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/progressive-era/s10> <http://purl.org/dc/terms/publisher> "Daniel T. Rodgers, The Journal of the Gilded Age and Progressive Era 13, no. 3 (July 2014) 379–386, doi:10.1017/S1537781414000243" .
+<https://github.com/john1hsu/usa-graph/id/source/progressive-era/s10> <http://purl.org/dc/terms/title> "Capitalism and Politics in the Progressive Era and in Ours" .
+<https://github.com/john1hsu/usa-graph/id/source/progressive-era/s10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/progressive-era/s10> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/usa-graph/id/source/progressive-era/s10> <https://schema.org/url> <https://www.cambridge.org/core/journals/journal-of-the-gilded-age-and-progressive-era/article/abs/capitalism-and-politics-in-the-progressive-era-and-in-ours/F5DD9963FE6C3033593BE5590EBE67D3> .
+<https://github.com/john1hsu/usa-graph/id/source/progressive-era/s11> <http://purl.org/dc/terms/date> "2026-11-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/progressive-era/s11> <http://purl.org/dc/terms/publisher> "American Indian Quarterly 37, no. 3, joint special issue with Studies in American Indian Literatures (University of Nebraska Press)" .
+<https://github.com/john1hsu/usa-graph/id/source/progressive-era/s11> <http://purl.org/dc/terms/title> "Introduction: Locating the Society of American Indians" .
+<https://github.com/john1hsu/usa-graph/id/source/progressive-era/s11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/progressive-era/s11> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/usa-graph/id/source/progressive-era/s11> <https://schema.org/url> <https://muse.jhu.edu/journals/american_indian_quarterly/v037/37.3.allen.html> .
+<https://github.com/john1hsu/usa-graph/id/source/progressive-era/s1> <http://purl.org/dc/terms/date> "2026-11-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/progressive-era/s1> <http://purl.org/dc/terms/publisher> "The American Yawp, ed. Joseph Locke and Ben Wright (Stanford University Press)" .
+<https://github.com/john1hsu/usa-graph/id/source/progressive-era/s1> <http://purl.org/dc/terms/title> "20. The Progressive Era" .
+<https://github.com/john1hsu/usa-graph/id/source/progressive-era/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/progressive-era/s1> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "textbook" .
+<https://github.com/john1hsu/usa-graph/id/source/progressive-era/s1> <https://schema.org/url> <https://www.americanyawp.com/feedback_2018-2021/20-the-progressive-era/> .
+<https://github.com/john1hsu/usa-graph/id/source/progressive-era/s2> <http://purl.org/dc/terms/date> "2026-11-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/progressive-era/s2> <http://purl.org/dc/terms/publisher> "OpenStax, U.S. History (Rice University)" .
+<https://github.com/john1hsu/usa-graph/id/source/progressive-era/s2> <http://purl.org/dc/terms/title> "21.1 The Origins of the Progressive Spirit in America" .
+<https://github.com/john1hsu/usa-graph/id/source/progressive-era/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/progressive-era/s2> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "textbook" .
+<https://github.com/john1hsu/usa-graph/id/source/progressive-era/s2> <https://schema.org/url> <https://openstax.org/books/us-history/pages/21-1-the-origins-of-the-progressive-spirit-in-america> .
+<https://github.com/john1hsu/usa-graph/id/source/progressive-era/s3> <http://purl.org/dc/terms/date> "2026-11-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/progressive-era/s3> <http://purl.org/dc/terms/publisher> "OpenStax, U.S. History (Rice University)" .
+<https://github.com/john1hsu/usa-graph/id/source/progressive-era/s3> <http://purl.org/dc/terms/title> "21.3 New Voices for Women and African Americans" .
+<https://github.com/john1hsu/usa-graph/id/source/progressive-era/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/progressive-era/s3> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "textbook" .
+<https://github.com/john1hsu/usa-graph/id/source/progressive-era/s3> <https://schema.org/url> <https://openstax.org/books/us-history/pages/21-3-new-voices-for-women-and-african-americans> .
+<https://github.com/john1hsu/usa-graph/id/source/progressive-era/s4> <http://purl.org/dc/terms/date> "2026-11-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/progressive-era/s4> <http://purl.org/dc/terms/publisher> "OpenStax, U.S. History (Rice University)" .
+<https://github.com/john1hsu/usa-graph/id/source/progressive-era/s4> <http://purl.org/dc/terms/title> "21.4 Progressivism in the White House" .
+<https://github.com/john1hsu/usa-graph/id/source/progressive-era/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/progressive-era/s4> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "textbook" .
+<https://github.com/john1hsu/usa-graph/id/source/progressive-era/s4> <https://schema.org/url> <https://openstax.org/books/us-history/pages/21-4-progressivism-in-the-white-house> .
+<https://github.com/john1hsu/usa-graph/id/source/progressive-era/s5> <http://purl.org/dc/terms/date> "2026-11-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/progressive-era/s5> <http://purl.org/dc/terms/publisher> "Library of Congress, U.S. History Primary Source Timeline" .
+<https://github.com/john1hsu/usa-graph/id/source/progressive-era/s5> <http://purl.org/dc/terms/title> "Progressive Era to New Era, 1900-1929: Overview" .
+<https://github.com/john1hsu/usa-graph/id/source/progressive-era/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/progressive-era/s5> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/usa-graph/id/source/progressive-era/s5> <https://schema.org/url> <https://www.loc.gov/classroom-materials/united-states-history-primary-source-timeline/progressive-era-to-new-era-1900-1929/overview/> .
+<https://github.com/john1hsu/usa-graph/id/source/progressive-era/s6> <http://purl.org/dc/terms/date> "2026-11-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/progressive-era/s6> <http://purl.org/dc/terms/publisher> "United States Senate, Senate Historical Office" .
+<https://github.com/john1hsu/usa-graph/id/source/progressive-era/s6> <http://purl.org/dc/terms/title> "The Seventeenth Amendment to the U.S. Constitution" .
+<https://github.com/john1hsu/usa-graph/id/source/progressive-era/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/progressive-era/s6> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/usa-graph/id/source/progressive-era/s6> <https://schema.org/url> <https://www.senate.gov/about/origins-foundations/senate-and-constitution/seventeenth-amendment.htm> .
+<https://github.com/john1hsu/usa-graph/id/source/progressive-era/s7> <http://purl.org/dc/terms/date> "2026-11-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/progressive-era/s7> <http://purl.org/dc/terms/publisher> "National Archives, Milestone Documents" .
+<https://github.com/john1hsu/usa-graph/id/source/progressive-era/s7> <http://purl.org/dc/terms/title> "19th Amendment to the U.S. Constitution: Women's Right to Vote (1920)" .
+<https://github.com/john1hsu/usa-graph/id/source/progressive-era/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/progressive-era/s7> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/usa-graph/id/source/progressive-era/s7> <https://schema.org/url> <https://www.archives.gov/milestone-documents/19th-amendment> .
+<https://github.com/john1hsu/usa-graph/id/source/progressive-era/s8> <http://purl.org/dc/terms/date> "2026-11-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/progressive-era/s8> <http://purl.org/dc/terms/publisher> "Saladin Ambar, Miller Center, University of Virginia" .
+<https://github.com/john1hsu/usa-graph/id/source/progressive-era/s8> <http://purl.org/dc/terms/title> "Woodrow Wilson: Domestic Affairs" .
+<https://github.com/john1hsu/usa-graph/id/source/progressive-era/s8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/progressive-era/s8> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/usa-graph/id/source/progressive-era/s8> <https://schema.org/url> <https://millercenter.org/node/279> .
+<https://github.com/john1hsu/usa-graph/id/source/progressive-era/s9> <http://purl.org/dc/terms/date> "2026-11-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/progressive-era/s9> <http://purl.org/dc/terms/publisher> "Alan Brinkley, The Unfinished Nation, 7th ed., chapter 20 (McGraw-Hill Education)" .
+<https://github.com/john1hsu/usa-graph/id/source/progressive-era/s9> <http://purl.org/dc/terms/title> "Debating the Past: Progressivism" .
+<https://github.com/john1hsu/usa-graph/id/source/progressive-era/s9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/progressive-era/s9> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "textbook" .
+<https://github.com/john1hsu/usa-graph/id/source/progressive-era/s9> <https://schema.org/url> <https://glencoe.mheducation.com/sites/0076654583/student_view0/chapter20/debating_the_past.html> .
 <https://github.com/john1hsu/usa-graph/id/source/reconstruction-era/s1> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
 <https://github.com/john1hsu/usa-graph/id/source/reconstruction-era/s1> <http://purl.org/dc/terms/publisher> "Joseph L. Locke and Ben Wright, eds., The American Yawp (Stanford University Press)" .
 <https://github.com/john1hsu/usa-graph/id/source/reconstruction-era/s1> <http://purl.org/dc/terms/title> "14. Reconstruction" .

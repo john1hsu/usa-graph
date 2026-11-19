@@ -1075,10 +1075,13 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1888-10-01 | The Scott Act voids the return certificates of Chinese laborers abroad, stranding about 20,000 people. — [Chinese Exclusion Act](../articles/gilded-age-and-progressive-era/chinese-exclusion-act.md) |
 | 1889 | Appointed U.S. minister resident and consul general to Haiti, serving until 1891. — [Frederick Douglass](../articles/people-who-shaped-america/frederick-douglass.md) |
 | 1889 | Appointed to the U.S. Civil Service Commission by President Benjamin Harrison. — [Theodore Roosevelt](../articles/presidents-and-founders/theodore-roosevelt.md) |
+| 1889 | Jane Addams and Ellen Gates Starr open Hull House, a settlement house in Chicago. — [Progressive Era](../articles/gilded-age-and-progressive-era/progressive-era.md) |
 | 1889 | The U.S. Navy adopts the song for flag ceremonies. — [The Star-Spangled Banner](../articles/symbols-and-national-identity/star-spangled-banner.md) |
 | 1889-05-13 | In Chae Chan Ping v. United States the Supreme Court upholds the Scott Act under Congress's plenary power over immigration. — [Chinese Exclusion Act](../articles/gilded-age-and-progressive-era/chinese-exclusion-act.md) |
 | 1889-11-05 | Voters ratify the state constitution, which keeps equal suffrage for women. — [Wyoming](../articles/states-and-territories/wyoming.md) |
+| 1890 – 1920 | **[Progressive Era](../articles/gilded-age-and-progressive-era/progressive-era.md)** (Era) |
 | 1890 | A second Morrill Act adds annual appropriations and leads to the founding of separate land-grant institutions for Black students in the segregated South. — [Morrill Land-Grant College Act](../articles/science-and-innovation/morrill-land-grant-college-act.md) |
+| 1890 | Jacob Riis publishes How the Other Half Lives, exposing conditions in New York City tenements. — [Progressive Era](../articles/gilded-age-and-progressive-era/progressive-era.md) |
 | 1890 | Jacob Riis publishes How the Other Half Lives, using photographs to expose New York City tenement conditions. — [Muckrakers](../articles/gilded-age-and-progressive-era/muckrakers.md) |
 | 1890 | Louisiana passes the Separate Car Act, one of nine state laws of 1887–1892 separating passengers by race. — [Jim Crow laws](../articles/gilded-age-and-progressive-era/jim-crow-laws.md) |
 | 1890 | Louisiana's legislature passes the Separate Car Act (Act No. 111), requiring separate railroad cars for Black and white passengers. — [Plessy v. Ferguson](../articles/gilded-age-and-progressive-era/plessy-v-ferguson.md) |
@@ -1158,6 +1161,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1901 | Alabama's new constitution requires legislative seats to be reapportioned by population after each federal census; no statewide reapportionment follows the 1900 census. — [Reynolds v. Sims](../articles/democracy-and-elections/reynolds-v-sims.md) |
 | 1901 | The Hay-Pauncefote Treaty supersedes Clayton-Bulwer, letting the United States build and run its own canal. — [Panama Canal](../articles/foreign-relations-and-military/panama-canal.md) |
 | 1901 | The ten-story Asch Building is completed at 23–29 Washington Place in Greenwich Village; the Triangle Waist Company later occupies its eighth, ninth and tenth floors. — [Triangle Shirtwaist Factory fire](../articles/economy-and-work/triangle-shirtwaist-factory-fire.md) |
+| 1901 | Theodore Roosevelt becomes president, and Progressive reform reaches the federal government. — [Progressive Era](../articles/gilded-age-and-progressive-era/progressive-era.md) |
 | 1901-03 | Congress extends the allotment law to the Five Tribes and other nations of Indian Territory. — [Dawes Act](../articles/native-nations/dawes-act.md) |
 | 1901-09-14 | Sworn in as president at 42 after the assassination of William McKinley. — [Theodore Roosevelt](../articles/presidents-and-founders/theodore-roosevelt.md) |
 | 1901-10 | Dines with Booker T. Washington at the White House, provoking a storm of criticism from white Southerners. — [Theodore Roosevelt](../articles/presidents-and-founders/theodore-roosevelt.md) |
@@ -1182,6 +1186,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1903-12-17 | **[Wright brothers' first flight](../articles/science-and-innovation/wright-brothers-first-flight.md)** (Event) |
 | 1903-12-17 | Four powered flights from Kill Devil Hills; Orville flies 120 feet in 12 seconds, Wilbur 852 feet in 59 seconds. — [Wright brothers' first flight](../articles/science-and-innovation/wright-brothers-first-flight.md) |
 | 1904 | The Supreme Court upholds the government's antitrust suit against the Northern Securities Company; Roosevelt wins a full term in a landslide. — [Theodore Roosevelt](../articles/presidents-and-founders/theodore-roosevelt.md) |
+| 1904 | The Supreme Court upholds, 5–4, the government's breakup of the Northern Securities railroad trust. — [Progressive Era](../articles/gilded-age-and-progressive-era/progressive-era.md) |
 | 1904 | The Wrights move their experiments to Huffman Prairie near Dayton with a sturdier new machine. — [Wright brothers' first flight](../articles/science-and-innovation/wright-brothers-first-flight.md) |
 | 1904 | Theodore Roosevelt's corollary claims an international police power for the United States in the hemisphere. — [Monroe Doctrine](../articles/early-republic-and-expansion/monroe-doctrine.md) |
 | 1904-05-04 | The United States formally takes over the French works and begins construction. — [Panama Canal](../articles/foreign-relations-and-military/panama-canal.md) |
@@ -1193,6 +1198,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1904-12-09 | The season ends after 105 starts adding up to under an hour in the air. — [Huffman Prairie Flying Field](../articles/science-and-innovation/huffman-prairie.md) |
 | 1905 | Lochner v. New York strikes down a workplace regulation on "freedom of contract" grounds. — [Due process](../articles/rights-and-law/due-process.md) |
 | 1905 | The War Department transfers 20 acres of Angel Island for an immigration station. — [Angel Island Immigration Station](../articles/society-and-people/angel-island-immigration-station.md) |
+| 1905 | W. E. B. Du Bois and other Black leaders found the Niagara Movement on the Canadian side of Niagara Falls. — [Progressive Era](../articles/gilded-age-and-progressive-era/progressive-era.md) |
 | 1905-01-20 | A U.S.-Dominican executive agreement gives the United States control of Dominican customhouses; critics say it bypasses the Senate. — [Roosevelt Corollary](../articles/foreign-relations-and-military/roosevelt-corollary.md) |
 | 1905-03-17 | Marries Eleanor Roosevelt. — [Franklin D. Roosevelt](../articles/presidents-and-founders/franklin-d-roosevelt.md) |
 | 1905-04-01 | With Senate action on a treaty blocked, Roosevelt puts a customs receivership into effect by a modus vivendi. — [Roosevelt Corollary](../articles/foreign-relations-and-military/roosevelt-corollary.md) |
@@ -1201,6 +1207,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1905-10-05 | Wilbur flies about 24 miles in some 39 minutes, a world record. — [Huffman Prairie Flying Field](../articles/science-and-innovation/huffman-prairie.md) |
 | 1905-11-11 | The last case of yellow fever in Panama City is reported. — [Panama Canal](../articles/foreign-relations-and-military/panama-canal.md) |
 | 1906 | Awarded the Nobel Peace Prize for his role in ending the Russo-Japanese War. — [Theodore Roosevelt](../articles/presidents-and-founders/theodore-roosevelt.md) |
+| 1906 | Congress passes the Meat Inspection Act and the Pure Food and Drug Act. — [Progressive Era](../articles/gilded-age-and-progressive-era/progressive-era.md) |
 | 1906 | The Burke Act withholds citizenship until an allottee receives a fee patent and lets the Interior secretary declare allottees competent. — [Dawes Act](../articles/native-nations/dawes-act.md) |
 | 1906 | The San Francisco earthquake and fire destroy many birth and immigration records, opening the way for "paper son" identities. — [Angel Island Immigration Station](../articles/society-and-people/angel-island-immigration-station.md) |
 | 1906 | The seat of government moves from Sitka to Juneau. — [Alaska](../articles/states-and-territories/alaska.md) |
@@ -1227,6 +1234,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1909 | Canby's brother and nephew publish The Evolution of the American Flag, fixing the story in public memory. — [Betsy Ross flag myth](../articles/symbols-and-national-identity/betsy-ross-flag-myth.md) |
 | 1909 | Leaves the presidency after keeping a pledge not to seek another term. — [Theodore Roosevelt](../articles/presidents-and-founders/theodore-roosevelt.md) |
 | 1909 | Over the next two decades farmers break about 32 million acres of Great Plains sod, much of it for wheat. — [Dust Bowl](../articles/depression-and-world-war/dust-bowl.md) |
+| 1909 | The NAACP is founded in the aftermath of the 1908 Springfield, Illinois, race riot. — [Progressive Era](../articles/gilded-age-and-progressive-era/progressive-era.md) |
 | 1909 | Triangle workers join the garment strike known as the Uprising of the 20,000, which lasts about three months. — [Triangle Shirtwaist Factory fire](../articles/economy-and-work/triangle-shirtwaist-factory-fire.md) |
 | 1909-08-24 | Workers pour the first concrete at the Gatun lock site. — [Gatun Locks](../articles/regions-cities-and-landmarks/gatun-locks.md) |
 | 1909-11 | The independent New York Motion Picture Company arrives in Los Angeles and stays; many more companies follow in 1910. — [Hollywood](../articles/culture-and-arts/hollywood.md) |
@@ -1260,6 +1268,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1911-06-30 | The New York legislature creates the Factory Investigating Commission. — [Triangle Shirtwaist Factory fire](../articles/economy-and-work/triangle-shirtwaist-factory-fire.md) |
 | 1911-07 | Erection of the upper lock gates at Gatun gets under way. — [Gatun Locks](../articles/regions-cities-and-landmarks/gatun-locks.md) |
 | 1911-08-08 | Congress fixes the House at 433 seats, plus one each for Arizona and New Mexico on statehood. — [Census and apportionment](../articles/democracy-and-elections/census-and-apportionment.md) |
+| 1911-10 | The Society of American Indians, the first Native rights organization run by Native people, holds its founding conference in Columbus, Ohio. — [Progressive Era](../articles/gilded-age-and-progressive-era/progressive-era.md) |
 | 1911-10-05 | Date given in the earliest dated poem yet recorded (Island poem 100). — [Chinese detention-barracks poetry](../articles/culture-and-arts/chinese-detention-barracks-poetry.md) |
 | 1911-12-27 | A jury acquits Blanck and Harris. — [Triangle Shirtwaist Factory fire](../articles/economy-and-work/triangle-shirtwaist-factory-fire.md) |
 | 1912 | **[Minimum wage](../articles/economy-and-work/minimum-wage.md)** (Policy) |
@@ -1268,6 +1277,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1912 | Handy publishes "The Memphis Blues" and sells its rights for $100. — [Blues](../articles/culture-and-arts/blues.md) |
 | 1912 | Massachusetts enacts the first state minimum wage law; it takes effect on July 1, 1913. — [Minimum wage](../articles/economy-and-work/minimum-wage.md) |
 | 1912 | President William Howard Taft standardizes the 48-star flag in six rows of eight. — [National symbols of the United States](../articles/symbols-and-national-identity/national-symbols-of-the-united-states.md) |
+| 1912 | Woodrow Wilson wins the presidency with 42 percent of the popular vote after Roosevelt's Progressive Party splits the Republicans. — [Progressive Era](../articles/gilded-age-and-progressive-era/progressive-era.md) |
 | 1912-06-11 | Arthur L. Welsh, the school's first Dayton-trained pilot and later an instructor, is killed in a crash at College Park, Maryland. — [Wright Company School of Aviation](../articles/science-and-innovation/wright-company-school-of-aviation.md) |
 | 1912-08 | Leads the new Progressive ("Bull Moose") Party after losing the Republican nomination to William Howard Taft. — [Theodore Roosevelt](../articles/presidents-and-founders/theodore-roosevelt.md) |
 | 1912-10-14 | Shot in Milwaukee before a speech; his folded speech and spectacle case slow the bullet. — [Theodore Roosevelt](../articles/presidents-and-founders/theodore-roosevelt.md) |
@@ -1279,6 +1289,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1913-03-17 | Sworn in as assistant secretary of the Navy. — [Franklin D. Roosevelt](../articles/presidents-and-founders/franklin-d-roosevelt.md) |
 | 1913-03-26 | The workforce peaks at 44,733 men on the job. — [Panama Canal](../articles/foreign-relations-and-military/panama-canal.md) |
 | 1913-04-08 | The Seventeenth Amendment, providing for popular election of senators, is ratified. — [United States Congress](../articles/constitution-and-government/united-states-congress.md) |
+| 1913-04-08 | The Seventeenth Amendment, providing for popular election of senators, is ratified; the Sixteenth Amendment (income tax) and the Federal Reserve Act also date from 1913. — [Progressive Era](../articles/gilded-age-and-progressive-era/progressive-era.md) |
 | 1913-08 | Blanck is fined $20 for locking a factory door during working hours at another shop. — [Triangle Shirtwaist Factory fire](../articles/economy-and-work/triangle-shirtwaist-factory-fire.md) |
 | 1913-09-01 | Concreting of the canal's locks is completed. — [Gatun Locks](../articles/regions-cities-and-landmarks/gatun-locks.md) |
 | 1913-09-26 | **[Gatun Locks](../articles/regions-cities-and-landmarks/gatun-locks.md)** (Landmark) |
@@ -1289,6 +1300,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1914 | Explores an uncharted river in Brazil. — [Theodore Roosevelt](../articles/presidents-and-founders/theodore-roosevelt.md) |
 | 1914 | Ford begins paying five dollars for an eight-hour day. — [Detroit](../articles/regions-cities-and-landmarks/detroit.md) |
 | 1914 | Handy publishes "St. Louis Blues," his best-known composition. — [Blues](../articles/culture-and-arts/blues.md) |
+| 1914 | The Clayton Antitrust Act and the Federal Trade Commission law are enacted. — [Progressive Era](../articles/gilded-age-and-progressive-era/progressive-era.md) |
 | 1914 | The Smith-Lever Act creates the Cooperative Extension System. — [Morrill Land-Grant College Act](../articles/science-and-innovation/morrill-land-grant-college-act.md) |
 | 1914-03-11 | Blanck and Harris settle 23 civil suits, paying $75 for each life lost. — [Triangle Shirtwaist Factory fire](../articles/economy-and-work/triangle-shirtwaist-factory-fire.md) |
 | 1914-08-15 | **[Panama Canal](../articles/foreign-relations-and-military/panama-canal.md)** (Landmark) |
@@ -1305,6 +1317,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1916 | President Woodrow Wilson names it the anthem of the armed forces; Congress does not act. — [The Star-Spangled Banner](../articles/symbols-and-national-identity/star-spangled-banner.md) |
 | 1916 | President Woodrow Wilson proclaims a national Flag Day on June 14. — [Betsy Ross flag myth](../articles/symbols-and-national-identity/betsy-ross-flag-myth.md) |
 | 1916 | President Woodrow Wilson proclaims a national Flag Day on June 14. — [National symbols of the United States](../articles/symbols-and-national-identity/national-symbols-of-the-united-states.md) |
+| 1916 | The Adamson Act sets the first federally mandated eight-hour day, for railroad workers. — [Progressive Era](../articles/gilded-age-and-progressive-era/progressive-era.md) |
 | 1916 | The Wright Company stops using the field after training 119 students there. — [Huffman Prairie Flying Field](../articles/science-and-innovation/huffman-prairie.md) |
 | 1916 | The flying school at Huffman Field closes after training 119 students since May 1910. — [Wright Company School of Aviation](../articles/science-and-innovation/wright-company-school-of-aviation.md) |
 | 1916-09 | Carrie Chapman Catt unveils NAWSA's Winning Plan at its Atlantic City convention. — [Women's suffrage movement](../articles/gilded-age-and-progressive-era/womens-suffrage-movement.md) |
@@ -1312,6 +1325,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1917 | The Army leases the land around the field for Wilbur Wright Field, a World War I training post. — [Huffman Prairie Flying Field](../articles/science-and-innovation/huffman-prairie.md) |
 | 1917 | The Senate adopts its first cloture rule to limit filibusters. — [United States Congress](../articles/constitution-and-government/united-states-congress.md) |
 | 1917 | With European immigration cut off by World War I, northern labor agents recruit Black workers; almost half a million Black southerners leave in 1917–1918. — [Great Migration](../articles/gilded-age-and-progressive-era/great-migration.md) |
+| 1917-01 | Alice Paul's National Woman's Party begins picketing the White House. — [Progressive Era](../articles/gilded-age-and-progressive-era/progressive-era.md) |
 | 1917-01 | The National Woman's Party's Silent Sentinels begin picketing the White House. — [Women's suffrage movement](../articles/gilded-age-and-progressive-era/womens-suffrage-movement.md) |
 | 1917-02 | The Original Dixieland Jazz Band makes the first commercial jazz recordings in New York City. — [Jazz](../articles/culture-and-arts/jazz.md) |
 | 1917-04-02 | Jeannette Rankin of Montana is sworn in as the first woman elected to Congress. — [United States House of Representatives](../articles/constitution-and-government/house-of-representatives.md) |
@@ -1332,6 +1346,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1920 | Mamie Smith records "Crazy Blues," the first commercial vaudeville blues record by a Black vocalist. — [Blues](../articles/culture-and-arts/blues.md) |
 | 1920 | The census shows a shift to cities; Congress fails to reapportion for the only time. — [Census and apportionment](../articles/democracy-and-elections/census-and-apportionment.md) |
 | 1920-01-27 | Wyoming ratifies the Nineteenth Amendment. — [Wyoming](../articles/states-and-territories/wyoming.md) |
+| 1920-08-18 | Tennessee becomes the 36th state to ratify the Nineteenth Amendment, the same year national Prohibition under the Eighteenth Amendment takes effect. — [Progressive Era](../articles/gilded-age-and-progressive-era/progressive-era.md) |
 | 1920-08-18 | Tennessee becomes the thirty-sixth state to ratify, completing ratification. — [Women's suffrage movement](../articles/gilded-age-and-progressive-era/womens-suffrage-movement.md) |
 | 1920-08-26 | Secretary of State Bainbridge Colby certifies the Nineteenth Amendment. — [Women's suffrage movement](../articles/gilded-age-and-progressive-era/womens-suffrage-movement.md) |
 | 1920-09-25 | Pennsylvania suffragists first ring their replica Justice Bell at Independence Square after the Nineteenth Amendment. — [Liberty Bell](../articles/symbols-and-national-identity/liberty-bell.md) |

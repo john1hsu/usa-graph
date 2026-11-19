@@ -17883,6 +17883,166 @@
    }
   },
   {
+   "@id": "https://github.com/john1hsu/usa-graph/id/progressive-era/misconception",
+   "@type": "uso:Misconception",
+   "uso:fact": "Roosevelt launched more than two dozen successful antitrust suits, more than any earlier president, but William Howard Taft initiated about twice as many in a single term.",
+   "uso:myth": "Theodore Roosevelt was the Progressive Era's leading \"trust-buster.\"",
+   "uso:why": "Roosevelt made antitrust action part of his Square Deal and won the landmark Northern Securities case, so the nickname stuck to him, yet he also distinguished \"good\" trusts, which he tolerated, from \"bad\" ones, while Taft's larger record is less remembered."
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/progressive-era/review/1",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "Why did Progressive reformers push for the direct election of U.S. senators?",
+   "uso:answer": "Legislatures often deadlocked over Senate seats (after an 1895 deadlock Delaware had no Senate representation for two years), and exposés portrayed senators as tools of industrialists; reformers wanted voters, not legislators, to choose, and the Seventeenth Amendment was ratified on April 8, 1913.",
+   "uso:questionFor": {
+    "@id": "us:progressive-era"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/progressive-era/review/2",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "How did the Progressive Era fall short for Black Americans even as it expanded democracy for others?",
+   "uso:answer": "Southern states used poll taxes and literacy tests to disfranchise Black men, many white reformers treated segregation as a \"Progressive solution,\" the Wilson administration segregated federal offices, and many Black women still could not vote after 1920; in response Black activists built the Niagara Movement and the NAACP.",
+   "uso:questionFor": {
+    "@id": "us:progressive-era"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/progressive-era/review/3",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "Why do historians disagree about whether there was a single \"progressive movement\"?",
+   "uso:answer": "Reformers ranged from business leaders and middle-class professionals to immigrants, urban machines, women's organizations and labor, with conflicting goals; Peter Filene argued in 1970 that the label had outlived its usefulness, while Daniel Rodgers replied that the movement's diversity was the source of its impact.",
+   "uso:questionFor": {
+    "@id": "us:progressive-era"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/progressive-era/timeline/1",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Jane Addams and Ellen Gates Starr open Hull House, a settlement house in Chicago.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1889"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/progressive-era/timeline/10",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The Seventeenth Amendment, providing for popular election of senators, is ratified; the Sixteenth Amendment (income tax) and the Federal Reserve Act also date from 1913.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1913-04-08"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/progressive-era/timeline/11",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The Clayton Antitrust Act and the Federal Trade Commission law are enacted.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1914"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/progressive-era/timeline/12",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The Adamson Act sets the first federally mandated eight-hour day, for railroad workers.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1916"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/progressive-era/timeline/13",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Alice Paul's National Woman's Party begins picketing the White House.",
+   "uso:date": {
+    "@type": "xsd:gYearMonth",
+    "@value": "1917-01"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/progressive-era/timeline/14",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Tennessee becomes the 36th state to ratify the Nineteenth Amendment, the same year national Prohibition under the Eighteenth Amendment takes effect.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1920-08-18"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/progressive-era/timeline/2",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Jacob Riis publishes How the Other Half Lives, exposing conditions in New York City tenements.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1890"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/progressive-era/timeline/3",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Theodore Roosevelt becomes president, and Progressive reform reaches the federal government.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1901"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/progressive-era/timeline/4",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The Supreme Court upholds, 5–4, the government's breakup of the Northern Securities railroad trust.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1904"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/progressive-era/timeline/5",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "W. E. B. Du Bois and other Black leaders found the Niagara Movement on the Canadian side of Niagara Falls.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1905"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/progressive-era/timeline/6",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Congress passes the Meat Inspection Act and the Pure Food and Drug Act.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1906"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/progressive-era/timeline/7",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The NAACP is founded in the aftermath of the 1908 Springfield, Illinois, race riot.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1909"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/progressive-era/timeline/8",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The Society of American Indians, the first Native rights organization run by Native people, holds its founding conference in Columbus, Ohio.",
+   "uso:date": {
+    "@type": "xsd:gYearMonth",
+    "@value": "1911-10"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/progressive-era/timeline/9",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Woodrow Wilson wins the presidency with 42 percent of the popular vote after Roosevelt's Progressive Party splits the Republicans.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1912"
+   }
+  },
+  {
    "@id": "https://github.com/john1hsu/usa-graph/id/reconstruction-era/misconception",
    "@type": "uso:Misconception",
    "uso:fact": "This \"tragic era\" story, spread by William Dunning's Columbia school, Claude Bowers's The Tragic Era and films, has been rejected by historians; Southern corruption was no worse than national scandals, Black men held a small share of offices, and the Reconstruction governments built the South's first public school systems before being overthrown by violence.",
@@ -34971,6 +35131,160 @@
     "@id": "https://teachingamericanhistory.org/document/report-of-the-presidents-committee-on-administrative-management-the-brownlow-committee-report/"
    },
    "uso:sourceType": "academic"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/progressive-era/s1",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "The American Yawp, ed. Joseph Locke and Ben Wright (Stanford University Press)",
+   "dcterms:title": "20. The Progressive Era",
+   "schema:url": {
+    "@id": "https://www.americanyawp.com/feedback_2018-2021/20-the-progressive-era/"
+   },
+   "uso:sourceType": "textbook"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/progressive-era/s10",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "Daniel T. Rodgers, The Journal of the Gilded Age and Progressive Era 13, no. 3 (July 2014) 379–386, doi:10.1017/S1537781414000243",
+   "dcterms:title": "Capitalism and Politics in the Progressive Era and in Ours",
+   "schema:url": {
+    "@id": "https://www.cambridge.org/core/journals/journal-of-the-gilded-age-and-progressive-era/article/abs/capitalism-and-politics-in-the-progressive-era-and-in-ours/F5DD9963FE6C3033593BE5590EBE67D3"
+   },
+   "uso:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/progressive-era/s11",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "American Indian Quarterly 37, no. 3, joint special issue with Studies in American Indian Literatures (University of Nebraska Press)",
+   "dcterms:title": "Introduction: Locating the Society of American Indians",
+   "schema:url": {
+    "@id": "https://muse.jhu.edu/journals/american_indian_quarterly/v037/37.3.allen.html"
+   },
+   "uso:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/progressive-era/s2",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "OpenStax, U.S. History (Rice University)",
+   "dcterms:title": "21.1 The Origins of the Progressive Spirit in America",
+   "schema:url": {
+    "@id": "https://openstax.org/books/us-history/pages/21-1-the-origins-of-the-progressive-spirit-in-america"
+   },
+   "uso:sourceType": "textbook"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/progressive-era/s3",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "OpenStax, U.S. History (Rice University)",
+   "dcterms:title": "21.3 New Voices for Women and African Americans",
+   "schema:url": {
+    "@id": "https://openstax.org/books/us-history/pages/21-3-new-voices-for-women-and-african-americans"
+   },
+   "uso:sourceType": "textbook"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/progressive-era/s4",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "OpenStax, U.S. History (Rice University)",
+   "dcterms:title": "21.4 Progressivism in the White House",
+   "schema:url": {
+    "@id": "https://openstax.org/books/us-history/pages/21-4-progressivism-in-the-white-house"
+   },
+   "uso:sourceType": "textbook"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/progressive-era/s5",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "Library of Congress, U.S. History Primary Source Timeline",
+   "dcterms:title": "Progressive Era to New Era, 1900-1929: Overview",
+   "schema:url": {
+    "@id": "https://www.loc.gov/classroom-materials/united-states-history-primary-source-timeline/progressive-era-to-new-era-1900-1929/overview/"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/progressive-era/s6",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "United States Senate, Senate Historical Office",
+   "dcterms:title": "The Seventeenth Amendment to the U.S. Constitution",
+   "schema:url": {
+    "@id": "https://www.senate.gov/about/origins-foundations/senate-and-constitution/seventeenth-amendment.htm"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/progressive-era/s7",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "National Archives, Milestone Documents",
+   "dcterms:title": "19th Amendment to the U.S. Constitution: Women's Right to Vote (1920)",
+   "schema:url": {
+    "@id": "https://www.archives.gov/milestone-documents/19th-amendment"
+   },
+   "uso:sourceType": "primary"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/progressive-era/s8",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "Saladin Ambar, Miller Center, University of Virginia",
+   "dcterms:title": "Woodrow Wilson: Domestic Affairs",
+   "schema:url": {
+    "@id": "https://millercenter.org/node/279"
+   },
+   "uso:sourceType": "academic"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/progressive-era/s9",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "Alan Brinkley, The Unfinished Nation, 7th ed., chapter 20 (McGraw-Hill Education)",
+   "dcterms:title": "Debating the Past: Progressivism",
+   "schema:url": {
+    "@id": "https://glencoe.mheducation.com/sites/0076654583/student_view0/chapter20/debating_the_past.html"
+   },
+   "uso:sourceType": "textbook"
   },
   {
    "@id": "https://github.com/john1hsu/usa-graph/id/source/reconstruction-era/s1",
@@ -64525,6 +64839,179 @@
     },
     {
      "@id": "https://github.com/john1hsu/usa-graph/id/presidency-of-the-united-states/timeline/9"
+    }
+   ]
+  },
+  {
+   "@id": "us:progressive-era",
+   "@type": "uso:Era",
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/progressive-era/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/progressive-era/s10"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/progressive-era/s11"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/progressive-era/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/progressive-era/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/progressive-era/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/progressive-era/s5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/progressive-era/s6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/progressive-era/s7"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/progressive-era/s8"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/progressive-era/s9"
+    }
+   ],
+   "rdfs:label": "Progressive Era",
+   "schema:endDate": {
+    "@type": "xsd:gYear",
+    "@value": "1920"
+   },
+   "schema:startDate": {
+    "@type": "xsd:gYear",
+    "@value": "1890"
+   },
+   "skos:altLabel": [
+    "Progressive period",
+    "The Progressive Era"
+   ],
+   "skos:broader": {
+    "@id": "us:history-of-the-united-states"
+   },
+   "skos:definition": "The period of U.S. history from roughly the 1890s to about 1920 when reformers of many kinds used journalism, voluntary associations and new state and federal laws to tackle the corruption, monopoly power, unsafe work and urban poverty of the industrial age, winning amendments for the income tax, direct election of senators, Prohibition and women's suffrage while largely accepting, and in places deepening, racial segregation and disfranchisement.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/usa-graph/id/scheme/gilded-age-and-progressive-era"
+   },
+   "skos:prefLabel": "Progressive Era",
+   "skos:related": [
+    {
+     "@id": "us:gilded-age"
+    },
+    {
+     "@id": "us:jim-crow-laws"
+    },
+    {
+     "@id": "us:muckrakers"
+    },
+    {
+     "@id": "us:naacp"
+    },
+    {
+     "@id": "us:new-deal"
+    },
+    {
+     "@id": "us:progressive-party-1912"
+    },
+    {
+     "@id": "us:society-of-american-indians"
+    },
+    {
+     "@id": "us:theodore-roosevelt"
+    },
+    {
+     "@id": "us:triangle-shirtwaist-factory-fire"
+    },
+    {
+     "@id": "us:womens-suffrage-movement"
+    },
+    {
+     "@id": "us:woodrow-wilson"
+    },
+    {
+     "@id": "us:world-war-i"
+    }
+   ],
+   "uso:contrastsWith": {
+    "@id": "us:roaring-twenties"
+   },
+   "uso:domain": "gilded-age-and-progressive-era",
+   "uso:evidenceStatus": "interpretive",
+   "uso:file": "articles/gilded-age-and-progressive-era/progressive-era.md",
+   "uso:ledTo": [
+    {
+     "@id": "us:federal-reserve-system"
+    },
+    {
+     "@id": "us:nineteenth-amendment"
+    },
+    {
+     "@id": "us:seventeenth-amendment"
+    }
+   ],
+   "uso:level": "introductory",
+   "uso:misconception": {
+    "@id": "https://github.com/john1hsu/usa-graph/id/progressive-era/misconception"
+   },
+   "uso:occurredIn": {
+    "@id": "us:united-states"
+   },
+   "uso:requires": {
+    "@id": "us:gilded-age"
+   },
+   "uso:timelineEntry": [
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/progressive-era/timeline/1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/progressive-era/timeline/10"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/progressive-era/timeline/11"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/progressive-era/timeline/12"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/progressive-era/timeline/13"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/progressive-era/timeline/14"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/progressive-era/timeline/2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/progressive-era/timeline/3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/progressive-era/timeline/4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/progressive-era/timeline/5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/progressive-era/timeline/6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/progressive-era/timeline/7"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/progressive-era/timeline/8"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/progressive-era/timeline/9"
     }
    ]
   },

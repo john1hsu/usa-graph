@@ -22228,6 +22228,201 @@
   ]
  },
  {
+  "id": "us:progressive-era",
+  "title": "Progressive Era",
+  "aliases": [
+   "The Progressive Era",
+   "Progressive period"
+  ],
+  "type": "Era",
+  "domain": "gilded-age-and-progressive-era",
+  "level": "introductory",
+  "evidenceStatus": "interpretive",
+  "file": "articles/gilded-age-and-progressive-era/progressive-era.md",
+  "created": "2026-11-19",
+  "summary": "The period of U.S. history from roughly the 1890s to about 1920 when reformers of many kinds used journalism, voluntary associations and new state and federal laws to tackle the corruption, monopoly power, unsafe work and urban poverty of the industrial age, winning amendments for the income tax, direct election of senators, Prohibition and women's suffrage while largely accepting, and in places deepening, racial segregation and disfranchisement.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "us:history-of-the-united-states"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:gilded-age"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:muckrakers"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:womens-suffrage-movement"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:theodore-roosevelt"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:woodrow-wilson"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:triangle-shirtwaist-factory-fire"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:jim-crow-laws"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:naacp"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:society-of-american-indians"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:progressive-party-1912"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:world-war-i"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:new-deal"
+   },
+   {
+    "predicate": "uso:requires",
+    "object": "us:gilded-age"
+   },
+   {
+    "predicate": "uso:occurredIn",
+    "object": "us:united-states",
+    "source": "s5",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:ledTo",
+    "object": "us:seventeenth-amendment",
+    "source": "s6",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:ledTo",
+    "object": "us:nineteenth-amendment",
+    "source": "s3",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:ledTo",
+    "object": "us:federal-reserve-system",
+    "source": "s4",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:contrastsWith",
+    "object": "us:roaring-twenties",
+    "source": "s5",
+    "confidence": "medium"
+   }
+  ],
+  "start": "1890",
+  "end": "1920",
+  "review": [
+   {
+    "question": "Why did Progressive reformers push for the direct election of U.S. senators?",
+    "answer": "Legislatures often deadlocked over Senate seats (after an 1895 deadlock Delaware had no Senate representation for two years), and exposés portrayed senators as tools of industrialists; reformers wanted voters, not legislators, to choose, and the Seventeenth Amendment was ratified on April 8, 1913."
+   },
+   {
+    "question": "How did the Progressive Era fall short for Black Americans even as it expanded democracy for others?",
+    "answer": "Southern states used poll taxes and literacy tests to disfranchise Black men, many white reformers treated segregation as a \"Progressive solution,\" the Wilson administration segregated federal offices, and many Black women still could not vote after 1920; in response Black activists built the Niagara Movement and the NAACP."
+   },
+   {
+    "question": "Why do historians disagree about whether there was a single \"progressive movement\"?",
+    "answer": "Reformers ranged from business leaders and middle-class professionals to immigrants, urban machines, women's organizations and labor, with conflicting goals; Peter Filene argued in 1970 that the label had outlived its usefulness, while Daniel Rodgers replied that the movement's diversity was the source of its impact."
+   }
+  ],
+  "timeline": [
+   {
+    "date": "1889",
+    "event": "Jane Addams and Ellen Gates Starr open Hull House, a settlement house in Chicago."
+   },
+   {
+    "date": "1890",
+    "event": "Jacob Riis publishes How the Other Half Lives, exposing conditions in New York City tenements."
+   },
+   {
+    "date": "1901",
+    "event": "Theodore Roosevelt becomes president, and Progressive reform reaches the federal government."
+   },
+   {
+    "date": "1904",
+    "event": "The Supreme Court upholds, 5–4, the government's breakup of the Northern Securities railroad trust."
+   },
+   {
+    "date": "1905",
+    "event": "W. E. B. Du Bois and other Black leaders found the Niagara Movement on the Canadian side of Niagara Falls."
+   },
+   {
+    "date": "1906",
+    "event": "Congress passes the Meat Inspection Act and the Pure Food and Drug Act."
+   },
+   {
+    "date": "1909",
+    "event": "The NAACP is founded in the aftermath of the 1908 Springfield, Illinois, race riot."
+   },
+   {
+    "date": "1911-10",
+    "event": "The Society of American Indians, the first Native rights organization run by Native people, holds its founding conference in Columbus, Ohio."
+   },
+   {
+    "date": "1912",
+    "event": "Woodrow Wilson wins the presidency with 42 percent of the popular vote after Roosevelt's Progressive Party splits the Republicans."
+   },
+   {
+    "date": "1913-04-08",
+    "event": "The Seventeenth Amendment, providing for popular election of senators, is ratified; the Sixteenth Amendment (income tax) and the Federal Reserve Act also date from 1913."
+   },
+   {
+    "date": "1914",
+    "event": "The Clayton Antitrust Act and the Federal Trade Commission law are enacted."
+   },
+   {
+    "date": "1916",
+    "event": "The Adamson Act sets the first federally mandated eight-hour day, for railroad workers."
+   },
+   {
+    "date": "1917-01",
+    "event": "Alice Paul's National Woman's Party begins picketing the White House."
+   },
+   {
+    "date": "1920-08-18",
+    "event": "Tennessee becomes the 36th state to ratify the Nineteenth Amendment, the same year national Prohibition under the Eighteenth Amendment takes effect."
+   }
+  ],
+  "misconception": {
+   "myth": "Theodore Roosevelt was the Progressive Era's leading \"trust-buster.\"",
+   "fact": "Roosevelt launched more than two dozen successful antitrust suits, more than any earlier president, but William Howard Taft initiated about twice as many in a single term.",
+   "why": "Roosevelt made antitrust action part of his Square Deal and won the landmark Northern Securities case, so the nickname stuck to him, yet he also distinguished \"good\" trusts, which he tolerated, from \"bad\" ones, while Taft's larger record is less remembered."
+  },
+  "source_urls": [
+   "https://www.americanyawp.com/feedback_2018-2021/20-the-progressive-era/",
+   "https://openstax.org/books/us-history/pages/21-1-the-origins-of-the-progressive-spirit-in-america",
+   "https://openstax.org/books/us-history/pages/21-3-new-voices-for-women-and-african-americans",
+   "https://openstax.org/books/us-history/pages/21-4-progressivism-in-the-white-house",
+   "https://www.loc.gov/classroom-materials/united-states-history-primary-source-timeline/progressive-era-to-new-era-1900-1929/overview/",
+   "https://www.senate.gov/about/origins-foundations/senate-and-constitution/seventeenth-amendment.htm",
+   "https://www.archives.gov/milestone-documents/19th-amendment",
+   "https://millercenter.org/node/279",
+   "https://glencoe.mheducation.com/sites/0076654583/student_view0/chapter20/debating_the_past.html",
+   "https://www.cambridge.org/core/journals/journal-of-the-gilded-age-and-progressive-era/article/abs/capitalism-and-politics-in-the-progressive-era-and-in-ours/F5DD9963FE6C3033593BE5590EBE67D3",
+   "https://muse.jhu.edu/journals/american_indian_quarterly/v037/37.3.allen.html"
+  ]
+ },
+ {
   "id": "us:reconstruction-era",
   "title": "Reconstruction era",
   "aliases": [

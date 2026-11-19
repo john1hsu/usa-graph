@@ -1555,6 +1555,21 @@ Every review question (with its answer) and every myth-versus-fact in the graph,
 - **Q:** Why is Plessy considered so consequential even though it concerned railroad cars?
   **A:** By holding that state-mandated separation did not violate the Fourteenth Amendment if accommodations were nominally equal, it gave legal cover to segregation in schools, transportation and public life for more than half a century, until Brown v. Board of Education rejected the doctrine in public education in 1954.
 
+### [Progressive Era](../articles/gilded-age-and-progressive-era/progressive-era.md) — Era
+
+| Myth | Fact |
+|---|---|
+| Theodore Roosevelt was the Progressive Era's leading "trust-buster." | Roosevelt launched more than two dozen successful antitrust suits, more than any earlier president, but William Howard Taft initiated about twice as many in a single term. |
+
+**Why it matters:** Roosevelt made antitrust action part of his Square Deal and won the landmark Northern Securities case, so the nickname stuck to him, yet he also distinguished "good" trusts, which he tolerated, from "bad" ones, while Taft's larger record is less remembered.
+
+- **Q:** Why did Progressive reformers push for the direct election of U.S. senators?
+  **A:** Legislatures often deadlocked over Senate seats (after an 1895 deadlock Delaware had no Senate representation for two years), and exposés portrayed senators as tools of industrialists; reformers wanted voters, not legislators, to choose, and the Seventeenth Amendment was ratified on April 8, 1913.
+- **Q:** How did the Progressive Era fall short for Black Americans even as it expanded democracy for others?
+  **A:** Southern states used poll taxes and literacy tests to disfranchise Black men, many white reformers treated segregation as a "Progressive solution," the Wilson administration segregated federal offices, and many Black women still could not vote after 1920; in response Black activists built the Niagara Movement and the NAACP.
+- **Q:** Why do historians disagree about whether there was a single "progressive movement"?
+  **A:** Reformers ranged from business leaders and middle-class professionals to immigrants, urban machines, women's organizations and labor, with conflicting goals; Peter Filene argued in 1970 that the label had outlived its usefulness, while Daniel Rodgers replied that the movement's diversity was the source of its impact.
+
 ### [Women's suffrage movement](../articles/gilded-age-and-progressive-era/womens-suffrage-movement.md) — Movement
 
 | Myth | Fact |
