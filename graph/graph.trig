@@ -1962,6 +1962,22 @@
 <https://github.com/john1hsu/usa-graph/id/pennsylvania#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/pennsylvania/s9> .
 <https://github.com/john1hsu/usa-graph/id/pennsylvania#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/pennsylvania/s10> .
 <https://github.com/john1hsu/usa-graph/id/pennsylvania#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/pennsylvania/s11> .
+<https://github.com/john1hsu/usa-graph/id/texas#graph> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity> .
+<https://github.com/john1hsu/usa-graph/id/texas#graph> <http://purl.org/dc/terms/subject> <https://github.com/john1hsu/usa-graph/id/texas> .
+<https://github.com/john1hsu/usa-graph/id/texas#graph> <http://purl.org/dc/terms/source> "https://github.com/john1hsu/usa-graph/blob/main/articles/states-and-territories/texas.md" .
+<https://github.com/john1hsu/usa-graph/id/texas#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/texas/s1> .
+<https://github.com/john1hsu/usa-graph/id/texas#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/texas/s2> .
+<https://github.com/john1hsu/usa-graph/id/texas#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/texas/s3> .
+<https://github.com/john1hsu/usa-graph/id/texas#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/texas/s4> .
+<https://github.com/john1hsu/usa-graph/id/texas#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/texas/s5> .
+<https://github.com/john1hsu/usa-graph/id/texas#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/texas/s6> .
+<https://github.com/john1hsu/usa-graph/id/texas#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/texas/s7> .
+<https://github.com/john1hsu/usa-graph/id/texas#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/texas/s8> .
+<https://github.com/john1hsu/usa-graph/id/texas#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/texas/s9> .
+<https://github.com/john1hsu/usa-graph/id/texas#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/texas/s10> .
+<https://github.com/john1hsu/usa-graph/id/texas#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/texas/s11> .
+<https://github.com/john1hsu/usa-graph/id/texas#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/texas/s12> .
+<https://github.com/john1hsu/usa-graph/id/texas#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/texas/s13> .
 <https://github.com/john1hsu/usa-graph/id/united-states#graph> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity> .
 <https://github.com/john1hsu/usa-graph/id/united-states#graph> <http://purl.org/dc/terms/subject> <https://github.com/john1hsu/usa-graph/id/united-states> .
 <https://github.com/john1hsu/usa-graph/id/united-states#graph> <http://purl.org/dc/terms/source> "https://github.com/john1hsu/usa-graph/blob/main/articles/states-and-territories/united-states.md" .
@@ -29295,6 +29311,232 @@
   <https://github.com/john1hsu/usa-graph/id/source/pennsylvania/s9> <https://schema.org/url> <https://www.phmc.state.pa.us/portal/communities/pa-history/1861-1945.html> .
 }
 
+<https://github.com/john1hsu/usa-graph/id/texas#graph> {
+  <https://github.com/john1hsu/usa-graph/id/source/texas/s10> <http://purl.org/dc/terms/date> "2026-11-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/texas/s10> <http://purl.org/dc/terms/publisher> "American Battlefield Trust" .
+  <https://github.com/john1hsu/usa-graph/id/source/texas/s10> <http://purl.org/dc/terms/title> "The Texas Revolution" .
+  <https://github.com/john1hsu/usa-graph/id/source/texas/s10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/texas/s10> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "institutional" .
+  <https://github.com/john1hsu/usa-graph/id/source/texas/s10> <https://schema.org/url> <https://www.battlefields.org/learn/articles/texas-revolution> .
+  <https://github.com/john1hsu/usa-graph/id/source/texas/s11> <http://purl.org/dc/terms/date> "2026-11-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/texas/s11> <http://purl.org/dc/terms/publisher> "Spindletop-Gladys City Boomtown Museum, Lamar University" .
+  <https://github.com/john1hsu/usa-graph/id/source/texas/s11> <http://purl.org/dc/terms/title> "Spindletop History" .
+  <https://github.com/john1hsu/usa-graph/id/source/texas/s11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/texas/s11> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "museum" .
+  <https://github.com/john1hsu/usa-graph/id/source/texas/s11> <https://schema.org/url> <https://www.lamar.edu/spindletop-boomtown-museum/spindletop-history/> .
+  <https://github.com/john1hsu/usa-graph/id/source/texas/s12> <http://purl.org/dc/terms/date> "2026-11-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/texas/s12> <http://purl.org/dc/terms/publisher> "U.S. Department of State, Office of the Historian" .
+  <https://github.com/john1hsu/usa-graph/id/source/texas/s12> <http://purl.org/dc/terms/title> "The Annexation of Texas, the Mexican-American War, and the Treaty of Guadalupe-Hidalgo, 1845–1848" .
+  <https://github.com/john1hsu/usa-graph/id/source/texas/s12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/texas/s12> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+  <https://github.com/john1hsu/usa-graph/id/source/texas/s12> <https://schema.org/url> <https://history.state.gov/milestones/1830-1860/texas-annexation> .
+  <https://github.com/john1hsu/usa-graph/id/source/texas/s13> <http://purl.org/dc/terms/date> "2026-11-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/texas/s13> <http://purl.org/dc/terms/publisher> "Handbook of Texas Online (Texas State Historical Association), by Timothy K. Perttula" .
+  <https://github.com/john1hsu/usa-graph/id/source/texas/s13> <http://purl.org/dc/terms/title> "Caddo Indians" .
+  <https://github.com/john1hsu/usa-graph/id/source/texas/s13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/texas/s13> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "scholarly-encyclopedia" .
+  <https://github.com/john1hsu/usa-graph/id/source/texas/s13> <https://schema.org/url> <https://www.tshaonline.org/handbook/entries/caddo-indians> .
+  <https://github.com/john1hsu/usa-graph/id/source/texas/s1> <http://purl.org/dc/terms/date> "2026-11-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/texas/s1> <http://purl.org/dc/terms/publisher> "Texas State Library and Archives Commission" .
+  <https://github.com/john1hsu/usa-graph/id/source/texas/s1> <http://purl.org/dc/terms/title> "Texas Annexation: Timeline" .
+  <https://github.com/john1hsu/usa-graph/id/source/texas/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/texas/s1> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+  <https://github.com/john1hsu/usa-graph/id/source/texas/s1> <https://schema.org/url> <https://www.tsl.texas.gov/ref/abouttx/annexation/timeline.html> .
+  <https://github.com/john1hsu/usa-graph/id/source/texas/s2> <http://purl.org/dc/terms/date> "2026-11-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/texas/s2> <http://purl.org/dc/terms/publisher> "Texas State Library and Archives Commission" .
+  <https://github.com/john1hsu/usa-graph/id/source/texas/s2> <http://purl.org/dc/terms/title> "Texas Annexation" .
+  <https://github.com/john1hsu/usa-graph/id/source/texas/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/texas/s2> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+  <https://github.com/john1hsu/usa-graph/id/source/texas/s2> <https://schema.org/url> <https://www.tsl.texas.gov/ref/abouttx/annexation/index.html> .
+  <https://github.com/john1hsu/usa-graph/id/source/texas/s3> <http://purl.org/dc/terms/date> "2026-11-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/texas/s3> <http://purl.org/dc/terms/publisher> "Handbook of Texas Online (Texas State Historical Association), by Joseph Milton Nance" .
+  <https://github.com/john1hsu/usa-graph/id/source/texas/s3> <http://purl.org/dc/terms/title> "Republic of Texas" .
+  <https://github.com/john1hsu/usa-graph/id/source/texas/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/texas/s3> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "scholarly-encyclopedia" .
+  <https://github.com/john1hsu/usa-graph/id/source/texas/s3> <https://schema.org/url> <https://www.tshaonline.org/handbook/entries/republic-of-texas> .
+  <https://github.com/john1hsu/usa-graph/id/source/texas/s4> <http://purl.org/dc/terms/date> "2026-11-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/texas/s4> <http://purl.org/dc/terms/publisher> "Handbook of Texas Online (Texas State Historical Association), by George Klos" .
+  <https://github.com/john1hsu/usa-graph/id/source/texas/s4> <http://purl.org/dc/terms/title> "Indians" .
+  <https://github.com/john1hsu/usa-graph/id/source/texas/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/texas/s4> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "scholarly-encyclopedia" .
+  <https://github.com/john1hsu/usa-graph/id/source/texas/s4> <https://schema.org/url> <https://www.tshaonline.org/handbook/entries/indians> .
+  <https://github.com/john1hsu/usa-graph/id/source/texas/s5> <http://purl.org/dc/terms/date> "2026-11-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/texas/s5> <http://purl.org/dc/terms/publisher> "Texas State Library and Archives Commission" .
+  <https://github.com/john1hsu/usa-graph/id/source/texas/s5> <http://purl.org/dc/terms/title> "A Declaration of the Causes which Impel the State of Texas to Secede from the Federal Union (February 2, 1861)" .
+  <https://github.com/john1hsu/usa-graph/id/source/texas/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/texas/s5> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "primary" .
+  <https://github.com/john1hsu/usa-graph/id/source/texas/s5> <https://schema.org/url> <https://www.tsl.texas.gov/ref/abouttx/secession/2feb1861.html> .
+  <https://github.com/john1hsu/usa-graph/id/source/texas/s6> <http://purl.org/dc/terms/date> "2026-11-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/texas/s6> <http://purl.org/dc/terms/publisher> "Texas State Library and Archives Commission" .
+  <https://github.com/john1hsu/usa-graph/id/source/texas/s6> <http://purl.org/dc/terms/title> "Texas Secession and Readmission" .
+  <https://github.com/john1hsu/usa-graph/id/source/texas/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/texas/s6> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+  <https://github.com/john1hsu/usa-graph/id/source/texas/s6> <https://schema.org/url> <https://www.tsl.texas.gov/ref/abouttx/secession/index.html> .
+  <https://github.com/john1hsu/usa-graph/id/source/texas/s7> <http://purl.org/dc/terms/date> "2026-11-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/texas/s7> <http://purl.org/dc/terms/publisher> "Supreme Court of the United States, via Legal Information Institute, Cornell Law School" .
+  <https://github.com/john1hsu/usa-graph/id/source/texas/s7> <http://purl.org/dc/terms/title> "Texas v. White, 74 U.S. 700 (1868)" .
+  <https://github.com/john1hsu/usa-graph/id/source/texas/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/texas/s7> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "primary" .
+  <https://github.com/john1hsu/usa-graph/id/source/texas/s7> <https://schema.org/url> <https://www.law.cornell.edu/supremecourt/text/74/700> .
+  <https://github.com/john1hsu/usa-graph/id/source/texas/s8> <http://purl.org/dc/terms/date> "2026-11-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/texas/s8> <http://purl.org/dc/terms/publisher> "U.S. National Archives and Records Administration" .
+  <https://github.com/john1hsu/usa-graph/id/source/texas/s8> <http://purl.org/dc/terms/title> "National Archives Safeguards Original 'Juneteenth' General Order" .
+  <https://github.com/john1hsu/usa-graph/id/source/texas/s8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/texas/s8> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+  <https://github.com/john1hsu/usa-graph/id/source/texas/s8> <https://schema.org/url> <https://www.archives.gov/news/articles/juneteenth-original-document> .
+  <https://github.com/john1hsu/usa-graph/id/source/texas/s9> <http://purl.org/dc/terms/date> "2026-11-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/texas/s9> <http://purl.org/dc/terms/publisher> "U.S. Census Bureau" .
+  <https://github.com/john1hsu/usa-graph/id/source/texas/s9> <http://purl.org/dc/terms/title> "QuickFacts: Texas; United States" .
+  <https://github.com/john1hsu/usa-graph/id/source/texas/s9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/texas/s9> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+  <https://github.com/john1hsu/usa-graph/id/source/texas/s9> <https://schema.org/url> <https://www.census.gov/quickfacts/fact/table/TX,US/PST045225> .
+  <https://github.com/john1hsu/usa-graph/id/texas/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Misconception> .
+  <https://github.com/john1hsu/usa-graph/id/texas/misconception> <https://github.com/john1hsu/usa-graph/ontology#fact> "The Texas State Library and Archives Commission states that neither the 1845 joint resolution nor the Texas annexation ordinance gave Texas a right to secede, and in Texas v. White the Supreme Court held the state's 1861 secession ordinance absolutely null. The real unusual term was permission to divide into as many as four additional states with Texas's consent." .
+  <https://github.com/john1hsu/usa-graph/id/texas/misconception> <https://github.com/john1hsu/usa-graph/ontology#myth> "When Texas joined the Union it kept a special legal right to secede whenever it chose." .
+  <https://github.com/john1hsu/usa-graph/id/texas/misconception> <https://github.com/john1hsu/usa-graph/ontology#why> "Nine years as an independent republic, a genuinely unusual annexation agreement that let Texas keep its public lands, and the division clause are easily blurred into a belief that Texas joined on different terms from other states." .
+  <https://github.com/john1hsu/usa-graph/id/texas/review/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+  <https://github.com/john1hsu/usa-graph/id/texas/review/1> <http://www.w3.org/2000/01/rdf-schema#label> "Why did the Texas Revolution break out in 1835, and what part did slavery play?" .
+  <https://github.com/john1hsu/usa-graph/id/texas/review/1> <https://github.com/john1hsu/usa-graph/ontology#answer> "Many Anglo-American settlers had enjoyed autonomy under Mexico's federal Constitution of 1824, and they rebelled when Santa Anna centralized power and repealed it, after Mexico had also tried in 1830 to restrict American immigration. Slavery mattered too, since Americans had kept using enslaved labor despite Mexico's 1829 ban, and the Republic's 1836 constitution then legalized slavery and barred free Black people without Congress's consent." .
+  <https://github.com/john1hsu/usa-graph/id/texas/review/1> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/texas> .
+  <https://github.com/john1hsu/usa-graph/id/texas/review/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+  <https://github.com/john1hsu/usa-graph/id/texas/review/2> <http://www.w3.org/2000/01/rdf-schema#label> "How did the annexation of Texas lead to war with Mexico?" .
+  <https://github.com/john1hsu/usa-graph/id/texas/review/2> <https://github.com/john1hsu/usa-graph/ontology#answer> "Mexico had never accepted Texas independence and threatened war over annexation. Texas claimed the Rio Grande as its border while Mexico said the line was the Nueces River; when Polk sent Zachary Taylor's army into the land between the rivers and skirmishes followed, Congress declared war on May 13, 1846, a war that ended with Mexico ceding about 525,000 square miles in 1848." .
+  <https://github.com/john1hsu/usa-graph/id/texas/review/2> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/texas> .
+  <https://github.com/john1hsu/usa-graph/id/texas/review/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+  <https://github.com/john1hsu/usa-graph/id/texas/review/3> <http://www.w3.org/2000/01/rdf-schema#label> "Why did Texas secede in 1861, and how did the Supreme Court later treat that secession?" .
+  <https://github.com/john1hsu/usa-graph/id/texas/review/3> <https://github.com/john1hsu/usa-graph/ontology#answer> "The convention's Declaration of Causes said Texas had entered the Union as a slaveholding state and treated Northern opposition to slavery as a threat that justified leaving. After the war, the Court in Texas v. White held that the Constitution created an indestructible Union and that the secession ordinance was legally null, so Texas had never ceased to be a state." .
+  <https://github.com/john1hsu/usa-graph/id/texas/review/3> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/texas> .
+  <https://github.com/john1hsu/usa-graph/id/texas/review/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+  <https://github.com/john1hsu/usa-graph/id/texas/review/4> <http://www.w3.org/2000/01/rdf-schema#label> "How did the Republic and the state of Texas treat Native nations, and where are some of those nations today?" .
+  <https://github.com/john1hsu/usa-graph/id/texas/review/4> <https://github.com/john1hsu/usa-graph/ontology#answer> "The Republic under Mirabeau Lamar expelled the Cherokees, Kickapoos, Shawnees, Delawares and Caddos, and in 1859 federal officials removed the Brazos reservation peoples north of the Red River; Comanche resistance on the plains ended with the 1874 campaigns. The Caddo now live mainly in western Oklahoma near Binger, while the Alabama-Coushatta, the Tigua of El Paso and the Kickapoo keep reservations in Texas." .
+  <https://github.com/john1hsu/usa-graph/id/texas/review/4> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/texas> .
+  <https://github.com/john1hsu/usa-graph/id/texas/timeline/10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/texas/timeline/10> <http://www.w3.org/2000/01/rdf-schema#label> "Governor J. Pinckney Henderson takes office, completing the transfer of government." .
+  <https://github.com/john1hsu/usa-graph/id/texas/timeline/10> <https://github.com/john1hsu/usa-graph/ontology#date> "1846-02-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/texas/timeline/11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/texas/timeline/11> <http://www.w3.org/2000/01/rdf-schema#label> "The United States declares war on Mexico after clashes in the disputed land between the Nueces and the Rio Grande." .
+  <https://github.com/john1hsu/usa-graph/id/texas/timeline/11> <https://github.com/john1hsu/usa-graph/ontology#date> "1846-05-13"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/texas/timeline/12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/texas/timeline/12> <http://www.w3.org/2000/01/rdf-schema#label> "Federal officials remove the Indians of the Brazos reservations, including about 1,050 Caddos, north of the Red River." .
+  <https://github.com/john1hsu/usa-graph/id/texas/timeline/12> <https://github.com/john1hsu/usa-graph/ontology#date> "1859-08"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> .
+  <https://github.com/john1hsu/usa-graph/id/texas/timeline/13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/texas/timeline/13> <http://www.w3.org/2000/01/rdf-schema#label> "The Secession Convention in Austin adopts the Ordinance of Secession." .
+  <https://github.com/john1hsu/usa-graph/id/texas/timeline/13> <https://github.com/john1hsu/usa-graph/ontology#date> "1861-02-01"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/texas/timeline/14> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/texas/timeline/14> <http://www.w3.org/2000/01/rdf-schema#label> "The Provisional Confederate Government accepts Texas as a Confederate state." .
+  <https://github.com/john1hsu/usa-graph/id/texas/timeline/14> <https://github.com/john1hsu/usa-graph/ontology#date> "1861-03-01"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/texas/timeline/15> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/texas/timeline/15> <http://www.w3.org/2000/01/rdf-schema#label> "At Galveston, Maj. Gen. Gordon Granger issues General Order No. 3 announcing that the enslaved are free, the origin of Juneteenth." .
+  <https://github.com/john1hsu/usa-graph/id/texas/timeline/15> <https://github.com/john1hsu/usa-graph/ontology#date> "1865-06-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/texas/timeline/16> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/texas/timeline/16> <http://www.w3.org/2000/01/rdf-schema#label> "U.S. troops attack Native camps in Palo Duro Canyon; most Comanches surrender by winter." .
+  <https://github.com/john1hsu/usa-graph/id/texas/timeline/16> <https://github.com/john1hsu/usa-graph/ontology#date> "1874-09"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> .
+  <https://github.com/john1hsu/usa-graph/id/texas/timeline/17> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/texas/timeline/17> <http://www.w3.org/2000/01/rdf-schema#label> "The Lucas gusher at Spindletop, near Beaumont, launches the Texas oil boom." .
+  <https://github.com/john1hsu/usa-graph/id/texas/timeline/17> <https://github.com/john1hsu/usa-graph/ontology#date> "1901-01-10"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/texas/timeline/18> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/texas/timeline/18> <http://www.w3.org/2000/01/rdf-schema#label> "The census counts 29,145,505 residents." .
+  <https://github.com/john1hsu/usa-graph/id/texas/timeline/18> <https://github.com/john1hsu/usa-graph/ontology#date> "2020-04-01"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/texas/timeline/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/texas/timeline/1> <http://www.w3.org/2000/01/rdf-schema#label> "Spanish Franciscans settle among the Hasinai Caddo; a smallpox epidemic in 1690–91 kills about 3,000 Caddos." .
+  <https://github.com/john1hsu/usa-graph/id/texas/timeline/1> <https://github.com/john1hsu/usa-graph/ontology#date> "1689"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+  <https://github.com/john1hsu/usa-graph/id/texas/timeline/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/texas/timeline/2> <http://www.w3.org/2000/01/rdf-schema#label> "Mexico passes a law restricting American settlement in Coahuila and Texas." .
+  <https://github.com/john1hsu/usa-graph/id/texas/timeline/2> <https://github.com/john1hsu/usa-graph/ontology#date> "1830-04"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> .
+  <https://github.com/john1hsu/usa-graph/id/texas/timeline/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/texas/timeline/3> <http://www.w3.org/2000/01/rdf-schema#label> "Texans fire on Mexican troops at Gonzales, opening the Texas Revolution." .
+  <https://github.com/john1hsu/usa-graph/id/texas/timeline/3> <https://github.com/john1hsu/usa-graph/ontology#date> "1835-10"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> .
+  <https://github.com/john1hsu/usa-graph/id/texas/timeline/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/texas/timeline/4> <http://www.w3.org/2000/01/rdf-schema#label> "Texas declares independence from Mexico." .
+  <https://github.com/john1hsu/usa-graph/id/texas/timeline/4> <https://github.com/john1hsu/usa-graph/ontology#date> "1836-03-02"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/texas/timeline/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/texas/timeline/5> <http://www.w3.org/2000/01/rdf-schema#label> "The Alamo falls; all of its defenders are killed." .
+  <https://github.com/john1hsu/usa-graph/id/texas/timeline/5> <https://github.com/john1hsu/usa-graph/ontology#date> "1836-03-06"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/texas/timeline/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/texas/timeline/6> <http://www.w3.org/2000/01/rdf-schema#label> "The Republic's constitution legalizes slavery and bars free Black people from living in Texas without the consent of Congress." .
+  <https://github.com/john1hsu/usa-graph/id/texas/timeline/6> <https://github.com/john1hsu/usa-graph/ontology#date> "1836-03-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/texas/timeline/7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/texas/timeline/7> <http://www.w3.org/2000/01/rdf-schema#label> "The Republic expels the Cherokees from Texas; the Caddos are driven out in 1841." .
+  <https://github.com/john1hsu/usa-graph/id/texas/timeline/7> <https://github.com/john1hsu/usa-graph/ontology#date> "1839"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+  <https://github.com/john1hsu/usa-graph/id/texas/timeline/8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/texas/timeline/8> <http://www.w3.org/2000/01/rdf-schema#label> "President Tyler signs the joint resolution offering Texas annexation." .
+  <https://github.com/john1hsu/usa-graph/id/texas/timeline/8> <https://github.com/john1hsu/usa-graph/ontology#date> "1845-03-01"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/texas/timeline/9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/texas/timeline/9> <http://www.w3.org/2000/01/rdf-schema#label> "President Polk signs the act admitting Texas as the 28th state." .
+  <https://github.com/john1hsu/usa-graph/id/texas/timeline/9> <https://github.com/john1hsu/usa-graph/ontology#date> "1845-12-29"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/texas> <http://purl.org/dc/terms/created> "2026-11-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/texas> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#State> .
+  <https://github.com/john1hsu/usa-graph/id/texas> <http://www.w3.org/2000/01/rdf-schema#label> "Texas" .
+  <https://github.com/john1hsu/usa-graph/id/texas> <http://www.w3.org/2004/02/skos/core#altLabel> "Lone Star State" .
+  <https://github.com/john1hsu/usa-graph/id/texas> <http://www.w3.org/2004/02/skos/core#altLabel> "State of Texas" .
+  <https://github.com/john1hsu/usa-graph/id/texas> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/usa-graph/id/united-states> .
+  <https://github.com/john1hsu/usa-graph/id/texas> <http://www.w3.org/2004/02/skos/core#definition> "A U.S. state in the south-central United States, long home to Caddo, Comanche, Apache and other Native peoples, that was part of Spain and then Mexico, broke away as an independent slaveholding republic in 1836, joined the Union as the 28th state on December 29, 1845, seceded to join the Confederacy in 1861, and became a center of oil and population growth; the 2020 census counted 29,145,505 Texans." .
+  <https://github.com/john1hsu/usa-graph/id/texas> <http://www.w3.org/2004/02/skos/core#inScheme> <https://github.com/john1hsu/usa-graph/id/scheme/states-and-territories> .
+  <https://github.com/john1hsu/usa-graph/id/texas> <http://www.w3.org/2004/02/skos/core#prefLabel> "Texas" .
+  <https://github.com/john1hsu/usa-graph/id/texas> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/battle-of-the-alamo> .
+  <https://github.com/john1hsu/usa-graph/id/texas> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/caddo-nation> .
+  <https://github.com/john1hsu/usa-graph/id/texas> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/comanche> .
+  <https://github.com/john1hsu/usa-graph/id/texas> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/confederate-states-of-america> .
+  <https://github.com/john1hsu/usa-graph/id/texas> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/dust-bowl> .
+  <https://github.com/john1hsu/usa-graph/id/texas> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/general-order-no-3> .
+  <https://github.com/john1hsu/usa-graph/id/texas> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/joint-resolution-for-annexing-texas> .
+  <https://github.com/john1hsu/usa-graph/id/texas> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/juneteenth> .
+  <https://github.com/john1hsu/usa-graph/id/texas> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/lunar-laser-ranging-experiment> .
+  <https://github.com/john1hsu/usa-graph/id/texas> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/mexican-american-war> .
+  <https://github.com/john1hsu/usa-graph/id/texas> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/mexico> .
+  <https://github.com/john1hsu/usa-graph/id/texas> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/native-americans> .
+  <https://github.com/john1hsu/usa-graph/id/texas> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/okies> .
+  <https://github.com/john1hsu/usa-graph/id/texas> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/republic-of-texas> .
+  <https://github.com/john1hsu/usa-graph/id/texas> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> .
+  <https://github.com/john1hsu/usa-graph/id/texas> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/spindletop> .
+  <https://github.com/john1hsu/usa-graph/id/texas> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/texas-annexation> .
+  <https://github.com/john1hsu/usa-graph/id/texas> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/texas-revolution> .
+  <https://github.com/john1hsu/usa-graph/id/texas> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/texas-v-white> .
+  <https://github.com/john1hsu/usa-graph/id/texas> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/the-west> .
+  <https://github.com/john1hsu/usa-graph/id/texas> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/texas/s10> .
+  <https://github.com/john1hsu/usa-graph/id/texas> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/texas/s11> .
+  <https://github.com/john1hsu/usa-graph/id/texas> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/texas/s12> .
+  <https://github.com/john1hsu/usa-graph/id/texas> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/texas/s13> .
+  <https://github.com/john1hsu/usa-graph/id/texas> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/texas/s1> .
+  <https://github.com/john1hsu/usa-graph/id/texas> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/texas/s2> .
+  <https://github.com/john1hsu/usa-graph/id/texas> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/texas/s3> .
+  <https://github.com/john1hsu/usa-graph/id/texas> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/texas/s4> .
+  <https://github.com/john1hsu/usa-graph/id/texas> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/texas/s5> .
+  <https://github.com/john1hsu/usa-graph/id/texas> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/texas/s6> .
+  <https://github.com/john1hsu/usa-graph/id/texas> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/texas/s7> .
+  <https://github.com/john1hsu/usa-graph/id/texas> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/texas/s8> .
+  <https://github.com/john1hsu/usa-graph/id/texas> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/texas/s9> .
+  <https://github.com/john1hsu/usa-graph/id/texas> <https://github.com/john1hsu/usa-graph/ontology#borders> <https://github.com/john1hsu/usa-graph/id/mexico> .
+  <https://github.com/john1hsu/usa-graph/id/texas> <https://github.com/john1hsu/usa-graph/ontology#domain> "states-and-territories" .
+  <https://github.com/john1hsu/usa-graph/id/texas> <https://github.com/john1hsu/usa-graph/ontology#establishedBy> <https://github.com/john1hsu/usa-graph/id/joint-resolution-for-annexing-texas> .
+  <https://github.com/john1hsu/usa-graph/id/texas> <https://github.com/john1hsu/usa-graph/ontology#evidenceStatus> "established" .
+  <https://github.com/john1hsu/usa-graph/id/texas> <https://github.com/john1hsu/usa-graph/ontology#file> "articles/states-and-territories/texas.md" .
+  <https://github.com/john1hsu/usa-graph/id/texas> <https://github.com/john1hsu/usa-graph/ontology#ledTo> <https://github.com/john1hsu/usa-graph/id/mexican-american-war> .
+  <https://github.com/john1hsu/usa-graph/id/texas> <https://github.com/john1hsu/usa-graph/ontology#level> "introductory" .
+  <https://github.com/john1hsu/usa-graph/id/texas> <https://github.com/john1hsu/usa-graph/ontology#locatedIn> <https://github.com/john1hsu/usa-graph/id/united-states> .
+  <https://github.com/john1hsu/usa-graph/id/texas> <https://github.com/john1hsu/usa-graph/ontology#misconception> <https://github.com/john1hsu/usa-graph/id/texas/misconception> .
+  <https://github.com/john1hsu/usa-graph/id/texas> <https://github.com/john1hsu/usa-graph/ontology#participatedIn> <https://github.com/john1hsu/usa-graph/id/american-civil-war> .
+  <https://github.com/john1hsu/usa-graph/id/texas> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/texas/timeline/10> .
+  <https://github.com/john1hsu/usa-graph/id/texas> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/texas/timeline/11> .
+  <https://github.com/john1hsu/usa-graph/id/texas> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/texas/timeline/12> .
+  <https://github.com/john1hsu/usa-graph/id/texas> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/texas/timeline/13> .
+  <https://github.com/john1hsu/usa-graph/id/texas> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/texas/timeline/14> .
+  <https://github.com/john1hsu/usa-graph/id/texas> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/texas/timeline/15> .
+  <https://github.com/john1hsu/usa-graph/id/texas> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/texas/timeline/16> .
+  <https://github.com/john1hsu/usa-graph/id/texas> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/texas/timeline/17> .
+  <https://github.com/john1hsu/usa-graph/id/texas> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/texas/timeline/18> .
+  <https://github.com/john1hsu/usa-graph/id/texas> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/texas/timeline/1> .
+  <https://github.com/john1hsu/usa-graph/id/texas> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/texas/timeline/2> .
+  <https://github.com/john1hsu/usa-graph/id/texas> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/texas/timeline/3> .
+  <https://github.com/john1hsu/usa-graph/id/texas> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/texas/timeline/4> .
+  <https://github.com/john1hsu/usa-graph/id/texas> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/texas/timeline/5> .
+  <https://github.com/john1hsu/usa-graph/id/texas> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/texas/timeline/6> .
+  <https://github.com/john1hsu/usa-graph/id/texas> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/texas/timeline/7> .
+  <https://github.com/john1hsu/usa-graph/id/texas> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/texas/timeline/8> .
+  <https://github.com/john1hsu/usa-graph/id/texas> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/texas/timeline/9> .
+  <https://github.com/john1hsu/usa-graph/id/texas> <https://schema.org/startDate> "1845-12-29"^^<http://www.w3.org/2001/XMLSchema#date> .
+}
+
 <https://github.com/john1hsu/usa-graph/id/united-states#graph> {
   <https://github.com/john1hsu/usa-graph/id/source/united-states/s10> <http://purl.org/dc/terms/date> "2026-11-14"^^<http://www.w3.org/2001/XMLSchema#date> .
   <https://github.com/john1hsu/usa-graph/id/source/united-states/s10> <http://purl.org/dc/terms/publisher> "National Archives, Milestone Documents" .
@@ -31165,6 +31407,7 @@
   <https://github.com/john1hsu/usa-graph/id/american-civil-war> <https://github.com/john1hsu/usa-graph/ontology#participant> <https://github.com/john1hsu/usa-graph/id/frederick-douglass> .
   <https://github.com/john1hsu/usa-graph/id/american-civil-war> <https://github.com/john1hsu/usa-graph/ontology#participant> <https://github.com/john1hsu/usa-graph/id/harriet-tubman> .
   <https://github.com/john1hsu/usa-graph/id/american-civil-war> <https://github.com/john1hsu/usa-graph/ontology#participant> <https://github.com/john1hsu/usa-graph/id/sojourner-truth> .
+  <https://github.com/john1hsu/usa-graph/id/american-civil-war> <https://github.com/john1hsu/usa-graph/ontology#participant> <https://github.com/john1hsu/usa-graph/id/texas> .
   <https://github.com/john1hsu/usa-graph/id/american-civil-war> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/brown-v-board-of-education> .
   <https://github.com/john1hsu/usa-graph/id/american-civil-war> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/civil-rights-movement> .
   <https://github.com/john1hsu/usa-graph/id/american-civil-war> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/desegregation-of-little-rock-central-high-school> .
@@ -31536,6 +31779,7 @@
   <https://github.com/john1hsu/usa-graph/id/battle-of-new-orleans> <https://github.com/john1hsu/usa-graph/ontology#participant> <https://github.com/john1hsu/usa-graph/id/andrew-jackson> .
   <https://github.com/john1hsu/usa-graph/id/battle-of-oriskany> <https://github.com/john1hsu/usa-graph/ontology#participant> <https://github.com/john1hsu/usa-graph/id/haudenosaunee> .
   <https://github.com/john1hsu/usa-graph/id/battle-of-saratoga> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/american-revolutionary-war> .
+  <https://github.com/john1hsu/usa-graph/id/battle-of-the-alamo> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/texas> .
   <https://github.com/john1hsu/usa-graph/id/battle-of-the-capes/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/battle-of-the-capes/review/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/battle-of-the-capes/review/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
@@ -31783,6 +32027,7 @@
   <https://github.com/john1hsu/usa-graph/id/burwell-v-hobby-lobby> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/affordable-care-act> .
   <https://github.com/john1hsu/usa-graph/id/buzz-aldrin> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/apollo-11> .
   <https://github.com/john1hsu/usa-graph/id/buzz-aldrin> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/lunar-laser-ranging-experiment> .
+  <https://github.com/john1hsu/usa-graph/id/caddo-nation> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/texas> .
   <https://github.com/john1hsu/usa-graph/id/cahokia/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/cahokia/review/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/cahokia/review/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
@@ -32304,6 +32549,7 @@
   <https://github.com/john1hsu/usa-graph/id/colorado-river> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/hoover-dam> .
   <https://github.com/john1hsu/usa-graph/id/colorado-river> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/winged-figures-of-the-republic> .
   <https://github.com/john1hsu/usa-graph/id/columbia-river> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/lewis-and-clark-expedition> .
+  <https://github.com/john1hsu/usa-graph/id/comanche> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/texas> .
   <https://github.com/john1hsu/usa-graph/id/combahee-river-raid> <https://github.com/john1hsu/usa-graph/ontology#participant> <https://github.com/john1hsu/usa-graph/id/harriet-tubman> .
   <https://github.com/john1hsu/usa-graph/id/comite-des-citoyens> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/new-orleans> .
   <https://github.com/john1hsu/usa-graph/id/comite-des-citoyens> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/plessy-v-ferguson> .
@@ -32325,6 +32571,7 @@
   <https://github.com/john1hsu/usa-graph/id/comte-de-grasse> <https://github.com/john1hsu/usa-graph/ontology#led> <https://github.com/john1hsu/usa-graph/id/battle-of-the-capes> .
   <https://github.com/john1hsu/usa-graph/id/comte-de-rochambeau> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/battle-of-the-capes> .
   <https://github.com/john1hsu/usa-graph/id/confederate-states-of-america> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/american-civil-war> .
+  <https://github.com/john1hsu/usa-graph/id/confederate-states-of-america> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/texas> .
   <https://github.com/john1hsu/usa-graph/id/confederation-period> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/usa-graph/id/articles-of-confederation> .
   <https://github.com/john1hsu/usa-graph/id/confederation-period> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/usa-graph/id/constitutional-convention> .
   <https://github.com/john1hsu/usa-graph/id/confederation-period> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/articles-of-confederation> .
@@ -32787,6 +33034,7 @@
   <https://github.com/john1hsu/usa-graph/id/dust-bowl> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/usa-graph/id/great-depression> .
   <https://github.com/john1hsu/usa-graph/id/dust-bowl> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/usa-graph/id/history-of-the-united-states> .
   <https://github.com/john1hsu/usa-graph/id/dust-bowl> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/great-depression> .
+  <https://github.com/john1hsu/usa-graph/id/dust-bowl> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/texas> .
   <https://github.com/john1hsu/usa-graph/id/dutch-west-india-company> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/new-york-city> .
   <https://github.com/john1hsu/usa-graph/id/dwight-d-eisenhower> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/alaska> .
   <https://github.com/john1hsu/usa-graph/id/dwight-d-eisenhower> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/desegregation-of-little-rock-central-high-school> .
@@ -33412,6 +33660,7 @@
   <https://github.com/john1hsu/usa-graph/id/gatun-locks> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/third-locks-project> .
   <https://github.com/john1hsu/usa-graph/id/gatun-locks> <https://github.com/john1hsu/usa-graph/ontology#siteOf> <https://github.com/john1hsu/usa-graph/id/third-locks-project> .
   <https://github.com/john1hsu/usa-graph/id/geary-act> <https://github.com/john1hsu/usa-graph/ontology#resultedFrom> <https://github.com/john1hsu/usa-graph/id/chinese-exclusion-act> .
+  <https://github.com/john1hsu/usa-graph/id/general-order-no-3> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/texas> .
   <https://github.com/john1hsu/usa-graph/id/gentlemans-magazine> <https://github.com/john1hsu/usa-graph/ontology#influenced> <https://github.com/john1hsu/usa-graph/id/e-pluribus-unum> .
   <https://github.com/john1hsu/usa-graph/id/george-f-kennan> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/cold-war> .
   <https://github.com/john1hsu/usa-graph/id/george-mason> <https://github.com/john1hsu/usa-graph/ontology#influenced> <https://github.com/john1hsu/usa-graph/id/bill-of-rights> .
@@ -34507,6 +34756,10 @@
   <https://github.com/john1hsu/usa-graph/id/john-wesley-powell> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/colorado-river> .
   <https://github.com/john1hsu/usa-graph/id/johnson-v-mintosh> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/john-marshall> .
   <https://github.com/john1hsu/usa-graph/id/joint-committee-on-reconstruction> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/fourteenth-amendment> .
+  <https://github.com/john1hsu/usa-graph/id/joint-resolution-for-annexing-texas> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Document> .
+  <https://github.com/john1hsu/usa-graph/id/joint-resolution-for-annexing-texas> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/joint-resolution-for-annexing-texas> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/texas> .
+  <https://github.com/john1hsu/usa-graph/id/joint-resolution-for-annexing-texas> <https://github.com/john1hsu/usa-graph/ontology#establishes> <https://github.com/john1hsu/usa-graph/id/texas> .
   <https://github.com/john1hsu/usa-graph/id/jonathan-baldwin-turner> <https://github.com/john1hsu/usa-graph/ontology#influenced> <https://github.com/john1hsu/usa-graph/id/morrill-land-grant-college-act> .
   <https://github.com/john1hsu/usa-graph/id/joseph-gurney-cannon> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/house-of-representatives> .
   <https://github.com/john1hsu/usa-graph/id/joseph-henry> <https://github.com/john1hsu/usa-graph/ontology#influenced> <https://github.com/john1hsu/usa-graph/id/telegraph> .
@@ -34547,6 +34800,7 @@
   <https://github.com/john1hsu/usa-graph/id/juneau> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/alaska> .
   <https://github.com/john1hsu/usa-graph/id/juneteenth> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/african-americans> .
   <https://github.com/john1hsu/usa-graph/id/juneteenth> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> .
+  <https://github.com/john1hsu/usa-graph/id/juneteenth> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/texas> .
   <https://github.com/john1hsu/usa-graph/id/junipero-serra> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/california> .
   <https://github.com/john1hsu/usa-graph/id/justice-bell> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/liberty-bell> .
   <https://github.com/john1hsu/usa-graph/id/justices-of-the-supreme-court> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/usa-graph/id/john-marshall> .
@@ -34846,6 +35100,7 @@
   <https://github.com/john1hsu/usa-graph/id/lunar-laser-ranging-experiment> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/lunar-laser-ranging-experiment> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Happening> .
   <https://github.com/john1hsu/usa-graph/id/lunar-laser-ranging-experiment> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/usa-graph/id/apollo-program> .
+  <https://github.com/john1hsu/usa-graph/id/lunar-laser-ranging-experiment> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/texas> .
   <https://github.com/john1hsu/usa-graph/id/lunar-laser-ranging-experiment> <https://github.com/john1hsu/usa-graph/ontology#requires> <https://github.com/john1hsu/usa-graph/id/cold-war> .
   <https://github.com/john1hsu/usa-graph/id/lunar-laser-ranging-experiment> <https://github.com/john1hsu/usa-graph/ontology#requires> <https://github.com/john1hsu/usa-graph/id/world-war-ii> .
   <https://github.com/john1hsu/usa-graph/id/lyndon-b-johnson> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
@@ -35058,10 +35313,12 @@
   <https://github.com/john1hsu/usa-graph/id/mexican-american-war> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Happening> .
   <https://github.com/john1hsu/usa-graph/id/mexican-american-war> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/usa-graph/id/territorial-expansion-of-the-united-states> .
   <https://github.com/john1hsu/usa-graph/id/mexican-american-war> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/california> .
+  <https://github.com/john1hsu/usa-graph/id/mexican-american-war> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/texas> .
   <https://github.com/john1hsu/usa-graph/id/mexican-american-war> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/angel-island-immigration-station> .
   <https://github.com/john1hsu/usa-graph/id/mexican-american-war> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/california-gold-rush> .
   <https://github.com/john1hsu/usa-graph/id/mexican-american-war> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/chinese-detention-barracks-poetry> .
   <https://github.com/john1hsu/usa-graph/id/mexican-american-war> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/chinese-exclusion-act> .
+  <https://github.com/john1hsu/usa-graph/id/mexican-american-war> <https://github.com/john1hsu/usa-graph/ontology#resultedFrom> <https://github.com/john1hsu/usa-graph/id/texas> .
   <https://github.com/john1hsu/usa-graph/id/mexican-americans> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/mexican-american-war> .
   <https://github.com/john1hsu/usa-graph/id/mexican-americans> <https://github.com/john1hsu/usa-graph/ontology#affectedBy> <https://github.com/john1hsu/usa-graph/id/immigration-and-nationality-act-of-1965> .
   <https://github.com/john1hsu/usa-graph/id/mexican-oil-expropriation> <https://github.com/john1hsu/usa-graph/ontology#affectedBy> <https://github.com/john1hsu/usa-graph/id/good-neighbor-policy> .
@@ -35071,8 +35328,10 @@
   <https://github.com/john1hsu/usa-graph/id/mexico> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Place> .
   <https://github.com/john1hsu/usa-graph/id/mexico> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/colorado-river> .
   <https://github.com/john1hsu/usa-graph/id/mexico> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/good-neighbor-policy> .
+  <https://github.com/john1hsu/usa-graph/id/mexico> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/texas> .
   <https://github.com/john1hsu/usa-graph/id/mexico> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/underground-railroad> .
   <https://github.com/john1hsu/usa-graph/id/mexico> <https://github.com/john1hsu/usa-graph/ontology#affectedBy> <https://github.com/john1hsu/usa-graph/id/monroe-doctrine> .
+  <https://github.com/john1hsu/usa-graph/id/mexico> <https://github.com/john1hsu/usa-graph/ontology#borders> <https://github.com/john1hsu/usa-graph/id/texas> .
   <https://github.com/john1hsu/usa-graph/id/mexico> <https://github.com/john1hsu/usa-graph/ontology#borders> <https://github.com/john1hsu/usa-graph/id/united-states> .
   <https://github.com/john1hsu/usa-graph/id/mexico> <https://github.com/john1hsu/usa-graph/ontology#siteOf> <https://github.com/john1hsu/usa-graph/id/mexican-american-war> .
   <https://github.com/john1hsu/usa-graph/id/michael-collins> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/apollo-11> .
@@ -35440,6 +35699,7 @@
   <https://github.com/john1hsu/usa-graph/id/native-americans> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/lewis-and-clark-expedition> .
   <https://github.com/john1hsu/usa-graph/id/native-americans> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/mississippi-river> .
   <https://github.com/john1hsu/usa-graph/id/native-americans> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/new-deal> .
+  <https://github.com/john1hsu/usa-graph/id/native-americans> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/texas> .
   <https://github.com/john1hsu/usa-graph/id/native-americans> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/thanksgiving> .
   <https://github.com/john1hsu/usa-graph/id/native-americans> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/the-west> .
   <https://github.com/john1hsu/usa-graph/id/native-americans> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/treaty-of-paris-1783> .
@@ -35644,6 +35904,7 @@
   <https://github.com/john1hsu/usa-graph/id/north-america> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/hawaii> .
   <https://github.com/john1hsu/usa-graph/id/north-america> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/hoover-dam> .
   <https://github.com/john1hsu/usa-graph/id/north-america> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/pennsylvania> .
+  <https://github.com/john1hsu/usa-graph/id/north-america> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/texas> .
   <https://github.com/john1hsu/usa-graph/id/north-america> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/the-west> .
   <https://github.com/john1hsu/usa-graph/id/north-america> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/united-states> .
   <https://github.com/john1hsu/usa-graph/id/north-america> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/winged-figures-of-the-republic> .
@@ -35661,6 +35922,7 @@
   <https://github.com/john1hsu/usa-graph/id/north-america> <https://github.com/john1hsu/usa-graph/ontology#contains> <https://github.com/john1hsu/usa-graph/id/okies> .
   <https://github.com/john1hsu/usa-graph/id/north-america> <https://github.com/john1hsu/usa-graph/ontology#contains> <https://github.com/john1hsu/usa-graph/id/pennsylvania> .
   <https://github.com/john1hsu/usa-graph/id/north-america> <https://github.com/john1hsu/usa-graph/ontology#contains> <https://github.com/john1hsu/usa-graph/id/philadelphia> .
+  <https://github.com/john1hsu/usa-graph/id/north-america> <https://github.com/john1hsu/usa-graph/ontology#contains> <https://github.com/john1hsu/usa-graph/id/texas> .
   <https://github.com/john1hsu/usa-graph/id/north-america> <https://github.com/john1hsu/usa-graph/ontology#contains> <https://github.com/john1hsu/usa-graph/id/the-west> .
   <https://github.com/john1hsu/usa-graph/id/north-america> <https://github.com/john1hsu/usa-graph/ontology#contains> <https://github.com/john1hsu/usa-graph/id/united-states> .
   <https://github.com/john1hsu/usa-graph/id/north-america> <https://github.com/john1hsu/usa-graph/ontology#contains> <https://github.com/john1hsu/usa-graph/id/winged-figures-of-the-republic> .
@@ -35740,6 +36002,7 @@
   <https://github.com/john1hsu/usa-graph/id/okies> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/usa-graph/id/history-of-the-united-states> .
   <https://github.com/john1hsu/usa-graph/id/okies> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/california> .
   <https://github.com/john1hsu/usa-graph/id/okies> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/great-depression> .
+  <https://github.com/john1hsu/usa-graph/id/okies> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/texas> .
   <https://github.com/john1hsu/usa-graph/id/okies> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/the-west> .
   <https://github.com/john1hsu/usa-graph/id/okies> <https://github.com/john1hsu/usa-graph/ontology#locatedIn> <https://github.com/john1hsu/usa-graph/id/north-america> .
   <https://github.com/john1hsu/usa-graph/id/okies> <https://github.com/john1hsu/usa-graph/ontology#locatedIn> <https://github.com/john1hsu/usa-graph/id/united-states> .
@@ -36222,6 +36485,7 @@
   <https://github.com/john1hsu/usa-graph/id/redistricting-in-the-united-states> <https://github.com/john1hsu/usa-graph/ontology#resultedFrom> <https://github.com/john1hsu/usa-graph/id/reynolds-v-sims> .
   <https://github.com/john1hsu/usa-graph/id/redlining> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/great-migration> .
   <https://github.com/john1hsu/usa-graph/id/redlining> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/servicemens-readjustment-act-of-1944> .
+  <https://github.com/john1hsu/usa-graph/id/republic-of-texas> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/texas> .
   <https://github.com/john1hsu/usa-graph/id/republican-party> <https://github.com/john1hsu/usa-graph/ontology#affectedBy> <https://github.com/john1hsu/usa-graph/id/dred-scott-v-sandford> .
   <https://github.com/john1hsu/usa-graph/id/republican-party> <https://github.com/john1hsu/usa-graph/ontology#hasMember> <https://github.com/john1hsu/usa-graph/id/abraham-lincoln> .
   <https://github.com/john1hsu/usa-graph/id/republican-party> <https://github.com/john1hsu/usa-graph/ontology#hasMember> <https://github.com/john1hsu/usa-graph/id/herbert-hoover> .
@@ -36577,6 +36841,7 @@
   <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/new-york-city> .
   <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/sojourner-truth> .
   <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/star-spangled-banner> .
+  <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/texas> .
   <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/thomas-jefferson> .
   <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/treaty-of-paris-1783> .
   <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/underground-railroad> .
@@ -36694,6 +36959,7 @@
   <https://github.com/john1hsu/usa-graph/id/special-field-order-no-15> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/freedmens-bureau> .
   <https://github.com/john1hsu/usa-graph/id/special-field-order-no-15> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/gullah-geechee> .
   <https://github.com/john1hsu/usa-graph/id/spencer-roane> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/mcculloch-v-maryland> .
+  <https://github.com/john1hsu/usa-graph/id/spindletop> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/texas> .
   <https://github.com/john1hsu/usa-graph/id/spoils-system> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/andrew-jackson> .
   <https://github.com/john1hsu/usa-graph/id/spot-resolutions> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/mexican-american-war> .
   <https://github.com/john1hsu/usa-graph/id/square-deal> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/theodore-roosevelt> .
@@ -36924,15 +37190,44 @@
   <https://github.com/john1hsu/usa-graph/id/terrorism-in-the-united-states> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/usa-graph/id/september-11-attacks> .
   <https://github.com/john1hsu/usa-graph/id/terrorism-in-the-united-states> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/september-11-attacks> .
   <https://github.com/john1hsu/usa-graph/id/terrorism-in-the-united-states> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/department-of-homeland-security> .
+  <https://github.com/john1hsu/usa-graph/id/texas-annexation> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/texas> .
   <https://github.com/john1hsu/usa-graph/id/texas-annexation> <https://github.com/john1hsu/usa-graph/ontology#influenced> <https://github.com/john1hsu/usa-graph/id/mexican-american-war> .
   <https://github.com/john1hsu/usa-graph/id/texas-annexation> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/angel-island-immigration-station> .
   <https://github.com/john1hsu/usa-graph/id/texas-annexation> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/california-gold-rush> .
   <https://github.com/john1hsu/usa-graph/id/texas-annexation> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/chinese-detention-barracks-poetry> .
   <https://github.com/john1hsu/usa-graph/id/texas-annexation> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/chinese-exclusion-act> .
   <https://github.com/john1hsu/usa-graph/id/texas-annexation> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/mexican-american-war> .
+  <https://github.com/john1hsu/usa-graph/id/texas-revolution> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/texas> .
   <https://github.com/john1hsu/usa-graph/id/texas-v-johnson> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/national-symbols-of-the-united-states> .
+  <https://github.com/john1hsu/usa-graph/id/texas-v-white> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/texas> .
+  <https://github.com/john1hsu/usa-graph/id/texas/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/texas/review/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/texas/review/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/texas/review/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/texas/review/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/texas/timeline/10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/texas/timeline/11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/texas/timeline/12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/texas/timeline/13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/texas/timeline/14> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/texas/timeline/15> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/texas/timeline/16> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/texas/timeline/17> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/texas/timeline/18> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/texas/timeline/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/texas/timeline/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/texas/timeline/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/texas/timeline/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/texas/timeline/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/texas/timeline/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/texas/timeline/7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/texas/timeline/8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/texas/timeline/9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/texas> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/texas> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Place> .
+  <https://github.com/john1hsu/usa-graph/id/texas> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/usa-graph/id/north-america> .
+  <https://github.com/john1hsu/usa-graph/id/texas> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/usa-graph/id/united-states> .
+  <https://github.com/john1hsu/usa-graph/id/texas> <https://github.com/john1hsu/usa-graph/ontology#locatedIn> <https://github.com/john1hsu/usa-graph/id/north-america> .
   <https://github.com/john1hsu/usa-graph/id/texas> <https://github.com/john1hsu/usa-graph/ontology#originOf> <https://github.com/john1hsu/usa-graph/id/okies> .
   <https://github.com/john1hsu/usa-graph/id/texas> <https://github.com/john1hsu/usa-graph/ontology#siteOf> <https://github.com/john1hsu/usa-graph/id/lunar-laser-ranging-experiment> .
   <https://github.com/john1hsu/usa-graph/id/thanksgiving-day-resolution-of-1941> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Document> .
@@ -37008,6 +37303,7 @@
   <https://github.com/john1hsu/usa-graph/id/the-west> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/california-gold-rush> .
   <https://github.com/john1hsu/usa-graph/id/the-west> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/dawes-act> .
   <https://github.com/john1hsu/usa-graph/id/the-west> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/lewis-and-clark-expedition> .
+  <https://github.com/john1hsu/usa-graph/id/the-west> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/texas> .
   <https://github.com/john1hsu/usa-graph/id/the-west> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/wyoming> .
   <https://github.com/john1hsu/usa-graph/id/the-west> <https://github.com/john1hsu/usa-graph/ontology#contains> <https://github.com/john1hsu/usa-graph/id/wyoming> .
   <https://github.com/john1hsu/usa-graph/id/the-west> <https://github.com/john1hsu/usa-graph/ontology#contains> <https://github.com/john1hsu/usa-graph/id/yellowstone-national-park> .
@@ -37648,6 +37944,7 @@
   <https://github.com/john1hsu/usa-graph/id/united-states> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/usa-graph/id/covid-19-pandemic-in-the-united-states> .
   <https://github.com/john1hsu/usa-graph/id/united-states> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/usa-graph/id/hawaii> .
   <https://github.com/john1hsu/usa-graph/id/united-states> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/usa-graph/id/pennsylvania> .
+  <https://github.com/john1hsu/usa-graph/id/united-states> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/usa-graph/id/texas> .
   <https://github.com/john1hsu/usa-graph/id/united-states> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/usa-graph/id/the-west> .
   <https://github.com/john1hsu/usa-graph/id/united-states> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/usa-graph/id/wyoming> .
   <https://github.com/john1hsu/usa-graph/id/united-states> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/alaska> .
@@ -37656,6 +37953,7 @@
   <https://github.com/john1hsu/usa-graph/id/united-states> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/hawaii> .
   <https://github.com/john1hsu/usa-graph/id/united-states> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/hoover-dam> .
   <https://github.com/john1hsu/usa-graph/id/united-states> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/pennsylvania> .
+  <https://github.com/john1hsu/usa-graph/id/united-states> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/texas> .
   <https://github.com/john1hsu/usa-graph/id/united-states> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/the-west> .
   <https://github.com/john1hsu/usa-graph/id/united-states> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/winged-figures-of-the-republic> .
   <https://github.com/john1hsu/usa-graph/id/united-states> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/wyoming> .
@@ -37673,6 +37971,7 @@
   <https://github.com/john1hsu/usa-graph/id/united-states> <https://github.com/john1hsu/usa-graph/ontology#contains> <https://github.com/john1hsu/usa-graph/id/okies> .
   <https://github.com/john1hsu/usa-graph/id/united-states> <https://github.com/john1hsu/usa-graph/ontology#contains> <https://github.com/john1hsu/usa-graph/id/pennsylvania> .
   <https://github.com/john1hsu/usa-graph/id/united-states> <https://github.com/john1hsu/usa-graph/ontology#contains> <https://github.com/john1hsu/usa-graph/id/philadelphia> .
+  <https://github.com/john1hsu/usa-graph/id/united-states> <https://github.com/john1hsu/usa-graph/ontology#contains> <https://github.com/john1hsu/usa-graph/id/texas> .
   <https://github.com/john1hsu/usa-graph/id/united-states> <https://github.com/john1hsu/usa-graph/ontology#contains> <https://github.com/john1hsu/usa-graph/id/the-west> .
   <https://github.com/john1hsu/usa-graph/id/united-states> <https://github.com/john1hsu/usa-graph/ontology#contains> <https://github.com/john1hsu/usa-graph/id/winged-figures-of-the-republic> .
   <https://github.com/john1hsu/usa-graph/id/united-states> <https://github.com/john1hsu/usa-graph/ontology#contains> <https://github.com/john1hsu/usa-graph/id/wyoming> .

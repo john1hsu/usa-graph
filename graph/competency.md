@@ -57,7 +57,7 @@ _Which nodes led to, established or affected the most other things in the graph?
 | `us:census-and-apportionment` | 3 | Native Americans, United States House of Representatives, redistricting-in-the-united-states |
 | `us:cherokee-nation-v-georgia` | 3 | cherokee-nation, federal-trust-responsibility, worcester-v-georgia |
 
-…and 100 more.
+…and 102 more.
 
 ## Happenings by era
 
@@ -210,6 +210,7 @@ _Which institutions, offices, rights and principles did each document or law est
 | `us:hawaii-admission-act` | `us:hawaii` |
 | `us:hay-bunau-varilla-treaty` | `us:panama-canal` |
 | `us:homeland-security-act-of-2002` | `us:department-of-homeland-security` |
+| `us:joint-resolution-for-annexing-texas` | `us:texas` |
 | `us:judiciary-act-of-1789` | `us:supreme-court-of-the-united-states` |
 | `us:louisiana-constitution-of-1898` | `us:jim-crow-laws` |
 | `us:marbury-v-madison` | `us:judicial-review` |
@@ -221,7 +222,6 @@ _Which institutions, offices, rights and principles did each document or law est
 | `us:thanksgiving-proclamation-of-1863` | `us:thanksgiving` |
 | `us:united-states-code` | `us:national-symbols-of-the-united-states` |
 | `us:united-states-constitution` | `us:census-and-apportionment` |
-| `us:united-states-constitution` | `us:electoral-college` |
 
-…and 8 more.
+…and 9 more.
 

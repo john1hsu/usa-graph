@@ -38995,6 +38995,188 @@
    "uso:sourceType": "government"
   },
   {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/texas/s1",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "Texas State Library and Archives Commission",
+   "dcterms:title": "Texas Annexation: Timeline",
+   "schema:url": {
+    "@id": "https://www.tsl.texas.gov/ref/abouttx/annexation/timeline.html"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/texas/s10",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "American Battlefield Trust",
+   "dcterms:title": "The Texas Revolution",
+   "schema:url": {
+    "@id": "https://www.battlefields.org/learn/articles/texas-revolution"
+   },
+   "uso:sourceType": "institutional"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/texas/s11",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "Spindletop-Gladys City Boomtown Museum, Lamar University",
+   "dcterms:title": "Spindletop History",
+   "schema:url": {
+    "@id": "https://www.lamar.edu/spindletop-boomtown-museum/spindletop-history/"
+   },
+   "uso:sourceType": "museum"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/texas/s12",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "U.S. Department of State, Office of the Historian",
+   "dcterms:title": "The Annexation of Texas, the Mexican-American War, and the Treaty of Guadalupe-Hidalgo, 1845–1848",
+   "schema:url": {
+    "@id": "https://history.state.gov/milestones/1830-1860/texas-annexation"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/texas/s13",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "Handbook of Texas Online (Texas State Historical Association), by Timothy K. Perttula",
+   "dcterms:title": "Caddo Indians",
+   "schema:url": {
+    "@id": "https://www.tshaonline.org/handbook/entries/caddo-indians"
+   },
+   "uso:sourceType": "scholarly-encyclopedia"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/texas/s2",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "Texas State Library and Archives Commission",
+   "dcterms:title": "Texas Annexation",
+   "schema:url": {
+    "@id": "https://www.tsl.texas.gov/ref/abouttx/annexation/index.html"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/texas/s3",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "Handbook of Texas Online (Texas State Historical Association), by Joseph Milton Nance",
+   "dcterms:title": "Republic of Texas",
+   "schema:url": {
+    "@id": "https://www.tshaonline.org/handbook/entries/republic-of-texas"
+   },
+   "uso:sourceType": "scholarly-encyclopedia"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/texas/s4",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "Handbook of Texas Online (Texas State Historical Association), by George Klos",
+   "dcterms:title": "Indians",
+   "schema:url": {
+    "@id": "https://www.tshaonline.org/handbook/entries/indians"
+   },
+   "uso:sourceType": "scholarly-encyclopedia"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/texas/s5",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "Texas State Library and Archives Commission",
+   "dcterms:title": "A Declaration of the Causes which Impel the State of Texas to Secede from the Federal Union (February 2, 1861)",
+   "schema:url": {
+    "@id": "https://www.tsl.texas.gov/ref/abouttx/secession/2feb1861.html"
+   },
+   "uso:sourceType": "primary"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/texas/s6",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "Texas State Library and Archives Commission",
+   "dcterms:title": "Texas Secession and Readmission",
+   "schema:url": {
+    "@id": "https://www.tsl.texas.gov/ref/abouttx/secession/index.html"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/texas/s7",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "Supreme Court of the United States, via Legal Information Institute, Cornell Law School",
+   "dcterms:title": "Texas v. White, 74 U.S. 700 (1868)",
+   "schema:url": {
+    "@id": "https://www.law.cornell.edu/supremecourt/text/74/700"
+   },
+   "uso:sourceType": "primary"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/texas/s8",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "U.S. National Archives and Records Administration",
+   "dcterms:title": "National Archives Safeguards Original 'Juneteenth' General Order",
+   "schema:url": {
+    "@id": "https://www.archives.gov/news/articles/juneteenth-original-document"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/texas/s9",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "U.S. Census Bureau",
+   "dcterms:title": "QuickFacts: Texas; United States",
+   "schema:url": {
+    "@id": "https://www.census.gov/quickfacts/fact/table/TX,US/PST045225"
+   },
+   "uso:sourceType": "government"
+  },
+  {
    "@id": "https://github.com/john1hsu/usa-graph/id/source/thanksgiving/s1",
    "@type": "uso:Source",
    "dcterms:date": {
@@ -43672,6 +43854,211 @@
    "uso:date": {
     "@type": "xsd:gYear",
     "@value": "1853"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/texas/misconception",
+   "@type": "uso:Misconception",
+   "uso:fact": "The Texas State Library and Archives Commission states that neither the 1845 joint resolution nor the Texas annexation ordinance gave Texas a right to secede, and in Texas v. White the Supreme Court held the state's 1861 secession ordinance absolutely null. The real unusual term was permission to divide into as many as four additional states with Texas's consent.",
+   "uso:myth": "When Texas joined the Union it kept a special legal right to secede whenever it chose.",
+   "uso:why": "Nine years as an independent republic, a genuinely unusual annexation agreement that let Texas keep its public lands, and the division clause are easily blurred into a belief that Texas joined on different terms from other states."
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/texas/review/1",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "Why did the Texas Revolution break out in 1835, and what part did slavery play?",
+   "uso:answer": "Many Anglo-American settlers had enjoyed autonomy under Mexico's federal Constitution of 1824, and they rebelled when Santa Anna centralized power and repealed it, after Mexico had also tried in 1830 to restrict American immigration. Slavery mattered too, since Americans had kept using enslaved labor despite Mexico's 1829 ban, and the Republic's 1836 constitution then legalized slavery and barred free Black people without Congress's consent.",
+   "uso:questionFor": {
+    "@id": "us:texas"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/texas/review/2",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "How did the annexation of Texas lead to war with Mexico?",
+   "uso:answer": "Mexico had never accepted Texas independence and threatened war over annexation. Texas claimed the Rio Grande as its border while Mexico said the line was the Nueces River; when Polk sent Zachary Taylor's army into the land between the rivers and skirmishes followed, Congress declared war on May 13, 1846, a war that ended with Mexico ceding about 525,000 square miles in 1848.",
+   "uso:questionFor": {
+    "@id": "us:texas"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/texas/review/3",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "Why did Texas secede in 1861, and how did the Supreme Court later treat that secession?",
+   "uso:answer": "The convention's Declaration of Causes said Texas had entered the Union as a slaveholding state and treated Northern opposition to slavery as a threat that justified leaving. After the war, the Court in Texas v. White held that the Constitution created an indestructible Union and that the secession ordinance was legally null, so Texas had never ceased to be a state.",
+   "uso:questionFor": {
+    "@id": "us:texas"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/texas/review/4",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "How did the Republic and the state of Texas treat Native nations, and where are some of those nations today?",
+   "uso:answer": "The Republic under Mirabeau Lamar expelled the Cherokees, Kickapoos, Shawnees, Delawares and Caddos, and in 1859 federal officials removed the Brazos reservation peoples north of the Red River; Comanche resistance on the plains ended with the 1874 campaigns. The Caddo now live mainly in western Oklahoma near Binger, while the Alabama-Coushatta, the Tigua of El Paso and the Kickapoo keep reservations in Texas.",
+   "uso:questionFor": {
+    "@id": "us:texas"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/texas/timeline/1",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Spanish Franciscans settle among the Hasinai Caddo; a smallpox epidemic in 1690–91 kills about 3,000 Caddos.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1689"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/texas/timeline/10",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Governor J. Pinckney Henderson takes office, completing the transfer of government.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1846-02-19"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/texas/timeline/11",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The United States declares war on Mexico after clashes in the disputed land between the Nueces and the Rio Grande.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1846-05-13"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/texas/timeline/12",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Federal officials remove the Indians of the Brazos reservations, including about 1,050 Caddos, north of the Red River.",
+   "uso:date": {
+    "@type": "xsd:gYearMonth",
+    "@value": "1859-08"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/texas/timeline/13",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The Secession Convention in Austin adopts the Ordinance of Secession.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1861-02-01"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/texas/timeline/14",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The Provisional Confederate Government accepts Texas as a Confederate state.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1861-03-01"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/texas/timeline/15",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "At Galveston, Maj. Gen. Gordon Granger issues General Order No. 3 announcing that the enslaved are free, the origin of Juneteenth.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1865-06-19"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/texas/timeline/16",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "U.S. troops attack Native camps in Palo Duro Canyon; most Comanches surrender by winter.",
+   "uso:date": {
+    "@type": "xsd:gYearMonth",
+    "@value": "1874-09"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/texas/timeline/17",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The Lucas gusher at Spindletop, near Beaumont, launches the Texas oil boom.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1901-01-10"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/texas/timeline/18",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The census counts 29,145,505 residents.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "2020-04-01"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/texas/timeline/2",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Mexico passes a law restricting American settlement in Coahuila and Texas.",
+   "uso:date": {
+    "@type": "xsd:gYearMonth",
+    "@value": "1830-04"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/texas/timeline/3",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Texans fire on Mexican troops at Gonzales, opening the Texas Revolution.",
+   "uso:date": {
+    "@type": "xsd:gYearMonth",
+    "@value": "1835-10"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/texas/timeline/4",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Texas declares independence from Mexico.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1836-03-02"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/texas/timeline/5",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The Alamo falls; all of its defenders are killed.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1836-03-06"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/texas/timeline/6",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The Republic's constitution legalizes slavery and bars free Black people from living in Texas without the consent of Congress.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1836-03-16"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/texas/timeline/7",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The Republic expels the Cherokees from Texas; the Caddos are driven out in 1841.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1839"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/texas/timeline/8",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "President Tyler signs the joint resolution offering Texas annexation.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1845-03-01"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/texas/timeline/9",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "President Polk signs the act admitting Texas as the 28th state.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1845-12-29"
    }
   },
   {
@@ -70646,6 +71033,212 @@
     },
     {
      "@id": "https://github.com/john1hsu/usa-graph/id/telegraph/timeline/9"
+    }
+   ]
+  },
+  {
+   "@id": "us:texas",
+   "@type": "uso:State",
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/texas/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/texas/s10"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/texas/s11"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/texas/s12"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/texas/s13"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/texas/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/texas/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/texas/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/texas/s5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/texas/s6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/texas/s7"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/texas/s8"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/texas/s9"
+    }
+   ],
+   "rdfs:label": "Texas",
+   "schema:startDate": {
+    "@type": "xsd:date",
+    "@value": "1845-12-29"
+   },
+   "skos:altLabel": [
+    "Lone Star State",
+    "State of Texas"
+   ],
+   "skos:broader": {
+    "@id": "us:united-states"
+   },
+   "skos:definition": "A U.S. state in the south-central United States, long home to Caddo, Comanche, Apache and other Native peoples, that was part of Spain and then Mexico, broke away as an independent slaveholding republic in 1836, joined the Union as the 28th state on December 29, 1845, seceded to join the Confederacy in 1861, and became a center of oil and population growth; the 2020 census counted 29,145,505 Texans.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/usa-graph/id/scheme/states-and-territories"
+   },
+   "skos:prefLabel": "Texas",
+   "skos:related": [
+    {
+     "@id": "us:battle-of-the-alamo"
+    },
+    {
+     "@id": "us:caddo-nation"
+    },
+    {
+     "@id": "us:comanche"
+    },
+    {
+     "@id": "us:confederate-states-of-america"
+    },
+    {
+     "@id": "us:dust-bowl"
+    },
+    {
+     "@id": "us:general-order-no-3"
+    },
+    {
+     "@id": "us:joint-resolution-for-annexing-texas"
+    },
+    {
+     "@id": "us:juneteenth"
+    },
+    {
+     "@id": "us:lunar-laser-ranging-experiment"
+    },
+    {
+     "@id": "us:mexican-american-war"
+    },
+    {
+     "@id": "us:mexico"
+    },
+    {
+     "@id": "us:native-americans"
+    },
+    {
+     "@id": "us:okies"
+    },
+    {
+     "@id": "us:republic-of-texas"
+    },
+    {
+     "@id": "us:slavery-in-the-united-states"
+    },
+    {
+     "@id": "us:spindletop"
+    },
+    {
+     "@id": "us:texas-annexation"
+    },
+    {
+     "@id": "us:texas-revolution"
+    },
+    {
+     "@id": "us:texas-v-white"
+    },
+    {
+     "@id": "us:the-west"
+    }
+   ],
+   "uso:borders": {
+    "@id": "us:mexico"
+   },
+   "uso:domain": "states-and-territories",
+   "uso:establishedBy": {
+    "@id": "us:joint-resolution-for-annexing-texas"
+   },
+   "uso:evidenceStatus": "established",
+   "uso:file": "articles/states-and-territories/texas.md",
+   "uso:ledTo": {
+    "@id": "us:mexican-american-war"
+   },
+   "uso:level": "introductory",
+   "uso:locatedIn": {
+    "@id": "us:united-states"
+   },
+   "uso:misconception": {
+    "@id": "https://github.com/john1hsu/usa-graph/id/texas/misconception"
+   },
+   "uso:participatedIn": {
+    "@id": "us:american-civil-war"
+   },
+   "uso:timelineEntry": [
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/texas/timeline/1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/texas/timeline/10"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/texas/timeline/11"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/texas/timeline/12"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/texas/timeline/13"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/texas/timeline/14"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/texas/timeline/15"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/texas/timeline/16"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/texas/timeline/17"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/texas/timeline/18"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/texas/timeline/2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/texas/timeline/3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/texas/timeline/4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/texas/timeline/5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/texas/timeline/6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/texas/timeline/7"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/texas/timeline/8"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/texas/timeline/9"
     }
    ]
   },

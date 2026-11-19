@@ -26628,6 +26628,251 @@
   ]
  },
  {
+  "id": "us:texas",
+  "title": "Texas",
+  "aliases": [
+   "State of Texas",
+   "Lone Star State"
+  ],
+  "type": "State",
+  "domain": "states-and-territories",
+  "level": "introductory",
+  "evidenceStatus": "established",
+  "file": "articles/states-and-territories/texas.md",
+  "created": "2026-11-19",
+  "summary": "A U.S. state in the south-central United States, long home to Caddo, Comanche, Apache and other Native peoples, that was part of Spain and then Mexico, broke away as an independent slaveholding republic in 1836, joined the Union as the 28th state on December 29, 1845, seceded to join the Confederacy in 1861, and became a center of oil and population growth; the 2020 census counted 29,145,505 Texans.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "us:united-states"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:the-west"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:texas-annexation"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:republic-of-texas"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:texas-revolution"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:battle-of-the-alamo"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:joint-resolution-for-annexing-texas"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:mexican-american-war"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:juneteenth"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:general-order-no-3"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:texas-v-white"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:confederate-states-of-america"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:slavery-in-the-united-states"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:native-americans"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:caddo-nation"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:comanche"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:spindletop"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:dust-bowl"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:okies"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:lunar-laser-ranging-experiment"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:mexico"
+   },
+   {
+    "predicate": "uso:locatedIn",
+    "object": "us:united-states",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:establishedBy",
+    "object": "us:joint-resolution-for-annexing-texas",
+    "source": "s2",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:ledTo",
+    "object": "us:mexican-american-war",
+    "source": "s12",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:participatedIn",
+    "object": "us:american-civil-war",
+    "source": "s6",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:borders",
+    "object": "us:mexico",
+    "source": "s12",
+    "confidence": "medium"
+   }
+  ],
+  "start": "1845-12-29",
+  "end": null,
+  "review": [
+   {
+    "question": "Why did the Texas Revolution break out in 1835, and what part did slavery play?",
+    "answer": "Many Anglo-American settlers had enjoyed autonomy under Mexico's federal Constitution of 1824, and they rebelled when Santa Anna centralized power and repealed it, after Mexico had also tried in 1830 to restrict American immigration. Slavery mattered too, since Americans had kept using enslaved labor despite Mexico's 1829 ban, and the Republic's 1836 constitution then legalized slavery and barred free Black people without Congress's consent."
+   },
+   {
+    "question": "How did the annexation of Texas lead to war with Mexico?",
+    "answer": "Mexico had never accepted Texas independence and threatened war over annexation. Texas claimed the Rio Grande as its border while Mexico said the line was the Nueces River; when Polk sent Zachary Taylor's army into the land between the rivers and skirmishes followed, Congress declared war on May 13, 1846, a war that ended with Mexico ceding about 525,000 square miles in 1848."
+   },
+   {
+    "question": "Why did Texas secede in 1861, and how did the Supreme Court later treat that secession?",
+    "answer": "The convention's Declaration of Causes said Texas had entered the Union as a slaveholding state and treated Northern opposition to slavery as a threat that justified leaving. After the war, the Court in Texas v. White held that the Constitution created an indestructible Union and that the secession ordinance was legally null, so Texas had never ceased to be a state."
+   },
+   {
+    "question": "How did the Republic and the state of Texas treat Native nations, and where are some of those nations today?",
+    "answer": "The Republic under Mirabeau Lamar expelled the Cherokees, Kickapoos, Shawnees, Delawares and Caddos, and in 1859 federal officials removed the Brazos reservation peoples north of the Red River; Comanche resistance on the plains ended with the 1874 campaigns. The Caddo now live mainly in western Oklahoma near Binger, while the Alabama-Coushatta, the Tigua of El Paso and the Kickapoo keep reservations in Texas."
+   }
+  ],
+  "timeline": [
+   {
+    "date": "1689",
+    "event": "Spanish Franciscans settle among the Hasinai Caddo; a smallpox epidemic in 1690–91 kills about 3,000 Caddos."
+   },
+   {
+    "date": "1830-04",
+    "event": "Mexico passes a law restricting American settlement in Coahuila and Texas."
+   },
+   {
+    "date": "1835-10",
+    "event": "Texans fire on Mexican troops at Gonzales, opening the Texas Revolution."
+   },
+   {
+    "date": "1836-03-02",
+    "event": "Texas declares independence from Mexico."
+   },
+   {
+    "date": "1836-03-06",
+    "event": "The Alamo falls; all of its defenders are killed."
+   },
+   {
+    "date": "1836-03-16",
+    "event": "The Republic's constitution legalizes slavery and bars free Black people from living in Texas without the consent of Congress."
+   },
+   {
+    "date": "1839",
+    "event": "The Republic expels the Cherokees from Texas; the Caddos are driven out in 1841."
+   },
+   {
+    "date": "1845-03-01",
+    "event": "President Tyler signs the joint resolution offering Texas annexation."
+   },
+   {
+    "date": "1845-12-29",
+    "event": "President Polk signs the act admitting Texas as the 28th state."
+   },
+   {
+    "date": "1846-02-19",
+    "event": "Governor J. Pinckney Henderson takes office, completing the transfer of government."
+   },
+   {
+    "date": "1846-05-13",
+    "event": "The United States declares war on Mexico after clashes in the disputed land between the Nueces and the Rio Grande."
+   },
+   {
+    "date": "1859-08",
+    "event": "Federal officials remove the Indians of the Brazos reservations, including about 1,050 Caddos, north of the Red River."
+   },
+   {
+    "date": "1861-02-01",
+    "event": "The Secession Convention in Austin adopts the Ordinance of Secession."
+   },
+   {
+    "date": "1861-03-01",
+    "event": "The Provisional Confederate Government accepts Texas as a Confederate state."
+   },
+   {
+    "date": "1865-06-19",
+    "event": "At Galveston, Maj. Gen. Gordon Granger issues General Order No. 3 announcing that the enslaved are free, the origin of Juneteenth."
+   },
+   {
+    "date": "1874-09",
+    "event": "U.S. troops attack Native camps in Palo Duro Canyon; most Comanches surrender by winter."
+   },
+   {
+    "date": "1901-01-10",
+    "event": "The Lucas gusher at Spindletop, near Beaumont, launches the Texas oil boom."
+   },
+   {
+    "date": "2020-04-01",
+    "event": "The census counts 29,145,505 residents."
+   }
+  ],
+  "misconception": {
+   "myth": "When Texas joined the Union it kept a special legal right to secede whenever it chose.",
+   "fact": "The Texas State Library and Archives Commission states that neither the 1845 joint resolution nor the Texas annexation ordinance gave Texas a right to secede, and in Texas v. White the Supreme Court held the state's 1861 secession ordinance absolutely null. The real unusual term was permission to divide into as many as four additional states with Texas's consent.",
+   "why": "Nine years as an independent republic, a genuinely unusual annexation agreement that let Texas keep its public lands, and the division clause are easily blurred into a belief that Texas joined on different terms from other states."
+  },
+  "source_urls": [
+   "https://www.tsl.texas.gov/ref/abouttx/annexation/timeline.html",
+   "https://www.tsl.texas.gov/ref/abouttx/annexation/index.html",
+   "https://www.tshaonline.org/handbook/entries/republic-of-texas",
+   "https://www.tshaonline.org/handbook/entries/indians",
+   "https://www.tsl.texas.gov/ref/abouttx/secession/2feb1861.html",
+   "https://www.tsl.texas.gov/ref/abouttx/secession/index.html",
+   "https://www.law.cornell.edu/supremecourt/text/74/700",
+   "https://www.archives.gov/news/articles/juneteenth-original-document",
+   "https://www.census.gov/quickfacts/fact/table/TX,US/PST045225",
+   "https://www.battlefields.org/learn/articles/texas-revolution",
+   "https://www.lamar.edu/spindletop-boomtown-museum/spindletop-history/",
+   "https://history.state.gov/milestones/1830-1860/texas-annexation",
+   "https://www.tshaonline.org/handbook/entries/caddo-indians"
+  ]
+ },
+ {
   "id": "us:thanksgiving",
   "title": "Thanksgiving",
   "aliases": [

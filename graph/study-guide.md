@@ -2529,6 +2529,23 @@ Every review question (with its answer) and every myth-versus-fact in the graph,
 - **Q:** How did Pennsylvania's resources make it the "Arsenal of America," and what labor conflicts came with that growth?
   **A:** Coal, oil (from 1859 near Titusville), more than 10,000 miles of railroad at its peak, and steel (60 percent of the nation's output in 1900) made it an industrial center that produced almost a third of U.S. steel in World War II. Growth brought violent conflicts such as the 1877 railroad strike in Pittsburgh, the 1892 Homestead Strike, and the 1897 Lattimer massacre of Slavic miners.
 
+### [Texas](../articles/states-and-territories/texas.md) — State
+
+| Myth | Fact |
+|---|---|
+| When Texas joined the Union it kept a special legal right to secede whenever it chose. | The Texas State Library and Archives Commission states that neither the 1845 joint resolution nor the Texas annexation ordinance gave Texas a right to secede, and in Texas v. White the Supreme Court held the state's 1861 secession ordinance absolutely null. The real unusual term was permission to divide into as many as four additional states with Texas's consent. |
+
+**Why it matters:** Nine years as an independent republic, a genuinely unusual annexation agreement that let Texas keep its public lands, and the division clause are easily blurred into a belief that Texas joined on different terms from other states.
+
+- **Q:** Why did the Texas Revolution break out in 1835, and what part did slavery play?
+  **A:** Many Anglo-American settlers had enjoyed autonomy under Mexico's federal Constitution of 1824, and they rebelled when Santa Anna centralized power and repealed it, after Mexico had also tried in 1830 to restrict American immigration. Slavery mattered too, since Americans had kept using enslaved labor despite Mexico's 1829 ban, and the Republic's 1836 constitution then legalized slavery and barred free Black people without Congress's consent.
+- **Q:** How did the annexation of Texas lead to war with Mexico?
+  **A:** Mexico had never accepted Texas independence and threatened war over annexation. Texas claimed the Rio Grande as its border while Mexico said the line was the Nueces River; when Polk sent Zachary Taylor's army into the land between the rivers and skirmishes followed, Congress declared war on May 13, 1846, a war that ended with Mexico ceding about 525,000 square miles in 1848.
+- **Q:** Why did Texas secede in 1861, and how did the Supreme Court later treat that secession?
+  **A:** The convention's Declaration of Causes said Texas had entered the Union as a slaveholding state and treated Northern opposition to slavery as a threat that justified leaving. After the war, the Court in Texas v. White held that the Constitution created an indestructible Union and that the secession ordinance was legally null, so Texas had never ceased to be a state.
+- **Q:** How did the Republic and the state of Texas treat Native nations, and where are some of those nations today?
+  **A:** The Republic under Mirabeau Lamar expelled the Cherokees, Kickapoos, Shawnees, Delawares and Caddos, and in 1859 federal officials removed the Brazos reservation peoples north of the Red River; Comanche resistance on the plains ended with the 1874 campaigns. The Caddo now live mainly in western Oklahoma near Binger, while the Alabama-Coushatta, the Tigua of El Paso and the Kickapoo keep reservations in Texas.
+
 ### [United States](../articles/states-and-territories/united-states.md) — Country
 
 | Myth | Fact |

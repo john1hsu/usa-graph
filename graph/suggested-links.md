@@ -4,21 +4,21 @@ Pairs of written nodes that share many neighbours but are not yet connected (Ada
 
 | Score | Node A | Node B | Shared neighbours |
 |---|---|---|---|
-| 4.34 | `us:james-madison` | `us:united-states-constitution` | `us:articles-of-confederation`, `us:bill-of-rights`, `us:constitutional-convention`, `us:electoral-college`, `us:federalism` |
+| 4.33 | `us:james-madison` | `us:united-states-constitution` | `us:articles-of-confederation`, `us:bill-of-rights`, `us:constitutional-convention`, `us:electoral-college`, `us:federalism` |
 | 4.33 | `us:california` | `us:labor-movement` | `us:cesar-chavez`, `us:dolores-huerta`, `us:united-farm-workers` |
 | 3.55 | `us:united-states` | `us:united-states-congress` | `us:articles-of-confederation`, `us:census-and-apportionment`, `us:covid-19-pandemic-in-the-united-states`, `us:great-recession`, `us:indian-removal-act` |
-| 3.49 | `us:thomas-jefferson` | `us:united-states-constitution` | `us:bill-of-rights`, `us:census-and-apportionment`, `us:declaration-of-independence`, `us:electoral-college`, `us:john-marshall` |
-| 3.45 | `us:andrew-jackson` | `us:james-madison` | `us:mcculloch-v-maryland`, `us:nullification-crisis`, `us:presidency-of-the-united-states`, `us:presidents-of-the-united-states`, `us:second-bank-of-the-united-states` |
-| 3.34 | `us:james-madison` | `us:john-marshall` | `us:american-colonization-society`, `us:federalism`, `us:house-of-representatives`, `us:marbury-v-madison`, `us:mcculloch-v-maryland` |
+| 3.48 | `us:thomas-jefferson` | `us:united-states-constitution` | `us:bill-of-rights`, `us:census-and-apportionment`, `us:declaration-of-independence`, `us:electoral-college`, `us:john-marshall` |
+| 3.44 | `us:andrew-jackson` | `us:james-madison` | `us:mcculloch-v-maryland`, `us:nullification-crisis`, `us:presidency-of-the-united-states`, `us:presidents-of-the-united-states`, `us:second-bank-of-the-united-states` |
+| 3.41 | `us:native-americans` | `us:slavery-in-the-united-states` | `us:andrew-jackson`, `us:census-and-apportionment`, `us:chesapeake-bay`, `us:indian-removal-act`, `us:jamestown` |
+| 3.33 | `us:james-madison` | `us:john-marshall` | `us:american-colonization-society`, `us:federalism`, `us:house-of-representatives`, `us:marbury-v-madison`, `us:mcculloch-v-maryland` |
 | 3.26 | `us:american-revolutionary-war` | `us:slavery-in-the-united-states` | `us:african-americans`, `us:andrew-jackson`, `us:benjamin-franklin`, `us:chesapeake-bay`, `us:declaration-of-independence` |
 | 3.25 | `us:united-states` | `us:war-of-1812` | `us:canada`, `us:chesapeake-bay`, `us:indian-removal-act`, `us:louisiana-purchase`, `us:national-symbols-of-the-united-states` |
-| 3.25 | `us:cherokee-nation-v-georgia` | `us:dawes-act` | `us:federal-indian-law`, `us:federal-trust-responsibility`, `us:indian-removal-act`, `us:native-americans`, `us:tribal-sovereignty` |
 | 3.25 | `us:constitutional-convention` | `us:second-continental-congress` | `us:articles-of-confederation`, `us:benjamin-franklin`, `us:confederation-period`, `us:declaration-of-independence`, `us:george-washington` |
+| 3.25 | `us:cherokee-nation-v-georgia` | `us:dawes-act` | `us:federal-indian-law`, `us:federal-trust-responsibility`, `us:indian-removal-act`, `us:native-americans`, `us:tribal-sovereignty` |
 | 3.21 | `us:declaration-of-independence` | `us:treaty-of-paris-1783` | `us:american-revolutionary-war`, `us:articles-of-confederation`, `us:benjamin-franklin`, `us:founding-documents-of-the-united-states`, `us:second-continental-congress` |
 | 3.19 | `us:louisiana-purchase` | `us:monroe-doctrine` | `us:adams-onis-treaty`, `us:early-republic`, `us:james-monroe`, `us:war-of-1812` |
 | 3.09 | `us:constitutional-convention` | `us:thomas-jefferson` | `us:benjamin-franklin`, `us:bill-of-rights`, `us:census-and-apportionment`, `us:declaration-of-independence`, `us:electoral-college` |
-| 3.09 | `us:native-americans` | `us:slavery-in-the-united-states` | `us:andrew-jackson`, `us:census-and-apportionment`, `us:chesapeake-bay`, `us:indian-removal-act`, `us:jamestown` |
-| 3.07 | `us:slavery-in-the-united-states` | `us:united-states-congress` | `us:census-and-apportionment`, `us:constitutional-convention`, `us:electoral-college`, `us:indian-removal-act`, `us:mexican-american-war` |
+| 3.06 | `us:slavery-in-the-united-states` | `us:united-states-congress` | `us:census-and-apportionment`, `us:constitutional-convention`, `us:electoral-college`, `us:indian-removal-act`, `us:mexican-american-war` |
 | 3.02 | `us:chunkey` | `us:indian-removal-act` | `us:cahokia`, `us:cherokee-nation`, `us:chickasaw-nation`, `us:native-americans` |
 | 2.96 | `us:abolitionism` | `us:pennsylvania` | `us:benjamin-franklin`, `us:harriet-tubman`, `us:liberty-bell`, `us:pennsylvania-gradual-abolition-act`, `us:quakers` |
 | 2.96 | `us:great-migration` | `us:servicemens-readjustment-act-of-1944` | `us:fair-housing-act-of-1968`, `us:jim-crow-laws`, `us:redlining`, `us:world-war-ii-and-the-united-states` |

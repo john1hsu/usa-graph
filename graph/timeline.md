@@ -83,6 +83,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1682-10-28 | William Penn arrives on the Welcome; within two years about 4,000 settlers have come. — [Philadelphia](../articles/regions-cities-and-landmarks/philadelphia.md) |
 | 1682-12-07 | The provincial Assembly adopts the Great Law. — [Pennsylvania](../articles/states-and-territories/pennsylvania.md) |
 | 1683 | Penn and surveyor Thomas Holme lay out the street grid with five public squares. — [Philadelphia](../articles/regions-cities-and-landmarks/philadelphia.md) |
+| 1689 | Spanish Franciscans settle among the Hasinai Caddo; a smallpox epidemic in 1690–91 kills about 3,000 Caddos. — [Texas](../articles/states-and-territories/texas.md) |
 | 1692-01 | Pierre Motteux's London Gentleman's Journal carries the motto, the earliest printing Deutsch traced; the Gentleman's Magazine later puts it on its title page. — [E pluribus unum](../articles/symbols-and-national-identity/e-pluribus-unum.md) |
 | 1698 | Fire destroys the statehouse and prison. — [Jamestown Colony](../articles/colonial-and-revolutionary/jamestown.md) |
 | 1699 | Pierre Le Moyne d'Iberville's French expedition learns from Native guides of a ridge linking the Mississippi to Bayou St. John and Lake Pontchartrain. — [New Orleans](../articles/regions-cities-and-landmarks/new-orleans.md) |
@@ -619,6 +620,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1829 | Mexico abolishes slavery. — [Mexican–American War](../articles/early-republic-and-expansion/mexican-american-war.md) |
 | 1829 | Sits in the Virginia Constitutional Convention of 1829–30. — [John Marshall](../articles/people-who-shaped-america/john-marshall.md) |
 | 1829-03-04 | Inaugurated as the seventh president. — [Andrew Jackson](../articles/presidents-and-founders/andrew-jackson.md) |
+| 1830-04 | Mexico passes a law restricting American settlement in Coahuila and Texas. — [Texas](../articles/states-and-territories/texas.md) |
 | 1830-05-28 | **[Indian Removal Act](../articles/native-nations/indian-removal-act.md)** (Law) |
 | 1830-05-28 | After passing the Senate 28 to 19 and the House 102 to 97, the Indian Removal Act is signed by President Jackson. — [Indian Removal Act](../articles/native-nations/indian-removal-act.md) |
 | 1830-05-28 | President Andrew Jackson signs the Indian Removal Act. — [Cherokee Nation v. Georgia](../articles/native-nations/cherokee-nation-v-georgia.md) |
@@ -661,6 +663,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1835 | A small Cherokee faction without authority under Cherokee law signs the Treaty of New Echota. — [Cherokee Nation v. Georgia](../articles/native-nations/cherokee-nation-v-georgia.md) |
 | 1835-02 | The American Anti-Slavery Society's Anti-Slavery Record calls it 'The Liberty Bell', the earliest known use of the name. — [Liberty Bell](../articles/symbols-and-national-identity/liberty-bell.md) |
 | 1835-07-06 | Dies after 34 years as Chief Justice. — [John Marshall](../articles/people-who-shaped-america/john-marshall.md) |
+| 1835-10 | Texans fire on Mexican troops at Gonzales, opening the Texas Revolution. — [Texas](../articles/states-and-territories/texas.md) |
 | 1835-10-21 | A Boston mob breaks up a meeting of the Boston Female Anti-Slavery Society and threatens Garrison's life. — [Abolitionism](../articles/civil-war-and-reconstruction/abolitionism.md) |
 | 1835-12-29 | A minority Treaty Party signs the Treaty of New Echota without the authority of Principal Chief John Ross or the Cherokee government; the Second Seminole War begins the same year. — [Indian Removal Act](../articles/native-nations/indian-removal-act.md) |
 | 1836 | After Richard M. Johnson falls one vote short of an electoral majority for vice president, the Senate elects him 33 to 16, the only time it has chosen a vice president. — [Electoral College](../articles/democracy-and-elections/electoral-college.md) |
@@ -668,6 +671,9 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1836 | The House adopts the gag rule, barring discussion of abolitionist petitions. — [Abolitionism](../articles/civil-war-and-reconstruction/abolitionism.md) |
 | 1836 | The Second Bank's federal charter expires without renewal. — [McCulloch v. Maryland](../articles/rights-and-law/mcculloch-v-maryland.md) |
 | 1836 | The Senate ratifies the New Echota treaty 31 to 15; most Muscogee (Creek) people are forced west. — [Indian Removal Act](../articles/native-nations/indian-removal-act.md) |
+| 1836-03-02 | Texas declares independence from Mexico. — [Texas](../articles/states-and-territories/texas.md) |
+| 1836-03-06 | The Alamo falls; all of its defenders are killed. — [Texas](../articles/states-and-territories/texas.md) |
+| 1836-03-16 | The Republic's constitution legalizes slavery and bars free Black people from living in Texas without the consent of Congress. — [Texas](../articles/states-and-territories/texas.md) |
 | 1836-05-04 | Emerson is transferred to Fort Snelling in the Wisconsin Territory, where the Missouri Compromise barred slavery; there Scott marries Harriet Robinson. — [Dred Scott v. Sandford](../articles/rights-and-law/dred-scott-v-sandford.md) |
 | 1836-06-28 | Dies at Montpelier, holding about 100 people in slavery and freeing none in his will. — [James Madison](../articles/presidents-and-founders/james-madison.md) |
 | 1836-10 | Between 1,500 and 2,000 Lowell workers strike over higher board charges and form the Factory Girls' Association. — [Labor movement](../articles/economy-and-work/labor-movement.md) |
@@ -688,6 +694,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1838-09-03 | Escapes to New York disguised as a sailor, using a free Black sailor's papers and a ticket paid for by Anna Murray. — [Frederick Douglass](../articles/people-who-shaped-america/frederick-douglass.md) |
 | 1838-09-15 | Marries Anna Murray in New York; the couple settles in New Bedford, Massachusetts, as the Douglasses. — [Frederick Douglass](../articles/people-who-shaped-america/frederick-douglass.md) |
 | 1839 | An English traveler describes the music of enslaved people on a Georgia rice plantation, an early account of music that would later evolve into the blues. — [Blues](../articles/culture-and-arts/blues.md) |
+| 1839 | The Republic expels the Cherokees from Texas; the Caddos are driven out in 1841. — [Texas](../articles/states-and-territories/texas.md) |
 | 1839-03 | The last Cherokee detachments reach Indian Territory, in present-day Oklahoma. — [Indian Removal Act](../articles/native-nations/indian-removal-act.md) |
 | 1839-09-06 | The reunited Cherokee Nation adopts a new constitution with its capital at Tahlequah. — [Indian Removal Act](../articles/native-nations/indian-removal-act.md) |
 | 1840 | The American Anti-Slavery Society splits over women's leadership and politics; the Liberty Party runs James G. Birney for president. — [Abolitionism](../articles/civil-war-and-reconstruction/abolitionism.md) |
@@ -705,17 +712,22 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1845 | Frederick Douglass publishes his Narrative. — [Abolitionism](../articles/civil-war-and-reconstruction/abolitionism.md) |
 | 1845 | Publishes Narrative of the Life of Frederick Douglass and begins a lecture tour of Britain and Ireland. — [Frederick Douglass](../articles/people-who-shaped-america/frederick-douglass.md) |
 | 1845 | The Anthony family moves to a farm near Rochester, New York, where antislavery Quakers gather on Sundays. — [Susan B. Anthony](../articles/people-who-shaped-america/susan-b-anthony.md) |
+| 1845-03-01 | President Tyler signs the joint resolution offering Texas annexation. — [Texas](../articles/states-and-territories/texas.md) |
 | 1845-06-08 | Dies at the Hermitage, his cotton plantation near Nashville. — [Andrew Jackson](../articles/presidents-and-founders/andrew-jackson.md) |
 | 1845-12 | Texas, annexed by joint resolution of Congress, enters the Union as a slave state; Mexico still claims it. — [Mexican–American War](../articles/early-republic-and-expansion/mexican-american-war.md) |
+| 1845-12-29 | **[Texas](../articles/states-and-territories/texas.md)** (State) |
+| 1845-12-29 | President Polk signs the act admitting Texas as the 28th state. — [Texas](../articles/states-and-territories/texas.md) |
 | 1846 | The Magnetic Telegraph Company opens the first commercial line, from New York to Washington. — [Electric telegraph](../articles/science-and-innovation/telegraph.md) |
 | 1846 | War between the United States and Mexico begins; in California, the Bear Flag Revolt breaks out. — [California](../articles/states-and-territories/california.md) |
 | 1846-01-13 | President James K. Polk orders General Zachary Taylor to advance from Corpus Christi to the Rio Grande, into land Mexico considered its own. — [Mexican–American War](../articles/early-republic-and-expansion/mexican-american-war.md) |
 | 1846-02 | Workers drill out a hairline crack before Washington's Birthday; a new fissure opens and the bell is silenced for good. — [Liberty Bell](../articles/symbols-and-national-identity/liberty-bell.md) |
+| 1846-02-19 | Governor J. Pinckney Henderson takes office, completing the transfer of government. — [Texas](../articles/states-and-territories/texas.md) |
 | 1846-04-06 | Dred and Harriet Scott file separate freedom suits against Irene Emerson in the St. Louis Circuit Court. — [Dred Scott v. Sandford](../articles/rights-and-law/dred-scott-v-sandford.md) |
 | 1846-04-25 – 1848-05-30 | **[Mexican–American War](../articles/early-republic-and-expansion/mexican-american-war.md)** (Conflict) |
 | 1846-04-25 | Mexican troops who crossed the Rio Grande ambush a U.S. patrol near Rancho de Carricitos, killing eleven American soldiers. — [Mexican–American War](../articles/early-republic-and-expansion/mexican-american-war.md) |
 | 1846-05-08 | Battle of Palo Alto, the first battle of the war; Taylor's army wins again at Resaca de la Palma the next day. — [Mexican–American War](../articles/early-republic-and-expansion/mexican-american-war.md) |
 | 1846-05-11 | Polk asks Congress to recognize that a state of war exists, blaming Mexico for beginning hostilities. — [Mexican–American War](../articles/early-republic-and-expansion/mexican-american-war.md) |
+| 1846-05-13 | The United States declares war on Mexico after clashes in the disputed land between the Nueces and the Rio Grande. — [Texas](../articles/states-and-territories/texas.md) |
 | 1846-05-13 | War is formally declared after the House (174 to 14) and the Senate (40 to 2) approve it. — [Mexican–American War](../articles/early-republic-and-expansion/mexican-american-war.md) |
 | 1846-07 | The U.S. Navy's Pacific squadron occupies Monterey and San Francisco in Mexican California. — [Mexican–American War](../articles/early-republic-and-expansion/mexican-american-war.md) |
 | 1846-09 | Taylor captures Monterrey in northern Mexico; Polk repudiates the armistice Taylor grants. — [Mexican–American War](../articles/early-republic-and-expansion/mexican-american-war.md) |
@@ -807,6 +819,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1859 | Commercial oil production begins near Titusville. — [Pennsylvania](../articles/states-and-territories/pennsylvania.md) |
 | 1859-02-24 | President James Buchanan vetoes the bill passed by Congress, citing cost and constitutional limits on federal power. — [Morrill Land-Grant College Act](../articles/science-and-innovation/morrill-land-grant-college-act.md) |
 | 1859-05 | Buys a house and seven acres near Auburn, New York, from Senator William H. Seward. — [Harriet Tubman](../articles/people-who-shaped-america/harriet-tubman.md) |
+| 1859-08 | Federal officials remove the Indians of the Brazos reservations, including about 1,050 Caddos, north of the Red River. — [Texas](../articles/states-and-territories/texas.md) |
 | 1860 | The South produces about two-thirds of the world's cotton, held in bondage by nearly four million enslaved people. — [Economic history of the United States](../articles/economy-and-work/economic-history-of-the-united-states.md) |
 | 1860 | The census counts 3,953,760 enslaved people, the peak and the last census to count them. — [Slavery in the United States](../articles/society-and-people/slavery-in-the-united-states.md) |
 | 1860 | The first federal census of California counts about 308,000 residents. — [California Gold Rush](../articles/early-republic-and-expansion/california-gold-rush.md) |
@@ -816,7 +829,9 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1860-12-20 | South Carolina secedes, citing northern hostility to slavery and northern laws obstructing the return of fugitives from slavery. — [Federalism](../articles/constitution-and-government/federalism.md) |
 | 1861 | Congress passes the Corwin Amendment, which would have shielded slavery in the states; it is never ratified. — [Thirteenth Amendment](../articles/civil-war-and-reconstruction/thirteenth-amendment.md) |
 | 1861 | Morrill reintroduces the bill after Southern states secede. — [Morrill Land-Grant College Act](../articles/science-and-innovation/morrill-land-grant-college-act.md) |
+| 1861-02-01 | The Secession Convention in Austin adopts the Ordinance of Secession. — [Texas](../articles/states-and-territories/texas.md) |
 | 1861-02-04 | Delegates from seven seceded states meet in Montgomery, Alabama, and choose Jefferson Davis as Confederate president. — [American Civil War](../articles/civil-war-and-reconstruction/american-civil-war.md) |
+| 1861-03-01 | The Provisional Confederate Government accepts Texas as a Confederate state. — [Texas](../articles/states-and-territories/texas.md) |
 | 1861-03-04 | Abraham Lincoln's first inaugural address argues that Court rulings bind the parties but should not irrevocably fix national policy. — [Judicial review](../articles/constitution-and-government/judicial-review.md) |
 | 1861-03-04 | Inaugurated after seven Southern states had seceded. — [Abraham Lincoln](../articles/presidents-and-founders/abraham-lincoln.md) |
 | 1861-04-12 – 1865-04-09 | **[American Civil War](../articles/civil-war-and-reconstruction/american-civil-war.md)** (Conflict) |
@@ -895,6 +910,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1865-04-14 | Lincoln is shot and dies the next morning; Andrew Johnson becomes president and begins a lenient Presidential Reconstruction. — [Reconstruction era](../articles/civil-war-and-reconstruction/reconstruction-era.md) |
 | 1865-04-14 | Shot by John Wilkes Booth at Ford's Theatre; dies the next morning. — [Abraham Lincoln](../articles/presidents-and-founders/abraham-lincoln.md) |
 | 1865-05 | President Andrew Johnson appoints Major General Oliver Otis Howard as commissioner. — [Freedmen's Bureau](../articles/civil-war-and-reconstruction/freedmens-bureau.md) |
+| 1865-06-19 | At Galveston, Maj. Gen. Gordon Granger issues General Order No. 3 announcing that the enslaved are free, the origin of Juneteenth. — [Texas](../articles/states-and-territories/texas.md) |
 | 1865-06-19 | General Order No. 3 announces freedom in Galveston, Texas, the origin of Juneteenth. — [Slavery in the United States](../articles/society-and-people/slavery-in-the-united-states.md) |
 | 1865-12 | Alabama adopts a Black Code controlling the labor and movement of freed people. — [Jim Crow laws](../articles/gilded-age-and-progressive-era/jim-crow-laws.md) |
 | 1865-12-06 | **[Thirteenth Amendment](../articles/civil-war-and-reconstruction/thirteenth-amendment.md)** (Law) |
@@ -1027,6 +1043,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1874-06-29 | The Freedman's Savings and Trust Company closes, days after Congress puts its assets under a three-member board. — [Panic of 1873](../articles/economy-and-work/panic-of-1873.md) |
 | 1874-08-10 – 1964-10-20 | **[Herbert Hoover](../articles/presidents-and-founders/herbert-hoover.md)** (Person) |
 | 1874-08-10 | Born in a two-room cottage in West Branch, Iowa, to a Quaker family. — [Herbert Hoover](../articles/presidents-and-founders/herbert-hoover.md) |
+| 1874-09 | U.S. troops attack Native camps in Palo Duro Canyon; most Comanches surrender by winter. — [Texas](../articles/states-and-territories/texas.md) |
 | 1875 | Congress passes a Civil Rights Act requiring equal treatment in public places and on juries. — [Reconstruction era](../articles/civil-war-and-reconstruction/reconstruction-era.md) |
 | 1875 | Tennessee's Chapter 130 permits discrimination in hotels, theaters, trains and streetcars. — [Jim Crow laws](../articles/gilded-age-and-progressive-era/jim-crow-laws.md) |
 | 1875 | The Page Act bars contract laborers, prostitutes and felons from China and Japan; its enforcement keeps most Chinese women out. — [Chinese Exclusion Act](../articles/gilded-age-and-progressive-era/chinese-exclusion-act.md) |
@@ -1208,6 +1225,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1901 | The Hay-Pauncefote Treaty supersedes Clayton-Bulwer, letting the United States build and run its own canal. — [Panama Canal](../articles/foreign-relations-and-military/panama-canal.md) |
 | 1901 | The ten-story Asch Building is completed at 23–29 Washington Place in Greenwich Village; the Triangle Waist Company later occupies its eighth, ninth and tenth floors. — [Triangle Shirtwaist Factory fire](../articles/economy-and-work/triangle-shirtwaist-factory-fire.md) |
 | 1901 | Theodore Roosevelt becomes president, and Progressive reform reaches the federal government. — [Progressive Era](../articles/gilded-age-and-progressive-era/progressive-era.md) |
+| 1901-01-10 | The Lucas gusher at Spindletop, near Beaumont, launches the Texas oil boom. — [Texas](../articles/states-and-territories/texas.md) |
 | 1901-03 | Congress extends the allotment law to the Five Tribes and other nations of Indian Territory. — [Dawes Act](../articles/native-nations/dawes-act.md) |
 | 1901-09-14 | Sworn in as president at 42 after the assassination of William McKinley. — [Theodore Roosevelt](../articles/presidents-and-founders/theodore-roosevelt.md) |
 | 1901-10 | Dines with Booker T. Washington at the White House, provoking a storm of criticism from white Southerners. — [Theodore Roosevelt](../articles/presidents-and-founders/theodore-roosevelt.md) |
@@ -2232,6 +2250,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 2020-04-01 | The census counts 1,455,271 residents, 7.0 percent more than in 2010. — [Hawaii](../articles/states-and-territories/hawaii.md) |
 | 2020-04-01 | The census counts 1,603,797 residents. — [Philadelphia](../articles/regions-cities-and-landmarks/philadelphia.md) |
 | 2020-04-01 | The census counts 13,002,700 residents. — [Pennsylvania](../articles/states-and-territories/pennsylvania.md) |
+| 2020-04-01 | The census counts 29,145,505 residents. — [Texas](../articles/states-and-territories/texas.md) |
 | 2020-04-01 | The census counts 331,449,281 residents, up 7.4 percent from 2010. — [United States](../articles/states-and-territories/united-states.md) |
 | 2020-04-01 | The census counts 39,538,223 residents; California remains the most populous state but loses one House seat. — [California](../articles/states-and-territories/california.md) |
 | 2020-04-01 | The census counts 576,851 residents, the fewest of any state. — [Wyoming](../articles/states-and-territories/wyoming.md) |
