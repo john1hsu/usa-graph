@@ -14967,6 +14967,214 @@
   ]
  },
  {
+  "id": "us:immigration-to-the-united-states",
+  "title": "Immigration to the United States",
+  "aliases": [
+   "U.S. immigration",
+   "American immigration history",
+   "Immigration history of the United States"
+  ],
+  "type": "Concept",
+  "domain": "society-and-people",
+  "level": "introductory",
+  "evidenceStatus": "established",
+  "file": "articles/society-and-people/immigration-to-the-united-states.md",
+  "created": "2026-11-20",
+  "summary": "The movement of people from other countries into the United States and the laws that governed who could enter and become a citizen, from the racial limits of the 1790 naturalization law through Chinese exclusion, the national-origins quotas of the 1920s and the 1965 law that abolished them, to a foreign-born population of 50.2 million in 2024.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "us:history-of-the-united-states"
+   },
+   {
+    "predicate": "skos:broader",
+    "object": "us:demographics-of-the-united-states"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:chinese-exclusion-act"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:immigration-and-nationality-act-of-1965"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:angel-island-immigration-station"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:chinese-americans"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:new-york-city"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:census-and-apportionment"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:gilded-age"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:native-americans"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:ellis-island"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:naturalization-act-of-1790"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:immigration-act-of-1924"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:immigration-and-nationality-act-of-1952"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:immigration-reform-and-control-act-of-1986"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:ellis-island-name-change-myth"
+   },
+   {
+    "predicate": "uso:affected",
+    "object": "us:chicago",
+    "source": "s12",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:affected",
+    "object": "us:new-york-city",
+    "source": "s8",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:contrastsWith",
+    "object": "us:slavery-in-the-united-states",
+    "source": "s13",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "uso:affected",
+    "object": "us:census-and-apportionment",
+    "source": "s2",
+    "confidence": "medium"
+   }
+  ],
+  "start": null,
+  "end": null,
+  "review": [
+   {
+    "question": "How did the Immigration Act of 1924 change who could come to the United States, and why did Congress choose the 1890 census as its base?",
+    "answer": "It set yearly quotas of 2 percent of each nationality counted in the 1890 census and barred immigrants from Asia. Using 1890, before most southern and eastern Europeans had arrived, favored people of British and western European descent; the State Department historians describe its basic purpose as preserving an ideal of U.S. homogeneity."
+   },
+   {
+    "question": "Why did the origins of the foreign-born population shift from Europe to Latin America and Asia after the 1960s?",
+    "answer": "The 1965 law abolished the national-origins quotas that had favored Europe and replaced them with preferences for family reunification and skills. By 1990 there were more foreign-born residents from Asia than from Europe, and Latin America had passed Europe after 1980."
+   },
+   {
+    "question": "Why is the story that Ellis Island officials changed immigrants' names unlikely to be true?",
+    "answer": "Passenger lists were written abroad by shipping-line clerks before departure, inspectors only checked arrivals against those lists, often with interpreters, and they were not allowed to change a name unless asked. Name changes were usually made later by immigrants themselves."
+   },
+   {
+    "question": "How did the 1790 naturalization law and the Chinese Exclusion Act show that early U.S. law treated immigrants differently by race?",
+    "answer": "The 1790 law allowed only a free white person to naturalize, and the 1882 act both suspended Chinese laborers' entry and barred courts from admitting Chinese immigrants to citizenship, the first federal law to keep out an ethnic working group."
+   }
+  ],
+  "timeline": [
+   {
+    "date": "1790-03-26",
+    "event": "The first federal naturalization law limits citizenship by naturalization to free white persons with two years' residence."
+   },
+   {
+    "date": "1850",
+    "event": "The census asks birthplace for the first time and counts 2.2 million foreign-born residents, 9.7 percent of the population."
+   },
+   {
+    "date": "1882-05-06",
+    "event": "President Chester A. Arthur signs the Chinese Exclusion Act, suspending the entry of Chinese laborers for ten years."
+   },
+   {
+    "date": "1890",
+    "event": "The foreign-born share of the population peaks at 14.8 percent."
+   },
+   {
+    "date": "1892",
+    "event": "The federal immigration station on Ellis Island in New York Harbor opens; Annie Moore of Ireland is the first immigrant processed."
+   },
+   {
+    "date": "1907",
+    "event": "Ellis Island examines about 1.2 million arrivals, its peak year."
+   },
+   {
+    "date": "1924",
+    "event": "The Immigration Act of 1924 sets national-origins quotas based on the 1890 census and bars immigration from Asia."
+   },
+   {
+    "date": "1943",
+    "event": "Congress repeals the Chinese exclusion laws, leaving a quota of 105 Chinese immigrants a year."
+   },
+   {
+    "date": "1952",
+    "event": "Congress overrides President Truman's veto of the Immigration and Nationality Act, which keeps national-origins quotas but opens small quotas to Asian nations."
+   },
+   {
+    "date": "1954-11-12",
+    "event": "The last detainees leave Ellis Island and the station closes."
+   },
+   {
+    "date": "1965-10-03",
+    "event": "President Lyndon B. Johnson signs a law at the Statue of Liberty that abolishes the national-origins quotas."
+   },
+   {
+    "date": "1970",
+    "event": "The foreign-born share reaches a record low of 4.7 percent."
+   },
+   {
+    "date": "1986",
+    "event": "The Immigration Reform and Control Act gives legal status to roughly 2.7 million people."
+   },
+   {
+    "date": "1990",
+    "event": "The Immigration Act of 1990 raises visa numbers, creates a diversity visa category and creates temporary protected status."
+   },
+   {
+    "date": "2024",
+    "event": "The foreign-born population reaches a record 50.2 million, 14.8 percent of all U.S. residents."
+   }
+  ],
+  "misconception": {
+   "myth": "Officials at Ellis Island changed or shortened immigrants' surnames as they arrived.",
+   "fact": "Ellis Island inspectors did not write down names; they checked arrivals against passenger lists drawn up overseas by shipping lines, and they were barred from changing a name unless the immigrant asked or the record was shown to be wrong. Most changes were made later by immigrants themselves, often within a few years of arrival or at naturalization.",
+   "why": "Families without records filled the gap with their own stories, and \"Ellis Island\" became shorthand for the whole hard process of adjusting to American life, when teachers, employers and clerks often wrote names down for newcomers."
+  },
+  "source_urls": [
+   "https://www.census.gov/library/stories/2026/07/foreign-born-population-250-year-history.html",
+   "https://www.census.gov/library/working-papers/2006/demo/POP-twps0081.html",
+   "https://docsteach.org/documents/document/naturalization-act-of-1790",
+   "https://www.archives.gov/milestone-documents/chinese-exclusion-act",
+   "https://history.state.gov/milestones/1921-1936/immigration-act",
+   "https://prologue.blogs.archives.gov/2015/09/17/fifty-year-later-a-brief-history-of-the-immigration-act-of-1965",
+   "https://www.pewresearch.org/race-and-ethnicity/2015/09/28/chapter-1-the-nations-immigration-laws-1920-to-today/markdown",
+   "https://www.nps.gov/elis/learn/historyculture",
+   "https://www.nps.gov/elis/learn/historyculture/ellis-island-chronology.htm",
+   "https://uscis.gov/history-and-genealogy/genealogy/genealogy-notebook/immigrant-name-changes",
+   "https://www.smithsonianmag.com/smithsonian-institution/ask-smithsonian-did-ellis-island-officials-really-change-names-immigrants-180961544/",
+   "https://www.americanyawp.com/text/18-industrial-america/",
+   "https://www.loc.gov/classroom-materials/immigration/"
+  ]
+ },
+ {
   "id": "us:indian-removal-act",
   "title": "Indian Removal Act",
   "aliases": [

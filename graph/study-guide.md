@@ -2429,6 +2429,23 @@ Every review question (with its answer) and every myth-versus-fact in the graph,
 - **Q:** How did the preference system decide who could immigrate after 1965?
   **A:** Most visas went to relatives of citizens and permanent residents, a smaller share to professionals and workers in short supply, and a few to refugees, while immediate relatives of citizens entered outside the numerical limits; no preference could be based on race, sex, nationality or place of birth.
 
+### [Immigration to the United States](../articles/society-and-people/immigration-to-the-united-states.md) — Concept
+
+| Myth | Fact |
+|---|---|
+| Officials at Ellis Island changed or shortened immigrants' surnames as they arrived. | Ellis Island inspectors did not write down names; they checked arrivals against passenger lists drawn up overseas by shipping lines, and they were barred from changing a name unless the immigrant asked or the record was shown to be wrong. Most changes were made later by immigrants themselves, often within a few years of arrival or at naturalization. |
+
+**Why it matters:** Families without records filled the gap with their own stories, and "Ellis Island" became shorthand for the whole hard process of adjusting to American life, when teachers, employers and clerks often wrote names down for newcomers.
+
+- **Q:** How did the Immigration Act of 1924 change who could come to the United States, and why did Congress choose the 1890 census as its base?
+  **A:** It set yearly quotas of 2 percent of each nationality counted in the 1890 census and barred immigrants from Asia. Using 1890, before most southern and eastern Europeans had arrived, favored people of British and western European descent; the State Department historians describe its basic purpose as preserving an ideal of U.S. homogeneity.
+- **Q:** Why did the origins of the foreign-born population shift from Europe to Latin America and Asia after the 1960s?
+  **A:** The 1965 law abolished the national-origins quotas that had favored Europe and replaced them with preferences for family reunification and skills. By 1990 there were more foreign-born residents from Asia than from Europe, and Latin America had passed Europe after 1980.
+- **Q:** Why is the story that Ellis Island officials changed immigrants' names unlikely to be true?
+  **A:** Passenger lists were written abroad by shipping-line clerks before departure, inspectors only checked arrivals against those lists, often with interpreters, and they were not allowed to change a name unless asked. Name changes were usually made later by immigrants themselves.
+- **Q:** How did the 1790 naturalization law and the Chinese Exclusion Act show that early U.S. law treated immigrants differently by race?
+  **A:** The 1790 law allowed only a free white person to naturalize, and the 1882 act both suspended Chinese laborers' entry and barred courts from admitting Chinese immigrants to citizenship, the first federal law to keep out an ethnic working group.
+
 ### [Okies](../articles/society-and-people/okies.md) — Community
 
 | Myth | Fact |

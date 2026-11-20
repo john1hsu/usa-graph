@@ -378,6 +378,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1790-02-02 | The Court first convenes in the Exchange Building in New York City, a day late because some justices could not arrive in time. — [Supreme Court of the United States](../articles/constitution-and-government/supreme-court-of-the-united-states.md) |
 | 1790-02-03 | Benjamin Franklin, as president of the Pennsylvania Abolition Society, signs an antislavery petition to the First Congress, which tables it. — [Abolitionism](../articles/civil-war-and-reconstruction/abolitionism.md) |
 | 1790-02-03 | Signs the society's petition asking the First Congress to act against slavery. — [Benjamin Franklin](../articles/presidents-and-founders/benjamin-franklin.md) |
+| 1790-03-26 | The first federal naturalization law limits citizenship by naturalization to free white persons with two years' residence. — [Immigration to the United States](../articles/society-and-people/immigration-to-the-united-states.md) |
 | 1790-04-17 | Dies in Philadelphia, no longer owning any enslaved people. — [Benjamin Franklin](../articles/presidents-and-founders/benjamin-franklin.md) |
 | 1790-05-29 | Rhode Island becomes the thirteenth and last original state to ratify. — [United States Constitution](../articles/constitution-and-government/united-states-constitution.md) |
 | 1790-05-29 | Rhode Island ratifies the Constitution, joining the Union and raising the number of states needed to approve amendments. — [Bill of Rights](../articles/rights-and-law/bill-of-rights.md) |
@@ -770,6 +771,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1850 | The Fugitive Slave Act penalizes Northerners who aid freedom seekers. — [Abolitionism](../articles/civil-war-and-reconstruction/abolitionism.md) |
 | 1850 | The Narrative of Sojourner Truth, dictated to Olive Gilbert, is published. — [Sojourner Truth](../articles/people-who-shaped-america/sojourner-truth.md) |
 | 1850 | The United States and Britain sign the Clayton-Bulwer Treaty to limit rivalry over a proposed isthmian canal. — [Panama Canal](../articles/foreign-relations-and-military/panama-canal.md) |
+| 1850 | The census asks birthplace for the first time and counts 2.2 million foreign-born residents, 9.7 percent of the population. — [Immigration to the United States](../articles/society-and-people/immigration-to-the-united-states.md) |
 | 1850 | The legislature imposes a $20-a-month license fee on foreign miners, aimed chiefly at Latin American miners; it is repealed the next year. — [California Gold Rush](../articles/early-republic-and-expansion/california-gold-rush.md) |
 | 1850 | The legislature passes the Act for the Government and Protection of Indians, allowing Native people to be held as indentured servants. — [California](../articles/states-and-territories/california.md) |
 | 1850-01-12 | A St. Louis jury finds the Scotts free. — [Dred Scott v. Sandford](../articles/rights-and-law/dred-scott-v-sandford.md) |
@@ -1095,6 +1097,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1882-05-06 – 1943 | **[Chinese Exclusion Act](../articles/gilded-age-and-progressive-era/chinese-exclusion-act.md)** (Law) |
 | 1882-05-06 | Arthur approves a revised act suspending Chinese labor immigration for ten years and barring Chinese naturalization. — [Chinese Exclusion Act](../articles/gilded-age-and-progressive-era/chinese-exclusion-act.md) |
 | 1882-05-06 | President Chester A. Arthur signs the Chinese Exclusion Act, barring Chinese laborers for ten years. — [Gilded Age](../articles/gilded-age-and-progressive-era/gilded-age.md) |
+| 1882-05-06 | President Chester A. Arthur signs the Chinese Exclusion Act, suspending the entry of Chinese laborers for ten years. — [Immigration to the United States](../articles/society-and-people/immigration-to-the-united-states.md) |
 | 1882-09-05 | New York's Central Labor Union holds the first Labor Day parade. — [Labor movement](../articles/economy-and-work/labor-movement.md) |
 | 1883 | Buffalo Bill Cody's Wild West show begins touring, spreading a romantic image of the West. — [The West](../articles/regions-cities-and-landmarks/the-west.md) |
 | 1883 | Congress passes the Pendleton Civil Service Act, two years after President James Garfield's assassination. — [Gilded Age](../articles/gilded-age-and-progressive-era/gilded-age.md) |
@@ -1144,6 +1147,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1890 | Louisiana's legislature passes the Separate Car Act (Act No. 111), requiring separate railroad cars for Black and white passengers. — [Plessy v. Ferguson](../articles/gilded-age-and-progressive-era/plessy-v-ferguson.md) |
 | 1890 | New York State takes the Onondaga Nation's wampum belts. — [Haudenosaunee](../articles/native-nations/haudenosaunee.md) |
 | 1890 | The census counts 1,099,850 residents, making Chicago the second-largest U.S. city. — [Chicago](../articles/regions-cities-and-landmarks/chicago.md) |
+| 1890 | The foreign-born share of the population peaks at 14.8 percent. — [Immigration to the United States](../articles/society-and-people/immigration-to-the-united-states.md) |
 | 1890 | The rival associations merge as the National American Woman Suffrage Association; Wyoming enters the Union with women's suffrage. — [Women's suffrage movement](../articles/gilded-age-and-progressive-era/womens-suffrage-movement.md) |
 | 1890 | The rival suffrage associations merge as the National American Woman Suffrage Association. — [Susan B. Anthony](../articles/people-who-shaped-america/susan-b-anthony.md) |
 | 1890-07-10 | **[Wyoming](../articles/states-and-territories/wyoming.md)** (State) |
@@ -1157,6 +1161,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1892 | The Geary Act extends exclusion for ten more years and requires Chinese residents to carry certificates of residence. — [Chinese Exclusion Act](../articles/gilded-age-and-progressive-era/chinese-exclusion-act.md) |
 | 1892 | The Homestead Strike ends in defeat for the steelworkers' union. — [Pennsylvania](../articles/states-and-territories/pennsylvania.md) |
 | 1892 | The Homestead strike is broken at Carnegie's Pennsylvania steel works; the People's Party adopts its Omaha Platform; Ida B. Wells publishes Southern Horrors. — [Gilded Age](../articles/gilded-age-and-progressive-era/gilded-age.md) |
+| 1892 | The federal immigration station on Ellis Island in New York Harbor opens; Annie Moore of Ireland is the first immigrant processed. — [Immigration to the United States](../articles/society-and-people/immigration-to-the-united-states.md) |
 | 1892-01-01 | Ellis Island opens as the nation's main federal immigration station. — [New York City](../articles/regions-cities-and-landmarks/new-york-city.md) |
 | 1892-02-24 | Daniel Desdunes boards a whites-only car on an interstate train in a first test case. — [Plessy v. Ferguson](../articles/gilded-age-and-progressive-era/plessy-v-ferguson.md) |
 | 1892-05-25 | In Abbott v. Hicks the Louisiana Supreme Court rules that the act does not apply to interstate passengers. — [Plessy v. Ferguson](../articles/gilded-age-and-progressive-era/plessy-v-ferguson.md) |
@@ -1292,6 +1297,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1906-06-27 | The House follows the Senate in choosing a lock canal over a sea-level design. — [Panama Canal](../articles/foreign-relations-and-military/panama-canal.md) |
 | 1906-06-30 | Roosevelt signs the Food and Drugs Act; the Meat Inspection Act also becomes law that year after The Jungle. — [Muckrakers](../articles/gilded-age-and-progressive-era/muckrakers.md) |
 | 1906-08-13 | A shooting in Brownsville, Texas, is blamed on Black soldiers of the 25th Infantry; Roosevelt later discharges 167 of them without honor or trial. — [Theodore Roosevelt](../articles/presidents-and-founders/theodore-roosevelt.md) |
+| 1907 | Ellis Island examines about 1.2 million arrivals, its peak year. — [Immigration to the United States](../articles/society-and-people/immigration-to-the-united-states.md) |
 | 1907 | Pianist and composer Jelly Roll Morton begins touring outside New Orleans. — [Jazz](../articles/culture-and-arts/jazz.md) |
 | 1907-02-08 | The United States and the Dominican Republic sign a convention at Santo Domingo making the receivership formal. — [Roosevelt Corollary](../articles/foreign-relations-and-military/roosevelt-corollary.md) |
 | 1907-02-25 | The U.S. Senate advises ratification of the Dominican convention. — [Roosevelt Corollary](../articles/foreign-relations-and-military/roosevelt-corollary.md) |
@@ -1447,6 +1453,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1923 | Bessie Smith makes her first recordings, beginning a 14-year recording career of more than 150 songs. — [Blues](../articles/culture-and-arts/blues.md) |
 | 1923 | In Adkins v. Children's Hospital the Supreme Court voids the District of Columbia law; sixteen states then have minimum wage laws for women. — [Minimum wage](../articles/economy-and-work/minimum-wage.md) |
 | 1924 | Ma Rainey records "See See Rider Blues" with Louis Armstrong and Fletcher Henderson. — [Blues](../articles/culture-and-arts/blues.md) |
+| 1924 | The Immigration Act of 1924 sets national-origins quotas based on the 1890 census and bars immigration from Asia. — [Immigration to the United States](../articles/society-and-people/immigration-to-the-united-states.md) |
 | 1924 | The Immigration Act of 1924 sets national-origins quotas that favor northern and western Europe and bar Asian immigrants. — [Immigration and Nationality Act of 1965](../articles/society-and-people/immigration-and-nationality-act-of-1965.md) |
 | 1924 | The conference adds 'of America'. — [Pledge of Allegiance](../articles/symbols-and-national-identity/pledge-of-allegiance.md) |
 | 1924-06-02 | The Indian Citizenship Act makes Native Americans born in the United States citizens; about 40 percent had not been citizens before. — [Native Americans](../articles/native-nations/native-americans.md) |
@@ -1673,6 +1680,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1942-08-12 | The first Japanese Americans arrive at the Heart Mountain incarceration camp between Cody and Powell. — [Wyoming](../articles/states-and-territories/wyoming.md) |
 | 1942-11 | American combat troops land in French Morocco, opening the campaign in North Africa. — [World War II and the United States](../articles/depression-and-world-war/world-war-ii-and-the-united-states.md) |
 | 1942-11 | Congress lowers the minimum draft age to 18; Representative Jennings Randolph of West Virginia proposes a constitutional amendment to lower the voting age. — [Twenty-sixth Amendment](../articles/democracy-and-elections/twenty-sixth-amendment.md) |
+| 1943 | Congress repeals the Chinese exclusion laws, leaving a quota of 105 Chinese immigrants a year. — [Immigration to the United States](../articles/society-and-people/immigration-to-the-united-states.md) |
 | 1943 | During World War II Congress repeals the exclusion laws, sets a Chinese quota of about 105 a year and opens naturalization. — [Chinese Exclusion Act](../articles/gilded-age-and-progressive-era/chinese-exclusion-act.md) |
 | 1943 | Georgia becomes the first state to lower its voting age to 18. — [Twenty-sixth Amendment](../articles/democracy-and-elections/twenty-sixth-amendment.md) |
 | 1943 | In West Virginia State Board of Education v. Barnette the Supreme Court rules that public schools cannot compel the flag salute and pledge. — [National symbols of the United States](../articles/symbols-and-national-identity/national-symbols-of-the-united-states.md) |
@@ -1766,6 +1774,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1951-02-27 | The Twenty-second Amendment is ratified, limiting presidents to two elected terms. — [Presidency of the United States](../articles/constitution-and-government/presidency-of-the-united-states.md) |
 | 1951-04-23 | Students led by 16-year-old Barbara Rose Johns walk out of the overcrowded Robert Russa Moton High School in Farmville, Virginia. — [Brown v. Board of Education](../articles/cold-war-and-civil-rights/brown-v-board-of-education.md) |
 | 1951-05-23 | NAACP lawyers file Davis v. County School Board of Prince Edward County, later joined to Brown. — [Brown v. Board of Education](../articles/cold-war-and-civil-rights/brown-v-board-of-education.md) |
+| 1952 | Congress overrides President Truman's veto of the Immigration and Nationality Act, which keeps national-origins quotas but opens small quotas to Asian nations. — [Immigration to the United States](../articles/society-and-people/immigration-to-the-united-states.md) |
 | 1952 | Greece and Turkey join the alliance. — [North Atlantic Treaty Organization](../articles/foreign-relations-and-military/nato.md) |
 | 1952 | The Immigration and Nationality Act keeps the quotas, ends outright Asian exclusion but assigns Asian quotas by race; Congress passes it over President Truman's veto. — [Immigration and Nationality Act of 1965](../articles/society-and-people/immigration-and-nationality-act-of-1965.md) |
 | 1952 | The Penn School graduates its last class. — [Gullah Geechee](../articles/society-and-people/gullah-geechee.md) |
@@ -1799,6 +1808,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1954-06-09 | Army counsel Joseph Welch rebukes McCarthy on live television after McCarthy attacks a young lawyer on Welch's staff. — [McCarthyism](../articles/cold-war-and-civil-rights/mccarthyism.md) |
 | 1954-06-14 | President Eisenhower signs the act adding 'under God' after 'one Nation'. — [Pledge of Allegiance](../articles/symbols-and-national-identity/pledge-of-allegiance.md) |
 | 1954-08 | The Communist Control Act effectively criminalizes membership in the Communist Party. — [McCarthyism](../articles/cold-war-and-civil-rights/mccarthyism.md) |
+| 1954-11-12 | The last detainees leave Ellis Island and the station closes. — [Immigration to the United States](../articles/society-and-people/immigration-to-the-united-states.md) |
 | 1954-11-23 | The Dow finally regains its 1929 high. — [Stock market crash of 1929](../articles/economy-and-work/stock-market-crash-of-1929.md) |
 | 1954-12-02 | The Senate votes 67 to 22 to censure McCarthy. — [McCarthyism](../articles/cold-war-and-civil-rights/mccarthyism.md) |
 | 1955 | Kentucky lowers its voting age to 18 by referendum. — [Twenty-sixth Amendment](../articles/democracy-and-elections/twenty-sixth-amendment.md) |
@@ -1936,6 +1946,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1965-09-22 | The Senate passes the bill, 76 to 18. — [Immigration and Nationality Act of 1965](../articles/society-and-people/immigration-and-nationality-act-of-1965.md) |
 | 1965-10-03 | **[Immigration and Nationality Act of 1965](../articles/society-and-people/immigration-and-nationality-act-of-1965.md)** (Law) |
 | 1965-10-03 | President Johnson signs the bill at the foot of the Statue of Liberty and announces an orderly entry for Cuban refugees. — [Immigration and Nationality Act of 1965](../articles/society-and-people/immigration-and-nationality-act-of-1965.md) |
+| 1965-10-03 | President Lyndon B. Johnson signs a law at the Statue of Liberty that abolishes the national-origins quotas. — [Immigration to the United States](../articles/society-and-people/immigration-to-the-united-states.md) |
 | 1966 | César Chávez and Dolores Huerta found the United Farm Workers to organize mostly Mexican American farmworkers. — [California](../articles/states-and-territories/california.md) |
 | 1966 | Harper v. Virginia State Board of Elections holds Virginia's poll tax unconstitutional. — [Jim Crow laws](../articles/gilded-age-and-progressive-era/jim-crow-laws.md) |
 | 1966 | In South Carolina v. Katzenbach the Supreme Court upholds the Act's constitutionality. — [Voting Rights Act of 1965](../articles/democracy-and-elections/voting-rights-act-of-1965.md) |
@@ -1986,6 +1997,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1970 | State park ranger Alexander Weiss finds Chinese poems carved into the detention barracks walls, which were slated for demolition. — [Angel Island Immigration Station](../articles/society-and-people/angel-island-immigration-station.md) |
 | 1970 | The Nixon administration repudiates termination and turns federal policy toward tribal self-determination. — [Tribal sovereignty](../articles/native-nations/tribal-sovereignty.md) |
 | 1970 | The Soviet Luna 17 mission lands the Lunokhod 1 rover carrying a reflector array. — [Lunar Laser Ranging Experiment](../articles/science-and-innovation/lunar-laser-ranging-experiment.md) |
+| 1970 | The foreign-born share reaches a record low of 4.7 percent. — [Immigration to the United States](../articles/society-and-people/immigration-to-the-united-states.md) |
 | 1970-05 | State park ranger Alexander Weiss finds hundreds of poems in the barracks, then slated for demolition. — [Chinese detention-barracks poetry](../articles/culture-and-arts/chinese-detention-barracks-poetry.md) |
 | 1970-06-22 | President Richard Nixon signs Voting Rights Act amendments that lower the voting age to 18 in all elections, while doubting Congress's power to do so by statute. — [Twenty-sixth Amendment](../articles/democracy-and-elections/twenty-sixth-amendment.md) |
 | 1970-07-08 | President Richard Nixon asks Congress to repudiate termination and adopt a policy of self-determination. — [Native Americans](../articles/native-nations/native-americans.md) |
@@ -2058,6 +2070,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1985-10 | Ronald Reagan and Mikhail Gorbachev hold their first summit, in Geneva. — [Cold War](../articles/cold-war-and-civil-rights/cold-war.md) |
 | 1986 | Run-DMC's Raising Hell becomes the first hip hop album certified platinum. — [Hip hop](../articles/culture-and-arts/hip-hop.md) |
 | 1986 | The Bureau of Engraving and Printing makes the master die from which current dies are produced. — [Great Seal of the United States](../articles/symbols-and-national-identity/great-seal-of-the-united-states.md) |
+| 1986 | The Immigration Reform and Control Act gives legal status to roughly 2.7 million people. — [Immigration to the United States](../articles/society-and-people/immigration-to-the-united-states.md) |
 | 1986 | The last remaining homestead entries are eliminated. — [The West](../articles/regions-cities-and-landmarks/the-west.md) |
 | 1986-10-07 | Congress designates the rose as the national floral emblem. — [National symbols of the United States](../articles/symbols-and-national-identity/national-symbols-of-the-united-states.md) |
 | 1987 | California v. Cabazon Band of Mission Indians holds that state regulation of on-reservation bingo would infringe tribal government. — [Tribal sovereignty](../articles/native-nations/tribal-sovereignty.md) |
@@ -2072,6 +2085,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1989-06-21 | In Texas v. Johnson the Supreme Court holds that burning a flag in political protest is protected expression. — [National symbols of the United States](../articles/symbols-and-national-identity/national-symbols-of-the-united-states.md) |
 | 1989-11 | The Berlin Wall falls, and Communist rule collapses across Eastern Europe. — [Cold War](../articles/cold-war-and-civil-rights/cold-war.md) |
 | 1990 | Huffman Prairie Flying Field is designated a National Historic Landmark. — [Huffman Prairie Flying Field](../articles/science-and-innovation/huffman-prairie.md) |
+| 1990 | The Immigration Act of 1990 raises visa numbers, creates a diversity visa category and creates temporary protected status. — [Immigration to the United States](../articles/society-and-people/immigration-to-the-united-states.md) |
 | 1991 | Excavation for a federal office building uncovers the African Burial Ground in Lower Manhattan. — [New York City](../articles/regions-cities-and-landmarks/new-york-city.md) |
 | 1991-07-17 | The building, renamed the Brown Building, is designated a National Historic Landmark. — [Triangle Shirtwaist Factory fire](../articles/economy-and-work/triangle-shirtwaist-factory-fire.md) |
 | 1991-08 | Hard-line Communists stage a failed coup against Gorbachev. — [Cold War](../articles/cold-war-and-civil-rights/cold-war.md) |
@@ -2302,6 +2316,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 2023-05-11 | The federal COVID-19 public health emergency expires at the end of the day. — [COVID-19 pandemic in the United States](../articles/contemporary-america/covid-19-pandemic-in-the-united-states.md) |
 | 2023-07 | Preservationists launch a Save the Star Map campaign after the terrazzo work stalls. — [Winged Figures of the Republic](../articles/culture-and-arts/winged-figures-of-the-republic.md) |
 | 2023-07-20 | The U.S. Senate agrees to S.Res. 305, designating August 11, 2023, as Hip Hop Celebration Day for the culture's 50th anniversary. — [Hip hop](../articles/culture-and-arts/hip-hop.md) |
+| 2024 | The foreign-born population reaches a record 50.2 million, 14.8 percent of all U.S. residents. — [Immigration to the United States](../articles/society-and-people/immigration-to-the-united-states.md) |
 | 2024-03-07 | Sweden becomes the 32nd member. — [North Atlantic Treaty Organization](../articles/foreign-relations-and-military/nato.md) |
 | 2024-04-13 | The Cherokee Nation includes chunkey in a Traditional Native Games competition at One Fire Field in Tahlequah, Oklahoma. — [Chunkey](../articles/native-nations/chunkey.md) |
 | 2024-07-30 | The Interior Department's boarding school report identifies 417 federal Indian boarding schools and at least 973 children who died while attending them. — [Native Americans](../articles/native-nations/native-americans.md) |

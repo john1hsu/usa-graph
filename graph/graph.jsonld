@@ -12026,6 +12026,184 @@
    }
   },
   {
+   "@id": "https://github.com/john1hsu/usa-graph/id/immigration-to-the-united-states/misconception",
+   "@type": "uso:Misconception",
+   "uso:fact": "Ellis Island inspectors did not write down names; they checked arrivals against passenger lists drawn up overseas by shipping lines, and they were barred from changing a name unless the immigrant asked or the record was shown to be wrong. Most changes were made later by immigrants themselves, often within a few years of arrival or at naturalization.",
+   "uso:myth": "Officials at Ellis Island changed or shortened immigrants' surnames as they arrived.",
+   "uso:why": "Families without records filled the gap with their own stories, and \"Ellis Island\" became shorthand for the whole hard process of adjusting to American life, when teachers, employers and clerks often wrote names down for newcomers."
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/immigration-to-the-united-states/review/1",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "How did the Immigration Act of 1924 change who could come to the United States, and why did Congress choose the 1890 census as its base?",
+   "uso:answer": "It set yearly quotas of 2 percent of each nationality counted in the 1890 census and barred immigrants from Asia. Using 1890, before most southern and eastern Europeans had arrived, favored people of British and western European descent; the State Department historians describe its basic purpose as preserving an ideal of U.S. homogeneity.",
+   "uso:questionFor": {
+    "@id": "us:immigration-to-the-united-states"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/immigration-to-the-united-states/review/2",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "Why did the origins of the foreign-born population shift from Europe to Latin America and Asia after the 1960s?",
+   "uso:answer": "The 1965 law abolished the national-origins quotas that had favored Europe and replaced them with preferences for family reunification and skills. By 1990 there were more foreign-born residents from Asia than from Europe, and Latin America had passed Europe after 1980.",
+   "uso:questionFor": {
+    "@id": "us:immigration-to-the-united-states"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/immigration-to-the-united-states/review/3",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "Why is the story that Ellis Island officials changed immigrants' names unlikely to be true?",
+   "uso:answer": "Passenger lists were written abroad by shipping-line clerks before departure, inspectors only checked arrivals against those lists, often with interpreters, and they were not allowed to change a name unless asked. Name changes were usually made later by immigrants themselves.",
+   "uso:questionFor": {
+    "@id": "us:immigration-to-the-united-states"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/immigration-to-the-united-states/review/4",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "How did the 1790 naturalization law and the Chinese Exclusion Act show that early U.S. law treated immigrants differently by race?",
+   "uso:answer": "The 1790 law allowed only a free white person to naturalize, and the 1882 act both suspended Chinese laborers' entry and barred courts from admitting Chinese immigrants to citizenship, the first federal law to keep out an ethnic working group.",
+   "uso:questionFor": {
+    "@id": "us:immigration-to-the-united-states"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/immigration-to-the-united-states/timeline/1",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The first federal naturalization law limits citizenship by naturalization to free white persons with two years' residence.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1790-03-26"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/immigration-to-the-united-states/timeline/10",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The last detainees leave Ellis Island and the station closes.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1954-11-12"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/immigration-to-the-united-states/timeline/11",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "President Lyndon B. Johnson signs a law at the Statue of Liberty that abolishes the national-origins quotas.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1965-10-03"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/immigration-to-the-united-states/timeline/12",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The foreign-born share reaches a record low of 4.7 percent.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1970"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/immigration-to-the-united-states/timeline/13",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The Immigration Reform and Control Act gives legal status to roughly 2.7 million people.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1986"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/immigration-to-the-united-states/timeline/14",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The Immigration Act of 1990 raises visa numbers, creates a diversity visa category and creates temporary protected status.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1990"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/immigration-to-the-united-states/timeline/15",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The foreign-born population reaches a record 50.2 million, 14.8 percent of all U.S. residents.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "2024"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/immigration-to-the-united-states/timeline/2",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The census asks birthplace for the first time and counts 2.2 million foreign-born residents, 9.7 percent of the population.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1850"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/immigration-to-the-united-states/timeline/3",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "President Chester A. Arthur signs the Chinese Exclusion Act, suspending the entry of Chinese laborers for ten years.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1882-05-06"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/immigration-to-the-united-states/timeline/4",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The foreign-born share of the population peaks at 14.8 percent.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1890"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/immigration-to-the-united-states/timeline/5",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The federal immigration station on Ellis Island in New York Harbor opens; Annie Moore of Ireland is the first immigrant processed.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1892"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/immigration-to-the-united-states/timeline/6",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Ellis Island examines about 1.2 million arrivals, its peak year.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1907"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/immigration-to-the-united-states/timeline/7",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The Immigration Act of 1924 sets national-origins quotas based on the 1890 census and bars immigration from Asia.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1924"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/immigration-to-the-united-states/timeline/8",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Congress repeals the Chinese exclusion laws, leaving a quota of 105 Chinese immigrants a year.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1943"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/immigration-to-the-united-states/timeline/9",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Congress overrides President Truman's veto of the Immigration and Nationality Act, which keeps national-origins quotas but opens small quotas to Asian nations.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1952"
+   }
+  },
+  {
    "@id": "https://github.com/john1hsu/usa-graph/id/indian-removal-act/misconception",
    "@type": "uso:Misconception",
    "uso:fact": "The act authorized the president to offer western lands in exchange for eastern homelands to nations that chose to make the exchange, and appropriated $500,000; the force came afterwards, through treaties obtained under heavy pressure — the Cherokee treaty was signed by a faction without the authority of the nation's government — and through troops sent to enforce them.",
@@ -31488,6 +31666,188 @@
    "dcterms:title": "The Immigration and Nationality Act of 1952 (The McCarran-Walter Act)",
    "schema:url": {
     "@id": "https://history.state.gov/milestones/1945-1952/immigration-act"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/immigration-to-the-united-states/s1",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-20"
+   },
+   "dcterms:publisher": "Thomas Gryn and Amy Smith, U.S. Census Bureau (July 21, 2026)",
+   "dcterms:title": "Foreign-Born Population in the United States Changed Significantly in Both Numbers and Countries of Origin",
+   "schema:url": {
+    "@id": "https://www.census.gov/library/stories/2026/07/foreign-born-population-250-year-history.html"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/immigration-to-the-united-states/s10",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-20"
+   },
+   "dcterms:publisher": "U.S. Citizenship and Immigration Services, History and Genealogy",
+   "dcterms:title": "Immigrant Name Changes",
+   "schema:url": {
+    "@id": "https://uscis.gov/history-and-genealogy/genealogy/genealogy-notebook/immigrant-name-changes"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/immigration-to-the-united-states/s11",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-20"
+   },
+   "dcterms:publisher": "Smithsonian Magazine, Ask Smithsonian",
+   "dcterms:title": "Did Ellis Island Officials Really Change the Names of Immigrants?",
+   "schema:url": {
+    "@id": "https://www.smithsonianmag.com/smithsonian-institution/ask-smithsonian-did-ellis-island-officials-really-change-names-immigrants-180961544/"
+   },
+   "uso:sourceType": "magazine"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/immigration-to-the-united-states/s12",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-20"
+   },
+   "dcterms:publisher": "Jacob Betz et al., The American Yawp, eds. Joseph Locke and Ben Wright (Stanford University Press)",
+   "dcterms:title": "18. Life in Industrial America",
+   "schema:url": {
+    "@id": "https://www.americanyawp.com/text/18-industrial-america/"
+   },
+   "uso:sourceType": "textbook"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/immigration-to-the-united-states/s13",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-20"
+   },
+   "dcterms:publisher": "Library of Congress, Classroom Materials",
+   "dcterms:title": "Immigration and Relocation in U.S. History",
+   "schema:url": {
+    "@id": "https://www.loc.gov/classroom-materials/immigration/"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/immigration-to-the-united-states/s2",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-20"
+   },
+   "dcterms:publisher": "Campbell Gibson and Kay Jung, U.S. Census Bureau (2006)",
+   "dcterms:title": "Historical Census Statistics on the Foreign-Born Population of the United States: 1850 to 2000 (Working Paper No. 81)",
+   "schema:url": {
+    "@id": "https://www.census.gov/library/working-papers/2006/demo/POP-twps0081.html"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/immigration-to-the-united-states/s3",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-20"
+   },
+   "dcterms:publisher": "Records of the U.S. Senate, National Archives (DocsTeach)",
+   "dcterms:title": "Naturalization Act of 1790 (A Bill to Establish an Uniform Rule of Naturalization)",
+   "schema:url": {
+    "@id": "https://docsteach.org/documents/document/naturalization-act-of-1790"
+   },
+   "uso:sourceType": "primary"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/immigration-to-the-united-states/s4",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-20"
+   },
+   "dcterms:publisher": "National Archives, Milestone Documents",
+   "dcterms:title": "Chinese Exclusion Act (1882)",
+   "schema:url": {
+    "@id": "https://www.archives.gov/milestone-documents/chinese-exclusion-act"
+   },
+   "uso:sourceType": "primary"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/immigration-to-the-united-states/s5",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-20"
+   },
+   "dcterms:publisher": "Office of the Historian, U.S. Department of State",
+   "dcterms:title": "The Immigration Act of 1924 (The Johnson-Reed Act)",
+   "schema:url": {
+    "@id": "https://history.state.gov/milestones/1921-1936/immigration-act"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/immigration-to-the-united-states/s6",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-20"
+   },
+   "dcterms:publisher": "Rebecca Brenner, Pieces of History, U.S. National Archives (2015)",
+   "dcterms:title": "Fifty Year Later: A Brief History of the Immigration Act of 1965",
+   "schema:url": {
+    "@id": "https://prologue.blogs.archives.gov/2015/09/17/fifty-year-later-a-brief-history-of-the-immigration-act-of-1965"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/immigration-to-the-united-states/s7",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-20"
+   },
+   "dcterms:publisher": "Pew Research Center (2015)",
+   "dcterms:title": "Chapter 1: The Nation's Immigration Laws, 1920 to Today",
+   "schema:url": {
+    "@id": "https://www.pewresearch.org/race-and-ethnicity/2015/09/28/chapter-1-the-nations-immigration-laws-1920-to-today/markdown"
+   },
+   "uso:sourceType": "institutional"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/immigration-to-the-united-states/s8",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-20"
+   },
+   "dcterms:publisher": "National Park Service, Statue of Liberty National Monument",
+   "dcterms:title": "Ellis Island: History & Culture",
+   "schema:url": {
+    "@id": "https://www.nps.gov/elis/learn/historyculture"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/immigration-to-the-united-states/s9",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-20"
+   },
+   "dcterms:publisher": "National Park Service, Statue of Liberty National Monument",
+   "dcterms:title": "Ellis Island Chronology",
+   "schema:url": {
+    "@id": "https://www.nps.gov/elis/learn/historyculture/ellis-island-chronology.htm"
    },
    "uso:sourceType": "government"
   },
@@ -61410,6 +61770,186 @@
     },
     {
      "@id": "https://github.com/john1hsu/usa-graph/id/immigration-and-nationality-act-of-1965/timeline/8"
+    }
+   ]
+  },
+  {
+   "@id": "us:immigration-to-the-united-states",
+   "@type": "uso:Concept",
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-20"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/immigration-to-the-united-states/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/immigration-to-the-united-states/s10"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/immigration-to-the-united-states/s11"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/immigration-to-the-united-states/s12"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/immigration-to-the-united-states/s13"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/immigration-to-the-united-states/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/immigration-to-the-united-states/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/immigration-to-the-united-states/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/immigration-to-the-united-states/s5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/immigration-to-the-united-states/s6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/immigration-to-the-united-states/s7"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/immigration-to-the-united-states/s8"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/immigration-to-the-united-states/s9"
+    }
+   ],
+   "rdfs:label": "Immigration to the United States",
+   "skos:altLabel": [
+    "American immigration history",
+    "Immigration history of the United States",
+    "U.S. immigration"
+   ],
+   "skos:broader": [
+    {
+     "@id": "us:demographics-of-the-united-states"
+    },
+    {
+     "@id": "us:history-of-the-united-states"
+    }
+   ],
+   "skos:definition": "The movement of people from other countries into the United States and the laws that governed who could enter and become a citizen, from the racial limits of the 1790 naturalization law through Chinese exclusion, the national-origins quotas of the 1920s and the 1965 law that abolished them, to a foreign-born population of 50.2 million in 2024.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/usa-graph/id/scheme/society-and-people"
+   },
+   "skos:prefLabel": "Immigration to the United States",
+   "skos:related": [
+    {
+     "@id": "us:angel-island-immigration-station"
+    },
+    {
+     "@id": "us:census-and-apportionment"
+    },
+    {
+     "@id": "us:chinese-americans"
+    },
+    {
+     "@id": "us:chinese-exclusion-act"
+    },
+    {
+     "@id": "us:ellis-island"
+    },
+    {
+     "@id": "us:ellis-island-name-change-myth"
+    },
+    {
+     "@id": "us:gilded-age"
+    },
+    {
+     "@id": "us:immigration-act-of-1924"
+    },
+    {
+     "@id": "us:immigration-and-nationality-act-of-1952"
+    },
+    {
+     "@id": "us:immigration-and-nationality-act-of-1965"
+    },
+    {
+     "@id": "us:immigration-reform-and-control-act-of-1986"
+    },
+    {
+     "@id": "us:native-americans"
+    },
+    {
+     "@id": "us:naturalization-act-of-1790"
+    },
+    {
+     "@id": "us:new-york-city"
+    }
+   ],
+   "uso:affected": [
+    {
+     "@id": "us:census-and-apportionment"
+    },
+    {
+     "@id": "us:chicago"
+    },
+    {
+     "@id": "us:new-york-city"
+    }
+   ],
+   "uso:contrastsWith": {
+    "@id": "us:slavery-in-the-united-states"
+   },
+   "uso:domain": "society-and-people",
+   "uso:evidenceStatus": "established",
+   "uso:file": "articles/society-and-people/immigration-to-the-united-states.md",
+   "uso:level": "introductory",
+   "uso:misconception": {
+    "@id": "https://github.com/john1hsu/usa-graph/id/immigration-to-the-united-states/misconception"
+   },
+   "uso:timelineEntry": [
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/immigration-to-the-united-states/timeline/1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/immigration-to-the-united-states/timeline/10"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/immigration-to-the-united-states/timeline/11"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/immigration-to-the-united-states/timeline/12"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/immigration-to-the-united-states/timeline/13"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/immigration-to-the-united-states/timeline/14"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/immigration-to-the-united-states/timeline/15"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/immigration-to-the-united-states/timeline/2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/immigration-to-the-united-states/timeline/3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/immigration-to-the-united-states/timeline/4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/immigration-to-the-united-states/timeline/5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/immigration-to-the-united-states/timeline/6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/immigration-to-the-united-states/timeline/7"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/immigration-to-the-united-states/timeline/8"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/immigration-to-the-united-states/timeline/9"
     }
    ]
   },
