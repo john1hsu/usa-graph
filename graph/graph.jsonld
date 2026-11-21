@@ -13529,6 +13529,130 @@
    }
   },
   {
+   "@id": "https://github.com/john1hsu/usa-graph/id/kansas-nebraska-act/misconception",
+   "@type": "uso:Misconception",
+   "uso:fact": "It created two territories, far larger than today's states; Kansas became a state only in 1861 and Nebraska in 1867, and Nebraska Territory also took in parts of present-day Colorado, Wyoming, the Dakotas and Montana.",
+   "uso:myth": "The Kansas–Nebraska Act created the states of Kansas and Nebraska.",
+   "uso:why": "The act's name matches two modern states, which hides how much of the northern Plains it organized and how long statehood took after years of conflict."
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/kansas-nebraska-act/review/1",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "Why did the act's repeal of the Missouri Compromise line matter so much?",
+   "uso:answer": "Under the 1820 line both territories lay in land closed to slavery; by declaring that section void and leaving slavery to settlers under popular sovereignty, the act reopened land northerners had considered permanently free, which Salmon Chase and others denounced as breaking a sacred pledge.",
+   "uso:questionFor": {
+    "@id": "us:kansas-nebraska-act"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/kansas-nebraska-act/review/2",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "How did the act lead to the rise of the Republican Party?",
+   "uso:answer": "Anti-Nebraska meetings across the North drew opponents of slavery's expansion together; the backlash finished off the already weakened Whig coalition and cost Democrats heavily in the 1854–55 elections, and its opponents founded the Republican Party.",
+   "uso:questionFor": {
+    "@id": "us:kansas-nebraska-act"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/kansas-nebraska-act/review/3",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "How did organizing the territories affect the Native nations living there?",
+   "uso:answer": "Although the act promised not to impair Indian rights until treaties extinguished them, Commissioner Manypenny pressed 11 nations in Kansas to cede nearly 13 million acres in 1854 and settlers squatted on lands such as the Kanza reservation, pushing Native peoples toward allotment and removal.",
+   "uso:questionFor": {
+    "@id": "us:kansas-nebraska-act"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/kansas-nebraska-act/review/4",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "Why did Kansas, rather than Nebraska, become the battleground?",
+   "uso:answer": "Kansas bordered the slave state of Missouri, so proslavery and antislavery settlers both raced to control its vote under popular sovereignty, producing contested elections and violence known as \"Bleeding Kansas.\"",
+   "uso:questionFor": {
+    "@id": "us:kansas-nebraska-act"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/kansas-nebraska-act/timeline/1",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "A Nebraska territorial bill passes the House but fails in the Senate, largely because of southern opposition.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1853"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/kansas-nebraska-act/timeline/2",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Senator Stephen A. Douglas of Illinois introduces his Nebraska bill; later that month, under southern pressure, he amends it to repeal the 36°30′ line explicitly and to create two territories instead of one.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1854-01-04"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/kansas-nebraska-act/timeline/3",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Indian Commissioner George Manypenny begins negotiating cessions with 11 nations in what became Kansas Territory; by June they cede nearly 13 million acres.",
+   "uso:date": {
+    "@type": "xsd:gYearMonth",
+    "@value": "1854-03"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/kansas-nebraska-act/timeline/4",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The Senate passes the bill 37 to 14 before dawn.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1854-03-04"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/kansas-nebraska-act/timeline/5",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The House passes the bill 113 to 100, with northern Democrats split 44 to 44.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1854-05-22"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/kansas-nebraska-act/timeline/6",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "President Franklin Pierce signs the act, organizing Kansas and Nebraska territories.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1854-05-30"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/kansas-nebraska-act/timeline/7",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Abraham Lincoln attacks the act and popular sovereignty in a speech at Peoria, Illinois.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1854-10-16"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/kansas-nebraska-act/timeline/8",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Kansas enters the Union as a state.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1861"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/kansas-nebraska-act/timeline/9",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Nebraska enters the Union as a state.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1867"
+   }
+  },
+  {
    "@id": "https://github.com/john1hsu/usa-graph/id/labor-movement/misconception",
    "@type": "uso:Misconception",
    "uso:fact": "May Day grew out of an American campaign; unions chose May 1, 1886, for a national strike for the eight-hour day, and an international socialist congress in 1889 adopted the date for worldwide demonstrations beginning in 1890.",
@@ -32816,6 +32940,132 @@
     "@id": "https://teachingamericanhistory.org/document/cooper-v-aaron/"
    },
    "uso:sourceType": "academic"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/kansas-nebraska-act/s1",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-21"
+   },
+   "dcterms:publisher": "National Archives and Records Administration, Milestone Documents",
+   "dcterms:title": "Kansas-Nebraska Act (1854)",
+   "schema:url": {
+    "@id": "https://www.archives.gov/milestone-documents/kansas-nebraska-act"
+   },
+   "uso:sourceType": "primary"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/kansas-nebraska-act/s2",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-21"
+   },
+   "dcterms:publisher": "United States Senate, Senate Historical Office",
+   "dcterms:title": "The Kansas-Nebraska Act",
+   "schema:url": {
+    "@id": "https://www.senate.gov/artandhistory/history/minute/Kansas_Nebraska_Act.htm"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/kansas-nebraska-act/s3",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-21"
+   },
+   "dcterms:publisher": "Kansas Historical Society, Kansapedia",
+   "dcterms:title": "Kansas-Nebraska Act",
+   "schema:url": {
+    "@id": "https://www.kansashistory.gov/kansapedia/kansas-nebraska-act/15159"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/kansas-nebraska-act/s4",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-21"
+   },
+   "dcterms:publisher": "History Nebraska (Nebraska State Historical Society)",
+   "dcterms:title": "Kansas-Nebraska Act",
+   "schema:url": {
+    "@id": "https://history.nebraska.gov/publications/kansas-nebraska-act"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/kansas-nebraska-act/s5",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-21"
+   },
+   "dcterms:publisher": "Harl A. Dalstrom, Encyclopedia of the Great Plains, University of Nebraska–Lincoln",
+   "dcterms:title": "Kansas-Nebraska Act",
+   "schema:url": {
+    "@id": "https://plainshumanities.unl.edu/encyclopedia/doc/egp.pg.036.html"
+   },
+   "uso:sourceType": "scholarly-encyclopedia"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/kansas-nebraska-act/s6",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-21"
+   },
+   "dcterms:publisher": "American Battlefield Trust",
+   "dcterms:title": "The Kansas-Nebraska Act",
+   "schema:url": {
+    "@id": "https://www.battlefields.org/learn/articles/kansas-nebraska-act"
+   },
+   "uso:sourceType": "institutional"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/kansas-nebraska-act/s7",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-21"
+   },
+   "dcterms:publisher": "Kansas Historical Society, Kansapedia",
+   "dcterms:title": "Kansas Territory map",
+   "schema:url": {
+    "@id": "https://www.kansashistory.gov/kansapedia/kansas-territory-map/17368"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/kansas-nebraska-act/s8",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-21"
+   },
+   "dcterms:publisher": "Kansas Land Treaties, Chapman Center for Rural Studies, Kansas State University",
+   "dcterms:title": "Historical Context",
+   "schema:url": {
+    "@id": "https://www.k-state.edu/chapman/kansaslandtreaties/HistoricalContext.html"
+   },
+   "uso:sourceType": "academic"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/kansas-nebraska-act/s9",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-21"
+   },
+   "dcterms:publisher": "National Park Service, Lincoln Home National Historic Site",
+   "dcterms:title": "Peoria Speech, October 16, 1854",
+   "schema:url": {
+    "@id": "https://www.nps.gov/liho/learn/historyculture/peoriaspeech.htm"
+   },
+   "uso:sourceType": "government"
   },
   {
    "@id": "https://github.com/john1hsu/usa-graph/id/source/labor-movement/s1",
@@ -63355,6 +63605,180 @@
     },
     {
      "@id": "https://github.com/john1hsu/usa-graph/id/judicial-review/timeline/7"
+    }
+   ]
+  },
+  {
+   "@id": "us:kansas-nebraska-act",
+   "@type": "uso:Law",
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-21"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/kansas-nebraska-act/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/kansas-nebraska-act/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/kansas-nebraska-act/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/kansas-nebraska-act/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/kansas-nebraska-act/s5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/kansas-nebraska-act/s6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/kansas-nebraska-act/s7"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/kansas-nebraska-act/s8"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/kansas-nebraska-act/s9"
+    }
+   ],
+   "rdfs:label": "Kansas–Nebraska Act of 1854",
+   "schema:startDate": {
+    "@type": "xsd:date",
+    "@value": "1854-05-30"
+   },
+   "skos:altLabel": [
+    "An Act to Organize the Territories of Nebraska and Kansas",
+    "Kansas-Nebraska Act",
+    "Kansas–Nebraska Act",
+    "Nebraska bill"
+   ],
+   "skos:broader": [
+    {
+     "@id": "us:sectionalism"
+    },
+    {
+     "@id": "us:territorial-expansion-of-the-united-states"
+    }
+   ],
+   "skos:definition": "The 1854 act of Congress, introduced by Senator Stephen A. Douglas and signed by President Franklin Pierce on May 30, 1854, that organized the Kansas and Nebraska territories, left slavery there to a vote of settlers under \"popular sovereignty,\" and repealed the Missouri Compromise's ban on slavery north of 36°30′.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/usa-graph/id/scheme/civil-war-and-reconstruction"
+   },
+   "skos:prefLabel": "Kansas–Nebraska Act of 1854",
+   "skos:related": [
+    {
+     "@id": "us:abraham-lincoln"
+    },
+    {
+     "@id": "us:american-civil-war"
+    },
+    {
+     "@id": "us:compromise-of-1850"
+    },
+    {
+     "@id": "us:dawes-act"
+    },
+    {
+     "@id": "us:dred-scott-v-sandford"
+    },
+    {
+     "@id": "us:fugitive-slave-act-of-1850"
+    },
+    {
+     "@id": "us:house-of-representatives"
+    },
+    {
+     "@id": "us:kansas"
+    },
+    {
+     "@id": "us:lincoln-douglas-debates"
+    },
+    {
+     "@id": "us:nebraska"
+    },
+    {
+     "@id": "us:transcontinental-railroad"
+    },
+    {
+     "@id": "us:united-states-senate"
+    },
+    {
+     "@id": "us:whig-party"
+    }
+   ],
+   "uso:affected": [
+    {
+     "@id": "us:kaw-nation"
+    },
+    {
+     "@id": "us:native-americans"
+    }
+   ],
+   "uso:domain": "civil-war-and-reconstruction",
+   "uso:enactedBy": {
+    "@id": "us:united-states-congress"
+   },
+   "uso:evidenceStatus": "interpretive",
+   "uso:file": "articles/civil-war-and-reconstruction/kansas-nebraska-act.md",
+   "uso:introducedBy": {
+    "@id": "us:stephen-a-douglas"
+   },
+   "uso:ledTo": [
+    {
+     "@id": "us:bleeding-kansas"
+    },
+    {
+     "@id": "us:republican-party"
+    }
+   ],
+   "uso:level": "introductory",
+   "uso:misconception": {
+    "@id": "https://github.com/john1hsu/usa-graph/id/kansas-nebraska-act/misconception"
+   },
+   "uso:overturns": {
+    "@id": "us:missouri-compromise"
+   },
+   "uso:requires": [
+    {
+     "@id": "us:missouri-compromise"
+    },
+    {
+     "@id": "us:slavery-in-the-united-states"
+    }
+   ],
+   "uso:signedBy": {
+    "@id": "us:franklin-pierce"
+   },
+   "uso:timelineEntry": [
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/kansas-nebraska-act/timeline/1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/kansas-nebraska-act/timeline/2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/kansas-nebraska-act/timeline/3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/kansas-nebraska-act/timeline/4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/kansas-nebraska-act/timeline/5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/kansas-nebraska-act/timeline/6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/kansas-nebraska-act/timeline/7"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/kansas-nebraska-act/timeline/8"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/kansas-nebraska-act/timeline/9"
     }
    ]
   },

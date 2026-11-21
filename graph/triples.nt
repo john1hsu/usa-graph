@@ -9968,6 +9968,112 @@
 <https://github.com/john1hsu/usa-graph/id/judicial-review> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/judicial-review/timeline/5> .
 <https://github.com/john1hsu/usa-graph/id/judicial-review> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/judicial-review/timeline/6> .
 <https://github.com/john1hsu/usa-graph/id/judicial-review> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/judicial-review/timeline/7> .
+<https://github.com/john1hsu/usa-graph/id/kansas-nebraska-act/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Misconception> .
+<https://github.com/john1hsu/usa-graph/id/kansas-nebraska-act/misconception> <https://github.com/john1hsu/usa-graph/ontology#fact> "It created two territories, far larger than today's states; Kansas became a state only in 1861 and Nebraska in 1867, and Nebraska Territory also took in parts of present-day Colorado, Wyoming, the Dakotas and Montana." .
+<https://github.com/john1hsu/usa-graph/id/kansas-nebraska-act/misconception> <https://github.com/john1hsu/usa-graph/ontology#myth> "The Kansas–Nebraska Act created the states of Kansas and Nebraska." .
+<https://github.com/john1hsu/usa-graph/id/kansas-nebraska-act/misconception> <https://github.com/john1hsu/usa-graph/ontology#why> "The act's name matches two modern states, which hides how much of the northern Plains it organized and how long statehood took after years of conflict." .
+<https://github.com/john1hsu/usa-graph/id/kansas-nebraska-act/review/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+<https://github.com/john1hsu/usa-graph/id/kansas-nebraska-act/review/1> <http://www.w3.org/2000/01/rdf-schema#label> "Why did the act's repeal of the Missouri Compromise line matter so much?" .
+<https://github.com/john1hsu/usa-graph/id/kansas-nebraska-act/review/1> <https://github.com/john1hsu/usa-graph/ontology#answer> "Under the 1820 line both territories lay in land closed to slavery; by declaring that section void and leaving slavery to settlers under popular sovereignty, the act reopened land northerners had considered permanently free, which Salmon Chase and others denounced as breaking a sacred pledge." .
+<https://github.com/john1hsu/usa-graph/id/kansas-nebraska-act/review/1> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/kansas-nebraska-act> .
+<https://github.com/john1hsu/usa-graph/id/kansas-nebraska-act/review/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+<https://github.com/john1hsu/usa-graph/id/kansas-nebraska-act/review/2> <http://www.w3.org/2000/01/rdf-schema#label> "How did the act lead to the rise of the Republican Party?" .
+<https://github.com/john1hsu/usa-graph/id/kansas-nebraska-act/review/2> <https://github.com/john1hsu/usa-graph/ontology#answer> "Anti-Nebraska meetings across the North drew opponents of slavery's expansion together; the backlash finished off the already weakened Whig coalition and cost Democrats heavily in the 1854–55 elections, and its opponents founded the Republican Party." .
+<https://github.com/john1hsu/usa-graph/id/kansas-nebraska-act/review/2> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/kansas-nebraska-act> .
+<https://github.com/john1hsu/usa-graph/id/kansas-nebraska-act/review/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+<https://github.com/john1hsu/usa-graph/id/kansas-nebraska-act/review/3> <http://www.w3.org/2000/01/rdf-schema#label> "How did organizing the territories affect the Native nations living there?" .
+<https://github.com/john1hsu/usa-graph/id/kansas-nebraska-act/review/3> <https://github.com/john1hsu/usa-graph/ontology#answer> "Although the act promised not to impair Indian rights until treaties extinguished them, Commissioner Manypenny pressed 11 nations in Kansas to cede nearly 13 million acres in 1854 and settlers squatted on lands such as the Kanza reservation, pushing Native peoples toward allotment and removal." .
+<https://github.com/john1hsu/usa-graph/id/kansas-nebraska-act/review/3> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/kansas-nebraska-act> .
+<https://github.com/john1hsu/usa-graph/id/kansas-nebraska-act/review/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+<https://github.com/john1hsu/usa-graph/id/kansas-nebraska-act/review/4> <http://www.w3.org/2000/01/rdf-schema#label> "Why did Kansas, rather than Nebraska, become the battleground?" .
+<https://github.com/john1hsu/usa-graph/id/kansas-nebraska-act/review/4> <https://github.com/john1hsu/usa-graph/ontology#answer> "Kansas bordered the slave state of Missouri, so proslavery and antislavery settlers both raced to control its vote under popular sovereignty, producing contested elections and violence known as \"Bleeding Kansas.\"" .
+<https://github.com/john1hsu/usa-graph/id/kansas-nebraska-act/review/4> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/kansas-nebraska-act> .
+<https://github.com/john1hsu/usa-graph/id/kansas-nebraska-act/timeline/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/kansas-nebraska-act/timeline/1> <http://www.w3.org/2000/01/rdf-schema#label> "A Nebraska territorial bill passes the House but fails in the Senate, largely because of southern opposition." .
+<https://github.com/john1hsu/usa-graph/id/kansas-nebraska-act/timeline/1> <https://github.com/john1hsu/usa-graph/ontology#date> "1853"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://github.com/john1hsu/usa-graph/id/kansas-nebraska-act/timeline/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/kansas-nebraska-act/timeline/2> <http://www.w3.org/2000/01/rdf-schema#label> "Senator Stephen A. Douglas of Illinois introduces his Nebraska bill; later that month, under southern pressure, he amends it to repeal the 36°30′ line explicitly and to create two territories instead of one." .
+<https://github.com/john1hsu/usa-graph/id/kansas-nebraska-act/timeline/2> <https://github.com/john1hsu/usa-graph/ontology#date> "1854-01-04"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/kansas-nebraska-act/timeline/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/kansas-nebraska-act/timeline/3> <http://www.w3.org/2000/01/rdf-schema#label> "Indian Commissioner George Manypenny begins negotiating cessions with 11 nations in what became Kansas Territory; by June they cede nearly 13 million acres." .
+<https://github.com/john1hsu/usa-graph/id/kansas-nebraska-act/timeline/3> <https://github.com/john1hsu/usa-graph/ontology#date> "1854-03"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> .
+<https://github.com/john1hsu/usa-graph/id/kansas-nebraska-act/timeline/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/kansas-nebraska-act/timeline/4> <http://www.w3.org/2000/01/rdf-schema#label> "The Senate passes the bill 37 to 14 before dawn." .
+<https://github.com/john1hsu/usa-graph/id/kansas-nebraska-act/timeline/4> <https://github.com/john1hsu/usa-graph/ontology#date> "1854-03-04"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/kansas-nebraska-act/timeline/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/kansas-nebraska-act/timeline/5> <http://www.w3.org/2000/01/rdf-schema#label> "The House passes the bill 113 to 100, with northern Democrats split 44 to 44." .
+<https://github.com/john1hsu/usa-graph/id/kansas-nebraska-act/timeline/5> <https://github.com/john1hsu/usa-graph/ontology#date> "1854-05-22"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/kansas-nebraska-act/timeline/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/kansas-nebraska-act/timeline/6> <http://www.w3.org/2000/01/rdf-schema#label> "President Franklin Pierce signs the act, organizing Kansas and Nebraska territories." .
+<https://github.com/john1hsu/usa-graph/id/kansas-nebraska-act/timeline/6> <https://github.com/john1hsu/usa-graph/ontology#date> "1854-05-30"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/kansas-nebraska-act/timeline/7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/kansas-nebraska-act/timeline/7> <http://www.w3.org/2000/01/rdf-schema#label> "Abraham Lincoln attacks the act and popular sovereignty in a speech at Peoria, Illinois." .
+<https://github.com/john1hsu/usa-graph/id/kansas-nebraska-act/timeline/7> <https://github.com/john1hsu/usa-graph/ontology#date> "1854-10-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/kansas-nebraska-act/timeline/8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/kansas-nebraska-act/timeline/8> <http://www.w3.org/2000/01/rdf-schema#label> "Kansas enters the Union as a state." .
+<https://github.com/john1hsu/usa-graph/id/kansas-nebraska-act/timeline/8> <https://github.com/john1hsu/usa-graph/ontology#date> "1861"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://github.com/john1hsu/usa-graph/id/kansas-nebraska-act/timeline/9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/kansas-nebraska-act/timeline/9> <http://www.w3.org/2000/01/rdf-schema#label> "Nebraska enters the Union as a state." .
+<https://github.com/john1hsu/usa-graph/id/kansas-nebraska-act/timeline/9> <https://github.com/john1hsu/usa-graph/ontology#date> "1867"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://github.com/john1hsu/usa-graph/id/kansas-nebraska-act> <http://purl.org/dc/terms/created> "2026-11-21"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/kansas-nebraska-act> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Law> .
+<https://github.com/john1hsu/usa-graph/id/kansas-nebraska-act> <http://www.w3.org/2000/01/rdf-schema#label> "Kansas–Nebraska Act of 1854" .
+<https://github.com/john1hsu/usa-graph/id/kansas-nebraska-act> <http://www.w3.org/2004/02/skos/core#altLabel> "An Act to Organize the Territories of Nebraska and Kansas" .
+<https://github.com/john1hsu/usa-graph/id/kansas-nebraska-act> <http://www.w3.org/2004/02/skos/core#altLabel> "Kansas-Nebraska Act" .
+<https://github.com/john1hsu/usa-graph/id/kansas-nebraska-act> <http://www.w3.org/2004/02/skos/core#altLabel> "Kansas–Nebraska Act" .
+<https://github.com/john1hsu/usa-graph/id/kansas-nebraska-act> <http://www.w3.org/2004/02/skos/core#altLabel> "Nebraska bill" .
+<https://github.com/john1hsu/usa-graph/id/kansas-nebraska-act> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/usa-graph/id/sectionalism> .
+<https://github.com/john1hsu/usa-graph/id/kansas-nebraska-act> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/usa-graph/id/territorial-expansion-of-the-united-states> .
+<https://github.com/john1hsu/usa-graph/id/kansas-nebraska-act> <http://www.w3.org/2004/02/skos/core#definition> "The 1854 act of Congress, introduced by Senator Stephen A. Douglas and signed by President Franklin Pierce on May 30, 1854, that organized the Kansas and Nebraska territories, left slavery there to a vote of settlers under \"popular sovereignty,\" and repealed the Missouri Compromise's ban on slavery north of 36°30′." .
+<https://github.com/john1hsu/usa-graph/id/kansas-nebraska-act> <http://www.w3.org/2004/02/skos/core#inScheme> <https://github.com/john1hsu/usa-graph/id/scheme/civil-war-and-reconstruction> .
+<https://github.com/john1hsu/usa-graph/id/kansas-nebraska-act> <http://www.w3.org/2004/02/skos/core#prefLabel> "Kansas–Nebraska Act of 1854" .
+<https://github.com/john1hsu/usa-graph/id/kansas-nebraska-act> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/abraham-lincoln> .
+<https://github.com/john1hsu/usa-graph/id/kansas-nebraska-act> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/american-civil-war> .
+<https://github.com/john1hsu/usa-graph/id/kansas-nebraska-act> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/compromise-of-1850> .
+<https://github.com/john1hsu/usa-graph/id/kansas-nebraska-act> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/dawes-act> .
+<https://github.com/john1hsu/usa-graph/id/kansas-nebraska-act> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/dred-scott-v-sandford> .
+<https://github.com/john1hsu/usa-graph/id/kansas-nebraska-act> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/fugitive-slave-act-of-1850> .
+<https://github.com/john1hsu/usa-graph/id/kansas-nebraska-act> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/house-of-representatives> .
+<https://github.com/john1hsu/usa-graph/id/kansas-nebraska-act> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/kansas> .
+<https://github.com/john1hsu/usa-graph/id/kansas-nebraska-act> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/lincoln-douglas-debates> .
+<https://github.com/john1hsu/usa-graph/id/kansas-nebraska-act> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/nebraska> .
+<https://github.com/john1hsu/usa-graph/id/kansas-nebraska-act> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/transcontinental-railroad> .
+<https://github.com/john1hsu/usa-graph/id/kansas-nebraska-act> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/united-states-senate> .
+<https://github.com/john1hsu/usa-graph/id/kansas-nebraska-act> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/whig-party> .
+<https://github.com/john1hsu/usa-graph/id/kansas-nebraska-act> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/kansas-nebraska-act/s1> .
+<https://github.com/john1hsu/usa-graph/id/kansas-nebraska-act> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/kansas-nebraska-act/s2> .
+<https://github.com/john1hsu/usa-graph/id/kansas-nebraska-act> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/kansas-nebraska-act/s3> .
+<https://github.com/john1hsu/usa-graph/id/kansas-nebraska-act> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/kansas-nebraska-act/s4> .
+<https://github.com/john1hsu/usa-graph/id/kansas-nebraska-act> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/kansas-nebraska-act/s5> .
+<https://github.com/john1hsu/usa-graph/id/kansas-nebraska-act> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/kansas-nebraska-act/s6> .
+<https://github.com/john1hsu/usa-graph/id/kansas-nebraska-act> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/kansas-nebraska-act/s7> .
+<https://github.com/john1hsu/usa-graph/id/kansas-nebraska-act> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/kansas-nebraska-act/s8> .
+<https://github.com/john1hsu/usa-graph/id/kansas-nebraska-act> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/kansas-nebraska-act/s9> .
+<https://github.com/john1hsu/usa-graph/id/kansas-nebraska-act> <https://github.com/john1hsu/usa-graph/ontology#affected> <https://github.com/john1hsu/usa-graph/id/kaw-nation> .
+<https://github.com/john1hsu/usa-graph/id/kansas-nebraska-act> <https://github.com/john1hsu/usa-graph/ontology#affected> <https://github.com/john1hsu/usa-graph/id/native-americans> .
+<https://github.com/john1hsu/usa-graph/id/kansas-nebraska-act> <https://github.com/john1hsu/usa-graph/ontology#domain> "civil-war-and-reconstruction" .
+<https://github.com/john1hsu/usa-graph/id/kansas-nebraska-act> <https://github.com/john1hsu/usa-graph/ontology#enactedBy> <https://github.com/john1hsu/usa-graph/id/united-states-congress> .
+<https://github.com/john1hsu/usa-graph/id/kansas-nebraska-act> <https://github.com/john1hsu/usa-graph/ontology#evidenceStatus> "interpretive" .
+<https://github.com/john1hsu/usa-graph/id/kansas-nebraska-act> <https://github.com/john1hsu/usa-graph/ontology#file> "articles/civil-war-and-reconstruction/kansas-nebraska-act.md" .
+<https://github.com/john1hsu/usa-graph/id/kansas-nebraska-act> <https://github.com/john1hsu/usa-graph/ontology#introducedBy> <https://github.com/john1hsu/usa-graph/id/stephen-a-douglas> .
+<https://github.com/john1hsu/usa-graph/id/kansas-nebraska-act> <https://github.com/john1hsu/usa-graph/ontology#ledTo> <https://github.com/john1hsu/usa-graph/id/bleeding-kansas> .
+<https://github.com/john1hsu/usa-graph/id/kansas-nebraska-act> <https://github.com/john1hsu/usa-graph/ontology#ledTo> <https://github.com/john1hsu/usa-graph/id/republican-party> .
+<https://github.com/john1hsu/usa-graph/id/kansas-nebraska-act> <https://github.com/john1hsu/usa-graph/ontology#level> "introductory" .
+<https://github.com/john1hsu/usa-graph/id/kansas-nebraska-act> <https://github.com/john1hsu/usa-graph/ontology#misconception> <https://github.com/john1hsu/usa-graph/id/kansas-nebraska-act/misconception> .
+<https://github.com/john1hsu/usa-graph/id/kansas-nebraska-act> <https://github.com/john1hsu/usa-graph/ontology#overturns> <https://github.com/john1hsu/usa-graph/id/missouri-compromise> .
+<https://github.com/john1hsu/usa-graph/id/kansas-nebraska-act> <https://github.com/john1hsu/usa-graph/ontology#requires> <https://github.com/john1hsu/usa-graph/id/missouri-compromise> .
+<https://github.com/john1hsu/usa-graph/id/kansas-nebraska-act> <https://github.com/john1hsu/usa-graph/ontology#requires> <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> .
+<https://github.com/john1hsu/usa-graph/id/kansas-nebraska-act> <https://github.com/john1hsu/usa-graph/ontology#signedBy> <https://github.com/john1hsu/usa-graph/id/franklin-pierce> .
+<https://github.com/john1hsu/usa-graph/id/kansas-nebraska-act> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/kansas-nebraska-act/timeline/1> .
+<https://github.com/john1hsu/usa-graph/id/kansas-nebraska-act> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/kansas-nebraska-act/timeline/2> .
+<https://github.com/john1hsu/usa-graph/id/kansas-nebraska-act> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/kansas-nebraska-act/timeline/3> .
+<https://github.com/john1hsu/usa-graph/id/kansas-nebraska-act> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/kansas-nebraska-act/timeline/4> .
+<https://github.com/john1hsu/usa-graph/id/kansas-nebraska-act> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/kansas-nebraska-act/timeline/5> .
+<https://github.com/john1hsu/usa-graph/id/kansas-nebraska-act> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/kansas-nebraska-act/timeline/6> .
+<https://github.com/john1hsu/usa-graph/id/kansas-nebraska-act> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/kansas-nebraska-act/timeline/7> .
+<https://github.com/john1hsu/usa-graph/id/kansas-nebraska-act> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/kansas-nebraska-act/timeline/8> .
+<https://github.com/john1hsu/usa-graph/id/kansas-nebraska-act> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/kansas-nebraska-act/timeline/9> .
+<https://github.com/john1hsu/usa-graph/id/kansas-nebraska-act> <https://schema.org/startDate> "1854-05-30"^^<http://www.w3.org/2001/XMLSchema#date> .
 <https://github.com/john1hsu/usa-graph/id/labor-movement/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Misconception> .
 <https://github.com/john1hsu/usa-graph/id/labor-movement/misconception> <https://github.com/john1hsu/usa-graph/ontology#fact> "May Day grew out of an American campaign; unions chose May 1, 1886, for a national strike for the eight-hour day, and an international socialist congress in 1889 adopted the date for worldwide demonstrations beginning in 1890." .
 <https://github.com/john1hsu/usa-graph/id/labor-movement/misconception> <https://github.com/john1hsu/usa-graph/ontology#myth> "May Day, the international workers' holiday on May 1, is a foreign or Soviet tradition with no American roots." .
@@ -20465,6 +20571,60 @@
 <https://github.com/john1hsu/usa-graph/id/source/judicial-review/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
 <https://github.com/john1hsu/usa-graph/id/source/judicial-review/s6> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "academic" .
 <https://github.com/john1hsu/usa-graph/id/source/judicial-review/s6> <https://schema.org/url> <https://teachingamericanhistory.org/document/cooper-v-aaron/> .
+<https://github.com/john1hsu/usa-graph/id/source/kansas-nebraska-act/s1> <http://purl.org/dc/terms/date> "2026-11-21"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/kansas-nebraska-act/s1> <http://purl.org/dc/terms/publisher> "National Archives and Records Administration, Milestone Documents" .
+<https://github.com/john1hsu/usa-graph/id/source/kansas-nebraska-act/s1> <http://purl.org/dc/terms/title> "Kansas-Nebraska Act (1854)" .
+<https://github.com/john1hsu/usa-graph/id/source/kansas-nebraska-act/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/kansas-nebraska-act/s1> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/usa-graph/id/source/kansas-nebraska-act/s1> <https://schema.org/url> <https://www.archives.gov/milestone-documents/kansas-nebraska-act> .
+<https://github.com/john1hsu/usa-graph/id/source/kansas-nebraska-act/s2> <http://purl.org/dc/terms/date> "2026-11-21"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/kansas-nebraska-act/s2> <http://purl.org/dc/terms/publisher> "United States Senate, Senate Historical Office" .
+<https://github.com/john1hsu/usa-graph/id/source/kansas-nebraska-act/s2> <http://purl.org/dc/terms/title> "The Kansas-Nebraska Act" .
+<https://github.com/john1hsu/usa-graph/id/source/kansas-nebraska-act/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/kansas-nebraska-act/s2> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/usa-graph/id/source/kansas-nebraska-act/s2> <https://schema.org/url> <https://www.senate.gov/artandhistory/history/minute/Kansas_Nebraska_Act.htm> .
+<https://github.com/john1hsu/usa-graph/id/source/kansas-nebraska-act/s3> <http://purl.org/dc/terms/date> "2026-11-21"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/kansas-nebraska-act/s3> <http://purl.org/dc/terms/publisher> "Kansas Historical Society, Kansapedia" .
+<https://github.com/john1hsu/usa-graph/id/source/kansas-nebraska-act/s3> <http://purl.org/dc/terms/title> "Kansas-Nebraska Act" .
+<https://github.com/john1hsu/usa-graph/id/source/kansas-nebraska-act/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/kansas-nebraska-act/s3> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/usa-graph/id/source/kansas-nebraska-act/s3> <https://schema.org/url> <https://www.kansashistory.gov/kansapedia/kansas-nebraska-act/15159> .
+<https://github.com/john1hsu/usa-graph/id/source/kansas-nebraska-act/s4> <http://purl.org/dc/terms/date> "2026-11-21"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/kansas-nebraska-act/s4> <http://purl.org/dc/terms/publisher> "History Nebraska (Nebraska State Historical Society)" .
+<https://github.com/john1hsu/usa-graph/id/source/kansas-nebraska-act/s4> <http://purl.org/dc/terms/title> "Kansas-Nebraska Act" .
+<https://github.com/john1hsu/usa-graph/id/source/kansas-nebraska-act/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/kansas-nebraska-act/s4> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/usa-graph/id/source/kansas-nebraska-act/s4> <https://schema.org/url> <https://history.nebraska.gov/publications/kansas-nebraska-act> .
+<https://github.com/john1hsu/usa-graph/id/source/kansas-nebraska-act/s5> <http://purl.org/dc/terms/date> "2026-11-21"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/kansas-nebraska-act/s5> <http://purl.org/dc/terms/publisher> "Harl A. Dalstrom, Encyclopedia of the Great Plains, University of Nebraska–Lincoln" .
+<https://github.com/john1hsu/usa-graph/id/source/kansas-nebraska-act/s5> <http://purl.org/dc/terms/title> "Kansas-Nebraska Act" .
+<https://github.com/john1hsu/usa-graph/id/source/kansas-nebraska-act/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/kansas-nebraska-act/s5> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "scholarly-encyclopedia" .
+<https://github.com/john1hsu/usa-graph/id/source/kansas-nebraska-act/s5> <https://schema.org/url> <https://plainshumanities.unl.edu/encyclopedia/doc/egp.pg.036.html> .
+<https://github.com/john1hsu/usa-graph/id/source/kansas-nebraska-act/s6> <http://purl.org/dc/terms/date> "2026-11-21"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/kansas-nebraska-act/s6> <http://purl.org/dc/terms/publisher> "American Battlefield Trust" .
+<https://github.com/john1hsu/usa-graph/id/source/kansas-nebraska-act/s6> <http://purl.org/dc/terms/title> "The Kansas-Nebraska Act" .
+<https://github.com/john1hsu/usa-graph/id/source/kansas-nebraska-act/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/kansas-nebraska-act/s6> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "institutional" .
+<https://github.com/john1hsu/usa-graph/id/source/kansas-nebraska-act/s6> <https://schema.org/url> <https://www.battlefields.org/learn/articles/kansas-nebraska-act> .
+<https://github.com/john1hsu/usa-graph/id/source/kansas-nebraska-act/s7> <http://purl.org/dc/terms/date> "2026-11-21"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/kansas-nebraska-act/s7> <http://purl.org/dc/terms/publisher> "Kansas Historical Society, Kansapedia" .
+<https://github.com/john1hsu/usa-graph/id/source/kansas-nebraska-act/s7> <http://purl.org/dc/terms/title> "Kansas Territory map" .
+<https://github.com/john1hsu/usa-graph/id/source/kansas-nebraska-act/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/kansas-nebraska-act/s7> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/usa-graph/id/source/kansas-nebraska-act/s7> <https://schema.org/url> <https://www.kansashistory.gov/kansapedia/kansas-territory-map/17368> .
+<https://github.com/john1hsu/usa-graph/id/source/kansas-nebraska-act/s8> <http://purl.org/dc/terms/date> "2026-11-21"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/kansas-nebraska-act/s8> <http://purl.org/dc/terms/publisher> "Kansas Land Treaties, Chapman Center for Rural Studies, Kansas State University" .
+<https://github.com/john1hsu/usa-graph/id/source/kansas-nebraska-act/s8> <http://purl.org/dc/terms/title> "Historical Context" .
+<https://github.com/john1hsu/usa-graph/id/source/kansas-nebraska-act/s8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/kansas-nebraska-act/s8> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/usa-graph/id/source/kansas-nebraska-act/s8> <https://schema.org/url> <https://www.k-state.edu/chapman/kansaslandtreaties/HistoricalContext.html> .
+<https://github.com/john1hsu/usa-graph/id/source/kansas-nebraska-act/s9> <http://purl.org/dc/terms/date> "2026-11-21"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/kansas-nebraska-act/s9> <http://purl.org/dc/terms/publisher> "National Park Service, Lincoln Home National Historic Site" .
+<https://github.com/john1hsu/usa-graph/id/source/kansas-nebraska-act/s9> <http://purl.org/dc/terms/title> "Peoria Speech, October 16, 1854" .
+<https://github.com/john1hsu/usa-graph/id/source/kansas-nebraska-act/s9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/kansas-nebraska-act/s9> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/usa-graph/id/source/kansas-nebraska-act/s9> <https://schema.org/url> <https://www.nps.gov/liho/learn/historyculture/peoriaspeech.htm> .
 <https://github.com/john1hsu/usa-graph/id/source/labor-movement/s10> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
 <https://github.com/john1hsu/usa-graph/id/source/labor-movement/s10> <http://purl.org/dc/terms/publisher> "National Labor Relations Board" .
 <https://github.com/john1hsu/usa-graph/id/source/labor-movement/s10> <http://purl.org/dc/terms/title> "1947 Taft-Hartley Passage and NLRB Structural Changes" .

@@ -51,6 +51,23 @@ Every review question (with its answer) and every myth-versus-fact in the graph,
 - **Q:** Why do historians and contemporaries such as W. E. B. Du Bois judge the bureau's record so differently?
   **A:** It achieved a great deal in relief, schools and legal recognition with fewer than 900 agents and little money, but it also pushed freedpeople into labor contracts with former enslavers and could not deliver land, so verdicts depend on whether one weighs its achievements against its resources or against freedpeople's hopes.
 
+### [Kansas–Nebraska Act of 1854](../articles/civil-war-and-reconstruction/kansas-nebraska-act.md) — Law
+
+| Myth | Fact |
+|---|---|
+| The Kansas–Nebraska Act created the states of Kansas and Nebraska. | It created two territories, far larger than today's states; Kansas became a state only in 1861 and Nebraska in 1867, and Nebraska Territory also took in parts of present-day Colorado, Wyoming, the Dakotas and Montana. |
+
+**Why it matters:** The act's name matches two modern states, which hides how much of the northern Plains it organized and how long statehood took after years of conflict.
+
+- **Q:** Why did the act's repeal of the Missouri Compromise line matter so much?
+  **A:** Under the 1820 line both territories lay in land closed to slavery; by declaring that section void and leaving slavery to settlers under popular sovereignty, the act reopened land northerners had considered permanently free, which Salmon Chase and others denounced as breaking a sacred pledge.
+- **Q:** How did the act lead to the rise of the Republican Party?
+  **A:** Anti-Nebraska meetings across the North drew opponents of slavery's expansion together; the backlash finished off the already weakened Whig coalition and cost Democrats heavily in the 1854–55 elections, and its opponents founded the Republican Party.
+- **Q:** How did organizing the territories affect the Native nations living there?
+  **A:** Although the act promised not to impair Indian rights until treaties extinguished them, Commissioner Manypenny pressed 11 nations in Kansas to cede nearly 13 million acres in 1854 and settlers squatted on lands such as the Kanza reservation, pushing Native peoples toward allotment and removal.
+- **Q:** Why did Kansas, rather than Nebraska, become the battleground?
+  **A:** Kansas bordered the slave state of Missouri, so proslavery and antislavery settlers both raced to control its vote under popular sovereignty, producing contested elections and violence known as "Bleeding Kansas."
+
 ### [Reconstruction era](../articles/civil-war-and-reconstruction/reconstruction-era.md) — Era
 
 | Myth | Fact |

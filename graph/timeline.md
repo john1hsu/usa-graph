@@ -792,12 +792,20 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1852-03-22 | The Missouri Supreme Court reverses, rejecting the principle of once free, always free. — [Dred Scott v. Sandford](../articles/rights-and-law/dred-scott-v-sandford.md) |
 | 1852-07-05 | Delivers "What to the Slave Is the Fourth of July?" at Corinthian Hall, Rochester. — [Frederick Douglass](../articles/people-who-shaped-america/frederick-douglass.md) |
 | 1852-07-08 | The U.S. Senate refuses to ratify 18 treaties negotiated with California tribes, which had promised them about 7.5 million acres. — [California](../articles/states-and-territories/california.md) |
+| 1853 | A Nebraska territorial bill passes the House but fails in the Senate, largely because of southern opposition. — [Kansas–Nebraska Act of 1854](../articles/civil-war-and-reconstruction/kansas-nebraska-act.md) |
 | 1853 | In O'Reilly v. Morse (December Term 1853) the Supreme Court upholds Morse's patent but strikes down his broadest claim. — [Electric telegraph](../articles/science-and-innovation/telegraph.md) |
 | 1854 | Anthony Burns escapes from Richmond; he is arrested in Boston and returned to slavery under the 1850 law. — [Underground Railroad](../articles/civil-war-and-reconstruction/underground-railroad.md) |
 | 1854 | The Consolidation Act merges the city with all of Philadelphia County, growing it from about 2 to nearly 130 square miles. — [Philadelphia](../articles/regions-cities-and-landmarks/philadelphia.md) |
 | 1854 | The Kansas-Nebraska Act repeals the 36°30′ restriction after 34 years. — [Missouri Compromise](../articles/early-republic-and-expansion/missouri-compromise.md) |
 | 1854 | The state capital moves to Sacramento after stints in San Jose, Vallejo and Benicia. — [California](../articles/states-and-territories/california.md) |
+| 1854-01-04 | Senator Stephen A. Douglas of Illinois introduces his Nebraska bill; later that month, under southern pressure, he amends it to repeal the 36°30′ line explicitly and to create two territories instead of one. — [Kansas–Nebraska Act of 1854](../articles/civil-war-and-reconstruction/kansas-nebraska-act.md) |
+| 1854-03 | Indian Commissioner George Manypenny begins negotiating cessions with 11 nations in what became Kansas Territory; by June they cede nearly 13 million acres. — [Kansas–Nebraska Act of 1854](../articles/civil-war-and-reconstruction/kansas-nebraska-act.md) |
+| 1854-03-04 | The Senate passes the bill 37 to 14 before dawn. — [Kansas–Nebraska Act of 1854](../articles/civil-war-and-reconstruction/kansas-nebraska-act.md) |
 | 1854-05 | In the federal suit against John F. A. Sanford, Judge Robert W. Wells rules that Missouri law governs and finds for Sanford. — [Dred Scott v. Sandford](../articles/rights-and-law/dred-scott-v-sandford.md) |
+| 1854-05-22 | The House passes the bill 113 to 100, with northern Democrats split 44 to 44. — [Kansas–Nebraska Act of 1854](../articles/civil-war-and-reconstruction/kansas-nebraska-act.md) |
+| 1854-05-30 | **[Kansas–Nebraska Act of 1854](../articles/civil-war-and-reconstruction/kansas-nebraska-act.md)** (Law) |
+| 1854-05-30 | President Franklin Pierce signs the act, organizing Kansas and Nebraska territories. — [Kansas–Nebraska Act of 1854](../articles/civil-war-and-reconstruction/kansas-nebraska-act.md) |
+| 1854-10-16 | Abraham Lincoln attacks the act and popular sovereignty in a speech at Peoria, Illinois. — [Kansas–Nebraska Act of 1854](../articles/civil-war-and-reconstruction/kansas-nebraska-act.md) |
 | 1854-12-25 | Rescues her three remaining brothers from Dorchester County. — [Harriet Tubman](../articles/people-who-shaped-america/harriet-tubman.md) |
 | 1856 | Works as an agent of the American Anti-Slavery Society. — [Susan B. Anthony](../articles/people-who-shaped-america/susan-b-anthony.md) |
 | 1856-02 | The U.S. Supreme Court hears the first oral argument; it orders re-argument, held in December 1856. — [Dred Scott v. Sandford](../articles/rights-and-law/dred-scott-v-sandford.md) |
@@ -830,6 +838,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1860-12-20 | A South Carolina convention votes 169 to 0 to secede after Abraham Lincoln's election. — [American Civil War](../articles/civil-war-and-reconstruction/american-civil-war.md) |
 | 1860-12-20 | South Carolina secedes, citing northern hostility to slavery and northern laws obstructing the return of fugitives from slavery. — [Federalism](../articles/constitution-and-government/federalism.md) |
 | 1861 | Congress passes the Corwin Amendment, which would have shielded slavery in the states; it is never ratified. — [Thirteenth Amendment](../articles/civil-war-and-reconstruction/thirteenth-amendment.md) |
+| 1861 | Kansas enters the Union as a state. — [Kansas–Nebraska Act of 1854](../articles/civil-war-and-reconstruction/kansas-nebraska-act.md) |
 | 1861 | Morrill reintroduces the bill after Southern states secede. — [Morrill Land-Grant College Act](../articles/science-and-innovation/morrill-land-grant-college-act.md) |
 | 1861-02-01 | The Secession Convention in Austin adopts the Ordinance of Secession. — [Texas](../articles/states-and-territories/texas.md) |
 | 1861-02-04 | Delegates from seven seceded states meet in Montgomery, Alabama, and choose Jefferson Davis as Confederate president. — [American Civil War](../articles/civil-war-and-reconstruction/american-civil-war.md) |
@@ -937,6 +946,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1866-07-23 | Congress reduces the authorized seats to seven, to be reached as vacancies occur. — [Supreme Court of the United States](../articles/constitution-and-government/supreme-court-of-the-united-states.md) |
 | 1866-07-30 | White mobs, joined by police, kill nearly fifty people at the Mechanics' Institute during a convention seeking Black men's voting rights. — [New Orleans](../articles/regions-cities-and-landmarks/new-orleans.md) |
 | 1867 | Congress enfranchises Black men in the District of Columbia and the territories and requires seceded states to guarantee Black male suffrage as a condition of readmission. — [Fifteenth Amendment](../articles/democracy-and-elections/fifteenth-amendment.md) |
+| 1867 | Nebraska enters the Union as a state. — [Kansas–Nebraska Act of 1854](../articles/civil-war-and-reconstruction/kansas-nebraska-act.md) |
 | 1867 | The Military Reconstruction Act places the bureau under the commanders of five military districts. — [Freedmen's Bureau](../articles/civil-war-and-reconstruction/freedmens-bureau.md) |
 | 1867-03-02 | The Reconstruction Act places former Confederate states except Tennessee under military districts. — [Fourteenth Amendment](../articles/rights-and-law/fourteenth-amendment.md) |
 | 1867-03-02 | The first Reconstruction Act becomes law over Johnson's veto, placing the former Confederate states except Tennessee under five military districts. — [Reconstruction era](../articles/civil-war-and-reconstruction/reconstruction-era.md) |

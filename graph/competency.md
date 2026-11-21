@@ -43,6 +43,7 @@ _Which nodes led to, established or affected the most other things in the graph?
 | `us:dawes-act` | 4 | Native Americans, dawes-commission, indian-land-fractionation, lone-wolf-v-hitchcock |
 | `us:deepwater-horizon-oil-spill` | 4 | Bureau of Ocean Energy Management, louisiana, national-commission-on-the-bp-deepwater-horizon-oil-spill-and-offshore-drilling, restore-act |
 | `us:japanese-american-incarceration` | 4 | civil-liberties-act-of-1988, commission-on-wartime-relocation-and-internment-of-civilians, japanese-americans, korematsu-v-united-states |
+| `us:kansas-nebraska-act` | 4 | Native Americans, bleeding-kansas, kaw-nation, republican-party |
 | `us:louisiana-purchase` | 4 | Missouri Compromise, Native Americans, adams-onis-treaty, territory-of-orleans |
 | `us:mccarthyism` | 4 | Labor movement, communist-control-act-of-1954, lgbtq-americans, mccarran-internal-security-act |
 | `us:reconstruction-era` | 4 | African Americans, Fifteenth Amendment, Fourteenth Amendment, sharecropping |
@@ -55,9 +56,8 @@ _Which nodes led to, established or affected the most other things in the graph?
 | `us:articles-of-confederation` | 3 | Constitutional Convention, Haudenosaunee, tenth-amendment |
 | `us:attack-on-pearl-harbor` | 3 | Japanese American incarceration during World War II, day-of-infamy-speech, pearl-harbor-investigations |
 | `us:census-and-apportionment` | 3 | Native Americans, United States House of Representatives, redistricting-in-the-united-states |
-| `us:cherokee-nation-v-georgia` | 3 | cherokee-nation, federal-trust-responsibility, worcester-v-georgia |
 
-…and 104 more.
+…and 105 more.
 
 ## Happenings by era
 
@@ -124,7 +124,7 @@ _Which nodes are myths, contested or open to competing interpretations, and what
 | `us:gilded-age` | interpretive |  |
 | `us:good-neighbor-policy` | interpretive |  |
 
-…and 54 more.
+…and 55 more.
 
 ## Places with nothing tied to them (gap)
 
