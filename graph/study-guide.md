@@ -192,6 +192,21 @@ Every review question (with its answer) and every myth-versus-fact in the graph,
 - **Q:** Why do historians disagree about Governor Orval Faubus's motives?
   **A:** Before 1957 he was seen as a racial moderate who had hired Black state employees and supported Black colleges, so his biographer argues his stand was a political calculation to win re-election in 1958, while some observers insisted catering to segregationists was out of character for him; many voters rewarded him for appearing to stand up to the federal government.
 
+### [Greensboro sit-ins](../articles/cold-war-and-civil-rights/greensboro-sit-ins.md) — Event
+
+| Myth | Fact |
+|---|---|
+| The Greensboro sit-in was the first sit-in of the civil rights era, and four students acted on impulse one afternoon. | Black Americans had staged sit-ins at least since 1939 in Alexandria, Virginia, and in Baltimore in 1955 and Wichita and Oklahoma City in 1958; the Greensboro Four settled on the tactic in January 1960, with encouragement from a local merchant, and planned to buy goods first and keep the receipts before sitting down. |
+
+**Why it matters:** Treating Greensboro as a spontaneous first hides the earlier activists who tested the tactic and the deliberate organizing that made the 1960 wave possible.
+
+- **Q:** Why did the four students buy items in the store before sitting at the lunch counter?
+  **A:** Woolworth's took Black customers' money in its other departments but refused them seats at the counter; keeping receipts let the students show that a store willing to sell to them was refusing to serve them.
+- **Q:** How did the Greensboro protest grow into a regional movement?
+  **A:** Newspapers and television spread the news, students in other cities began their own sit-ins (more than 30 locations in seven states by the end of February 1960), and in April Ella Baker brought sit-in leaders together at Shaw University, where they founded SNCC.
+- **Q:** What finally made Woolworth's desegregate its Greensboro counter?
+  **A:** Months of sit-ins, picketing and a boycott cost the store an estimated $200,000 in sales, and by the end of June managers gave up; on July 25, 1960, the counter served three Black employees.
+
 ### [McCarthyism](../articles/cold-war-and-civil-rights/mccarthyism.md) — Era
 
 | Myth | Fact |

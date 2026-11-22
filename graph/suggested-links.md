@@ -21,7 +21,7 @@ Pairs of written nodes that share many neighbours but are not yet connected (Ada
 | 3.08 | `us:constitutional-convention` | `us:thomas-jefferson` | `us:benjamin-franklin`, `us:bill-of-rights`, `us:census-and-apportionment`, `us:declaration-of-independence`, `us:electoral-college` |
 | 3.02 | `us:chunkey` | `us:indian-removal-act` | `us:cahokia`, `us:cherokee-nation`, `us:chickasaw-nation`, `us:native-americans` |
 | 2.96 | `us:abolitionism` | `us:pennsylvania` | `us:benjamin-franklin`, `us:harriet-tubman`, `us:liberty-bell`, `us:pennsylvania-gradual-abolition-act`, `us:quakers` |
-| 2.96 | `us:great-migration` | `us:servicemens-readjustment-act-of-1944` | `us:fair-housing-act-of-1968`, `us:jim-crow-laws`, `us:redlining`, `us:world-war-ii-and-the-united-states` |
+| 2.95 | `us:great-migration` | `us:servicemens-readjustment-act-of-1944` | `us:fair-housing-act-of-1968`, `us:jim-crow-laws`, `us:redlining`, `us:world-war-ii-and-the-united-states` |
 | 2.95 | `us:house-of-representatives` | `us:slavery-in-the-united-states` | `us:abraham-lincoln`, `us:census-and-apportionment`, `us:electoral-college`, `us:james-madison`, `us:john-marshall` |
 | 2.83 | `us:george-washington` | `us:james-madison` | `us:alexander-hamilton`, `us:articles-of-confederation`, `us:bill-of-rights`, `us:constitutional-convention`, `us:presidency-of-the-united-states` |
 | 2.77 | `us:native-americans` | `us:united-states-congress` | `us:census-and-apportionment`, `us:covid-19-pandemic-in-the-united-states`, `us:dawes-act`, `us:hayden-geological-survey-of-1871`, `us:indian-removal-act` |

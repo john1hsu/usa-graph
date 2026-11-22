@@ -12787,6 +12787,162 @@
   ]
  },
  {
+  "id": "us:greensboro-sit-ins",
+  "title": "Greensboro sit-ins",
+  "aliases": [
+   "Greensboro sit-in",
+   "Woolworth's sit-in",
+   "Greensboro Woolworth's sit-in of 1960"
+  ],
+  "type": "Event",
+  "domain": "cold-war-and-civil-rights",
+  "level": "introductory",
+  "evidenceStatus": "established",
+  "file": "articles/cold-war-and-civil-rights/greensboro-sit-ins.md",
+  "created": "2026-11-22",
+  "summary": "A nonviolent protest campaign that began on February 1, 1960, when four Black students from North Carolina A&T sat at the whites-only lunch counter of the F. W. Woolworth store in Greensboro, North Carolina; it spread across the South, helped give rise to the Student Nonviolent Coordinating Committee, and ended with the counter's desegregation on July 25, 1960.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "us:civil-rights-movement"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:student-nonviolent-coordinating-committee"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:ella-baker"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:racial-segregation-in-the-united-states"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:montgomery-bus-boycott"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:martin-luther-king-jr"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:naacp"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:north-carolina"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:international-civil-rights-center-and-museum"
+   },
+   {
+    "predicate": "uso:requires",
+    "object": "us:jim-crow-laws"
+   },
+   {
+    "predicate": "uso:occurredIn",
+    "object": "us:greensboro",
+    "source": "s2",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:ledTo",
+    "object": "us:student-nonviolent-coordinating-committee",
+    "source": "s5",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:ledTo",
+    "object": "us:civil-rights-act-of-1964",
+    "source": "s3",
+    "confidence": "medium"
+   }
+  ],
+  "start": "1960-02-01",
+  "end": "1960-07-25",
+  "review": [
+   {
+    "question": "Why did the four students buy items in the store before sitting at the lunch counter?",
+    "answer": "Woolworth's took Black customers' money in its other departments but refused them seats at the counter; keeping receipts let the students show that a store willing to sell to them was refusing to serve them."
+   },
+   {
+    "question": "How did the Greensboro protest grow into a regional movement?",
+    "answer": "Newspapers and television spread the news, students in other cities began their own sit-ins (more than 30 locations in seven states by the end of February 1960), and in April Ella Baker brought sit-in leaders together at Shaw University, where they founded SNCC."
+   },
+   {
+    "question": "What finally made Woolworth's desegregate its Greensboro counter?",
+    "answer": "Months of sit-ins, picketing and a boycott cost the store an estimated $200,000 in sales, and by the end of June managers gave up; on July 25, 1960, the counter served three Black employees."
+   }
+  ],
+  "timeline": [
+   {
+    "date": "1960-01",
+    "event": "N.C. A&T freshman Joseph McNeil suggests the sit-in tactic to three classmates."
+   },
+   {
+    "date": "1960-02-01",
+    "event": "McNeil, Ezell Blair Jr., Franklin McCain and David Richmond buy items at Woolworth's, sit at the whites-only lunch counter and stay until closing."
+   },
+   {
+    "date": "1960-02-02",
+    "event": "About two dozen students return to the counter; there are no confrontations."
+   },
+   {
+    "date": "1960-02-03",
+    "event": "Students fill 63 of the counter's 65 seats, protests spread to the S. H. Kress store, and the Greensboro NAACP endorses the sit-ins."
+   },
+   {
+    "date": "1960-02-04",
+    "event": "Three white students from Woman's College (now UNC Greensboro) join the protest."
+   },
+   {
+    "date": "1960-02-05",
+    "event": "More than 300 students take part; three white men are charged with intimidation, the first arrests of the campaign."
+   },
+   {
+    "date": "1960-02-29",
+    "event": "By the end of February, sit-ins have taken place at more than 30 locations in seven states."
+   },
+   {
+    "date": "1960-04-01",
+    "event": "After talks with a city committee fail, demonstrations and picketing resume in Greensboro."
+   },
+   {
+    "date": "1960-04-15",
+    "event": "A conference of sit-in leaders called by Ella Baker opens at Shaw University in Raleigh and founds SNCC."
+   },
+   {
+    "date": "1960-07-25",
+    "event": "Three Black Woolworth's employees are served at the Greensboro lunch counter, ending its segregation."
+   },
+   {
+    "date": "1993-10",
+    "event": "The Greensboro Woolworth's lunch counter serves its last meals."
+   },
+   {
+    "date": "2017-06-28",
+    "event": "A section of the counter goes on permanent display at the Smithsonian's National Museum of American History."
+   }
+  ],
+  "misconception": {
+   "myth": "The Greensboro sit-in was the first sit-in of the civil rights era, and four students acted on impulse one afternoon.",
+   "fact": "Black Americans had staged sit-ins at least since 1939 in Alexandria, Virginia, and in Baltimore in 1955 and Wichita and Oklahoma City in 1958; the Greensboro Four settled on the tactic in January 1960, with encouragement from a local merchant, and planned to buy goods first and keep the receipts before sitting down.",
+   "why": "Treating Greensboro as a spontaneous first hides the earlier activists who tested the tactic and the deliberate organizing that made the 1960 wave possible."
+  },
+  "source_urls": [
+   "https://kinginstitute.stanford.edu/sit-ins",
+   "https://www.census.gov/about/history/stories/monthly/2025/february-2025.html",
+   "https://my.si.edu/exhibitions/greensboro-lunch-counter",
+   "https://gateway.uncg.edu/crg/essay1960",
+   "https://www.ncpedia.org/greensboro-sit-ins",
+   "https://www.dncr.nc.gov/blog/2015/07/25/sit-in-victory-in-greensboro-1960",
+   "https://www.ncpedia.org/greensboro-four"
+  ]
+ },
+ {
   "id": "us:gullah-geechee",
   "title": "Gullah Geechee",
   "aliases": [

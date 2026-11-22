@@ -1882,10 +1882,21 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1959-08-21 | Eisenhower proclaims Hawaii the fiftieth state, after island voters accept statehood in a June referendum. — [Hawaii](../articles/states-and-territories/hawaii.md) |
 | 1959-08-21 | Hawaii becomes the fiftieth state. — [United States](../articles/states-and-territories/united-states.md) |
 | 1960 | Discussions in Princeton's experimental gravitation research group plant the idea of ranging to a reflector on the Moon. — [Lunar Laser Ranging Experiment](../articles/science-and-innovation/lunar-laser-ranging-experiment.md) |
+| 1960-01 | N.C. A&T freshman Joseph McNeil suggests the sit-in tactic to three classmates. — [Greensboro sit-ins](../articles/cold-war-and-civil-rights/greensboro-sit-ins.md) |
+| 1960-02-01 – 1960-07-25 | **[Greensboro sit-ins](../articles/cold-war-and-civil-rights/greensboro-sit-ins.md)** (Event) |
 | 1960-02-01 | Four North Carolina A&T students sit in at a segregated Woolworth's lunch counter in Greensboro; sit-ins spread across the South. — [Civil rights movement](../articles/cold-war-and-civil-rights/civil-rights-movement.md) |
+| 1960-02-01 | McNeil, Ezell Blair Jr., Franklin McCain and David Richmond buy items at Woolworth's, sit at the whites-only lunch counter and stay until closing. — [Greensboro sit-ins](../articles/cold-war-and-civil-rights/greensboro-sit-ins.md) |
+| 1960-02-02 | About two dozen students return to the counter; there are no confrontations. — [Greensboro sit-ins](../articles/cold-war-and-civil-rights/greensboro-sit-ins.md) |
+| 1960-02-03 | Students fill 63 of the counter's 65 seats, protests spread to the S. H. Kress store, and the Greensboro NAACP endorses the sit-ins. — [Greensboro sit-ins](../articles/cold-war-and-civil-rights/greensboro-sit-ins.md) |
+| 1960-02-04 | Three white students from Woman's College (now UNC Greensboro) join the protest. — [Greensboro sit-ins](../articles/cold-war-and-civil-rights/greensboro-sit-ins.md) |
+| 1960-02-05 | More than 300 students take part; three white men are charged with intimidation, the first arrests of the campaign. — [Greensboro sit-ins](../articles/cold-war-and-civil-rights/greensboro-sit-ins.md) |
+| 1960-02-29 | By the end of February, sit-ins have taken place at more than 30 locations in seven states. — [Greensboro sit-ins](../articles/cold-war-and-civil-rights/greensboro-sit-ins.md) |
 | 1960-04 | Students found the Student Nonviolent Coordinating Committee at a conference at Shaw University organized by Ella Baker. — [Civil rights movement](../articles/cold-war-and-civil-rights/civil-rights-movement.md) |
 | 1960-04 | With Ella Baker, convenes the student conference at Shaw University that founds SNCC; moves to Atlanta that year as co-pastor of Ebenezer Baptist Church. — [Martin Luther King Jr.](../articles/people-who-shaped-america/martin-luther-king-jr.md) |
+| 1960-04-01 | After talks with a city committee fail, demonstrations and picketing resume in Greensboro. — [Greensboro sit-ins](../articles/cold-war-and-civil-rights/greensboro-sit-ins.md) |
+| 1960-04-15 | A conference of sit-in leaders called by Ella Baker opens at Shaw University in Raleigh and founds SNCC. — [Greensboro sit-ins](../articles/cold-war-and-civil-rights/greensboro-sit-ins.md) |
 | 1960-07-04 | The 50-star flag becomes official after Hawaii's admission as a state. — [National symbols of the United States](../articles/symbols-and-national-identity/national-symbols-of-the-united-states.md) |
+| 1960-07-25 | Three Black Woolworth's employees are served at the Greensboro lunch counter, ending its segregation. — [Greensboro sit-ins](../articles/cold-war-and-civil-rights/greensboro-sit-ins.md) |
 | 1961 | Larry Gara's The Liberty Line challenges the legend and recentres freedom seekers themselves. — [Underground Railroad](../articles/civil-war-and-reconstruction/underground-railroad.md) |
 | 1961-04 | Soviet cosmonaut Yuri Gagarin becomes the first person to orbit Earth. — [Apollo 11](../articles/science-and-innovation/apollo-11.md) |
 | 1961-05-04 | Thirteen Black and white Freedom Riders leave Washington, D.C., to test the desegregation of interstate bus travel. — [Civil rights movement](../articles/cold-war-and-civil-rights/civil-rights-movement.md) |
@@ -2106,6 +2117,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1992-05-07 | The second of the twelve 1789 articles, on congressional pay, is ratified as the Twenty-seventh Amendment. — [Bill of Rights](../articles/rights-and-law/bill-of-rights.md) |
 | 1992-10-16 | The Dayton Aviation Heritage Preservation Act makes the field part of a new national historical park. — [Huffman Prairie Flying Field](../articles/science-and-innovation/huffman-prairie.md) |
 | 1993 | A major summer flood strikes the upper river basin. — [Mississippi River](../articles/geography-and-environment/mississippi-river.md) |
+| 1993-10 | The Greensboro Woolworth's lunch counter serves its last meals. — [Greensboro sit-ins](../articles/cold-war-and-civil-rights/greensboro-sit-ins.md) |
 | 1993-11-23 | Congress apologizes for the U.S. role in the 1893 overthrow (Public Law 103-150). — [Hawaii](../articles/states-and-territories/hawaii.md) |
 | 1994-04-04 | Jamestown Rediscovery begins excavating and soon finds that James Fort survives on dry land. — [Jamestown Colony](../articles/colonial-and-revolutionary/jamestown.md) |
 | 1994-08-23 | Congress designates December 7 as National Pearl Harbor Remembrance Day. — [Attack on Pearl Harbor](../articles/depression-and-world-war/attack-on-pearl-harbor.md) |
@@ -2265,6 +2277,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 2016-05-09 | The National Bison Legacy Act makes the North American bison the national mammal. — [National symbols of the United States](../articles/symbols-and-national-identity/national-symbols-of-the-united-states.md) |
 | 2016-06-26 | Panama's expanded canal opens with new locks on both coasts. — [Third Locks Project](../articles/foreign-relations-and-military/third-locks-project.md) |
 | 2016-06-26 | The inaugural transit of the expanded canal begins at the new Agua Clara Locks on the Atlantic side. — [Gatun Locks](../articles/regions-cities-and-landmarks/gatun-locks.md) |
+| 2017-06-28 | A section of the counter goes on permanent display at the Smithsonian's National Museum of American History. — [Greensboro sit-ins](../articles/cold-war-and-civil-rights/greensboro-sit-ins.md) |
 | 2018-09-12 | The U.S. Commission on Civil Rights unanimously recommends that Congress restore preclearance. — [Shelby County v. Holder](../articles/democracy-and-elections/shelby-county-v-holder.md) |
 | 2018-11-16 | The Cybersecurity and Infrastructure Security Agency Act creates CISA within the department. — [Department of Homeland Security](../articles/contemporary-america/department-of-homeland-security.md) |
 | 2018-12-20 | Congress awards a collective Congressional Gold Medal to Chinese American veterans of World War II. — [Chinese Americans](../articles/society-and-people/chinese-americans.md) |

@@ -10223,6 +10223,148 @@
    }
   },
   {
+   "@id": "https://github.com/john1hsu/usa-graph/id/greensboro-sit-ins/misconception",
+   "@type": "uso:Misconception",
+   "uso:fact": "Black Americans had staged sit-ins at least since 1939 in Alexandria, Virginia, and in Baltimore in 1955 and Wichita and Oklahoma City in 1958; the Greensboro Four settled on the tactic in January 1960, with encouragement from a local merchant, and planned to buy goods first and keep the receipts before sitting down.",
+   "uso:myth": "The Greensboro sit-in was the first sit-in of the civil rights era, and four students acted on impulse one afternoon.",
+   "uso:why": "Treating Greensboro as a spontaneous first hides the earlier activists who tested the tactic and the deliberate organizing that made the 1960 wave possible."
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/greensboro-sit-ins/review/1",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "Why did the four students buy items in the store before sitting at the lunch counter?",
+   "uso:answer": "Woolworth's took Black customers' money in its other departments but refused them seats at the counter; keeping receipts let the students show that a store willing to sell to them was refusing to serve them.",
+   "uso:questionFor": {
+    "@id": "us:greensboro-sit-ins"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/greensboro-sit-ins/review/2",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "How did the Greensboro protest grow into a regional movement?",
+   "uso:answer": "Newspapers and television spread the news, students in other cities began their own sit-ins (more than 30 locations in seven states by the end of February 1960), and in April Ella Baker brought sit-in leaders together at Shaw University, where they founded SNCC.",
+   "uso:questionFor": {
+    "@id": "us:greensboro-sit-ins"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/greensboro-sit-ins/review/3",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "What finally made Woolworth's desegregate its Greensboro counter?",
+   "uso:answer": "Months of sit-ins, picketing and a boycott cost the store an estimated $200,000 in sales, and by the end of June managers gave up; on July 25, 1960, the counter served three Black employees.",
+   "uso:questionFor": {
+    "@id": "us:greensboro-sit-ins"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/greensboro-sit-ins/timeline/1",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "N.C. A&T freshman Joseph McNeil suggests the sit-in tactic to three classmates.",
+   "uso:date": {
+    "@type": "xsd:gYearMonth",
+    "@value": "1960-01"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/greensboro-sit-ins/timeline/10",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Three Black Woolworth's employees are served at the Greensboro lunch counter, ending its segregation.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1960-07-25"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/greensboro-sit-ins/timeline/11",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The Greensboro Woolworth's lunch counter serves its last meals.",
+   "uso:date": {
+    "@type": "xsd:gYearMonth",
+    "@value": "1993-10"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/greensboro-sit-ins/timeline/12",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "A section of the counter goes on permanent display at the Smithsonian's National Museum of American History.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "2017-06-28"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/greensboro-sit-ins/timeline/2",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "McNeil, Ezell Blair Jr., Franklin McCain and David Richmond buy items at Woolworth's, sit at the whites-only lunch counter and stay until closing.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1960-02-01"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/greensboro-sit-ins/timeline/3",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "About two dozen students return to the counter; there are no confrontations.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1960-02-02"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/greensboro-sit-ins/timeline/4",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Students fill 63 of the counter's 65 seats, protests spread to the S. H. Kress store, and the Greensboro NAACP endorses the sit-ins.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1960-02-03"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/greensboro-sit-ins/timeline/5",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Three white students from Woman's College (now UNC Greensboro) join the protest.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1960-02-04"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/greensboro-sit-ins/timeline/6",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "More than 300 students take part; three white men are charged with intimidation, the first arrests of the campaign.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1960-02-05"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/greensboro-sit-ins/timeline/7",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "By the end of February, sit-ins have taken place at more than 30 locations in seven states.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1960-02-29"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/greensboro-sit-ins/timeline/8",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "After talks with a city committee fail, demonstrations and picketing resume in Greensboro.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1960-04-01"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/greensboro-sit-ins/timeline/9",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "A conference of sit-in leaders called by Ella Baker opens at Shaw University in Raleigh and founds SNCC.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1960-04-15"
+   }
+  },
+  {
    "@id": "https://github.com/john1hsu/usa-graph/id/gullah-geechee/misconception",
    "@type": "uso:Misconception",
    "uso:fact": "Gullah is a creole language; Lorenzo Dow Turner documented thousands of items of African origin in it, including about 3,600 African-derived \"basket names\" given to children.",
@@ -30140,6 +30282,104 @@
     "@id": "https://www.marketplace.org/2014/03/03/creepy-eye-back-dollar-bill-explained/"
    },
    "uso:sourceType": "news"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/greensboro-sit-ins/s1",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-22"
+   },
+   "dcterms:publisher": "Martin Luther King, Jr. Research and Education Institute, Stanford University",
+   "dcterms:title": "Sit-ins",
+   "schema:url": {
+    "@id": "https://kinginstitute.stanford.edu/sit-ins"
+   },
+   "uso:sourceType": "academic"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/greensboro-sit-ins/s2",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-22"
+   },
+   "dcterms:publisher": "U.S. Census Bureau (Jason G. Gauthier)",
+   "dcterms:title": "History and the Census: The 1960 Greensboro Sit-In",
+   "schema:url": {
+    "@id": "https://www.census.gov/about/history/stories/monthly/2025/february-2025.html"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/greensboro-sit-ins/s3",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-22"
+   },
+   "dcterms:publisher": "Smithsonian Institution, National Museum of American History",
+   "dcterms:title": "Greensboro Lunch Counter",
+   "schema:url": {
+    "@id": "https://my.si.edu/exhibitions/greensboro-lunch-counter"
+   },
+   "uso:sourceType": "museum"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/greensboro-sit-ins/s4",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-22"
+   },
+   "dcterms:publisher": "Jason Alston, Civil Rights Greensboro, University Libraries, UNC Greensboro",
+   "dcterms:title": "Greensboro Sit-Ins at Woolworth's, February-July 1960",
+   "schema:url": {
+    "@id": "https://gateway.uncg.edu/crg/essay1960"
+   },
+   "uso:sourceType": "academic"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/greensboro-sit-ins/s5",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-22"
+   },
+   "dcterms:publisher": "NCpedia (State Library of North Carolina)",
+   "dcterms:title": "Greensboro Sit-Ins",
+   "schema:url": {
+    "@id": "https://www.ncpedia.org/greensboro-sit-ins"
+   },
+   "uso:sourceType": "scholarly-encyclopedia"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/greensboro-sit-ins/s6",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-22"
+   },
+   "dcterms:publisher": "North Carolina Department of Natural and Cultural Resources",
+   "dcterms:title": "Sit-in Victory in Greensboro, 1960",
+   "schema:url": {
+    "@id": "https://www.dncr.nc.gov/blog/2015/07/25/sit-in-victory-in-greensboro-1960"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/greensboro-sit-ins/s7",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-22"
+   },
+   "dcterms:publisher": "NCpedia (State Library of North Carolina)",
+   "dcterms:title": "Civil Rights Sit-Ins at Woolworth",
+   "schema:url": {
+    "@id": "https://www.ncpedia.org/greensboro-four"
+   },
+   "uso:sourceType": "scholarly-encyclopedia"
   },
   {
    "@id": "https://github.com/john1hsu/usa-graph/id/source/gullah-geechee/s1",
@@ -60143,6 +60383,144 @@
     },
     {
      "@id": "https://github.com/john1hsu/usa-graph/id/great-seal-of-the-united-states/timeline/9"
+    }
+   ]
+  },
+  {
+   "@id": "us:greensboro-sit-ins",
+   "@type": "uso:Event",
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-22"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/greensboro-sit-ins/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/greensboro-sit-ins/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/greensboro-sit-ins/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/greensboro-sit-ins/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/greensboro-sit-ins/s5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/greensboro-sit-ins/s6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/greensboro-sit-ins/s7"
+    }
+   ],
+   "rdfs:label": "Greensboro sit-ins",
+   "schema:endDate": {
+    "@type": "xsd:date",
+    "@value": "1960-07-25"
+   },
+   "schema:startDate": {
+    "@type": "xsd:date",
+    "@value": "1960-02-01"
+   },
+   "skos:altLabel": [
+    "Greensboro Woolworth's sit-in of 1960",
+    "Greensboro sit-in",
+    "Woolworth's sit-in"
+   ],
+   "skos:broader": {
+    "@id": "us:civil-rights-movement"
+   },
+   "skos:definition": "A nonviolent protest campaign that began on February 1, 1960, when four Black students from North Carolina A&T sat at the whites-only lunch counter of the F. W. Woolworth store in Greensboro, North Carolina; it spread across the South, helped give rise to the Student Nonviolent Coordinating Committee, and ended with the counter's desegregation on July 25, 1960.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/usa-graph/id/scheme/cold-war-and-civil-rights"
+   },
+   "skos:prefLabel": "Greensboro sit-ins",
+   "skos:related": [
+    {
+     "@id": "us:ella-baker"
+    },
+    {
+     "@id": "us:international-civil-rights-center-and-museum"
+    },
+    {
+     "@id": "us:martin-luther-king-jr"
+    },
+    {
+     "@id": "us:montgomery-bus-boycott"
+    },
+    {
+     "@id": "us:naacp"
+    },
+    {
+     "@id": "us:north-carolina"
+    },
+    {
+     "@id": "us:racial-segregation-in-the-united-states"
+    },
+    {
+     "@id": "us:student-nonviolent-coordinating-committee"
+    }
+   ],
+   "uso:domain": "cold-war-and-civil-rights",
+   "uso:evidenceStatus": "established",
+   "uso:file": "articles/cold-war-and-civil-rights/greensboro-sit-ins.md",
+   "uso:ledTo": [
+    {
+     "@id": "us:civil-rights-act-of-1964"
+    },
+    {
+     "@id": "us:student-nonviolent-coordinating-committee"
+    }
+   ],
+   "uso:level": "introductory",
+   "uso:misconception": {
+    "@id": "https://github.com/john1hsu/usa-graph/id/greensboro-sit-ins/misconception"
+   },
+   "uso:occurredIn": {
+    "@id": "us:greensboro"
+   },
+   "uso:requires": {
+    "@id": "us:jim-crow-laws"
+   },
+   "uso:timelineEntry": [
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/greensboro-sit-ins/timeline/1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/greensboro-sit-ins/timeline/10"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/greensboro-sit-ins/timeline/11"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/greensboro-sit-ins/timeline/12"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/greensboro-sit-ins/timeline/2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/greensboro-sit-ins/timeline/3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/greensboro-sit-ins/timeline/4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/greensboro-sit-ins/timeline/5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/greensboro-sit-ins/timeline/6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/greensboro-sit-ins/timeline/7"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/greensboro-sit-ins/timeline/8"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/greensboro-sit-ins/timeline/9"
     }
    ]
   },

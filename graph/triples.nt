@@ -7559,6 +7559,106 @@
 <https://github.com/john1hsu/usa-graph/id/great-seal-of-the-united-states> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/great-seal-of-the-united-states/timeline/8> .
 <https://github.com/john1hsu/usa-graph/id/great-seal-of-the-united-states> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/great-seal-of-the-united-states/timeline/9> .
 <https://github.com/john1hsu/usa-graph/id/great-seal-of-the-united-states> <https://schema.org/startDate> "1782-06-20"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/greensboro-sit-ins/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Misconception> .
+<https://github.com/john1hsu/usa-graph/id/greensboro-sit-ins/misconception> <https://github.com/john1hsu/usa-graph/ontology#fact> "Black Americans had staged sit-ins at least since 1939 in Alexandria, Virginia, and in Baltimore in 1955 and Wichita and Oklahoma City in 1958; the Greensboro Four settled on the tactic in January 1960, with encouragement from a local merchant, and planned to buy goods first and keep the receipts before sitting down." .
+<https://github.com/john1hsu/usa-graph/id/greensboro-sit-ins/misconception> <https://github.com/john1hsu/usa-graph/ontology#myth> "The Greensboro sit-in was the first sit-in of the civil rights era, and four students acted on impulse one afternoon." .
+<https://github.com/john1hsu/usa-graph/id/greensboro-sit-ins/misconception> <https://github.com/john1hsu/usa-graph/ontology#why> "Treating Greensboro as a spontaneous first hides the earlier activists who tested the tactic and the deliberate organizing that made the 1960 wave possible." .
+<https://github.com/john1hsu/usa-graph/id/greensboro-sit-ins/review/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+<https://github.com/john1hsu/usa-graph/id/greensboro-sit-ins/review/1> <http://www.w3.org/2000/01/rdf-schema#label> "Why did the four students buy items in the store before sitting at the lunch counter?" .
+<https://github.com/john1hsu/usa-graph/id/greensboro-sit-ins/review/1> <https://github.com/john1hsu/usa-graph/ontology#answer> "Woolworth's took Black customers' money in its other departments but refused them seats at the counter; keeping receipts let the students show that a store willing to sell to them was refusing to serve them." .
+<https://github.com/john1hsu/usa-graph/id/greensboro-sit-ins/review/1> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/greensboro-sit-ins> .
+<https://github.com/john1hsu/usa-graph/id/greensboro-sit-ins/review/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+<https://github.com/john1hsu/usa-graph/id/greensboro-sit-ins/review/2> <http://www.w3.org/2000/01/rdf-schema#label> "How did the Greensboro protest grow into a regional movement?" .
+<https://github.com/john1hsu/usa-graph/id/greensboro-sit-ins/review/2> <https://github.com/john1hsu/usa-graph/ontology#answer> "Newspapers and television spread the news, students in other cities began their own sit-ins (more than 30 locations in seven states by the end of February 1960), and in April Ella Baker brought sit-in leaders together at Shaw University, where they founded SNCC." .
+<https://github.com/john1hsu/usa-graph/id/greensboro-sit-ins/review/2> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/greensboro-sit-ins> .
+<https://github.com/john1hsu/usa-graph/id/greensboro-sit-ins/review/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+<https://github.com/john1hsu/usa-graph/id/greensboro-sit-ins/review/3> <http://www.w3.org/2000/01/rdf-schema#label> "What finally made Woolworth's desegregate its Greensboro counter?" .
+<https://github.com/john1hsu/usa-graph/id/greensboro-sit-ins/review/3> <https://github.com/john1hsu/usa-graph/ontology#answer> "Months of sit-ins, picketing and a boycott cost the store an estimated $200,000 in sales, and by the end of June managers gave up; on July 25, 1960, the counter served three Black employees." .
+<https://github.com/john1hsu/usa-graph/id/greensboro-sit-ins/review/3> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/greensboro-sit-ins> .
+<https://github.com/john1hsu/usa-graph/id/greensboro-sit-ins/timeline/10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/greensboro-sit-ins/timeline/10> <http://www.w3.org/2000/01/rdf-schema#label> "Three Black Woolworth's employees are served at the Greensboro lunch counter, ending its segregation." .
+<https://github.com/john1hsu/usa-graph/id/greensboro-sit-ins/timeline/10> <https://github.com/john1hsu/usa-graph/ontology#date> "1960-07-25"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/greensboro-sit-ins/timeline/11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/greensboro-sit-ins/timeline/11> <http://www.w3.org/2000/01/rdf-schema#label> "The Greensboro Woolworth's lunch counter serves its last meals." .
+<https://github.com/john1hsu/usa-graph/id/greensboro-sit-ins/timeline/11> <https://github.com/john1hsu/usa-graph/ontology#date> "1993-10"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> .
+<https://github.com/john1hsu/usa-graph/id/greensboro-sit-ins/timeline/12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/greensboro-sit-ins/timeline/12> <http://www.w3.org/2000/01/rdf-schema#label> "A section of the counter goes on permanent display at the Smithsonian's National Museum of American History." .
+<https://github.com/john1hsu/usa-graph/id/greensboro-sit-ins/timeline/12> <https://github.com/john1hsu/usa-graph/ontology#date> "2017-06-28"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/greensboro-sit-ins/timeline/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/greensboro-sit-ins/timeline/1> <http://www.w3.org/2000/01/rdf-schema#label> "N.C. A&T freshman Joseph McNeil suggests the sit-in tactic to three classmates." .
+<https://github.com/john1hsu/usa-graph/id/greensboro-sit-ins/timeline/1> <https://github.com/john1hsu/usa-graph/ontology#date> "1960-01"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> .
+<https://github.com/john1hsu/usa-graph/id/greensboro-sit-ins/timeline/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/greensboro-sit-ins/timeline/2> <http://www.w3.org/2000/01/rdf-schema#label> "McNeil, Ezell Blair Jr., Franklin McCain and David Richmond buy items at Woolworth's, sit at the whites-only lunch counter and stay until closing." .
+<https://github.com/john1hsu/usa-graph/id/greensboro-sit-ins/timeline/2> <https://github.com/john1hsu/usa-graph/ontology#date> "1960-02-01"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/greensboro-sit-ins/timeline/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/greensboro-sit-ins/timeline/3> <http://www.w3.org/2000/01/rdf-schema#label> "About two dozen students return to the counter; there are no confrontations." .
+<https://github.com/john1hsu/usa-graph/id/greensboro-sit-ins/timeline/3> <https://github.com/john1hsu/usa-graph/ontology#date> "1960-02-02"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/greensboro-sit-ins/timeline/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/greensboro-sit-ins/timeline/4> <http://www.w3.org/2000/01/rdf-schema#label> "Students fill 63 of the counter's 65 seats, protests spread to the S. H. Kress store, and the Greensboro NAACP endorses the sit-ins." .
+<https://github.com/john1hsu/usa-graph/id/greensboro-sit-ins/timeline/4> <https://github.com/john1hsu/usa-graph/ontology#date> "1960-02-03"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/greensboro-sit-ins/timeline/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/greensboro-sit-ins/timeline/5> <http://www.w3.org/2000/01/rdf-schema#label> "Three white students from Woman's College (now UNC Greensboro) join the protest." .
+<https://github.com/john1hsu/usa-graph/id/greensboro-sit-ins/timeline/5> <https://github.com/john1hsu/usa-graph/ontology#date> "1960-02-04"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/greensboro-sit-ins/timeline/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/greensboro-sit-ins/timeline/6> <http://www.w3.org/2000/01/rdf-schema#label> "More than 300 students take part; three white men are charged with intimidation, the first arrests of the campaign." .
+<https://github.com/john1hsu/usa-graph/id/greensboro-sit-ins/timeline/6> <https://github.com/john1hsu/usa-graph/ontology#date> "1960-02-05"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/greensboro-sit-ins/timeline/7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/greensboro-sit-ins/timeline/7> <http://www.w3.org/2000/01/rdf-schema#label> "By the end of February, sit-ins have taken place at more than 30 locations in seven states." .
+<https://github.com/john1hsu/usa-graph/id/greensboro-sit-ins/timeline/7> <https://github.com/john1hsu/usa-graph/ontology#date> "1960-02-29"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/greensboro-sit-ins/timeline/8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/greensboro-sit-ins/timeline/8> <http://www.w3.org/2000/01/rdf-schema#label> "After talks with a city committee fail, demonstrations and picketing resume in Greensboro." .
+<https://github.com/john1hsu/usa-graph/id/greensboro-sit-ins/timeline/8> <https://github.com/john1hsu/usa-graph/ontology#date> "1960-04-01"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/greensboro-sit-ins/timeline/9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/greensboro-sit-ins/timeline/9> <http://www.w3.org/2000/01/rdf-schema#label> "A conference of sit-in leaders called by Ella Baker opens at Shaw University in Raleigh and founds SNCC." .
+<https://github.com/john1hsu/usa-graph/id/greensboro-sit-ins/timeline/9> <https://github.com/john1hsu/usa-graph/ontology#date> "1960-04-15"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/greensboro-sit-ins> <http://purl.org/dc/terms/created> "2026-11-22"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/greensboro-sit-ins> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Event> .
+<https://github.com/john1hsu/usa-graph/id/greensboro-sit-ins> <http://www.w3.org/2000/01/rdf-schema#label> "Greensboro sit-ins" .
+<https://github.com/john1hsu/usa-graph/id/greensboro-sit-ins> <http://www.w3.org/2004/02/skos/core#altLabel> "Greensboro Woolworth's sit-in of 1960" .
+<https://github.com/john1hsu/usa-graph/id/greensboro-sit-ins> <http://www.w3.org/2004/02/skos/core#altLabel> "Greensboro sit-in" .
+<https://github.com/john1hsu/usa-graph/id/greensboro-sit-ins> <http://www.w3.org/2004/02/skos/core#altLabel> "Woolworth's sit-in" .
+<https://github.com/john1hsu/usa-graph/id/greensboro-sit-ins> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/usa-graph/id/civil-rights-movement> .
+<https://github.com/john1hsu/usa-graph/id/greensboro-sit-ins> <http://www.w3.org/2004/02/skos/core#definition> "A nonviolent protest campaign that began on February 1, 1960, when four Black students from North Carolina A&T sat at the whites-only lunch counter of the F. W. Woolworth store in Greensboro, North Carolina; it spread across the South, helped give rise to the Student Nonviolent Coordinating Committee, and ended with the counter's desegregation on July 25, 1960." .
+<https://github.com/john1hsu/usa-graph/id/greensboro-sit-ins> <http://www.w3.org/2004/02/skos/core#inScheme> <https://github.com/john1hsu/usa-graph/id/scheme/cold-war-and-civil-rights> .
+<https://github.com/john1hsu/usa-graph/id/greensboro-sit-ins> <http://www.w3.org/2004/02/skos/core#prefLabel> "Greensboro sit-ins" .
+<https://github.com/john1hsu/usa-graph/id/greensboro-sit-ins> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/ella-baker> .
+<https://github.com/john1hsu/usa-graph/id/greensboro-sit-ins> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/international-civil-rights-center-and-museum> .
+<https://github.com/john1hsu/usa-graph/id/greensboro-sit-ins> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/martin-luther-king-jr> .
+<https://github.com/john1hsu/usa-graph/id/greensboro-sit-ins> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/montgomery-bus-boycott> .
+<https://github.com/john1hsu/usa-graph/id/greensboro-sit-ins> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/naacp> .
+<https://github.com/john1hsu/usa-graph/id/greensboro-sit-ins> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/north-carolina> .
+<https://github.com/john1hsu/usa-graph/id/greensboro-sit-ins> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/racial-segregation-in-the-united-states> .
+<https://github.com/john1hsu/usa-graph/id/greensboro-sit-ins> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/student-nonviolent-coordinating-committee> .
+<https://github.com/john1hsu/usa-graph/id/greensboro-sit-ins> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/greensboro-sit-ins/s1> .
+<https://github.com/john1hsu/usa-graph/id/greensboro-sit-ins> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/greensboro-sit-ins/s2> .
+<https://github.com/john1hsu/usa-graph/id/greensboro-sit-ins> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/greensboro-sit-ins/s3> .
+<https://github.com/john1hsu/usa-graph/id/greensboro-sit-ins> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/greensboro-sit-ins/s4> .
+<https://github.com/john1hsu/usa-graph/id/greensboro-sit-ins> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/greensboro-sit-ins/s5> .
+<https://github.com/john1hsu/usa-graph/id/greensboro-sit-ins> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/greensboro-sit-ins/s6> .
+<https://github.com/john1hsu/usa-graph/id/greensboro-sit-ins> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/greensboro-sit-ins/s7> .
+<https://github.com/john1hsu/usa-graph/id/greensboro-sit-ins> <https://github.com/john1hsu/usa-graph/ontology#domain> "cold-war-and-civil-rights" .
+<https://github.com/john1hsu/usa-graph/id/greensboro-sit-ins> <https://github.com/john1hsu/usa-graph/ontology#evidenceStatus> "established" .
+<https://github.com/john1hsu/usa-graph/id/greensboro-sit-ins> <https://github.com/john1hsu/usa-graph/ontology#file> "articles/cold-war-and-civil-rights/greensboro-sit-ins.md" .
+<https://github.com/john1hsu/usa-graph/id/greensboro-sit-ins> <https://github.com/john1hsu/usa-graph/ontology#ledTo> <https://github.com/john1hsu/usa-graph/id/civil-rights-act-of-1964> .
+<https://github.com/john1hsu/usa-graph/id/greensboro-sit-ins> <https://github.com/john1hsu/usa-graph/ontology#ledTo> <https://github.com/john1hsu/usa-graph/id/student-nonviolent-coordinating-committee> .
+<https://github.com/john1hsu/usa-graph/id/greensboro-sit-ins> <https://github.com/john1hsu/usa-graph/ontology#level> "introductory" .
+<https://github.com/john1hsu/usa-graph/id/greensboro-sit-ins> <https://github.com/john1hsu/usa-graph/ontology#misconception> <https://github.com/john1hsu/usa-graph/id/greensboro-sit-ins/misconception> .
+<https://github.com/john1hsu/usa-graph/id/greensboro-sit-ins> <https://github.com/john1hsu/usa-graph/ontology#occurredIn> <https://github.com/john1hsu/usa-graph/id/greensboro> .
+<https://github.com/john1hsu/usa-graph/id/greensboro-sit-ins> <https://github.com/john1hsu/usa-graph/ontology#requires> <https://github.com/john1hsu/usa-graph/id/jim-crow-laws> .
+<https://github.com/john1hsu/usa-graph/id/greensboro-sit-ins> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/greensboro-sit-ins/timeline/10> .
+<https://github.com/john1hsu/usa-graph/id/greensboro-sit-ins> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/greensboro-sit-ins/timeline/11> .
+<https://github.com/john1hsu/usa-graph/id/greensboro-sit-ins> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/greensboro-sit-ins/timeline/12> .
+<https://github.com/john1hsu/usa-graph/id/greensboro-sit-ins> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/greensboro-sit-ins/timeline/1> .
+<https://github.com/john1hsu/usa-graph/id/greensboro-sit-ins> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/greensboro-sit-ins/timeline/2> .
+<https://github.com/john1hsu/usa-graph/id/greensboro-sit-ins> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/greensboro-sit-ins/timeline/3> .
+<https://github.com/john1hsu/usa-graph/id/greensboro-sit-ins> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/greensboro-sit-ins/timeline/4> .
+<https://github.com/john1hsu/usa-graph/id/greensboro-sit-ins> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/greensboro-sit-ins/timeline/5> .
+<https://github.com/john1hsu/usa-graph/id/greensboro-sit-ins> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/greensboro-sit-ins/timeline/6> .
+<https://github.com/john1hsu/usa-graph/id/greensboro-sit-ins> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/greensboro-sit-ins/timeline/7> .
+<https://github.com/john1hsu/usa-graph/id/greensboro-sit-ins> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/greensboro-sit-ins/timeline/8> .
+<https://github.com/john1hsu/usa-graph/id/greensboro-sit-ins> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/greensboro-sit-ins/timeline/9> .
+<https://github.com/john1hsu/usa-graph/id/greensboro-sit-ins> <https://schema.org/endDate> "1960-07-25"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/greensboro-sit-ins> <https://schema.org/startDate> "1960-02-01"^^<http://www.w3.org/2001/XMLSchema#date> .
 <https://github.com/john1hsu/usa-graph/id/gullah-geechee/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Misconception> .
 <https://github.com/john1hsu/usa-graph/id/gullah-geechee/misconception> <https://github.com/john1hsu/usa-graph/ontology#fact> "Gullah is a creole language; Lorenzo Dow Turner documented thousands of items of African origin in it, including about 3,600 African-derived \"basket names\" given to children." .
 <https://github.com/john1hsu/usa-graph/id/gullah-geechee/misconception> <https://github.com/john1hsu/usa-graph/ontology#myth> "Gullah is simply broken or old-fashioned English." .
@@ -19371,6 +19471,48 @@
 <https://github.com/john1hsu/usa-graph/id/source/great-seal-of-the-united-states/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
 <https://github.com/john1hsu/usa-graph/id/source/great-seal-of-the-united-states/s7> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "news" .
 <https://github.com/john1hsu/usa-graph/id/source/great-seal-of-the-united-states/s7> <https://schema.org/url> <https://www.marketplace.org/2014/03/03/creepy-eye-back-dollar-bill-explained/> .
+<https://github.com/john1hsu/usa-graph/id/source/greensboro-sit-ins/s1> <http://purl.org/dc/terms/date> "2026-11-22"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/greensboro-sit-ins/s1> <http://purl.org/dc/terms/publisher> "Martin Luther King, Jr. Research and Education Institute, Stanford University" .
+<https://github.com/john1hsu/usa-graph/id/source/greensboro-sit-ins/s1> <http://purl.org/dc/terms/title> "Sit-ins" .
+<https://github.com/john1hsu/usa-graph/id/source/greensboro-sit-ins/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/greensboro-sit-ins/s1> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/usa-graph/id/source/greensboro-sit-ins/s1> <https://schema.org/url> <https://kinginstitute.stanford.edu/sit-ins> .
+<https://github.com/john1hsu/usa-graph/id/source/greensboro-sit-ins/s2> <http://purl.org/dc/terms/date> "2026-11-22"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/greensboro-sit-ins/s2> <http://purl.org/dc/terms/publisher> "U.S. Census Bureau (Jason G. Gauthier)" .
+<https://github.com/john1hsu/usa-graph/id/source/greensboro-sit-ins/s2> <http://purl.org/dc/terms/title> "History and the Census: The 1960 Greensboro Sit-In" .
+<https://github.com/john1hsu/usa-graph/id/source/greensboro-sit-ins/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/greensboro-sit-ins/s2> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/usa-graph/id/source/greensboro-sit-ins/s2> <https://schema.org/url> <https://www.census.gov/about/history/stories/monthly/2025/february-2025.html> .
+<https://github.com/john1hsu/usa-graph/id/source/greensboro-sit-ins/s3> <http://purl.org/dc/terms/date> "2026-11-22"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/greensboro-sit-ins/s3> <http://purl.org/dc/terms/publisher> "Smithsonian Institution, National Museum of American History" .
+<https://github.com/john1hsu/usa-graph/id/source/greensboro-sit-ins/s3> <http://purl.org/dc/terms/title> "Greensboro Lunch Counter" .
+<https://github.com/john1hsu/usa-graph/id/source/greensboro-sit-ins/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/greensboro-sit-ins/s3> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "museum" .
+<https://github.com/john1hsu/usa-graph/id/source/greensboro-sit-ins/s3> <https://schema.org/url> <https://my.si.edu/exhibitions/greensboro-lunch-counter> .
+<https://github.com/john1hsu/usa-graph/id/source/greensboro-sit-ins/s4> <http://purl.org/dc/terms/date> "2026-11-22"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/greensboro-sit-ins/s4> <http://purl.org/dc/terms/publisher> "Jason Alston, Civil Rights Greensboro, University Libraries, UNC Greensboro" .
+<https://github.com/john1hsu/usa-graph/id/source/greensboro-sit-ins/s4> <http://purl.org/dc/terms/title> "Greensboro Sit-Ins at Woolworth's, February-July 1960" .
+<https://github.com/john1hsu/usa-graph/id/source/greensboro-sit-ins/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/greensboro-sit-ins/s4> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/usa-graph/id/source/greensboro-sit-ins/s4> <https://schema.org/url> <https://gateway.uncg.edu/crg/essay1960> .
+<https://github.com/john1hsu/usa-graph/id/source/greensboro-sit-ins/s5> <http://purl.org/dc/terms/date> "2026-11-22"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/greensboro-sit-ins/s5> <http://purl.org/dc/terms/publisher> "NCpedia (State Library of North Carolina)" .
+<https://github.com/john1hsu/usa-graph/id/source/greensboro-sit-ins/s5> <http://purl.org/dc/terms/title> "Greensboro Sit-Ins" .
+<https://github.com/john1hsu/usa-graph/id/source/greensboro-sit-ins/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/greensboro-sit-ins/s5> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "scholarly-encyclopedia" .
+<https://github.com/john1hsu/usa-graph/id/source/greensboro-sit-ins/s5> <https://schema.org/url> <https://www.ncpedia.org/greensboro-sit-ins> .
+<https://github.com/john1hsu/usa-graph/id/source/greensboro-sit-ins/s6> <http://purl.org/dc/terms/date> "2026-11-22"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/greensboro-sit-ins/s6> <http://purl.org/dc/terms/publisher> "North Carolina Department of Natural and Cultural Resources" .
+<https://github.com/john1hsu/usa-graph/id/source/greensboro-sit-ins/s6> <http://purl.org/dc/terms/title> "Sit-in Victory in Greensboro, 1960" .
+<https://github.com/john1hsu/usa-graph/id/source/greensboro-sit-ins/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/greensboro-sit-ins/s6> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/usa-graph/id/source/greensboro-sit-ins/s6> <https://schema.org/url> <https://www.dncr.nc.gov/blog/2015/07/25/sit-in-victory-in-greensboro-1960> .
+<https://github.com/john1hsu/usa-graph/id/source/greensboro-sit-ins/s7> <http://purl.org/dc/terms/date> "2026-11-22"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/greensboro-sit-ins/s7> <http://purl.org/dc/terms/publisher> "NCpedia (State Library of North Carolina)" .
+<https://github.com/john1hsu/usa-graph/id/source/greensboro-sit-ins/s7> <http://purl.org/dc/terms/title> "Civil Rights Sit-Ins at Woolworth" .
+<https://github.com/john1hsu/usa-graph/id/source/greensboro-sit-ins/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/greensboro-sit-ins/s7> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "scholarly-encyclopedia" .
+<https://github.com/john1hsu/usa-graph/id/source/greensboro-sit-ins/s7> <https://schema.org/url> <https://www.ncpedia.org/greensboro-four> .
 <https://github.com/john1hsu/usa-graph/id/source/gullah-geechee/s1> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
 <https://github.com/john1hsu/usa-graph/id/source/gullah-geechee/s1> <http://purl.org/dc/terms/publisher> "National Park Service" .
 <https://github.com/john1hsu/usa-graph/id/source/gullah-geechee/s1> <http://purl.org/dc/terms/title> "North Carolina, South Carolina, Georgia, Florida: Gullah Geechee Cultural Heritage Corridor" .
