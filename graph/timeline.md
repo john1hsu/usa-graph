@@ -403,6 +403,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1793 | Congress passes the first federal fugitive slave law, letting enslavers seize freedom seekers even in free states. — [Underground Railroad](../articles/civil-war-and-reconstruction/underground-railroad.md) |
 | 1793 | Eli Whitney develops the cotton gin, speeding the spread of cotton growing by enslaved people. — [Economic history of the United States](../articles/economy-and-work/economic-history-of-the-united-states.md) |
 | 1793 | Yellow fever kills an estimated 5,000 people; federal and state officials leave the city. — [Philadelphia](../articles/regions-cities-and-landmarks/philadelphia.md) |
+| 1793-02-12 | The first federal fugitive slave act is signed, letting enslavers reclaim people who escaped to other states. — [Fugitive Slave Act of 1850](../articles/civil-war-and-reconstruction/fugitive-slave-act-of-1850.md) |
 | 1793-04 | Issues a proclamation of neutrality in the war between France and Britain. — [George Washington](../articles/presidents-and-founders/george-washington.md) |
 | 1794 | President Washington leads an army to suppress the Whiskey Rebellion in western Pennsylvania. — [Pennsylvania](../articles/states-and-territories/pennsylvania.md) |
 | 1794-01-01 | Delegates from abolition societies in six states meet in Philadelphia and agree to petition Congress against the slave trade. — [Abolitionism](../articles/civil-war-and-reconstruction/abolitionism.md) |
@@ -775,17 +776,25 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1850 | The legislature imposes a $20-a-month license fee on foreign miners, aimed chiefly at Latin American miners; it is repealed the next year. — [California Gold Rush](../articles/early-republic-and-expansion/california-gold-rush.md) |
 | 1850 | The legislature passes the Act for the Government and Protection of Indians, allowing Native people to be held as indentured servants. — [California](../articles/states-and-territories/california.md) |
 | 1850-01-12 | A St. Louis jury finds the Scotts free. — [Dred Scott v. Sandford](../articles/rights-and-law/dred-scott-v-sandford.md) |
+| 1850-01-29 | Senator Henry Clay introduces the resolutions that become the Compromise of 1850, one calling for more effective return of fugitives. — [Fugitive Slave Act of 1850](../articles/civil-war-and-reconstruction/fugitive-slave-act-of-1850.md) |
 | 1850-04 | The first state legislature passes the Act for the Government and Protection of Indians, allowing Native people to be held as indentured laborers. — [California Gold Rush](../articles/early-republic-and-expansion/california-gold-rush.md) |
 | 1850-09-09 | **[California](../articles/states-and-territories/california.md)** (State) |
 | 1850-09-09 | California is admitted as the 31st state, free of slavery, as part of the Compromise of 1850. — [California Gold Rush](../articles/early-republic-and-expansion/california-gold-rush.md) |
 | 1850-09-09 | California is admitted as the 31st state, free of slavery, as part of the Compromise of 1850. — [California](../articles/states-and-territories/california.md) |
+| 1850-09-18 – 1864-06-28 | **[Fugitive Slave Act of 1850](../articles/civil-war-and-reconstruction/fugitive-slave-act-of-1850.md)** (Law) |
+| 1850-09-18 | President Millard Fillmore signs the new Fugitive Slave Act. — [Fugitive Slave Act of 1850](../articles/civil-war-and-reconstruction/fugitive-slave-act-of-1850.md) |
 | 1850-09-18 | The Fugitive Slave Act of 1850 is approved, commanding bystanders to help catch freedom seekers and penalizing anyone who aids them. — [Underground Railroad](../articles/civil-war-and-reconstruction/underground-railroad.md) |
+| 1850-12-21 | Adam Gibson is seized in Philadelphia and ordered sent to Maryland, where the claimant disowns him. — [Fugitive Slave Act of 1850](../articles/civil-war-and-reconstruction/fugitive-slave-act-of-1850.md) |
 | 1851 | Amelia Bloomer introduces her to Elizabeth Cady Stanton in Seneca Falls, New York. — [Susan B. Anthony](../articles/people-who-shaped-america/susan-b-anthony.md) |
 | 1851 | Railroads begin dispatching trains by telegraph; the company that becomes Western Union is incorporated. — [Electric telegraph](../articles/science-and-innovation/telegraph.md) |
 | 1851 | The first Treaty of Fort Laramie sets terms for contact between Plains nations and Americans. — [Wyoming](../articles/states-and-territories/wyoming.md) |
+| 1851-02-15 | Shadrach Minkins is arrested in Boston; a crowd rescues him and he reaches Montreal. — [Fugitive Slave Act of 1850](../articles/civil-war-and-reconstruction/fugitive-slave-act-of-1850.md) |
+| 1851-04-12 | Thomas Sims, arrested in Boston on April 3, is marched under heavy guard to a ship bound for Savannah. — [Fugitive Slave Act of 1850](../articles/civil-war-and-reconstruction/fugitive-slave-act-of-1850.md) |
 | 1851-05-29 | Speaks at the Woman's Rights Convention in Akron, Ohio. — [Sojourner Truth](../articles/people-who-shaped-america/sojourner-truth.md) |
 | 1851-06-21 | Marius Robinson's account of her Akron speech appears in the Anti-Slavery Bugle. — [Sojourner Truth](../articles/people-who-shaped-america/sojourner-truth.md) |
+| 1851-09 | Resistance at Christiana, Pennsylvania, leaves a Maryland slaveholder dead; 38 men are later indicted for treason. — [Fugitive Slave Act of 1850](../articles/civil-war-and-reconstruction/fugitive-slave-act-of-1850.md) |
 | 1851-09-11 | At Christiana, Pennsylvania, Black residents resist a Maryland slaveholder's attempt to recapture freedom seekers; the slaveholder is killed. — [Underground Railroad](../articles/civil-war-and-reconstruction/underground-railroad.md) |
+| 1851-10 | Abolitionists rescue a freedom seeker known as Jerry in Syracuse, New York. — [Fugitive Slave Act of 1850](../articles/civil-war-and-reconstruction/fugitive-slave-act-of-1850.md) |
 | 1851-11-18 | Illinois College professor Jonathan Baldwin Turner proposes state industrial universities at a farmers' convention in Putnam County, Illinois. — [Morrill Land-Grant College Act](../articles/science-and-innovation/morrill-land-grant-college-act.md) |
 | 1852 | A state fugitive slave law makes it illegal for enslaved people to flee within California. — [California](../articles/states-and-territories/california.md) |
 | 1852 | About 67,000 people arrive in California, 20,000 of them from China, the peak year; a new foreign miners' tax falls mainly on Chinese miners. — [California Gold Rush](../articles/early-republic-and-expansion/california-gold-rush.md) |
@@ -805,6 +814,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1854-05-22 | The House passes the bill 113 to 100, with northern Democrats split 44 to 44. — [Kansas–Nebraska Act of 1854](../articles/civil-war-and-reconstruction/kansas-nebraska-act.md) |
 | 1854-05-30 | **[Kansas–Nebraska Act of 1854](../articles/civil-war-and-reconstruction/kansas-nebraska-act.md)** (Law) |
 | 1854-05-30 | President Franklin Pierce signs the act, organizing Kansas and Nebraska territories. — [Kansas–Nebraska Act of 1854](../articles/civil-war-and-reconstruction/kansas-nebraska-act.md) |
+| 1854-06-02 | Federal troops escort Anthony Burns through Boston to a ship returning him to Virginia. — [Fugitive Slave Act of 1850](../articles/civil-war-and-reconstruction/fugitive-slave-act-of-1850.md) |
 | 1854-10-16 | Abraham Lincoln attacks the act and popular sovereignty in a speech at Peoria, Illinois. — [Kansas–Nebraska Act of 1854](../articles/civil-war-and-reconstruction/kansas-nebraska-act.md) |
 | 1854-12-25 | Rescues her three remaining brothers from Dorchester County. — [Harriet Tubman](../articles/people-who-shaped-america/harriet-tubman.md) |
 | 1856 | Works as an agent of the American Anti-Slavery Society. — [Susan B. Anthony](../articles/people-who-shaped-america/susan-b-anthony.md) |
@@ -827,6 +837,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1858-10-27 – 1919-01-06 | **[Theodore Roosevelt](../articles/presidents-and-founders/theodore-roosevelt.md)** (Person) |
 | 1858-10-27 | Born at 28 East 20th Street in New York City. — [Theodore Roosevelt](../articles/presidents-and-founders/theodore-roosevelt.md) |
 | 1859 | Commercial oil production begins near Titusville. — [Pennsylvania](../articles/states-and-territories/pennsylvania.md) |
+| 1859 | In Ableman v. Booth the Supreme Court rejects Wisconsin's attempt to block enforcement of the act. — [Fugitive Slave Act of 1850](../articles/civil-war-and-reconstruction/fugitive-slave-act-of-1850.md) |
 | 1859-02-24 | President James Buchanan vetoes the bill passed by Congress, citing cost and constitutional limits on federal power. — [Morrill Land-Grant College Act](../articles/science-and-innovation/morrill-land-grant-college-act.md) |
 | 1859-05 | Buys a house and seven acres near Auburn, New York, from Senator William H. Seward. — [Harriet Tubman](../articles/people-who-shaped-america/harriet-tubman.md) |
 | 1859-08 | Federal officials remove the Indians of the Brazos reservations, including about 1,050 Caddos, north of the Red River. — [Texas](../articles/states-and-territories/texas.md) |
@@ -900,6 +911,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1864-03-01 | The House passes the first bill for a freedmen's bureau by a vote of 69 to 67. — [Freedmen's Bureau](../articles/civil-war-and-reconstruction/freedmens-bureau.md) |
 | 1864-04-08 | The Senate passes the amendment, 38 to 6. — [Thirteenth Amendment](../articles/civil-war-and-reconstruction/thirteenth-amendment.md) |
 | 1864-06 | Congress grants Black soldiers pay equal to white soldiers, retroactively. — [American Civil War](../articles/civil-war-and-reconstruction/american-civil-war.md) |
+| 1864-06-28 | Congress repeals the fugitive slave laws during the Civil War. — [Fugitive Slave Act of 1850](../articles/civil-war-and-reconstruction/fugitive-slave-act-of-1850.md) |
 | 1864-09-02 | William T. Sherman's army captures Atlanta before marching to the sea. — [American Civil War](../articles/civil-war-and-reconstruction/american-civil-war.md) |
 | 1864-10-29 | Meets President Abraham Lincoln at the White House while working for the National Freedman's Relief Association. — [Sojourner Truth](../articles/people-who-shaped-america/sojourner-truth.md) |
 | 1864-11-08 | Reelected president. — [Abraham Lincoln](../articles/presidents-and-founders/abraham-lincoln.md) |

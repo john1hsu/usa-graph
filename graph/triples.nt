@@ -6582,6 +6582,116 @@
 <https://github.com/john1hsu/usa-graph/id/freedmens-bureau> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/freedmens-bureau/timeline/9> .
 <https://github.com/john1hsu/usa-graph/id/freedmens-bureau> <https://schema.org/endDate> "1872-06"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> .
 <https://github.com/john1hsu/usa-graph/id/freedmens-bureau> <https://schema.org/startDate> "1865-03-03"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/fugitive-slave-act-of-1850/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Misconception> .
+<https://github.com/john1hsu/usa-graph/id/fugitive-slave-act-of-1850/misconception> <https://github.com/john1hsu/usa-graph/ontology#fact> "Because hearings were summary, proof could rest on an affidavit and the accused could not testify, free Black Northerners could also be seized; in Philadelphia a commissioner ordered Adam Gibson sent to Maryland in December 1850 before the claimant there disowned him." .
+<https://github.com/john1hsu/usa-graph/id/fugitive-slave-act-of-1850/misconception> <https://github.com/john1hsu/usa-graph/ontology#myth> "The Fugitive Slave Act endangered only people who had actually escaped from slavery." .
+<https://github.com/john1hsu/usa-graph/id/fugitive-slave-act-of-1850/misconception> <https://github.com/john1hsu/usa-graph/ontology#why> "Describing the law only as a tool for recapturing runaways hides why free Black communities saw it as a threat to their own liberty and why many moved to Canada." .
+<https://github.com/john1hsu/usa-graph/id/fugitive-slave-act-of-1850/review/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+<https://github.com/john1hsu/usa-graph/id/fugitive-slave-act-of-1850/review/1> <http://www.w3.org/2000/01/rdf-schema#label> "Why did many Northerners who were not abolitionists object to the act?" .
+<https://github.com/john1hsu/usa-graph/id/fugitive-slave-act-of-1850/review/1> <https://github.com/john1hsu/usa-graph/ontology#answer> "It commanded all citizens to help catch freedom seekers, fined and jailed anyone who aided them, and denied the accused a jury and the right to testify, so it drew ordinary Northerners into enforcing slavery and put free Black neighbours at risk." .
+<https://github.com/john1hsu/usa-graph/id/fugitive-slave-act-of-1850/review/1> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/fugitive-slave-act-of-1850> .
+<https://github.com/john1hsu/usa-graph/id/fugitive-slave-act-of-1850/review/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+<https://github.com/john1hsu/usa-graph/id/fugitive-slave-act-of-1850/review/2> <http://www.w3.org/2000/01/rdf-schema#label> "How did the act's fee schedule draw criticism?" .
+<https://github.com/john1hsu/usa-graph/id/fugitive-slave-act-of-1850/review/2> <https://github.com/john1hsu/usa-graph/ontology#answer> "Commissioners received $10 when they issued a certificate sending a person south but only $5 when they refused, which critics saw as a financial incentive to rule for enslavers." .
+<https://github.com/john1hsu/usa-graph/id/fugitive-slave-act-of-1850/review/2> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/fugitive-slave-act-of-1850> .
+<https://github.com/john1hsu/usa-graph/id/fugitive-slave-act-of-1850/review/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+<https://github.com/john1hsu/usa-graph/id/fugitive-slave-act-of-1850/review/3> <http://www.w3.org/2000/01/rdf-schema#label> "How do historians disagree about whether the act worked?" .
+<https://github.com/john1hsu/usa-graph/id/fugitive-slave-act-of-1850/review/3> <https://github.com/john1hsu/usa-graph/ontology#answer> "Stanley Campbell found that most alleged fugitives brought before commissioners (82.2 percent) were returned and argued the law was firmly enforced; Matthew Pinsker counts only about 125 rendition hearings against thousands of successful escapes and calls it a failure in practice." .
+<https://github.com/john1hsu/usa-graph/id/fugitive-slave-act-of-1850/review/3> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/fugitive-slave-act-of-1850> .
+<https://github.com/john1hsu/usa-graph/id/fugitive-slave-act-of-1850/review/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+<https://github.com/john1hsu/usa-graph/id/fugitive-slave-act-of-1850/review/4> <http://www.w3.org/2000/01/rdf-schema#label> "Why is the act sometimes linked to the debate over states' rights?" .
+<https://github.com/john1hsu/usa-graph/id/fugitive-slave-act-of-1850/review/4> <https://github.com/john1hsu/usa-graph/ontology#answer> "Southern lawmakers backed a strong federal law that overrode free-state procedures, while Northern states passed personal liberty laws and Wisconsin claimed a right to nullify it, a claim the Supreme Court rejected in Ableman v. Booth." .
+<https://github.com/john1hsu/usa-graph/id/fugitive-slave-act-of-1850/review/4> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/fugitive-slave-act-of-1850> .
+<https://github.com/john1hsu/usa-graph/id/fugitive-slave-act-of-1850/timeline/10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/fugitive-slave-act-of-1850/timeline/10> <http://www.w3.org/2000/01/rdf-schema#label> "In Ableman v. Booth the Supreme Court rejects Wisconsin's attempt to block enforcement of the act." .
+<https://github.com/john1hsu/usa-graph/id/fugitive-slave-act-of-1850/timeline/10> <https://github.com/john1hsu/usa-graph/ontology#date> "1859"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://github.com/john1hsu/usa-graph/id/fugitive-slave-act-of-1850/timeline/11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/fugitive-slave-act-of-1850/timeline/11> <http://www.w3.org/2000/01/rdf-schema#label> "Congress repeals the fugitive slave laws during the Civil War." .
+<https://github.com/john1hsu/usa-graph/id/fugitive-slave-act-of-1850/timeline/11> <https://github.com/john1hsu/usa-graph/ontology#date> "1864-06-28"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/fugitive-slave-act-of-1850/timeline/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/fugitive-slave-act-of-1850/timeline/1> <http://www.w3.org/2000/01/rdf-schema#label> "The first federal fugitive slave act is signed, letting enslavers reclaim people who escaped to other states." .
+<https://github.com/john1hsu/usa-graph/id/fugitive-slave-act-of-1850/timeline/1> <https://github.com/john1hsu/usa-graph/ontology#date> "1793-02-12"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/fugitive-slave-act-of-1850/timeline/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/fugitive-slave-act-of-1850/timeline/2> <http://www.w3.org/2000/01/rdf-schema#label> "Senator Henry Clay introduces the resolutions that become the Compromise of 1850, one calling for more effective return of fugitives." .
+<https://github.com/john1hsu/usa-graph/id/fugitive-slave-act-of-1850/timeline/2> <https://github.com/john1hsu/usa-graph/ontology#date> "1850-01-29"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/fugitive-slave-act-of-1850/timeline/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/fugitive-slave-act-of-1850/timeline/3> <http://www.w3.org/2000/01/rdf-schema#label> "President Millard Fillmore signs the new Fugitive Slave Act." .
+<https://github.com/john1hsu/usa-graph/id/fugitive-slave-act-of-1850/timeline/3> <https://github.com/john1hsu/usa-graph/ontology#date> "1850-09-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/fugitive-slave-act-of-1850/timeline/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/fugitive-slave-act-of-1850/timeline/4> <http://www.w3.org/2000/01/rdf-schema#label> "Adam Gibson is seized in Philadelphia and ordered sent to Maryland, where the claimant disowns him." .
+<https://github.com/john1hsu/usa-graph/id/fugitive-slave-act-of-1850/timeline/4> <https://github.com/john1hsu/usa-graph/ontology#date> "1850-12-21"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/fugitive-slave-act-of-1850/timeline/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/fugitive-slave-act-of-1850/timeline/5> <http://www.w3.org/2000/01/rdf-schema#label> "Shadrach Minkins is arrested in Boston; a crowd rescues him and he reaches Montreal." .
+<https://github.com/john1hsu/usa-graph/id/fugitive-slave-act-of-1850/timeline/5> <https://github.com/john1hsu/usa-graph/ontology#date> "1851-02-15"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/fugitive-slave-act-of-1850/timeline/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/fugitive-slave-act-of-1850/timeline/6> <http://www.w3.org/2000/01/rdf-schema#label> "Thomas Sims, arrested in Boston on April 3, is marched under heavy guard to a ship bound for Savannah." .
+<https://github.com/john1hsu/usa-graph/id/fugitive-slave-act-of-1850/timeline/6> <https://github.com/john1hsu/usa-graph/ontology#date> "1851-04-12"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/fugitive-slave-act-of-1850/timeline/7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/fugitive-slave-act-of-1850/timeline/7> <http://www.w3.org/2000/01/rdf-schema#label> "Resistance at Christiana, Pennsylvania, leaves a Maryland slaveholder dead; 38 men are later indicted for treason." .
+<https://github.com/john1hsu/usa-graph/id/fugitive-slave-act-of-1850/timeline/7> <https://github.com/john1hsu/usa-graph/ontology#date> "1851-09"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> .
+<https://github.com/john1hsu/usa-graph/id/fugitive-slave-act-of-1850/timeline/8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/fugitive-slave-act-of-1850/timeline/8> <http://www.w3.org/2000/01/rdf-schema#label> "Abolitionists rescue a freedom seeker known as Jerry in Syracuse, New York." .
+<https://github.com/john1hsu/usa-graph/id/fugitive-slave-act-of-1850/timeline/8> <https://github.com/john1hsu/usa-graph/ontology#date> "1851-10"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> .
+<https://github.com/john1hsu/usa-graph/id/fugitive-slave-act-of-1850/timeline/9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/fugitive-slave-act-of-1850/timeline/9> <http://www.w3.org/2000/01/rdf-schema#label> "Federal troops escort Anthony Burns through Boston to a ship returning him to Virginia." .
+<https://github.com/john1hsu/usa-graph/id/fugitive-slave-act-of-1850/timeline/9> <https://github.com/john1hsu/usa-graph/ontology#date> "1854-06-02"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/fugitive-slave-act-of-1850> <http://purl.org/dc/terms/created> "2026-11-23"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/fugitive-slave-act-of-1850> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Law> .
+<https://github.com/john1hsu/usa-graph/id/fugitive-slave-act-of-1850> <http://www.w3.org/2000/01/rdf-schema#label> "Fugitive Slave Act of 1850" .
+<https://github.com/john1hsu/usa-graph/id/fugitive-slave-act-of-1850> <http://www.w3.org/2004/02/skos/core#altLabel> "Bloodhound Law" .
+<https://github.com/john1hsu/usa-graph/id/fugitive-slave-act-of-1850> <http://www.w3.org/2004/02/skos/core#altLabel> "Fugitive Slave Act" .
+<https://github.com/john1hsu/usa-graph/id/fugitive-slave-act-of-1850> <http://www.w3.org/2004/02/skos/core#altLabel> "Fugitive Slave Law of 1850" .
+<https://github.com/john1hsu/usa-graph/id/fugitive-slave-act-of-1850> <http://www.w3.org/2004/02/skos/core#altLabel> "Fugitive Slave Law" .
+<https://github.com/john1hsu/usa-graph/id/fugitive-slave-act-of-1850> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/usa-graph/id/sectionalism> .
+<https://github.com/john1hsu/usa-graph/id/fugitive-slave-act-of-1850> <http://www.w3.org/2004/02/skos/core#definition> "The federal law, approved on September 18, 1850, as part of the Compromise of 1850, that created a corps of federal commissioners to return people accused of escaping slavery, denied them a jury or the right to testify, commanded citizens to help catch them and punished anyone who aided them; Congress repealed it in 1864." .
+<https://github.com/john1hsu/usa-graph/id/fugitive-slave-act-of-1850> <http://www.w3.org/2004/02/skos/core#inScheme> <https://github.com/john1hsu/usa-graph/id/scheme/civil-war-and-reconstruction> .
+<https://github.com/john1hsu/usa-graph/id/fugitive-slave-act-of-1850> <http://www.w3.org/2004/02/skos/core#prefLabel> "Fugitive Slave Act of 1850" .
+<https://github.com/john1hsu/usa-graph/id/fugitive-slave-act-of-1850> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/abolitionism> .
+<https://github.com/john1hsu/usa-graph/id/fugitive-slave-act-of-1850> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/anthony-burns> .
+<https://github.com/john1hsu/usa-graph/id/fugitive-slave-act-of-1850> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/christiana-resistance> .
+<https://github.com/john1hsu/usa-graph/id/fugitive-slave-act-of-1850> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/dred-scott-v-sandford> .
+<https://github.com/john1hsu/usa-graph/id/fugitive-slave-act-of-1850> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/frederick-douglass> .
+<https://github.com/john1hsu/usa-graph/id/fugitive-slave-act-of-1850> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/harriet-tubman> .
+<https://github.com/john1hsu/usa-graph/id/fugitive-slave-act-of-1850> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/kansas-nebraska-act> .
+<https://github.com/john1hsu/usa-graph/id/fugitive-slave-act-of-1850> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/personal-liberty-laws> .
+<https://github.com/john1hsu/usa-graph/id/fugitive-slave-act-of-1850> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/prigg-v-pennsylvania> .
+<https://github.com/john1hsu/usa-graph/id/fugitive-slave-act-of-1850> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/underground-railroad> .
+<https://github.com/john1hsu/usa-graph/id/fugitive-slave-act-of-1850> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/united-states-constitution> .
+<https://github.com/john1hsu/usa-graph/id/fugitive-slave-act-of-1850> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/fugitive-slave-act-of-1850/s1> .
+<https://github.com/john1hsu/usa-graph/id/fugitive-slave-act-of-1850> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/fugitive-slave-act-of-1850/s2> .
+<https://github.com/john1hsu/usa-graph/id/fugitive-slave-act-of-1850> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/fugitive-slave-act-of-1850/s3> .
+<https://github.com/john1hsu/usa-graph/id/fugitive-slave-act-of-1850> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/fugitive-slave-act-of-1850/s4> .
+<https://github.com/john1hsu/usa-graph/id/fugitive-slave-act-of-1850> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/fugitive-slave-act-of-1850/s5> .
+<https://github.com/john1hsu/usa-graph/id/fugitive-slave-act-of-1850> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/fugitive-slave-act-of-1850/s6> .
+<https://github.com/john1hsu/usa-graph/id/fugitive-slave-act-of-1850> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/fugitive-slave-act-of-1850/s7> .
+<https://github.com/john1hsu/usa-graph/id/fugitive-slave-act-of-1850> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/fugitive-slave-act-of-1850/s8> .
+<https://github.com/john1hsu/usa-graph/id/fugitive-slave-act-of-1850> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/fugitive-slave-act-of-1850/s9> .
+<https://github.com/john1hsu/usa-graph/id/fugitive-slave-act-of-1850> <https://github.com/john1hsu/usa-graph/ontology#affected> <https://github.com/john1hsu/usa-graph/id/african-americans> .
+<https://github.com/john1hsu/usa-graph/id/fugitive-slave-act-of-1850> <https://github.com/john1hsu/usa-graph/ontology#affected> <https://github.com/john1hsu/usa-graph/id/canada> .
+<https://github.com/john1hsu/usa-graph/id/fugitive-slave-act-of-1850> <https://github.com/john1hsu/usa-graph/ontology#amends> <https://github.com/john1hsu/usa-graph/id/fugitive-slave-act-of-1793> .
+<https://github.com/john1hsu/usa-graph/id/fugitive-slave-act-of-1850> <https://github.com/john1hsu/usa-graph/ontology#domain> "civil-war-and-reconstruction" .
+<https://github.com/john1hsu/usa-graph/id/fugitive-slave-act-of-1850> <https://github.com/john1hsu/usa-graph/ontology#enactedBy> <https://github.com/john1hsu/usa-graph/id/united-states-congress> .
+<https://github.com/john1hsu/usa-graph/id/fugitive-slave-act-of-1850> <https://github.com/john1hsu/usa-graph/ontology#evidenceStatus> "interpretive" .
+<https://github.com/john1hsu/usa-graph/id/fugitive-slave-act-of-1850> <https://github.com/john1hsu/usa-graph/ontology#file> "articles/civil-war-and-reconstruction/fugitive-slave-act-of-1850.md" .
+<https://github.com/john1hsu/usa-graph/id/fugitive-slave-act-of-1850> <https://github.com/john1hsu/usa-graph/ontology#ledTo> <https://github.com/john1hsu/usa-graph/id/ableman-v-booth> .
+<https://github.com/john1hsu/usa-graph/id/fugitive-slave-act-of-1850> <https://github.com/john1hsu/usa-graph/ontology#level> "introductory" .
+<https://github.com/john1hsu/usa-graph/id/fugitive-slave-act-of-1850> <https://github.com/john1hsu/usa-graph/ontology#misconception> <https://github.com/john1hsu/usa-graph/id/fugitive-slave-act-of-1850/misconception> .
+<https://github.com/john1hsu/usa-graph/id/fugitive-slave-act-of-1850> <https://github.com/john1hsu/usa-graph/ontology#partOf> <https://github.com/john1hsu/usa-graph/id/compromise-of-1850> .
+<https://github.com/john1hsu/usa-graph/id/fugitive-slave-act-of-1850> <https://github.com/john1hsu/usa-graph/ontology#requires> <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> .
+<https://github.com/john1hsu/usa-graph/id/fugitive-slave-act-of-1850> <https://github.com/john1hsu/usa-graph/ontology#signedBy> <https://github.com/john1hsu/usa-graph/id/millard-fillmore> .
+<https://github.com/john1hsu/usa-graph/id/fugitive-slave-act-of-1850> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/fugitive-slave-act-of-1850/timeline/10> .
+<https://github.com/john1hsu/usa-graph/id/fugitive-slave-act-of-1850> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/fugitive-slave-act-of-1850/timeline/11> .
+<https://github.com/john1hsu/usa-graph/id/fugitive-slave-act-of-1850> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/fugitive-slave-act-of-1850/timeline/1> .
+<https://github.com/john1hsu/usa-graph/id/fugitive-slave-act-of-1850> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/fugitive-slave-act-of-1850/timeline/2> .
+<https://github.com/john1hsu/usa-graph/id/fugitive-slave-act-of-1850> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/fugitive-slave-act-of-1850/timeline/3> .
+<https://github.com/john1hsu/usa-graph/id/fugitive-slave-act-of-1850> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/fugitive-slave-act-of-1850/timeline/4> .
+<https://github.com/john1hsu/usa-graph/id/fugitive-slave-act-of-1850> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/fugitive-slave-act-of-1850/timeline/5> .
+<https://github.com/john1hsu/usa-graph/id/fugitive-slave-act-of-1850> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/fugitive-slave-act-of-1850/timeline/6> .
+<https://github.com/john1hsu/usa-graph/id/fugitive-slave-act-of-1850> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/fugitive-slave-act-of-1850/timeline/7> .
+<https://github.com/john1hsu/usa-graph/id/fugitive-slave-act-of-1850> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/fugitive-slave-act-of-1850/timeline/8> .
+<https://github.com/john1hsu/usa-graph/id/fugitive-slave-act-of-1850> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/fugitive-slave-act-of-1850/timeline/9> .
+<https://github.com/john1hsu/usa-graph/id/fugitive-slave-act-of-1850> <https://schema.org/endDate> "1864-06-28"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/fugitive-slave-act-of-1850> <https://schema.org/startDate> "1850-09-18"^^<http://www.w3.org/2001/XMLSchema#date> .
 <https://github.com/john1hsu/usa-graph/id/gatun-locks/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Misconception> .
 <https://github.com/john1hsu/usa-graph/id/gatun-locks/misconception> <https://github.com/john1hsu/usa-graph/ontology#fact> "No pumps are used; valves let fresh water from Gatun Lake flow down by gravity through culverts in the lock walls and up through holes in the chamber floors, and to lower a ship the chamber is drained downward through the same culverts." .
 <https://github.com/john1hsu/usa-graph/id/gatun-locks/misconception> <https://github.com/john1hsu/usa-graph/ontology#myth> "Giant pumps lift ships up through the Panama Canal's locks." .
@@ -18967,6 +19077,60 @@
 <https://github.com/john1hsu/usa-graph/id/source/freedmens-bureau/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
 <https://github.com/john1hsu/usa-graph/id/source/freedmens-bureau/s6> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "primary" .
 <https://github.com/john1hsu/usa-graph/id/source/freedmens-bureau/s6> <https://schema.org/url> <https://etc.usf.edu/lit2go/203/the-souls-of-black-folk/4432/chapter-2-of-the-dawn-of-freedom/> .
+<https://github.com/john1hsu/usa-graph/id/source/fugitive-slave-act-of-1850/s1> <http://purl.org/dc/terms/date> "2026-11-23"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/fugitive-slave-act-of-1850/s1> <http://purl.org/dc/terms/publisher> "New York State Office of Parks, Recreation and Historic Preservation" .
+<https://github.com/john1hsu/usa-graph/id/source/fugitive-slave-act-of-1850/s1> <http://purl.org/dc/terms/title> "Fugitive Slave Act of 1850 — Full Text" .
+<https://github.com/john1hsu/usa-graph/id/source/fugitive-slave-act-of-1850/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/fugitive-slave-act-of-1850/s1> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/usa-graph/id/source/fugitive-slave-act-of-1850/s1> <https://schema.org/url> <https://parks.ny.gov/documents/historic-preservation/FugitiveSlaveAct1850.pdf> .
+<https://github.com/john1hsu/usa-graph/id/source/fugitive-slave-act-of-1850/s2> <http://purl.org/dc/terms/date> "2026-11-23"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/fugitive-slave-act-of-1850/s2> <http://purl.org/dc/terms/publisher> "National Constitution Center, Historic Document Library" .
+<https://github.com/john1hsu/usa-graph/id/source/fugitive-slave-act-of-1850/s2> <http://purl.org/dc/terms/title> "The Fugitive Slave Act (1850)" .
+<https://github.com/john1hsu/usa-graph/id/source/fugitive-slave-act-of-1850/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/fugitive-slave-act-of-1850/s2> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "institutional" .
+<https://github.com/john1hsu/usa-graph/id/source/fugitive-slave-act-of-1850/s2> <https://schema.org/url> <https://constitutioncenter.org/the-constitution/historic-document-library/detail/the-fugitive-slave-act-1850> .
+<https://github.com/john1hsu/usa-graph/id/source/fugitive-slave-act-of-1850/s3> <http://purl.org/dc/terms/date> "2026-11-23"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/fugitive-slave-act-of-1850/s3> <http://purl.org/dc/terms/publisher> "National Park Service" .
+<https://github.com/john1hsu/usa-graph/id/source/fugitive-slave-act-of-1850/s3> <http://purl.org/dc/terms/title> "The Fugitive Slave Laws and Boston" .
+<https://github.com/john1hsu/usa-graph/id/source/fugitive-slave-act-of-1850/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/fugitive-slave-act-of-1850/s3> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/usa-graph/id/source/fugitive-slave-act-of-1850/s3> <https://schema.org/url> <https://www.nps.gov/articles/000/fugitive-slave-laws-boston.htm> .
+<https://github.com/john1hsu/usa-graph/id/source/fugitive-slave-act-of-1850/s4> <http://purl.org/dc/terms/date> "2026-11-23"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/fugitive-slave-act-of-1850/s4> <http://purl.org/dc/terms/publisher> "Earl Maltz, Encyclopedia Virginia, Virginia Humanities" .
+<https://github.com/john1hsu/usa-graph/id/source/fugitive-slave-act-of-1850/s4> <http://purl.org/dc/terms/title> "Fugitive Slave Laws" .
+<https://github.com/john1hsu/usa-graph/id/source/fugitive-slave-act-of-1850/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/fugitive-slave-act-of-1850/s4> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "scholarly-encyclopedia" .
+<https://github.com/john1hsu/usa-graph/id/source/fugitive-slave-act-of-1850/s4> <https://schema.org/url> <https://encyclopediavirginia.org/entries/fugitive-slave-laws/> .
+<https://github.com/john1hsu/usa-graph/id/source/fugitive-slave-act-of-1850/s5> <http://purl.org/dc/terms/date> "2026-11-23"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/fugitive-slave-act-of-1850/s5> <http://purl.org/dc/terms/publisher> "Library of Congress, Law Library, In Custodia Legis" .
+<https://github.com/john1hsu/usa-graph/id/source/fugitive-slave-act-of-1850/s5> <http://purl.org/dc/terms/title> "Escaping Slavery: The Consequences of the Fugitive Slave Act of 1850" .
+<https://github.com/john1hsu/usa-graph/id/source/fugitive-slave-act-of-1850/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/fugitive-slave-act-of-1850/s5> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/usa-graph/id/source/fugitive-slave-act-of-1850/s5> <https://schema.org/url> <https://blogs.loc.gov/law/2023/02/escaping-slavery-the-consquences-of-the-fugitive-slave-act-of-1850/> .
+<https://github.com/john1hsu/usa-graph/id/source/fugitive-slave-act-of-1850/s6> <http://purl.org/dc/terms/date> "2026-11-23"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/fugitive-slave-act-of-1850/s6> <http://purl.org/dc/terms/publisher> "Natasha Henry-Dixon, The Canadian Encyclopedia, Historica Canada" .
+<https://github.com/john1hsu/usa-graph/id/source/fugitive-slave-act-of-1850/s6> <http://purl.org/dc/terms/title> "Fugitive Slave Act of 1850" .
+<https://github.com/john1hsu/usa-graph/id/source/fugitive-slave-act-of-1850/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/fugitive-slave-act-of-1850/s6> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "encyclopedia" .
+<https://github.com/john1hsu/usa-graph/id/source/fugitive-slave-act-of-1850/s6> <https://schema.org/url> <https://www.thecanadianencyclopedia.ca/en/article/fugitive-slave-act-of-1850> .
+<https://github.com/john1hsu/usa-graph/id/source/fugitive-slave-act-of-1850/s7> <http://purl.org/dc/terms/date> "2026-11-23"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/fugitive-slave-act-of-1850/s7> <http://purl.org/dc/terms/publisher> "Matthew Pinsker, Dickinson Survey of American History, Dickinson College" .
+<https://github.com/john1hsu/usa-graph/id/source/fugitive-slave-act-of-1850/s7> <http://purl.org/dc/terms/title> "After 1850: Reassessing the Impact of the Fugitive Slave Law" .
+<https://github.com/john1hsu/usa-graph/id/source/fugitive-slave-act-of-1850/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/fugitive-slave-act-of-1850/s7> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/usa-graph/id/source/fugitive-slave-act-of-1850/s7> <https://schema.org/url> <https://blogs.dickinson.edu/hist-american/essay-after-1850/> .
+<https://github.com/john1hsu/usa-graph/id/source/fugitive-slave-act-of-1850/s8> <http://purl.org/dc/terms/date> "2026-11-23"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/fugitive-slave-act-of-1850/s8> <http://purl.org/dc/terms/publisher> "Cooper Wingert, House Divided Project, Dickinson College" .
+<https://github.com/john1hsu/usa-graph/id/source/fugitive-slave-act-of-1850/s8> <http://purl.org/dc/terms/title> "Stanley Campbell – The Slave Catchers (1970)" .
+<https://github.com/john1hsu/usa-graph/id/source/fugitive-slave-act-of-1850/s8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/fugitive-slave-act-of-1850/s8> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/usa-graph/id/source/fugitive-slave-act-of-1850/s8> <https://schema.org/url> <https://housedivided.dickinson.edu/sites/stampedes/?p=126> .
+<https://github.com/john1hsu/usa-graph/id/source/fugitive-slave-act-of-1850/s9> <http://purl.org/dc/terms/date> "2026-11-23"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/fugitive-slave-act-of-1850/s9> <http://purl.org/dc/terms/publisher> "National Archives, DocsTeach" .
+<https://github.com/john1hsu/usa-graph/id/source/fugitive-slave-act-of-1850/s9> <http://purl.org/dc/terms/title> "The Compromise of 1850" .
+<https://github.com/john1hsu/usa-graph/id/source/fugitive-slave-act-of-1850/s9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/fugitive-slave-act-of-1850/s9> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/usa-graph/id/source/fugitive-slave-act-of-1850/s9> <https://schema.org/url> <https://docsteach.org/document/compromise-1850/> .
 <https://github.com/john1hsu/usa-graph/id/source/gatun-locks/s1> <http://purl.org/dc/terms/date> "2026-11-14"^^<http://www.w3.org/2001/XMLSchema#date> .
 <https://github.com/john1hsu/usa-graph/id/source/gatun-locks/s1> <http://purl.org/dc/terms/publisher> "Panama Canal Authority (Autoridad del Canal de Panamá)" .
 <https://github.com/john1hsu/usa-graph/id/source/gatun-locks/s1> <http://purl.org/dc/terms/title> "Design of the Locks" .

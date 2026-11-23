@@ -51,6 +51,23 @@ Every review question (with its answer) and every myth-versus-fact in the graph,
 - **Q:** Why do historians and contemporaries such as W. E. B. Du Bois judge the bureau's record so differently?
   **A:** It achieved a great deal in relief, schools and legal recognition with fewer than 900 agents and little money, but it also pushed freedpeople into labor contracts with former enslavers and could not deliver land, so verdicts depend on whether one weighs its achievements against its resources or against freedpeople's hopes.
 
+### [Fugitive Slave Act of 1850](../articles/civil-war-and-reconstruction/fugitive-slave-act-of-1850.md) — Law
+
+| Myth | Fact |
+|---|---|
+| The Fugitive Slave Act endangered only people who had actually escaped from slavery. | Because hearings were summary, proof could rest on an affidavit and the accused could not testify, free Black Northerners could also be seized; in Philadelphia a commissioner ordered Adam Gibson sent to Maryland in December 1850 before the claimant there disowned him. |
+
+**Why it matters:** Describing the law only as a tool for recapturing runaways hides why free Black communities saw it as a threat to their own liberty and why many moved to Canada.
+
+- **Q:** Why did many Northerners who were not abolitionists object to the act?
+  **A:** It commanded all citizens to help catch freedom seekers, fined and jailed anyone who aided them, and denied the accused a jury and the right to testify, so it drew ordinary Northerners into enforcing slavery and put free Black neighbours at risk.
+- **Q:** How did the act's fee schedule draw criticism?
+  **A:** Commissioners received $10 when they issued a certificate sending a person south but only $5 when they refused, which critics saw as a financial incentive to rule for enslavers.
+- **Q:** How do historians disagree about whether the act worked?
+  **A:** Stanley Campbell found that most alleged fugitives brought before commissioners (82.2 percent) were returned and argued the law was firmly enforced; Matthew Pinsker counts only about 125 rendition hearings against thousands of successful escapes and calls it a failure in practice.
+- **Q:** Why is the act sometimes linked to the debate over states' rights?
+  **A:** Southern lawmakers backed a strong federal law that overrode free-state procedures, while Northern states passed personal liberty laws and Wisconsin claimed a right to nullify it, a claim the Supreme Court rejected in Ableman v. Booth.
+
 ### [Kansas–Nebraska Act of 1854](../articles/civil-war-and-reconstruction/kansas-nebraska-act.md) — Law
 
 | Myth | Fact |

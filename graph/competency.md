@@ -57,7 +57,7 @@ _Which nodes led to, established or affected the most other things in the graph?
 | `us:attack-on-pearl-harbor` | 3 | Japanese American incarceration during World War II, day-of-infamy-speech, pearl-harbor-investigations |
 | `us:census-and-apportionment` | 3 | Native Americans, United States House of Representatives, redistricting-in-the-united-states |
 
-…and 106 more.
+…and 107 more.
 
 ## Happenings by era
 
@@ -120,11 +120,11 @@ _Which nodes are myths, contested or open to competing interpretations, and what
 | `us:franklin-d-roosevelt` | interpretive |  |
 | `us:frederick-douglass` | interpretive |  |
 | `us:freedmens-bureau` | interpretive |  |
+| `us:fugitive-slave-act-of-1850` | interpretive |  |
 | `us:george-washington` | interpretive |  |
 | `us:gilded-age` | interpretive |  |
-| `us:good-neighbor-policy` | interpretive |  |
 
-…and 55 more.
+…and 56 more.
 
 ## Places with nothing tied to them (gap)
 
