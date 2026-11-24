@@ -18291,6 +18291,175 @@
    }
   },
   {
+   "@id": "https://github.com/john1hsu/usa-graph/id/oklahoma-city-bombing/misconception",
+   "@type": "uso:Misconception",
+   "uso:fact": "In the first hours, media reports blamed Islamic terrorists, but the men arrested and convicted were Timothy McVeigh and Terry Nichols, two American Gulf War veterans influenced by anti-government militia culture.",
+   "uso:myth": "The Oklahoma City bombing was the work of foreign Islamic terrorists.",
+   "uso:why": "Homegrown terrorism on this scale was a new concept in 1995 (the previous comparable attack was the 1993 World Trade Center bombing), and the false accusation fuelled about two days of anti-Muslim hysteria across the country."
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/oklahoma-city-bombing/review/1",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "Why did McVeigh choose April 19 and the Murrah Building as his date and target?",
+   "uso:answer": "He timed the attack for the anniversary of the end of the federal siege of the Branch Davidians at Waco, Texas, in 1993, and picked the Murrah Building because he believed the orders for Waco had come from it; he regarded everyone inside as guilty by association.",
+   "uso:questionFor": {
+    "@id": "us:oklahoma-city-bombing"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/oklahoma-city-bombing/review/2",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "How did investigators connect the bomb to Timothy McVeigh?",
+   "uso:answer": "An FBI agent found the truck's rear axle and its vehicle identification number, which led to a Ryder rental shop in Kansas; employees there helped draw a composite sketch, a hotel worker recognised it, and McVeigh turned out to be already in jail after a traffic stop for driving without a licence plate.",
+   "uso:questionFor": {
+    "@id": "us:oklahoma-city-bombing"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/oklahoma-city-bombing/review/3",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "Why was McVeigh tried in Denver rather than Oklahoma?",
+   "uso:answer": "The judge concluded that publicity and the scale of the loss made a fair trial impossible anywhere in Oklahoma, so the case was moved to Denver, Colorado, in February 1996.",
+   "uso:questionFor": {
+    "@id": "us:oklahoma-city-bombing"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/oklahoma-city-bombing/review/4",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "How did the bombing change federal counterterrorism?",
+   "uso:answer": "It made homegrown terrorism a priority for the FBI, which expanded its Joint Terrorism Task Forces and bomb-technician training, and it led President Clinton to seek new domestic-terrorism powers, a push that ended in the Antiterrorism and Effective Death Penalty Act of 1996.",
+   "uso:questionFor": {
+    "@id": "us:oklahoma-city-bombing"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/oklahoma-city-bombing/timeline/1",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Using the alias \"Mike Havens,\" Timothy McVeigh buys the first of two large loads of ammonium nitrate in Kansas.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1994-09-30"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/oklahoma-city-bombing/timeline/10",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Terry Nichols is found guilty of conspiracy and manslaughter; he is sentenced to life without parole.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1997-12-24"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/oklahoma-city-bombing/timeline/11",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Michael Fortier, who knew of the plot, is sentenced to 12 years in prison.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1998-05-27"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/oklahoma-city-bombing/timeline/12",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The Tenth Circuit Court of Appeals affirms the judgment against McVeigh.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1998-09-08"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/oklahoma-city-bombing/timeline/13",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The Oklahoma City National Memorial is dedicated on the fifth anniversary of the bombing.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "2000-04-19"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/oklahoma-city-bombing/timeline/14",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "McVeigh is executed.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "2001-06-11"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/oklahoma-city-bombing/timeline/2",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "A Ryder truck is rented in Kansas under the name \"Robert King.\"",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1995-04-17"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/oklahoma-city-bombing/timeline/3",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "At 9:02 a.m. the truck bomb explodes outside the Murrah Federal Building; about 77 minutes later a state trooper stops McVeigh on Interstate 35 and arrests him on a weapons charge.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1995-04-19"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/oklahoma-city-bombing/timeline/4",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Federal prosecutors charge McVeigh with destruction by explosives, and he is moved to federal custody.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1995-04-21"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/oklahoma-city-bombing/timeline/5",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "A federal grand jury indicts McVeigh and Terry Nichols on eleven counts, including eight counts of first-degree murder.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1995-08-10"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/oklahoma-city-bombing/timeline/6",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The trial is moved to Denver after the court finds a fair trial impossible anywhere in Oklahoma.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1996-02-19"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/oklahoma-city-bombing/timeline/7",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "President Bill Clinton signs the Antiterrorism and Effective Death Penalty Act of 1996.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1996-04-24"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/oklahoma-city-bombing/timeline/8",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "A Denver jury finds McVeigh guilty on all eleven counts; it later recommends a death sentence.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1997-06-02"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/oklahoma-city-bombing/timeline/9",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "A selection committee picks Hans and Torrey Butzer's design for the national memorial from more than 600 entries.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1997-06-24"
+   }
+  },
+  {
    "@id": "https://github.com/john1hsu/usa-graph/id/panama-canal/misconception",
    "@type": "uso:Misconception",
    "uso:fact": "From its Atlantic end the canal runs south for about 10 miles and then east to the Pacific, so a ship heading for the Pacific finishes its transit to the east of where it started.",
@@ -37242,6 +37411,104 @@
     "@id": "https://www.govinfo.gov/content/pkg/USREPORTS-314/pdf/USREPORTS-314-160.pdf"
    },
    "uso:sourceType": "primary"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/oklahoma-city-bombing/s1",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-24"
+   },
+   "dcterms:publisher": "Federal Bureau of Investigation",
+   "dcterms:title": "The Oklahoma City Bombing: 25 Years Later — Retired FBI Agent Reflects on Tragic Day and How it Shaped the Bureau",
+   "schema:url": {
+    "@id": "https://www.fbi.gov/news/stories/25-years-after-oklahoma-city-bombing-041520"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/oklahoma-city-bombing/s2",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-24"
+   },
+   "dcterms:publisher": "The Encyclopedia of Oklahoma History and Culture (Oklahoma Historical Society), Edward Tabor Linenthal",
+   "dcterms:title": "Oklahoma City Bombing",
+   "schema:url": {
+    "@id": "https://www.okhistory.org/publications/enc/entry?entry=OK026"
+   },
+   "uso:sourceType": "scholarly-encyclopedia"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/oklahoma-city-bombing/s3",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-24"
+   },
+   "dcterms:publisher": "U.S. Court of Appeals for the Tenth Circuit (via Public.Resource.Org)",
+   "dcterms:title": "United States v. McVeigh, 153 F.3d 1166 (10th Cir. 1998)",
+   "schema:url": {
+    "@id": "https://law.resource.org/pub/us/case/reporter/F3/153/153.F3d.1166.97-1287.html"
+   },
+   "uso:sourceType": "primary"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/oklahoma-city-bombing/s4",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-24"
+   },
+   "dcterms:publisher": "National Park Service, Oklahoma City National Memorial",
+   "dcterms:title": "FAQs about the Memorial Grounds",
+   "schema:url": {
+    "@id": "https://www.nps.gov/okci/sitefaqs.htm"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/oklahoma-city-bombing/s5",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-24"
+   },
+   "dcterms:publisher": "National Park Service, Oklahoma City National Memorial",
+   "dcterms:title": "History & Culture",
+   "schema:url": {
+    "@id": "https://www.nps.gov/okci/learn/historyculture/index.htm"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/oklahoma-city-bombing/s6",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-24"
+   },
+   "dcterms:publisher": "Public Papers of the Presidents of the United States, William J. Clinton, 1996, Book I (GovInfo)",
+   "dcterms:title": "Statement on Signing the Antiterrorism and Effective Death Penalty Act of 1996 (April 24, 1996)",
+   "schema:url": {
+    "@id": "https://www.govinfo.gov/content/pkg/PPP-1996-book1/html/PPP-1996-book1-doc-pg630.htm"
+   },
+   "uso:sourceType": "primary"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/oklahoma-city-bombing/s7",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-24"
+   },
+   "dcterms:publisher": "Oklahoma City National Memorial & Museum",
+   "dcterms:title": "FBI Sketch of John Doe #2",
+   "schema:url": {
+    "@id": "https://memorialmuseum.com/artifact/fbi-sketch-of-john-doe-2/"
+   },
+   "uso:sourceType": "museum"
   },
   {
    "@id": "https://github.com/john1hsu/usa-graph/id/source/panama-canal/s1",
@@ -69325,6 +69592,143 @@
     },
     {
      "@id": "https://github.com/john1hsu/usa-graph/id/okies/timeline/9"
+    }
+   ]
+  },
+  {
+   "@id": "us:oklahoma-city-bombing",
+   "@type": "uso:Event",
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-24"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/oklahoma-city-bombing/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/oklahoma-city-bombing/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/oklahoma-city-bombing/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/oklahoma-city-bombing/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/oklahoma-city-bombing/s5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/oklahoma-city-bombing/s6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/oklahoma-city-bombing/s7"
+    }
+   ],
+   "rdfs:label": "Oklahoma City bombing",
+   "schema:startDate": {
+    "@type": "xsd:date",
+    "@value": "1995-04-19"
+   },
+   "skos:altLabel": [
+    "1995 Oklahoma City bombing",
+    "Murrah Federal Building bombing",
+    "OKBOMB"
+   ],
+   "skos:broader": {
+    "@id": "us:terrorism-in-the-united-states"
+   },
+   "skos:definition": "The truck bombing of the Alfred P. Murrah Federal Building in Oklahoma City on April 19, 1995, carried out by Timothy McVeigh with the help of Terry Nichols, which killed 168 people and was the deadliest terrorist attack in the United States before September 11, 2001.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/usa-graph/id/scheme/contemporary-america"
+   },
+   "skos:prefLabel": "Oklahoma City bombing",
+   "skos:related": [
+    {
+     "@id": "us:department-of-homeland-security"
+    },
+    {
+     "@id": "us:muslim-americans"
+    },
+    {
+     "@id": "us:oklahoma"
+    },
+    {
+     "@id": "us:post-cold-war-united-states"
+    },
+    {
+     "@id": "us:september-11-attacks"
+    },
+    {
+     "@id": "us:waco-siege"
+    }
+   ],
+   "uso:affected": {
+    "@id": "us:federal-bureau-of-investigation"
+   },
+   "uso:domain": "contemporary-america",
+   "uso:evidenceStatus": "established",
+   "uso:file": "articles/contemporary-america/oklahoma-city-bombing.md",
+   "uso:influencedBy": {
+    "@id": "us:waco-siege"
+   },
+   "uso:ledTo": [
+    {
+     "@id": "us:antiterrorism-and-effective-death-penalty-act"
+    },
+    {
+     "@id": "us:oklahoma-city-national-memorial"
+    }
+   ],
+   "uso:level": "introductory",
+   "uso:misconception": {
+    "@id": "https://github.com/john1hsu/usa-graph/id/oklahoma-city-bombing/misconception"
+   },
+   "uso:occurredIn": {
+    "@id": "us:oklahoma-city"
+   },
+   "uso:timelineEntry": [
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/oklahoma-city-bombing/timeline/1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/oklahoma-city-bombing/timeline/10"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/oklahoma-city-bombing/timeline/11"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/oklahoma-city-bombing/timeline/12"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/oklahoma-city-bombing/timeline/13"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/oklahoma-city-bombing/timeline/14"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/oklahoma-city-bombing/timeline/2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/oklahoma-city-bombing/timeline/3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/oklahoma-city-bombing/timeline/4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/oklahoma-city-bombing/timeline/5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/oklahoma-city-bombing/timeline/6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/oklahoma-city-bombing/timeline/7"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/oklahoma-city-bombing/timeline/8"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/oklahoma-city-bombing/timeline/9"
     }
    ]
   },

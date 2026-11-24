@@ -671,6 +671,23 @@ Every review question (with its answer) and every myth-versus-fact in the graph,
 - **Q:** Why did Congress pass the Respect for Marriage Act in 2022 even though Obergefell was still in force, and what does that law not do?
   **A:** The act replaced the Defense of Marriage Act's federal definition with one recognizing marriages valid where performed and barred states from denying recognition to other states' marriages because of the couple's sex or race; it does not require any state to issue marriage licenses itself, and it protects nonprofit religious organizations from having to provide services for weddings.
 
+### [Oklahoma City bombing](../articles/contemporary-america/oklahoma-city-bombing.md) — Event
+
+| Myth | Fact |
+|---|---|
+| The Oklahoma City bombing was the work of foreign Islamic terrorists. | In the first hours, media reports blamed Islamic terrorists, but the men arrested and convicted were Timothy McVeigh and Terry Nichols, two American Gulf War veterans influenced by anti-government militia culture. |
+
+**Why it matters:** Homegrown terrorism on this scale was a new concept in 1995 (the previous comparable attack was the 1993 World Trade Center bombing), and the false accusation fuelled about two days of anti-Muslim hysteria across the country.
+
+- **Q:** Why did McVeigh choose April 19 and the Murrah Building as his date and target?
+  **A:** He timed the attack for the anniversary of the end of the federal siege of the Branch Davidians at Waco, Texas, in 1993, and picked the Murrah Building because he believed the orders for Waco had come from it; he regarded everyone inside as guilty by association.
+- **Q:** How did investigators connect the bomb to Timothy McVeigh?
+  **A:** An FBI agent found the truck's rear axle and its vehicle identification number, which led to a Ryder rental shop in Kansas; employees there helped draw a composite sketch, a hotel worker recognised it, and McVeigh turned out to be already in jail after a traffic stop for driving without a licence plate.
+- **Q:** Why was McVeigh tried in Denver rather than Oklahoma?
+  **A:** The judge concluded that publicity and the scale of the loss made a fair trial impossible anywhere in Oklahoma, so the case was moved to Denver, Colorado, in February 1996.
+- **Q:** How did the bombing change federal counterterrorism?
+  **A:** It made homegrown terrorism a priority for the FBI, which expanded its Joint Terrorism Task Forces and bomb-technician training, and it led President Clinton to seek new domestic-terrorism powers, a push that ended in the Antiterrorism and Effective Death Penalty Act of 1996.
+
 ### [September 11 attacks](../articles/contemporary-america/september-11-attacks.md) — Event
 
 | Myth | Fact |

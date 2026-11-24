@@ -2133,25 +2133,40 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1993-11-23 | Congress apologizes for the U.S. role in the 1893 overthrow (Public Law 103-150). — [Hawaii](../articles/states-and-territories/hawaii.md) |
 | 1994-04-04 | Jamestown Rediscovery begins excavating and soon finds that James Fort survives on dry land. — [Jamestown Colony](../articles/colonial-and-revolutionary/jamestown.md) |
 | 1994-08-23 | Congress designates December 7 as National Pearl Harbor Remembrance Day. — [Attack on Pearl Harbor](../articles/depression-and-world-war/attack-on-pearl-harbor.md) |
+| 1994-09-30 | Using the alias "Mike Havens," Timothy McVeigh buys the first of two large loads of ammonium nitrate in Kansas. — [Oklahoma City bombing](../articles/contemporary-america/oklahoma-city-bombing.md) |
 | 1994-10-20 | The Equity in Educational Land-Grant Status Act makes tribal colleges and universities land-grant institutions. — [Morrill Land-Grant College Act](../articles/science-and-innovation/morrill-land-grant-college-act.md) |
 | 1995-01-12 | The first of 31 gray wolves captured in Canada are brought into the park, restoring a species killed off by 1926. — [Yellowstone National Park](../articles/geography-and-environment/yellowstone-national-park.md) |
+| 1995-04-17 | A Ryder truck is rented in Kansas under the name "Robert King." — [Oklahoma City bombing](../articles/contemporary-america/oklahoma-city-bombing.md) |
+| 1995-04-19 | **[Oklahoma City bombing](../articles/contemporary-america/oklahoma-city-bombing.md)** (Event) |
+| 1995-04-19 | At 9:02 a.m. the truck bomb explodes outside the Murrah Federal Building; about 77 minutes later a state trooper stops McVeigh on Interstate 35 and arrests him on a weapons charge. — [Oklahoma City bombing](../articles/contemporary-america/oklahoma-city-bombing.md) |
+| 1995-04-21 | Federal prosecutors charge McVeigh with destruction by explosives, and he is moved to federal custody. — [Oklahoma City bombing](../articles/contemporary-america/oklahoma-city-bombing.md) |
 | 1995-04-26 | United States v. Lopez strikes down the Gun-Free School Zones Act of 1990 as beyond the Commerce Clause, 5 to 4. — [Federalism](../articles/constitution-and-government/federalism.md) |
 | 1995-07 | The National Security Agency begins releasing the Venona decrypts of wartime Soviet intelligence cables. — [McCarthyism](../articles/cold-war-and-civil-rights/mccarthyism.md) |
+| 1995-08-10 | A federal grand jury indicts McVeigh and Terry Nichols on eleven counts, including eight counts of first-degree murder. — [Oklahoma City bombing](../articles/contemporary-america/oklahoma-city-bombing.md) |
 | 1996 | Congress passes the Defense of Marriage Act, defining marriage for federal purposes as between a man and a woman and letting states refuse to recognize other states' same-sex marriages. — [Obergefell v. Hodges](../articles/contemporary-america/obergefell-v-hodges.md) |
+| 1996-02-19 | The trial is moved to Denver after the court finds a fair trial impossible anywhere in Oklahoma. — [Oklahoma City bombing](../articles/contemporary-america/oklahoma-city-bombing.md) |
+| 1996-04-24 | President Bill Clinton signs the Antiterrorism and Effective Death Penalty Act of 1996. — [Oklahoma City bombing](../articles/contemporary-america/oklahoma-city-bombing.md) |
 | 1997 | Mary Moran meets Bendu Jabati of Sierra Leone, linked by a song Turner recorded in the 1930s. — [Gullah Geechee](../articles/society-and-people/gullah-geechee.md) |
 | 1997 | The City Council exonerates Catherine O'Leary and her cow of starting the 1871 fire. — [Chicago](../articles/regions-cities-and-landmarks/chicago.md) |
 | 1997 | The immigration station is designated a National Historic Landmark. — [Chinese detention-barracks poetry](../articles/culture-and-arts/chinese-detention-barracks-poetry.md) |
 | 1997 | The site is designated a National Historic Landmark. — [Angel Island Immigration Station](../articles/society-and-people/angel-island-immigration-station.md) |
+| 1997-06-02 | A Denver jury finds McVeigh guilty on all eleven counts; it later recommends a death sentence. — [Oklahoma City bombing](../articles/contemporary-america/oklahoma-city-bombing.md) |
+| 1997-06-24 | A selection committee picks Hans and Torrey Butzer's design for the national memorial from more than 600 entries. — [Oklahoma City bombing](../articles/contemporary-america/oklahoma-city-bombing.md) |
 | 1997-09-10 | The centennial is marked with new state markers and remarks in the Congressional Record. — [Lattimer massacre](../articles/economy-and-work/lattimer-massacre.md) |
+| 1997-12-24 | Terry Nichols is found guilty of conspiracy and manslaughter; he is sentenced to life without parole. — [Oklahoma City bombing](../articles/contemporary-america/oklahoma-city-bombing.md) |
 | 1998-04-24 | A tree-ring study in Science shows Jamestown was founded during the driest seven years in 770 years (1606–1612). — [Starving Time of 1609–1610](../articles/colonial-and-revolutionary/starving-time.md) |
 | 1998-04-30 | After eight days of debate, the Senate approves the accession of Poland, Hungary and the Czech Republic, 80 to 19. — [North Atlantic Treaty Organization](../articles/foreign-relations-and-military/nato.md) |
+| 1998-05-27 | Michael Fortier, who knew of the plot, is sentenced to 12 years in prison. — [Oklahoma City bombing](../articles/contemporary-america/oklahoma-city-bombing.md) |
 | 1998-07-21 | The National Underground Railroad Network to Freedom Act (Public Law 105-203) creates a National Park Service commemoration program. — [Underground Railroad](../articles/civil-war-and-reconstruction/underground-railroad.md) |
+| 1998-09-08 | The Tenth Circuit Court of Appeals affirms the judgment against McVeigh. — [Oklahoma City bombing](../articles/contemporary-america/oklahoma-city-bombing.md) |
 | 1999 | Al Qaeda leader Usama Bin Ladin approves the airliner plot conceived by Khalid Sheikh Mohammed (late 1998 or early 1999). — [September 11 attacks](../articles/contemporary-america/september-11-attacks.md) |
 | 1999-12-31 | The United States transfers the canal to Panama. — [Panama Canal](../articles/foreign-relations-and-military/panama-canal.md) |
 | 2000 | A Save America's Treasures grant funds restoration of the station, including the poems. — [Chinese detention-barracks poetry](../articles/culture-and-arts/chinese-detention-barracks-poetry.md) |
 | 2000 | About 1.9 percent of employed Americans work in agriculture. — [Economic history of the United States](../articles/economy-and-work/economic-history-of-the-united-states.md) |
 | 2000 | Rice v. Cayetano holds that the amendment protects all persons and that ancestry can serve as a proxy for race. — [Fifteenth Amendment](../articles/democracy-and-elections/fifteenth-amendment.md) |
+| 2000-04-19 | The Oklahoma City National Memorial is dedicated on the fifth anniversary of the bombing. — [Oklahoma City bombing](../articles/contemporary-america/oklahoma-city-bombing.md) |
 | 2001-01 | The Hart-Rudman Commission proposes a National Homeland Security Agency to consolidate nearly two dozen agencies. — [Department of Homeland Security](../articles/contemporary-america/department-of-homeland-security.md) |
+| 2001-06-11 | McVeigh is executed. — [Oklahoma City bombing](../articles/contemporary-america/oklahoma-city-bombing.md) |
 | 2001-07 | By early July all 19 hijackers, who had begun entering the country in January 2000, are inside the United States. — [September 11 attacks](../articles/contemporary-america/september-11-attacks.md) |
 | 2001-09-11 | **[September 11 attacks](../articles/contemporary-america/september-11-attacks.md)** (Event) |
 | 2001-09-11 | Hijacked airliners strike the World Trade Center's North Tower (8:46 a.m.) and South Tower (9:03 a.m.) and the Pentagon (9:37 a.m.); United 93 crashes in Pennsylvania at 10:03 a.m. after a passenger and crew revolt. — [September 11 attacks](../articles/contemporary-america/september-11-attacks.md) |

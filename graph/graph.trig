@@ -480,6 +480,16 @@
 <https://github.com/john1hsu/usa-graph/id/obergefell-v-hodges#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/obergefell-v-hodges/s10> .
 <https://github.com/john1hsu/usa-graph/id/obergefell-v-hodges#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/obergefell-v-hodges/s12> .
 <https://github.com/john1hsu/usa-graph/id/obergefell-v-hodges#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/obergefell-v-hodges/s11> .
+<https://github.com/john1hsu/usa-graph/id/oklahoma-city-bombing#graph> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity> .
+<https://github.com/john1hsu/usa-graph/id/oklahoma-city-bombing#graph> <http://purl.org/dc/terms/subject> <https://github.com/john1hsu/usa-graph/id/oklahoma-city-bombing> .
+<https://github.com/john1hsu/usa-graph/id/oklahoma-city-bombing#graph> <http://purl.org/dc/terms/source> "https://github.com/john1hsu/usa-graph/blob/main/articles/contemporary-america/oklahoma-city-bombing.md" .
+<https://github.com/john1hsu/usa-graph/id/oklahoma-city-bombing#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/oklahoma-city-bombing/s1> .
+<https://github.com/john1hsu/usa-graph/id/oklahoma-city-bombing#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/oklahoma-city-bombing/s2> .
+<https://github.com/john1hsu/usa-graph/id/oklahoma-city-bombing#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/oklahoma-city-bombing/s3> .
+<https://github.com/john1hsu/usa-graph/id/oklahoma-city-bombing#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/oklahoma-city-bombing/s4> .
+<https://github.com/john1hsu/usa-graph/id/oklahoma-city-bombing#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/oklahoma-city-bombing/s5> .
+<https://github.com/john1hsu/usa-graph/id/oklahoma-city-bombing#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/oklahoma-city-bombing/s6> .
+<https://github.com/john1hsu/usa-graph/id/oklahoma-city-bombing#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/oklahoma-city-bombing/s7> .
 <https://github.com/john1hsu/usa-graph/id/september-11-attacks#graph> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity> .
 <https://github.com/john1hsu/usa-graph/id/september-11-attacks#graph> <http://purl.org/dc/terms/subject> <https://github.com/john1hsu/usa-graph/id/september-11-attacks> .
 <https://github.com/john1hsu/usa-graph/id/september-11-attacks#graph> <http://purl.org/dc/terms/source> "https://github.com/john1hsu/usa-graph/blob/main/articles/contemporary-america/september-11-attacks.md" .
@@ -9001,6 +9011,161 @@
   <https://github.com/john1hsu/usa-graph/id/source/obergefell-v-hodges/s9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
   <https://github.com/john1hsu/usa-graph/id/source/obergefell-v-hodges/s9> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
   <https://github.com/john1hsu/usa-graph/id/source/obergefell-v-hodges/s9> <https://schema.org/url> <https://www.supremecourt.gov/docket/docketfiles/html/public/25-125.html> .
+}
+
+<https://github.com/john1hsu/usa-graph/id/oklahoma-city-bombing#graph> {
+  <https://github.com/john1hsu/usa-graph/id/oklahoma-city-bombing/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Misconception> .
+  <https://github.com/john1hsu/usa-graph/id/oklahoma-city-bombing/misconception> <https://github.com/john1hsu/usa-graph/ontology#fact> "In the first hours, media reports blamed Islamic terrorists, but the men arrested and convicted were Timothy McVeigh and Terry Nichols, two American Gulf War veterans influenced by anti-government militia culture." .
+  <https://github.com/john1hsu/usa-graph/id/oklahoma-city-bombing/misconception> <https://github.com/john1hsu/usa-graph/ontology#myth> "The Oklahoma City bombing was the work of foreign Islamic terrorists." .
+  <https://github.com/john1hsu/usa-graph/id/oklahoma-city-bombing/misconception> <https://github.com/john1hsu/usa-graph/ontology#why> "Homegrown terrorism on this scale was a new concept in 1995 (the previous comparable attack was the 1993 World Trade Center bombing), and the false accusation fuelled about two days of anti-Muslim hysteria across the country." .
+  <https://github.com/john1hsu/usa-graph/id/oklahoma-city-bombing/review/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+  <https://github.com/john1hsu/usa-graph/id/oklahoma-city-bombing/review/1> <http://www.w3.org/2000/01/rdf-schema#label> "Why did McVeigh choose April 19 and the Murrah Building as his date and target?" .
+  <https://github.com/john1hsu/usa-graph/id/oklahoma-city-bombing/review/1> <https://github.com/john1hsu/usa-graph/ontology#answer> "He timed the attack for the anniversary of the end of the federal siege of the Branch Davidians at Waco, Texas, in 1993, and picked the Murrah Building because he believed the orders for Waco had come from it; he regarded everyone inside as guilty by association." .
+  <https://github.com/john1hsu/usa-graph/id/oklahoma-city-bombing/review/1> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/oklahoma-city-bombing> .
+  <https://github.com/john1hsu/usa-graph/id/oklahoma-city-bombing/review/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+  <https://github.com/john1hsu/usa-graph/id/oklahoma-city-bombing/review/2> <http://www.w3.org/2000/01/rdf-schema#label> "How did investigators connect the bomb to Timothy McVeigh?" .
+  <https://github.com/john1hsu/usa-graph/id/oklahoma-city-bombing/review/2> <https://github.com/john1hsu/usa-graph/ontology#answer> "An FBI agent found the truck's rear axle and its vehicle identification number, which led to a Ryder rental shop in Kansas; employees there helped draw a composite sketch, a hotel worker recognised it, and McVeigh turned out to be already in jail after a traffic stop for driving without a licence plate." .
+  <https://github.com/john1hsu/usa-graph/id/oklahoma-city-bombing/review/2> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/oklahoma-city-bombing> .
+  <https://github.com/john1hsu/usa-graph/id/oklahoma-city-bombing/review/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+  <https://github.com/john1hsu/usa-graph/id/oklahoma-city-bombing/review/3> <http://www.w3.org/2000/01/rdf-schema#label> "Why was McVeigh tried in Denver rather than Oklahoma?" .
+  <https://github.com/john1hsu/usa-graph/id/oklahoma-city-bombing/review/3> <https://github.com/john1hsu/usa-graph/ontology#answer> "The judge concluded that publicity and the scale of the loss made a fair trial impossible anywhere in Oklahoma, so the case was moved to Denver, Colorado, in February 1996." .
+  <https://github.com/john1hsu/usa-graph/id/oklahoma-city-bombing/review/3> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/oklahoma-city-bombing> .
+  <https://github.com/john1hsu/usa-graph/id/oklahoma-city-bombing/review/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+  <https://github.com/john1hsu/usa-graph/id/oklahoma-city-bombing/review/4> <http://www.w3.org/2000/01/rdf-schema#label> "How did the bombing change federal counterterrorism?" .
+  <https://github.com/john1hsu/usa-graph/id/oklahoma-city-bombing/review/4> <https://github.com/john1hsu/usa-graph/ontology#answer> "It made homegrown terrorism a priority for the FBI, which expanded its Joint Terrorism Task Forces and bomb-technician training, and it led President Clinton to seek new domestic-terrorism powers, a push that ended in the Antiterrorism and Effective Death Penalty Act of 1996." .
+  <https://github.com/john1hsu/usa-graph/id/oklahoma-city-bombing/review/4> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/oklahoma-city-bombing> .
+  <https://github.com/john1hsu/usa-graph/id/oklahoma-city-bombing/timeline/10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/oklahoma-city-bombing/timeline/10> <http://www.w3.org/2000/01/rdf-schema#label> "Terry Nichols is found guilty of conspiracy and manslaughter; he is sentenced to life without parole." .
+  <https://github.com/john1hsu/usa-graph/id/oklahoma-city-bombing/timeline/10> <https://github.com/john1hsu/usa-graph/ontology#date> "1997-12-24"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/oklahoma-city-bombing/timeline/11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/oklahoma-city-bombing/timeline/11> <http://www.w3.org/2000/01/rdf-schema#label> "Michael Fortier, who knew of the plot, is sentenced to 12 years in prison." .
+  <https://github.com/john1hsu/usa-graph/id/oklahoma-city-bombing/timeline/11> <https://github.com/john1hsu/usa-graph/ontology#date> "1998-05-27"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/oklahoma-city-bombing/timeline/12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/oklahoma-city-bombing/timeline/12> <http://www.w3.org/2000/01/rdf-schema#label> "The Tenth Circuit Court of Appeals affirms the judgment against McVeigh." .
+  <https://github.com/john1hsu/usa-graph/id/oklahoma-city-bombing/timeline/12> <https://github.com/john1hsu/usa-graph/ontology#date> "1998-09-08"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/oklahoma-city-bombing/timeline/13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/oklahoma-city-bombing/timeline/13> <http://www.w3.org/2000/01/rdf-schema#label> "The Oklahoma City National Memorial is dedicated on the fifth anniversary of the bombing." .
+  <https://github.com/john1hsu/usa-graph/id/oklahoma-city-bombing/timeline/13> <https://github.com/john1hsu/usa-graph/ontology#date> "2000-04-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/oklahoma-city-bombing/timeline/14> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/oklahoma-city-bombing/timeline/14> <http://www.w3.org/2000/01/rdf-schema#label> "McVeigh is executed." .
+  <https://github.com/john1hsu/usa-graph/id/oklahoma-city-bombing/timeline/14> <https://github.com/john1hsu/usa-graph/ontology#date> "2001-06-11"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/oklahoma-city-bombing/timeline/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/oklahoma-city-bombing/timeline/1> <http://www.w3.org/2000/01/rdf-schema#label> "Using the alias \"Mike Havens,\" Timothy McVeigh buys the first of two large loads of ammonium nitrate in Kansas." .
+  <https://github.com/john1hsu/usa-graph/id/oklahoma-city-bombing/timeline/1> <https://github.com/john1hsu/usa-graph/ontology#date> "1994-09-30"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/oklahoma-city-bombing/timeline/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/oklahoma-city-bombing/timeline/2> <http://www.w3.org/2000/01/rdf-schema#label> "A Ryder truck is rented in Kansas under the name \"Robert King.\"" .
+  <https://github.com/john1hsu/usa-graph/id/oklahoma-city-bombing/timeline/2> <https://github.com/john1hsu/usa-graph/ontology#date> "1995-04-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/oklahoma-city-bombing/timeline/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/oklahoma-city-bombing/timeline/3> <http://www.w3.org/2000/01/rdf-schema#label> "At 9:02 a.m. the truck bomb explodes outside the Murrah Federal Building; about 77 minutes later a state trooper stops McVeigh on Interstate 35 and arrests him on a weapons charge." .
+  <https://github.com/john1hsu/usa-graph/id/oklahoma-city-bombing/timeline/3> <https://github.com/john1hsu/usa-graph/ontology#date> "1995-04-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/oklahoma-city-bombing/timeline/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/oklahoma-city-bombing/timeline/4> <http://www.w3.org/2000/01/rdf-schema#label> "Federal prosecutors charge McVeigh with destruction by explosives, and he is moved to federal custody." .
+  <https://github.com/john1hsu/usa-graph/id/oklahoma-city-bombing/timeline/4> <https://github.com/john1hsu/usa-graph/ontology#date> "1995-04-21"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/oklahoma-city-bombing/timeline/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/oklahoma-city-bombing/timeline/5> <http://www.w3.org/2000/01/rdf-schema#label> "A federal grand jury indicts McVeigh and Terry Nichols on eleven counts, including eight counts of first-degree murder." .
+  <https://github.com/john1hsu/usa-graph/id/oklahoma-city-bombing/timeline/5> <https://github.com/john1hsu/usa-graph/ontology#date> "1995-08-10"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/oklahoma-city-bombing/timeline/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/oklahoma-city-bombing/timeline/6> <http://www.w3.org/2000/01/rdf-schema#label> "The trial is moved to Denver after the court finds a fair trial impossible anywhere in Oklahoma." .
+  <https://github.com/john1hsu/usa-graph/id/oklahoma-city-bombing/timeline/6> <https://github.com/john1hsu/usa-graph/ontology#date> "1996-02-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/oklahoma-city-bombing/timeline/7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/oklahoma-city-bombing/timeline/7> <http://www.w3.org/2000/01/rdf-schema#label> "President Bill Clinton signs the Antiterrorism and Effective Death Penalty Act of 1996." .
+  <https://github.com/john1hsu/usa-graph/id/oklahoma-city-bombing/timeline/7> <https://github.com/john1hsu/usa-graph/ontology#date> "1996-04-24"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/oklahoma-city-bombing/timeline/8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/oklahoma-city-bombing/timeline/8> <http://www.w3.org/2000/01/rdf-schema#label> "A Denver jury finds McVeigh guilty on all eleven counts; it later recommends a death sentence." .
+  <https://github.com/john1hsu/usa-graph/id/oklahoma-city-bombing/timeline/8> <https://github.com/john1hsu/usa-graph/ontology#date> "1997-06-02"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/oklahoma-city-bombing/timeline/9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/oklahoma-city-bombing/timeline/9> <http://www.w3.org/2000/01/rdf-schema#label> "A selection committee picks Hans and Torrey Butzer's design for the national memorial from more than 600 entries." .
+  <https://github.com/john1hsu/usa-graph/id/oklahoma-city-bombing/timeline/9> <https://github.com/john1hsu/usa-graph/ontology#date> "1997-06-24"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/oklahoma-city-bombing> <http://purl.org/dc/terms/created> "2026-11-24"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/oklahoma-city-bombing> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Event> .
+  <https://github.com/john1hsu/usa-graph/id/oklahoma-city-bombing> <http://www.w3.org/2000/01/rdf-schema#label> "Oklahoma City bombing" .
+  <https://github.com/john1hsu/usa-graph/id/oklahoma-city-bombing> <http://www.w3.org/2004/02/skos/core#altLabel> "1995 Oklahoma City bombing" .
+  <https://github.com/john1hsu/usa-graph/id/oklahoma-city-bombing> <http://www.w3.org/2004/02/skos/core#altLabel> "Murrah Federal Building bombing" .
+  <https://github.com/john1hsu/usa-graph/id/oklahoma-city-bombing> <http://www.w3.org/2004/02/skos/core#altLabel> "OKBOMB" .
+  <https://github.com/john1hsu/usa-graph/id/oklahoma-city-bombing> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/usa-graph/id/terrorism-in-the-united-states> .
+  <https://github.com/john1hsu/usa-graph/id/oklahoma-city-bombing> <http://www.w3.org/2004/02/skos/core#definition> "The truck bombing of the Alfred P. Murrah Federal Building in Oklahoma City on April 19, 1995, carried out by Timothy McVeigh with the help of Terry Nichols, which killed 168 people and was the deadliest terrorist attack in the United States before September 11, 2001." .
+  <https://github.com/john1hsu/usa-graph/id/oklahoma-city-bombing> <http://www.w3.org/2004/02/skos/core#inScheme> <https://github.com/john1hsu/usa-graph/id/scheme/contemporary-america> .
+  <https://github.com/john1hsu/usa-graph/id/oklahoma-city-bombing> <http://www.w3.org/2004/02/skos/core#prefLabel> "Oklahoma City bombing" .
+  <https://github.com/john1hsu/usa-graph/id/oklahoma-city-bombing> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/department-of-homeland-security> .
+  <https://github.com/john1hsu/usa-graph/id/oklahoma-city-bombing> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/muslim-americans> .
+  <https://github.com/john1hsu/usa-graph/id/oklahoma-city-bombing> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/oklahoma> .
+  <https://github.com/john1hsu/usa-graph/id/oklahoma-city-bombing> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/post-cold-war-united-states> .
+  <https://github.com/john1hsu/usa-graph/id/oklahoma-city-bombing> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/september-11-attacks> .
+  <https://github.com/john1hsu/usa-graph/id/oklahoma-city-bombing> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/waco-siege> .
+  <https://github.com/john1hsu/usa-graph/id/oklahoma-city-bombing> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/oklahoma-city-bombing/s1> .
+  <https://github.com/john1hsu/usa-graph/id/oklahoma-city-bombing> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/oklahoma-city-bombing/s2> .
+  <https://github.com/john1hsu/usa-graph/id/oklahoma-city-bombing> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/oklahoma-city-bombing/s3> .
+  <https://github.com/john1hsu/usa-graph/id/oklahoma-city-bombing> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/oklahoma-city-bombing/s4> .
+  <https://github.com/john1hsu/usa-graph/id/oklahoma-city-bombing> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/oklahoma-city-bombing/s5> .
+  <https://github.com/john1hsu/usa-graph/id/oklahoma-city-bombing> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/oklahoma-city-bombing/s6> .
+  <https://github.com/john1hsu/usa-graph/id/oklahoma-city-bombing> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/oklahoma-city-bombing/s7> .
+  <https://github.com/john1hsu/usa-graph/id/oklahoma-city-bombing> <https://github.com/john1hsu/usa-graph/ontology#affected> <https://github.com/john1hsu/usa-graph/id/federal-bureau-of-investigation> .
+  <https://github.com/john1hsu/usa-graph/id/oklahoma-city-bombing> <https://github.com/john1hsu/usa-graph/ontology#domain> "contemporary-america" .
+  <https://github.com/john1hsu/usa-graph/id/oklahoma-city-bombing> <https://github.com/john1hsu/usa-graph/ontology#evidenceStatus> "established" .
+  <https://github.com/john1hsu/usa-graph/id/oklahoma-city-bombing> <https://github.com/john1hsu/usa-graph/ontology#file> "articles/contemporary-america/oklahoma-city-bombing.md" .
+  <https://github.com/john1hsu/usa-graph/id/oklahoma-city-bombing> <https://github.com/john1hsu/usa-graph/ontology#influencedBy> <https://github.com/john1hsu/usa-graph/id/waco-siege> .
+  <https://github.com/john1hsu/usa-graph/id/oklahoma-city-bombing> <https://github.com/john1hsu/usa-graph/ontology#ledTo> <https://github.com/john1hsu/usa-graph/id/antiterrorism-and-effective-death-penalty-act> .
+  <https://github.com/john1hsu/usa-graph/id/oklahoma-city-bombing> <https://github.com/john1hsu/usa-graph/ontology#ledTo> <https://github.com/john1hsu/usa-graph/id/oklahoma-city-national-memorial> .
+  <https://github.com/john1hsu/usa-graph/id/oklahoma-city-bombing> <https://github.com/john1hsu/usa-graph/ontology#level> "introductory" .
+  <https://github.com/john1hsu/usa-graph/id/oklahoma-city-bombing> <https://github.com/john1hsu/usa-graph/ontology#misconception> <https://github.com/john1hsu/usa-graph/id/oklahoma-city-bombing/misconception> .
+  <https://github.com/john1hsu/usa-graph/id/oklahoma-city-bombing> <https://github.com/john1hsu/usa-graph/ontology#occurredIn> <https://github.com/john1hsu/usa-graph/id/oklahoma-city> .
+  <https://github.com/john1hsu/usa-graph/id/oklahoma-city-bombing> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/oklahoma-city-bombing/timeline/10> .
+  <https://github.com/john1hsu/usa-graph/id/oklahoma-city-bombing> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/oklahoma-city-bombing/timeline/11> .
+  <https://github.com/john1hsu/usa-graph/id/oklahoma-city-bombing> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/oklahoma-city-bombing/timeline/12> .
+  <https://github.com/john1hsu/usa-graph/id/oklahoma-city-bombing> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/oklahoma-city-bombing/timeline/13> .
+  <https://github.com/john1hsu/usa-graph/id/oklahoma-city-bombing> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/oklahoma-city-bombing/timeline/14> .
+  <https://github.com/john1hsu/usa-graph/id/oklahoma-city-bombing> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/oklahoma-city-bombing/timeline/1> .
+  <https://github.com/john1hsu/usa-graph/id/oklahoma-city-bombing> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/oklahoma-city-bombing/timeline/2> .
+  <https://github.com/john1hsu/usa-graph/id/oklahoma-city-bombing> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/oklahoma-city-bombing/timeline/3> .
+  <https://github.com/john1hsu/usa-graph/id/oklahoma-city-bombing> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/oklahoma-city-bombing/timeline/4> .
+  <https://github.com/john1hsu/usa-graph/id/oklahoma-city-bombing> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/oklahoma-city-bombing/timeline/5> .
+  <https://github.com/john1hsu/usa-graph/id/oklahoma-city-bombing> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/oklahoma-city-bombing/timeline/6> .
+  <https://github.com/john1hsu/usa-graph/id/oklahoma-city-bombing> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/oklahoma-city-bombing/timeline/7> .
+  <https://github.com/john1hsu/usa-graph/id/oklahoma-city-bombing> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/oklahoma-city-bombing/timeline/8> .
+  <https://github.com/john1hsu/usa-graph/id/oklahoma-city-bombing> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/oklahoma-city-bombing/timeline/9> .
+  <https://github.com/john1hsu/usa-graph/id/oklahoma-city-bombing> <https://schema.org/startDate> "1995-04-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/oklahoma-city-bombing/s1> <http://purl.org/dc/terms/date> "2026-11-24"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/oklahoma-city-bombing/s1> <http://purl.org/dc/terms/publisher> "Federal Bureau of Investigation" .
+  <https://github.com/john1hsu/usa-graph/id/source/oklahoma-city-bombing/s1> <http://purl.org/dc/terms/title> "The Oklahoma City Bombing: 25 Years Later — Retired FBI Agent Reflects on Tragic Day and How it Shaped the Bureau" .
+  <https://github.com/john1hsu/usa-graph/id/source/oklahoma-city-bombing/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/oklahoma-city-bombing/s1> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+  <https://github.com/john1hsu/usa-graph/id/source/oklahoma-city-bombing/s1> <https://schema.org/url> <https://www.fbi.gov/news/stories/25-years-after-oklahoma-city-bombing-041520> .
+  <https://github.com/john1hsu/usa-graph/id/source/oklahoma-city-bombing/s2> <http://purl.org/dc/terms/date> "2026-11-24"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/oklahoma-city-bombing/s2> <http://purl.org/dc/terms/publisher> "The Encyclopedia of Oklahoma History and Culture (Oklahoma Historical Society), Edward Tabor Linenthal" .
+  <https://github.com/john1hsu/usa-graph/id/source/oklahoma-city-bombing/s2> <http://purl.org/dc/terms/title> "Oklahoma City Bombing" .
+  <https://github.com/john1hsu/usa-graph/id/source/oklahoma-city-bombing/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/oklahoma-city-bombing/s2> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "scholarly-encyclopedia" .
+  <https://github.com/john1hsu/usa-graph/id/source/oklahoma-city-bombing/s2> <https://schema.org/url> <https://www.okhistory.org/publications/enc/entry?entry=OK026> .
+  <https://github.com/john1hsu/usa-graph/id/source/oklahoma-city-bombing/s3> <http://purl.org/dc/terms/date> "2026-11-24"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/oklahoma-city-bombing/s3> <http://purl.org/dc/terms/publisher> "U.S. Court of Appeals for the Tenth Circuit (via Public.Resource.Org)" .
+  <https://github.com/john1hsu/usa-graph/id/source/oklahoma-city-bombing/s3> <http://purl.org/dc/terms/title> "United States v. McVeigh, 153 F.3d 1166 (10th Cir. 1998)" .
+  <https://github.com/john1hsu/usa-graph/id/source/oklahoma-city-bombing/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/oklahoma-city-bombing/s3> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "primary" .
+  <https://github.com/john1hsu/usa-graph/id/source/oklahoma-city-bombing/s3> <https://schema.org/url> <https://law.resource.org/pub/us/case/reporter/F3/153/153.F3d.1166.97-1287.html> .
+  <https://github.com/john1hsu/usa-graph/id/source/oklahoma-city-bombing/s4> <http://purl.org/dc/terms/date> "2026-11-24"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/oklahoma-city-bombing/s4> <http://purl.org/dc/terms/publisher> "National Park Service, Oklahoma City National Memorial" .
+  <https://github.com/john1hsu/usa-graph/id/source/oklahoma-city-bombing/s4> <http://purl.org/dc/terms/title> "FAQs about the Memorial Grounds" .
+  <https://github.com/john1hsu/usa-graph/id/source/oklahoma-city-bombing/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/oklahoma-city-bombing/s4> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+  <https://github.com/john1hsu/usa-graph/id/source/oklahoma-city-bombing/s4> <https://schema.org/url> <https://www.nps.gov/okci/sitefaqs.htm> .
+  <https://github.com/john1hsu/usa-graph/id/source/oklahoma-city-bombing/s5> <http://purl.org/dc/terms/date> "2026-11-24"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/oklahoma-city-bombing/s5> <http://purl.org/dc/terms/publisher> "National Park Service, Oklahoma City National Memorial" .
+  <https://github.com/john1hsu/usa-graph/id/source/oklahoma-city-bombing/s5> <http://purl.org/dc/terms/title> "History & Culture" .
+  <https://github.com/john1hsu/usa-graph/id/source/oklahoma-city-bombing/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/oklahoma-city-bombing/s5> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+  <https://github.com/john1hsu/usa-graph/id/source/oklahoma-city-bombing/s5> <https://schema.org/url> <https://www.nps.gov/okci/learn/historyculture/index.htm> .
+  <https://github.com/john1hsu/usa-graph/id/source/oklahoma-city-bombing/s6> <http://purl.org/dc/terms/date> "2026-11-24"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/oklahoma-city-bombing/s6> <http://purl.org/dc/terms/publisher> "Public Papers of the Presidents of the United States, William J. Clinton, 1996, Book I (GovInfo)" .
+  <https://github.com/john1hsu/usa-graph/id/source/oklahoma-city-bombing/s6> <http://purl.org/dc/terms/title> "Statement on Signing the Antiterrorism and Effective Death Penalty Act of 1996 (April 24, 1996)" .
+  <https://github.com/john1hsu/usa-graph/id/source/oklahoma-city-bombing/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/oklahoma-city-bombing/s6> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "primary" .
+  <https://github.com/john1hsu/usa-graph/id/source/oklahoma-city-bombing/s6> <https://schema.org/url> <https://www.govinfo.gov/content/pkg/PPP-1996-book1/html/PPP-1996-book1-doc-pg630.htm> .
+  <https://github.com/john1hsu/usa-graph/id/source/oklahoma-city-bombing/s7> <http://purl.org/dc/terms/date> "2026-11-24"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/oklahoma-city-bombing/s7> <http://purl.org/dc/terms/publisher> "Oklahoma City National Memorial & Museum" .
+  <https://github.com/john1hsu/usa-graph/id/source/oklahoma-city-bombing/s7> <http://purl.org/dc/terms/title> "FBI Sketch of John Doe #2" .
+  <https://github.com/john1hsu/usa-graph/id/source/oklahoma-city-bombing/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/oklahoma-city-bombing/s7> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "museum" .
+  <https://github.com/john1hsu/usa-graph/id/source/oklahoma-city-bombing/s7> <https://schema.org/url> <https://memorialmuseum.com/artifact/fbi-sketch-of-john-doe-2/> .
 }
 
 <https://github.com/john1hsu/usa-graph/id/september-11-attacks#graph> {
@@ -32522,6 +32687,7 @@
   <https://github.com/john1hsu/usa-graph/id/anti-federalists> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/federalist-papers> .
   <https://github.com/john1hsu/usa-graph/id/anti-slavery-record> <https://github.com/john1hsu/usa-graph/ontology#introduces> <https://github.com/john1hsu/usa-graph/id/liberty-bell> .
   <https://github.com/john1hsu/usa-graph/id/antiquities-act> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/theodore-roosevelt> .
+  <https://github.com/john1hsu/usa-graph/id/antiterrorism-and-effective-death-penalty-act> <https://github.com/john1hsu/usa-graph/ontology#resultedFrom> <https://github.com/john1hsu/usa-graph/id/oklahoma-city-bombing> .
   <https://github.com/john1hsu/usa-graph/id/antoine-de-la-mothe-cadillac> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/antoine-de-la-mothe-cadillac> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Person> .
   <https://github.com/john1hsu/usa-graph/id/antoine-de-la-mothe-cadillac> <https://github.com/john1hsu/usa-graph/ontology#founded> <https://github.com/john1hsu/usa-graph/id/detroit> .
@@ -33811,6 +33977,7 @@
   <https://github.com/john1hsu/usa-graph/id/department-of-homeland-security> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/department-of-homeland-security> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/usa-graph/id/federal-government-of-the-united-states> .
   <https://github.com/john1hsu/usa-graph/id/department-of-homeland-security> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/covid-19-pandemic-in-the-united-states> .
+  <https://github.com/john1hsu/usa-graph/id/department-of-homeland-security> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/oklahoma-city-bombing> .
   <https://github.com/john1hsu/usa-graph/id/department-of-homeland-security> <https://github.com/john1hsu/usa-graph/ontology#resultedFrom> <https://github.com/john1hsu/usa-graph/id/september-11-attacks> .
   <https://github.com/john1hsu/usa-graph/id/department-of-the-interior> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/usa-graph/id/bureau-of-ocean-energy-management> .
   <https://github.com/john1hsu/usa-graph/id/department-of-the-interior> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/bureau-of-ocean-energy-management> .
@@ -34210,6 +34377,7 @@
   <https://github.com/john1hsu/usa-graph/id/farewell-address> <https://github.com/john1hsu/usa-graph/ontology#influenced> <https://github.com/john1hsu/usa-graph/id/monroe-doctrine> .
   <https://github.com/john1hsu/usa-graph/id/farm-security-administration> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/okies> .
   <https://github.com/john1hsu/usa-graph/id/federal-bureau-of-investigation> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/martin-luther-king-jr> .
+  <https://github.com/john1hsu/usa-graph/id/federal-bureau-of-investigation> <https://github.com/john1hsu/usa-graph/ontology#affectedBy> <https://github.com/john1hsu/usa-graph/id/oklahoma-city-bombing> .
   <https://github.com/john1hsu/usa-graph/id/federal-government-of-the-united-states> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/usa-graph/id/department-of-homeland-security> .
   <https://github.com/john1hsu/usa-graph/id/federal-government-of-the-united-states> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/usa-graph/id/electoral-college> .
   <https://github.com/john1hsu/usa-graph/id/federal-government-of-the-united-states> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/usa-graph/id/presidency-of-the-united-states> .
@@ -36682,6 +36850,7 @@
   <https://github.com/john1hsu/usa-graph/id/music-of-the-united-states> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/hip-hop> .
   <https://github.com/john1hsu/usa-graph/id/music-of-the-united-states> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/jazz> .
   <https://github.com/john1hsu/usa-graph/id/music-of-the-united-states> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/star-spangled-banner> .
+  <https://github.com/john1hsu/usa-graph/id/muslim-americans> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/oklahoma-city-bombing> .
   <https://github.com/john1hsu/usa-graph/id/naacp-legal-defense-and-educational-fund> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/brown-v-board-of-education> .
   <https://github.com/john1hsu/usa-graph/id/naacp> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/civil-rights-movement> .
   <https://github.com/john1hsu/usa-graph/id/naacp> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/detroit-race-riot-of-1943> .
@@ -37121,8 +37290,35 @@
   <https://github.com/john1hsu/usa-graph/id/okies> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/the-west> .
   <https://github.com/john1hsu/usa-graph/id/okies> <https://github.com/john1hsu/usa-graph/ontology#locatedIn> <https://github.com/john1hsu/usa-graph/id/north-america> .
   <https://github.com/john1hsu/usa-graph/id/okies> <https://github.com/john1hsu/usa-graph/ontology#locatedIn> <https://github.com/john1hsu/usa-graph/id/united-states> .
+  <https://github.com/john1hsu/usa-graph/id/oklahoma-city-bombing/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/oklahoma-city-bombing/review/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/oklahoma-city-bombing/review/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/oklahoma-city-bombing/review/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/oklahoma-city-bombing/review/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/oklahoma-city-bombing/timeline/10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/oklahoma-city-bombing/timeline/11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/oklahoma-city-bombing/timeline/12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/oklahoma-city-bombing/timeline/13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/oklahoma-city-bombing/timeline/14> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/oklahoma-city-bombing/timeline/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/oklahoma-city-bombing/timeline/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/oklahoma-city-bombing/timeline/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/oklahoma-city-bombing/timeline/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/oklahoma-city-bombing/timeline/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/oklahoma-city-bombing/timeline/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/oklahoma-city-bombing/timeline/7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/oklahoma-city-bombing/timeline/8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/oklahoma-city-bombing/timeline/9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/oklahoma-city-bombing> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/oklahoma-city-bombing> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Happening> .
+  <https://github.com/john1hsu/usa-graph/id/oklahoma-city-bombing> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/usa-graph/id/terrorism-in-the-united-states> .
+  <https://github.com/john1hsu/usa-graph/id/oklahoma-city-national-memorial> <https://github.com/john1hsu/usa-graph/ontology#resultedFrom> <https://github.com/john1hsu/usa-graph/id/oklahoma-city-bombing> .
+  <https://github.com/john1hsu/usa-graph/id/oklahoma-city> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/oklahoma-city> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Place> .
+  <https://github.com/john1hsu/usa-graph/id/oklahoma-city> <https://github.com/john1hsu/usa-graph/ontology#siteOf> <https://github.com/john1hsu/usa-graph/id/oklahoma-city-bombing> .
   <https://github.com/john1hsu/usa-graph/id/oklahoma> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/oklahoma> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Place> .
+  <https://github.com/john1hsu/usa-graph/id/oklahoma> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/oklahoma-city-bombing> .
   <https://github.com/john1hsu/usa-graph/id/oklahoma> <https://github.com/john1hsu/usa-graph/ontology#originOf> <https://github.com/john1hsu/usa-graph/id/okies> .
   <https://github.com/john1hsu/usa-graph/id/oklahoma> <https://github.com/john1hsu/usa-graph/ontology#siteOf> <https://github.com/john1hsu/usa-graph/id/dust-bowl> .
   <https://github.com/john1hsu/usa-graph/id/olive-branch-petition> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/second-continental-congress> .
@@ -37411,6 +37607,7 @@
   <https://github.com/john1hsu/usa-graph/id/post-cold-war-united-states> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Era> .
   <https://github.com/john1hsu/usa-graph/id/post-cold-war-united-states> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Happening> .
   <https://github.com/john1hsu/usa-graph/id/post-cold-war-united-states> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/cold-war> .
+  <https://github.com/john1hsu/usa-graph/id/post-cold-war-united-states> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/oklahoma-city-bombing> .
   <https://github.com/john1hsu/usa-graph/id/post-cold-war-united-states> <https://github.com/john1hsu/usa-graph/ontology#periodOf> <https://github.com/john1hsu/usa-graph/id/great-recession> .
   <https://github.com/john1hsu/usa-graph/id/potawatomi> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/chicago> .
   <https://github.com/john1hsu/usa-graph/id/potomac-river> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/chesapeake-bay> .
@@ -37844,6 +38041,7 @@
   <https://github.com/john1hsu/usa-graph/id/september-11-attacks> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/department-of-homeland-security> .
   <https://github.com/john1hsu/usa-graph/id/september-11-attacks> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/nato> .
   <https://github.com/john1hsu/usa-graph/id/september-11-attacks> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/new-york-city> .
+  <https://github.com/john1hsu/usa-graph/id/september-11-attacks> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/oklahoma-city-bombing> .
   <https://github.com/john1hsu/usa-graph/id/september-11-attacks> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/department-of-homeland-security> .
   <https://github.com/john1hsu/usa-graph/id/september-11-attacks> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/war-in-afghanistan> .
   <https://github.com/john1hsu/usa-graph/id/september-11-conspiracy-theories> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/september-11-attacks> .
@@ -38346,7 +38544,9 @@
   <https://github.com/john1hsu/usa-graph/id/territorial-expansion-of-the-united-states> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/missouri-compromise> .
   <https://github.com/john1hsu/usa-graph/id/territorial-expansion-of-the-united-states> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/united-states> .
   <https://github.com/john1hsu/usa-graph/id/territory-of-orleans> <https://github.com/john1hsu/usa-graph/ontology#resultedFrom> <https://github.com/john1hsu/usa-graph/id/louisiana-purchase> .
+  <https://github.com/john1hsu/usa-graph/id/terrorism-in-the-united-states> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/usa-graph/id/oklahoma-city-bombing> .
   <https://github.com/john1hsu/usa-graph/id/terrorism-in-the-united-states> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/usa-graph/id/september-11-attacks> .
+  <https://github.com/john1hsu/usa-graph/id/terrorism-in-the-united-states> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/oklahoma-city-bombing> .
   <https://github.com/john1hsu/usa-graph/id/terrorism-in-the-united-states> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/september-11-attacks> .
   <https://github.com/john1hsu/usa-graph/id/terrorism-in-the-united-states> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/department-of-homeland-security> .
   <https://github.com/john1hsu/usa-graph/id/texas-annexation> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/texas> .
@@ -39287,6 +39487,8 @@
   <https://github.com/john1hsu/usa-graph/id/w-e-b-du-bois> <https://github.com/john1hsu/usa-graph/ontology#requires> <https://github.com/john1hsu/usa-graph/id/reconstruction-era> .
   <https://github.com/john1hsu/usa-graph/id/w-e-b-du-bois> <https://github.com/john1hsu/usa-graph/ontology#requires> <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> .
   <https://github.com/john1hsu/usa-graph/id/w-e-b-du-bois> <https://github.com/john1hsu/usa-graph/ontology#requires> <https://github.com/john1hsu/usa-graph/id/thirteenth-amendment> .
+  <https://github.com/john1hsu/usa-graph/id/waco-siege> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/oklahoma-city-bombing> .
+  <https://github.com/john1hsu/usa-graph/id/waco-siege> <https://github.com/john1hsu/usa-graph/ontology#influenced> <https://github.com/john1hsu/usa-graph/id/oklahoma-city-bombing> .
   <https://github.com/john1hsu/usa-graph/id/walking-purchase> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/pennsylvania> .
   <https://github.com/john1hsu/usa-graph/id/wampanoag> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/thanksgiving> .
   <https://github.com/john1hsu/usa-graph/id/war-in-afghanistan/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .

@@ -22981,6 +22981,174 @@
   ]
  },
  {
+  "id": "us:oklahoma-city-bombing",
+  "title": "Oklahoma City bombing",
+  "aliases": [
+   "Murrah Federal Building bombing",
+   "OKBOMB",
+   "1995 Oklahoma City bombing"
+  ],
+  "type": "Event",
+  "domain": "contemporary-america",
+  "level": "introductory",
+  "evidenceStatus": "established",
+  "file": "articles/contemporary-america/oklahoma-city-bombing.md",
+  "created": "2026-11-24",
+  "summary": "The truck bombing of the Alfred P. Murrah Federal Building in Oklahoma City on April 19, 1995, carried out by Timothy McVeigh with the help of Terry Nichols, which killed 168 people and was the deadliest terrorist attack in the United States before September 11, 2001.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "us:terrorism-in-the-united-states"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:september-11-attacks"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:department-of-homeland-security"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:post-cold-war-united-states"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:waco-siege"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:oklahoma"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:muslim-americans"
+   },
+   {
+    "predicate": "uso:occurredIn",
+    "object": "us:oklahoma-city",
+    "source": "s3",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:ledTo",
+    "object": "us:oklahoma-city-national-memorial",
+    "source": "s2",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:ledTo",
+    "object": "us:antiterrorism-and-effective-death-penalty-act",
+    "source": "s6",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "uso:affected",
+    "object": "us:federal-bureau-of-investigation",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:influencedBy",
+    "object": "us:waco-siege",
+    "source": "s3",
+    "confidence": "high"
+   }
+  ],
+  "start": "1995-04-19",
+  "end": null,
+  "review": [
+   {
+    "question": "Why did McVeigh choose April 19 and the Murrah Building as his date and target?",
+    "answer": "He timed the attack for the anniversary of the end of the federal siege of the Branch Davidians at Waco, Texas, in 1993, and picked the Murrah Building because he believed the orders for Waco had come from it; he regarded everyone inside as guilty by association."
+   },
+   {
+    "question": "How did investigators connect the bomb to Timothy McVeigh?",
+    "answer": "An FBI agent found the truck's rear axle and its vehicle identification number, which led to a Ryder rental shop in Kansas; employees there helped draw a composite sketch, a hotel worker recognised it, and McVeigh turned out to be already in jail after a traffic stop for driving without a licence plate."
+   },
+   {
+    "question": "Why was McVeigh tried in Denver rather than Oklahoma?",
+    "answer": "The judge concluded that publicity and the scale of the loss made a fair trial impossible anywhere in Oklahoma, so the case was moved to Denver, Colorado, in February 1996."
+   },
+   {
+    "question": "How did the bombing change federal counterterrorism?",
+    "answer": "It made homegrown terrorism a priority for the FBI, which expanded its Joint Terrorism Task Forces and bomb-technician training, and it led President Clinton to seek new domestic-terrorism powers, a push that ended in the Antiterrorism and Effective Death Penalty Act of 1996."
+   }
+  ],
+  "timeline": [
+   {
+    "date": "1994-09-30",
+    "event": "Using the alias \"Mike Havens,\" Timothy McVeigh buys the first of two large loads of ammonium nitrate in Kansas."
+   },
+   {
+    "date": "1995-04-17",
+    "event": "A Ryder truck is rented in Kansas under the name \"Robert King.\""
+   },
+   {
+    "date": "1995-04-19",
+    "event": "At 9:02 a.m. the truck bomb explodes outside the Murrah Federal Building; about 77 minutes later a state trooper stops McVeigh on Interstate 35 and arrests him on a weapons charge."
+   },
+   {
+    "date": "1995-04-21",
+    "event": "Federal prosecutors charge McVeigh with destruction by explosives, and he is moved to federal custody."
+   },
+   {
+    "date": "1995-08-10",
+    "event": "A federal grand jury indicts McVeigh and Terry Nichols on eleven counts, including eight counts of first-degree murder."
+   },
+   {
+    "date": "1996-02-19",
+    "event": "The trial is moved to Denver after the court finds a fair trial impossible anywhere in Oklahoma."
+   },
+   {
+    "date": "1996-04-24",
+    "event": "President Bill Clinton signs the Antiterrorism and Effective Death Penalty Act of 1996."
+   },
+   {
+    "date": "1997-06-02",
+    "event": "A Denver jury finds McVeigh guilty on all eleven counts; it later recommends a death sentence."
+   },
+   {
+    "date": "1997-06-24",
+    "event": "A selection committee picks Hans and Torrey Butzer's design for the national memorial from more than 600 entries."
+   },
+   {
+    "date": "1997-12-24",
+    "event": "Terry Nichols is found guilty of conspiracy and manslaughter; he is sentenced to life without parole."
+   },
+   {
+    "date": "1998-05-27",
+    "event": "Michael Fortier, who knew of the plot, is sentenced to 12 years in prison."
+   },
+   {
+    "date": "1998-09-08",
+    "event": "The Tenth Circuit Court of Appeals affirms the judgment against McVeigh."
+   },
+   {
+    "date": "2000-04-19",
+    "event": "The Oklahoma City National Memorial is dedicated on the fifth anniversary of the bombing."
+   },
+   {
+    "date": "2001-06-11",
+    "event": "McVeigh is executed."
+   }
+  ],
+  "misconception": {
+   "myth": "The Oklahoma City bombing was the work of foreign Islamic terrorists.",
+   "fact": "In the first hours, media reports blamed Islamic terrorists, but the men arrested and convicted were Timothy McVeigh and Terry Nichols, two American Gulf War veterans influenced by anti-government militia culture.",
+   "why": "Homegrown terrorism on this scale was a new concept in 1995 (the previous comparable attack was the 1993 World Trade Center bombing), and the false accusation fuelled about two days of anti-Muslim hysteria across the country."
+  },
+  "source_urls": [
+   "https://www.fbi.gov/news/stories/25-years-after-oklahoma-city-bombing-041520",
+   "https://www.okhistory.org/publications/enc/entry?entry=OK026",
+   "https://law.resource.org/pub/us/case/reporter/F3/153/153.F3d.1166.97-1287.html",
+   "https://www.nps.gov/okci/sitefaqs.htm",
+   "https://www.nps.gov/okci/learn/historyculture/index.htm",
+   "https://www.govinfo.gov/content/pkg/PPP-1996-book1/html/PPP-1996-book1-doc-pg630.htm",
+   "https://memorialmuseum.com/artifact/fbi-sketch-of-john-doe-2/"
+  ]
+ },
+ {
   "id": "us:panama-canal",
   "title": "Panama Canal",
   "aliases": [
