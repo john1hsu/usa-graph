@@ -109,6 +109,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1741 | A Russian naval expedition under Vitus Bering and Aleksei Chirikov reaches Alaska, opening the way for Siberian fur traders. — [Alaska](../articles/states-and-territories/alaska.md) |
 | 1743-04-13 – 1826-07-04 | **[Thomas Jefferson](../articles/presidents-and-founders/thomas-jefferson.md)** (Person) |
 | 1743-04-13 | Born at Shadwell plantation in western Virginia. — [Thomas Jefferson](../articles/presidents-and-founders/thomas-jefferson.md) |
+| 1744 | A Little Pretty Pocket-Book, with a rhyme and woodcut titled Base-Ball, is first published in London. — [Abner Doubleday baseball myth](../articles/culture-and-arts/abner-doubleday-baseball-myth.md) |
 | 1750 | Georgia lifts its 1735 ban on slavery, and enslaved West Africans are set to work growing rice, indigo and cotton on its island plantations. — [Gullah Geechee](../articles/society-and-people/gullah-geechee.md) |
 | 1751 | Letters describing his electrical experiments are published in London; the Academy of Philadelphia, later the University of Pennsylvania, is founded. — [Benjamin Franklin](../articles/presidents-and-founders/benjamin-franklin.md) |
 | 1751-03-16 – 1836-06-28 | **[James Madison](../articles/presidents-and-founders/james-madison.md)** (Person) |
@@ -292,6 +293,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1785 | Begins about four years as American minister to France. — [Thomas Jefferson](../articles/presidents-and-founders/thomas-jefferson.md) |
 | 1785 | Thomas Jefferson succeeds him in France; back home he is chosen president of Pennsylvania. — [Benjamin Franklin](../articles/presidents-and-founders/benjamin-franklin.md) |
 | 1786-01-16 | Virginia's General Assembly adopts his bill for religious freedom, first drafted in 1777. — [Thomas Jefferson](../articles/presidents-and-founders/thomas-jefferson.md) |
+| 1786-03-22 | A College of New Jersey student notes in his diary that he played base ball on campus. — [Abner Doubleday baseball myth](../articles/culture-and-arts/abner-doubleday-baseball-myth.md) |
 | 1786-09 | Attends the Annapolis Convention, which calls for a national convention the next May. — [James Madison](../articles/presidents-and-founders/james-madison.md) |
 | 1786-09-11 | Delegates from several states gather at the Annapolis Convention. — [Articles of Confederation](../articles/colonial-and-revolutionary/articles-of-confederation.md) |
 | 1787 | Becomes president of the Pennsylvania abolition society and sits as the oldest delegate to the Constitutional Convention. — [Benjamin Franklin](../articles/presidents-and-founders/benjamin-franklin.md) |
@@ -571,6 +573,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1819-03-06 | **[McCulloch v. Maryland](../articles/rights-and-law/mcculloch-v-maryland.md)** (CourtCase) |
 | 1819-03-06 | The Supreme Court unanimously rules for McCulloch, upholding the bank and striking down Maryland's tax. — [McCulloch v. Maryland](../articles/rights-and-law/mcculloch-v-maryland.md) |
 | 1819-06-11 | Virginia judge Spencer Roane begins his four 'Hampden' essays attacking the decision in the Richmond Enquirer. — [McCulloch v. Maryland](../articles/rights-and-law/mcculloch-v-maryland.md) |
+| 1819-06-26 | Abner Doubleday is born in Ballston Spa, New York. — [Abner Doubleday baseball myth](../articles/culture-and-arts/abner-doubleday-baseball-myth.md) |
 | 1819-09-02 | James Madison writes to Roane objecting to the breadth of the Court's rule of construction. — [McCulloch v. Maryland](../articles/rights-and-law/mcculloch-v-maryland.md) |
 | 1819-12 | The Sixteenth Congress convenes; Senate leaders go on to tie Maine's statehood to Missouri's. — [Missouri Compromise](../articles/early-republic-and-expansion/missouri-compromise.md) |
 | 1820-02-15 – 1906-03-13 | **[Susan B. Anthony](../articles/people-who-shaped-america/susan-b-anthony.md)** (Person) |
@@ -693,6 +696,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1838 | Morse demonstrates his telegraph in New York and Washington and receives a U.S. patent. — [Electric telegraph](../articles/science-and-innovation/telegraph.md) |
 | 1838-05 | President Martin Van Buren orders General Winfield Scott to remove the remaining Cherokees, beginning the Trail of Tears. — [Cherokee Nation v. Georgia](../articles/native-nations/cherokee-nation-v-georgia.md) |
 | 1838-05-23 | Under orders from President Martin Van Buren, the army begins rounding up Cherokees into stockades. — [Indian Removal Act](../articles/native-nations/indian-removal-act.md) |
+| 1838-09-01 | Doubleday enters the U.S. Military Academy at West Point, where he remains as a cadet through 1839. — [Abner Doubleday baseball myth](../articles/culture-and-arts/abner-doubleday-baseball-myth.md) |
 | 1838-09-03 | Escapes to New York disguised as a sailor, using a free Black sailor's papers and a ticket paid for by Anna Murray. — [Frederick Douglass](../articles/people-who-shaped-america/frederick-douglass.md) |
 | 1838-09-15 | Marries Anna Murray in New York; the couple settles in New Bedford, Massachusetts, as the Douglasses. — [Frederick Douglass](../articles/people-who-shaped-america/frederick-douglass.md) |
 | 1839 | An English traveler describes the music of enslaved people on a Georgia rice plantation, an early account of music that would later evolve into the blues. — [Blues](../articles/culture-and-arts/blues.md) |
@@ -714,6 +718,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1845 | Frederick Douglass publishes his Narrative. — [Abolitionism](../articles/civil-war-and-reconstruction/abolitionism.md) |
 | 1845 | Publishes Narrative of the Life of Frederick Douglass and begins a lecture tour of Britain and Ireland. — [Frederick Douglass](../articles/people-who-shaped-america/frederick-douglass.md) |
 | 1845 | The Anthony family moves to a farm near Rochester, New York, where antislavery Quakers gather on Sundays. — [Susan B. Anthony](../articles/people-who-shaped-america/susan-b-anthony.md) |
+| 1845 | The Knickerbocker club of New York adopts written rules later credited to Alexander Cartwright. — [Abner Doubleday baseball myth](../articles/culture-and-arts/abner-doubleday-baseball-myth.md) |
 | 1845-03-01 | President Tyler signs the joint resolution offering Texas annexation. — [Texas](../articles/states-and-territories/texas.md) |
 | 1845-06-08 | Dies at the Hermitage, his cotton plantation near Nashville. — [Andrew Jackson](../articles/presidents-and-founders/andrew-jackson.md) |
 | 1845-12 | Texas, annexed by joint resolution of Congress, enters the Union as a slave state; Mexico still claims it. — [Mexican–American War](../articles/early-republic-and-expansion/mexican-american-war.md) |
@@ -731,6 +736,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1846-05-11 | Polk asks Congress to recognize that a state of war exists, blaming Mexico for beginning hostilities. — [Mexican–American War](../articles/early-republic-and-expansion/mexican-american-war.md) |
 | 1846-05-13 | The United States declares war on Mexico after clashes in the disputed land between the Nueces and the Rio Grande. — [Texas](../articles/states-and-territories/texas.md) |
 | 1846-05-13 | War is formally declared after the House (174 to 14) and the Senate (40 to 2) approve it. — [Mexican–American War](../articles/early-republic-and-expansion/mexican-american-war.md) |
+| 1846-06-19 | The first recorded game under the Knickerbocker rules is played at the Elysian Fields in Hoboken, New Jersey. — [Abner Doubleday baseball myth](../articles/culture-and-arts/abner-doubleday-baseball-myth.md) |
 | 1846-07 | The U.S. Navy's Pacific squadron occupies Monterey and San Francisco in Mexican California. — [Mexican–American War](../articles/early-republic-and-expansion/mexican-american-war.md) |
 | 1846-09 | Taylor captures Monterrey in northern Mexico; Polk repudiates the armistice Taylor grants. — [Mexican–American War](../articles/early-republic-and-expansion/mexican-american-war.md) |
 | 1847 | George Lippard's fictional story 'Ring, Grandfather, Ring' ties the bell to July 4, 1776. — [Liberty Bell](../articles/symbols-and-national-identity/liberty-bell.md) |
@@ -857,6 +863,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1861-03-04 | Abraham Lincoln's first inaugural address argues that Court rulings bind the parties but should not irrevocably fix national policy. — [Judicial review](../articles/constitution-and-government/judicial-review.md) |
 | 1861-03-04 | Inaugurated after seven Southern states had seceded. — [Abraham Lincoln](../articles/presidents-and-founders/abraham-lincoln.md) |
 | 1861-04-12 – 1865-04-09 | **[American Civil War](../articles/civil-war-and-reconstruction/american-civil-war.md)** (Conflict) |
+| 1861-04-12 | At Fort Sumter, Doubleday aims the first U.S. shot fired back at Confederate batteries. — [Abner Doubleday baseball myth](../articles/culture-and-arts/abner-doubleday-baseball-myth.md) |
 | 1861-04-12 | Confederate forces fire on Fort Sumter in Charleston Harbor; it surrenders the next day and Lincoln calls for 75,000 volunteers. — [American Civil War](../articles/civil-war-and-reconstruction/american-civil-war.md) |
 | 1861-05 | At Fort Monroe, General Benjamin Butler begins receiving people fleeing slavery as "contraband of war." — [American Civil War](../articles/civil-war-and-reconstruction/american-civil-war.md) |
 | 1861-10-24 | The first transcontinental telegraph line is completed, and the Pony Express soon shuts down. — [Electric telegraph](../articles/science-and-innovation/telegraph.md) |
@@ -893,6 +900,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1863-06-07 | Black Union regiments help repel a Confederate attack on the supply post at Milliken's Bend, Louisiana. — [Siege of Vicksburg](../articles/civil-war-and-reconstruction/siege-of-vicksburg.md) |
 | 1863-06-25 | Union engineers explode 2,200 pounds of black powder under a Confederate redan on the Jackson Road; the crater fight gains no ground. — [Siege of Vicksburg](../articles/civil-war-and-reconstruction/siege-of-vicksburg.md) |
 | 1863-07 | Union forces under Meade defeat Lee's invading army at Gettysburg. — [Pennsylvania](../articles/states-and-territories/pennsylvania.md) |
+| 1863-07-01 | Doubleday takes command on the first day at Gettysburg after General John Reynolds is killed. — [Abner Doubleday baseball myth](../articles/culture-and-arts/abner-doubleday-baseball-myth.md) |
 | 1863-07-02 | Eastern Shoshone leaders, among them Washakie, sign the first Fort Bridger treaty. — [Wyoming](../articles/states-and-territories/wyoming.md) |
 | 1863-07-03 | Pemberton and Grant meet between the lines; that night Grant offers to parole the garrison. — [Siege of Vicksburg](../articles/civil-war-and-reconstruction/siege-of-vicksburg.md) |
 | 1863-07-03 | Pickett's Charge fails, ending the three-day Battle of Gettysburg. — [American Civil War](../articles/civil-war-and-reconstruction/american-civil-war.md) |
@@ -1200,6 +1208,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1893 | Frederick Jackson Turner presents his frontier thesis to the American Historical Association in Chicago. — [The West](../articles/regions-cities-and-landmarks/the-west.md) |
 | 1893 | S. S. McClure and John S. Phillips launch McClure's Magazine at fifteen cents a copy. — [Muckrakers](../articles/gilded-age-and-progressive-era/muckrakers.md) |
 | 1893-01-17 | A Committee of Safety, backed by U.S. Minister John L. Stevens and U.S. naval forces landed the day before, overthrows Queen Liliʻuokalani. — [Hawaii](../articles/states-and-territories/hawaii.md) |
+| 1893-01-26 | Doubleday dies in Mendham, New Jersey, never having written about inventing baseball. — [Abner Doubleday baseball myth](../articles/culture-and-arts/abner-doubleday-baseball-myth.md) |
 | 1893-05-09 | Edison's Kinetoscope, a peephole motion-picture viewer developed largely by W. K. L. Dickson, is first shown publicly at the Brooklyn Institute of Arts and Sciences. — [Hollywood](../articles/culture-and-arts/hollywood.md) |
 | 1893-11-01 | Dawes, now retired, is appointed to head a commission to negotiate the end of common landholding with the Five Tribes, whom the 1887 act had exempted. — [Dawes Act](../articles/native-nations/dawes-act.md) |
 | 1894 | After soldiers arrest the bison poacher Ed Howell, Congress passes the National Park Protection Act (Lacey Act) banning hunting in the park. — [Yellowstone National Park](../articles/geography-and-environment/yellowstone-national-park.md) |
@@ -1269,6 +1278,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1902-11 | **[Muckrakers](../articles/gilded-age-and-progressive-era/muckrakers.md)** (Movement) |
 | 1902-11 | Ida Tarbell's History of the Standard Oil Company begins appearing in McClure's. — [Muckrakers](../articles/gilded-age-and-progressive-era/muckrakers.md) |
 | 1903 | Bandleader W. C. Handy settles in Clarksdale, Mississippi, and around this year hears a slide guitarist playing a blues at the Tutwiler railroad station. — [Blues](../articles/culture-and-arts/blues.md) |
+| 1903 | Henry Chadwick argues in Spalding's Official Base Ball Guide that baseball descends from the English game of rounders. — [Abner Doubleday baseball myth](../articles/culture-and-arts/abner-doubleday-baseball-myth.md) |
 | 1903 | In Lone Wolf v. Hitchcock the Supreme Court rejects a Kiowa challenge to allotment, holding that a treaty cannot limit Congress's power over tribal land. — [Dawes Act](../articles/native-nations/dawes-act.md) |
 | 1903 | Publishes The Souls of Black Folk. — [W. E. B. Du Bois](../articles/people-who-shaped-america/w-e-b-du-bois.md) |
 | 1903-01 | McClure's prints exposés by Tarbell, Lincoln Steffens and Ray Stannard Baker in one issue, with an editorial linking them. — [Muckrakers](../articles/gilded-age-and-progressive-era/muckrakers.md) |
@@ -1291,7 +1301,9 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1904-12-06 – 1934 | **[Roosevelt Corollary](../articles/foreign-relations-and-military/roosevelt-corollary.md)** (Policy) |
 | 1904-12-06 | Theodore Roosevelt announces the corollary in his annual message to Congress. — [Roosevelt Corollary](../articles/foreign-relations-and-military/roosevelt-corollary.md) |
 | 1904-12-09 | The season ends after 105 starts adding up to under an hour in the air. — [Huffman Prairie Flying Field](../articles/science-and-innovation/huffman-prairie.md) |
+| 1905 | **[Abner Doubleday baseball myth](../articles/culture-and-arts/abner-doubleday-baseball-myth.md)** (Myth) |
 | 1905 | Lochner v. New York strikes down a workplace regulation on "freedom of contract" grounds. — [Due process](../articles/rights-and-law/due-process.md) |
+| 1905 | Spalding appoints a commission on baseball's origins; Abner Graves writes that Doubleday invented the game in Cooperstown. — [Abner Doubleday baseball myth](../articles/culture-and-arts/abner-doubleday-baseball-myth.md) |
 | 1905 | The War Department transfers 20 acres of Angel Island for an immigration station. — [Angel Island Immigration Station](../articles/society-and-people/angel-island-immigration-station.md) |
 | 1905 | Twenty-nine activists led by Du Bois and William Monroe Trotter meet at Fort Erie, Ontario, founding the Niagara Movement. — [W. E. B. Du Bois](../articles/people-who-shaped-america/w-e-b-du-bois.md) |
 | 1905 | W. E. B. Du Bois and other Black leaders found the Niagara Movement on the Canadian side of Niagara Falls. — [Progressive Era](../articles/gilded-age-and-progressive-era/progressive-era.md) |
@@ -1326,6 +1338,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1907-03-04 | Enrollment closes on the Dawes Rolls of the Five Tribes. — [Dawes Act](../articles/native-nations/dawes-act.md) |
 | 1907-04-01 | Chief engineer John F. Stevens resigns and George Washington Goethals succeeds him. — [Panama Canal](../articles/foreign-relations-and-military/panama-canal.md) |
 | 1907-07-25 | Roosevelt proclaims the convention in force. — [Roosevelt Corollary](../articles/foreign-relations-and-military/roosevelt-corollary.md) |
+| 1907-12-30 | Abraham G. Mills dates the commission's report crediting Doubleday with the first diagram of the field in 1839. — [Abner Doubleday baseball myth](../articles/culture-and-arts/abner-doubleday-baseball-myth.md) |
 | 1908 | Ray Stannard Baker publishes Following the Color Line, on the oppression of Black Americans. — [Muckrakers](../articles/gilded-age-and-progressive-era/muckrakers.md) |
 | 1908 | The AME Zion Church opens the Harriet Tubman Home for aged and poor African Americans on land she had transferred to it in 1903. — [Harriet Tubman](../articles/people-who-shaped-america/harriet-tubman.md) |
 | 1908-12 | Edison, Biograph and other licensed producers form the Motion Picture Patents Company, a patent pool that tries to control American film production. — [Hollywood](../articles/culture-and-arts/hollywood.md) |
@@ -1577,6 +1590,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1934-05-11 | A great dust storm carries Plains soil over Washington, D.C., and out over the Atlantic. — [Dust Bowl](../articles/depression-and-world-war/dust-bowl.md) |
 | 1934-06 | Resigns from the NAACP after disputes with its leadership. — [W. E. B. Du Bois](../articles/people-who-shaped-america/w-e-b-du-bois.md) |
 | 1934-06-06 | Roosevelt signs the Securities Exchange Act of 1934. — [Stock market crash of 1929](../articles/economy-and-work/stock-market-crash-of-1929.md) |
+| 1935 | A homemade ball found in a Fly Creek farmhouse is bought and promoted as the Doubleday Baseball. — [Abner Doubleday baseball myth](../articles/culture-and-arts/abner-doubleday-baseball-myth.md) |
 | 1935 | Congress passes the Social Security Act, the Wagner Act and the relief appropriation that funds the Works Progress Administration. — [Great Depression](../articles/depression-and-world-war/great-depression.md) |
 | 1935 | Franklin D. Roosevelt approves a one-dollar bill design showing both sides of the Great Seal, putting the motto on the back of the note. — [E pluribus unum](../articles/symbols-and-national-identity/e-pluribus-unum.md) |
 | 1935 | Franklin D. Roosevelt approves a one-dollar bill showing both sides of the seal. — [Great Seal of the United States](../articles/symbols-and-national-identity/great-seal-of-the-united-states.md) |
@@ -1636,6 +1650,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1939 | Lane v. Wilson holds that the amendment reaches subtle as well as overt discrimination. — [Fifteenth Amendment](../articles/democracy-and-elections/fifteenth-amendment.md) |
 | 1939-02-24 | The canal report later adopted as the plan for the work (House Document No. 210) is dated. — [Third Locks Project](../articles/foreign-relations-and-military/third-locks-project.md) |
 | 1939-03-02 | Massachusetts ratifies the Bill of Rights on its 150th anniversary; Georgia and Connecticut follow later that spring. — [Bill of Rights](../articles/rights-and-law/bill-of-rights.md) |
+| 1939-06-12 | The National Baseball Hall of Fame and Museum opens in Cooperstown during the game's so-called centennial. — [Abner Doubleday baseball myth](../articles/culture-and-arts/abner-doubleday-baseball-myth.md) |
 | 1939-08-11 – 1942-05-23 | **[Third Locks Project](../articles/foreign-relations-and-military/third-locks-project.md)** (Event) |
 | 1939-08-11 | President Franklin D. Roosevelt signs H.R. 5129, capping the cost at $277 million, and objects to its citizenship hiring rule. — [Third Locks Project](../articles/foreign-relations-and-military/third-locks-project.md) |
 | 1939-08-19 | The State Department sends Roosevelt's statement to the U.S. ambassador to share with Panama's government. — [Third Locks Project](../articles/foreign-relations-and-military/third-locks-project.md) |

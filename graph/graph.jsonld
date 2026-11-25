@@ -129,6 +129,166 @@
    }
   },
   {
+   "@id": "https://github.com/john1hsu/usa-graph/id/abner-doubleday-baseball-myth/misconception",
+   "@type": "uso:Misconception",
+   "uso:fact": "Doubleday was a West Point cadet throughout 1839, never claimed any part in baseball, and left dozens of diaries that never mention it. The only witness was a man who was five years old in 1839, and Americans were playing base ball and printing its name decades earlier. Historians describe the game as evolving from older bat-and-ball games, not as one person's invention.",
+   "uso:myth": "Abner Doubleday invented baseball in Cooperstown, New York, in 1839 by laying out the first diamond and rules.",
+   "uso:why": "The story gave a sport promoted as uniquely American a native-born war hero as its father, was endorsed by an official-sounding commission, and was then built into Cooperstown's museum, ballpark and 1939 centennial, so it became part of how the game celebrates itself."
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/abner-doubleday-baseball-myth/review/1",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "Why do historians reject the claim that Doubleday invented baseball at Cooperstown in 1839?",
+   "uso:answer": "Doubleday had been a cadet at West Point since September 1838 and was not in Cooperstown in 1839; his family had left the village. He never claimed any role in the game, and none of his 67 diaries mentions it. The claim rested on a single letter from Abner Graves, who was five years old in 1839, and earlier evidence such as a 1786 diary entry and a 1744 book rhyme shows base ball existed long before.",
+   "uso:questionFor": {
+    "@id": "us:abner-doubleday-baseball-myth"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/abner-doubleday-baseball-myth/review/2",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "How did a dispute between Albert Spalding and Henry Chadwick produce the myth?",
+   "uso:answer": "Chadwick argued in 1903 that baseball came from the English game of rounders. Spalding, a sporting-goods magnate who wanted the game to have an American origin, set up a commission in 1905 to settle the question. Its chairman, Abraham G. Mills, a longtime friend of Doubleday, accepted Graves's letter and in a report dated December 30, 1907, credited Doubleday with the first diagram of the field.",
+   "uso:questionFor": {
+    "@id": "us:abner-doubleday-baseball-myth"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/abner-doubleday-baseball-myth/review/3",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "Why has the myth lasted even though it was refuted?",
+   "uso:answer": "It was built into Cooperstown's identity. A ball found in 1935 became the Doubleday Baseball, the Hall of Fame was founded there and opened on June 12, 1939, as part of a centennial based on the 1839 date. The Hall itself now calls the story a refuted myth but notes its hold on Cooperstown.",
+   "uso:questionFor": {
+    "@id": "us:abner-doubleday-baseball-myth"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/abner-doubleday-baseball-myth/timeline/1",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "A Little Pretty Pocket-Book, with a rhyme and woodcut titled Base-Ball, is first published in London.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1744"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/abner-doubleday-baseball-myth/timeline/10",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Henry Chadwick argues in Spalding's Official Base Ball Guide that baseball descends from the English game of rounders.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1903"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/abner-doubleday-baseball-myth/timeline/11",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Spalding appoints a commission on baseball's origins; Abner Graves writes that Doubleday invented the game in Cooperstown.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1905"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/abner-doubleday-baseball-myth/timeline/12",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Abraham G. Mills dates the commission's report crediting Doubleday with the first diagram of the field in 1839.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1907-12-30"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/abner-doubleday-baseball-myth/timeline/13",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "A homemade ball found in a Fly Creek farmhouse is bought and promoted as the Doubleday Baseball.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1935"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/abner-doubleday-baseball-myth/timeline/14",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The National Baseball Hall of Fame and Museum opens in Cooperstown during the game's so-called centennial.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1939-06-12"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/abner-doubleday-baseball-myth/timeline/2",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "A College of New Jersey student notes in his diary that he played base ball on campus.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1786-03-22"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/abner-doubleday-baseball-myth/timeline/3",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Abner Doubleday is born in Ballston Spa, New York.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1819-06-26"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/abner-doubleday-baseball-myth/timeline/4",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Doubleday enters the U.S. Military Academy at West Point, where he remains as a cadet through 1839.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1838-09-01"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/abner-doubleday-baseball-myth/timeline/5",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The Knickerbocker club of New York adopts written rules later credited to Alexander Cartwright.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1845"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/abner-doubleday-baseball-myth/timeline/6",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The first recorded game under the Knickerbocker rules is played at the Elysian Fields in Hoboken, New Jersey.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1846-06-19"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/abner-doubleday-baseball-myth/timeline/7",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "At Fort Sumter, Doubleday aims the first U.S. shot fired back at Confederate batteries.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1861-04-12"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/abner-doubleday-baseball-myth/timeline/8",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Doubleday takes command on the first day at Gettysburg after General John Reynolds is killed.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1863-07-01"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/abner-doubleday-baseball-myth/timeline/9",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Doubleday dies in Mendham, New Jersey, never having written about inventing baseball.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1893-01-26"
+   }
+  },
+  {
    "@id": "https://github.com/john1hsu/usa-graph/id/abolitionism/misconception",
    "@type": "uso:Misconception",
    "uso:fact": "Abolitionists were a small minority whom most white Northerners disliked, and mobs attacked them in Boston, Philadelphia and Illinois; Black Americans, free and formerly enslaved, were central from the start, from the 1831 free Black convention and David Walker's Appeal to Frederick Douglass's lectures and writing.",
@@ -21535,6 +21695,90 @@
     "@id": "https://oregonencyclopedia.org/articles/oregon_tsunami_hazard_mitigation_program"
    },
    "uso:sourceType": "scholarly-encyclopedia"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/abner-doubleday-baseball-myth/s1",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-25"
+   },
+   "dcterms:publisher": "National Park Service",
+   "dcterms:title": "Abner Doubleday",
+   "schema:url": {
+    "@id": "https://www.nps.gov/people/abner-doubleday.htm"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/abner-doubleday-baseball-myth/s2",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-25"
+   },
+   "dcterms:publisher": "Library of Congress (Susan Reyburn, Library of Congress Magazine, 2014)",
+   "dcterms:title": "America At Play",
+   "schema:url": {
+    "@id": "https://blogs.loc.gov/loc/2014/04/america-at-play/"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/abner-doubleday-baseball-myth/s3",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-25"
+   },
+   "dcterms:publisher": "National Baseball Hall of Fame and Museum",
+   "dcterms:title": "History of the Museum",
+   "schema:url": {
+    "@id": "https://baseballhall.org/about-the-hall"
+   },
+   "uso:sourceType": "museum"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/abner-doubleday-baseball-myth/s4",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-25"
+   },
+   "dcterms:publisher": "American Heritage (Victor Salvatore, June/July 1983)",
+   "dcterms:title": "The Man Who Didn't Invent Baseball",
+   "schema:url": {
+    "@id": "https://www.americanheritage.com/content/man-who-didn%E2%80%99t-invent-baseball"
+   },
+   "uso:sourceType": "magazine"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/abner-doubleday-baseball-myth/s5",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-25"
+   },
+   "dcterms:publisher": "Society for American Baseball Research, SABR BioProject (Bert and Emily Gumpert and David W. Anderson)",
+   "dcterms:title": "Abner Doubleday",
+   "schema:url": {
+    "@id": "https://sabr.org/bioproj/person/Abner-Doubleday/"
+   },
+   "uso:sourceType": "institutional"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/abner-doubleday-baseball-myth/s6",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-25"
+   },
+   "dcterms:publisher": "American Battlefield Trust (Colleen Cheslak-Poulton, Hallowed Ground, 2021)",
+   "dcterms:title": "Abner Doubleday: The Man, The Baseball Myth, The Legend",
+   "schema:url": {
+    "@id": "https://www.battlefields.org/learn/articles/abner-doubleday"
+   },
+   "uso:sourceType": "institutional"
   },
   {
    "@id": "https://github.com/john1hsu/usa-graph/id/source/abolitionism/s1",
@@ -50042,6 +50286,158 @@
     },
     {
      "@id": "https://github.com/john1hsu/usa-graph/id/1964-alaska-earthquake/timeline/8"
+    }
+   ]
+  },
+  {
+   "@id": "us:abner-doubleday-baseball-myth",
+   "@type": "uso:Myth",
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-25"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/abner-doubleday-baseball-myth/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/abner-doubleday-baseball-myth/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/abner-doubleday-baseball-myth/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/abner-doubleday-baseball-myth/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/abner-doubleday-baseball-myth/s5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/abner-doubleday-baseball-myth/s6"
+    }
+   ],
+   "rdfs:label": "Abner Doubleday baseball myth",
+   "schema:startDate": {
+    "@type": "xsd:gYear",
+    "@value": "1905"
+   },
+   "skos:altLabel": [
+    "Cooperstown baseball origin myth",
+    "Doubleday invented baseball",
+    "Doubleday myth"
+   ],
+   "skos:broader": {
+    "@id": "us:baseball"
+   },
+   "skos:definition": "The popular claim that Civil War general Abner Doubleday invented baseball in Cooperstown, New York, in 1839, endorsed by a commission Albert Spalding set up in 1905 on the strength of one elderly man's recollection and contradicted by Doubleday's own record and much earlier references to the game.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/usa-graph/id/scheme/culture-and-arts"
+   },
+   "skos:prefLabel": "Abner Doubleday baseball myth",
+   "skos:related": [
+    {
+     "@id": "us:abner-doubleday"
+    },
+    {
+     "@id": "us:abraham-g-mills"
+    },
+    {
+     "@id": "us:albert-spalding"
+    },
+    {
+     "@id": "us:alexander-cartwright"
+    },
+    {
+     "@id": "us:american-civil-war"
+    },
+    {
+     "@id": "us:american-national-identity"
+    },
+    {
+     "@id": "us:battle-of-fort-sumter"
+    },
+    {
+     "@id": "us:battle-of-gettysburg"
+    },
+    {
+     "@id": "us:betsy-ross-flag-myth"
+    },
+    {
+     "@id": "us:cooperstown-new-york"
+    },
+    {
+     "@id": "us:henry-chadwick"
+    },
+    {
+     "@id": "us:new-york"
+    }
+   ],
+   "uso:challengedBy": [
+    {
+     "@id": "us:a-little-pretty-pocket-book"
+    },
+    {
+     "@id": "us:knickerbocker-rules"
+    }
+   ],
+   "uso:domain": "culture-and-arts",
+   "uso:evidenceStatus": "myth",
+   "uso:file": "articles/culture-and-arts/abner-doubleday-baseball-myth.md",
+   "uso:introducedBy": {
+    "@id": "us:abner-graves"
+   },
+   "uso:ledTo": {
+    "@id": "us:national-baseball-hall-of-fame-and-museum"
+   },
+   "uso:level": "introductory",
+   "uso:misconception": {
+    "@id": "https://github.com/john1hsu/usa-graph/id/abner-doubleday-baseball-myth/misconception"
+   },
+   "uso:requires": {
+    "@id": "us:baseball"
+   },
+   "uso:timelineEntry": [
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/abner-doubleday-baseball-myth/timeline/1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/abner-doubleday-baseball-myth/timeline/10"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/abner-doubleday-baseball-myth/timeline/11"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/abner-doubleday-baseball-myth/timeline/12"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/abner-doubleday-baseball-myth/timeline/13"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/abner-doubleday-baseball-myth/timeline/14"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/abner-doubleday-baseball-myth/timeline/2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/abner-doubleday-baseball-myth/timeline/3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/abner-doubleday-baseball-myth/timeline/4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/abner-doubleday-baseball-myth/timeline/5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/abner-doubleday-baseball-myth/timeline/6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/abner-doubleday-baseball-myth/timeline/7"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/abner-doubleday-baseball-myth/timeline/8"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/abner-doubleday-baseball-myth/timeline/9"
     }
    ]
   },

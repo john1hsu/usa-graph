@@ -25,7 +25,7 @@ Pairs of written nodes that share many neighbours but are not yet connected (Ada
 | 2.95 | `us:house-of-representatives` | `us:slavery-in-the-united-states` | `us:abraham-lincoln`, `us:census-and-apportionment`, `us:electoral-college`, `us:james-madison`, `us:john-marshall` |
 | 2.83 | `us:george-washington` | `us:james-madison` | `us:alexander-hamilton`, `us:articles-of-confederation`, `us:bill-of-rights`, `us:constitutional-convention`, `us:presidency-of-the-united-states` |
 | 2.77 | `us:native-americans` | `us:united-states-congress` | `us:census-and-apportionment`, `us:covid-19-pandemic-in-the-united-states`, `us:dawes-act`, `us:hayden-geological-survey-of-1871`, `us:indian-removal-act` |
-| 2.74 | `us:george-washington` | `us:pennsylvania` | `us:benjamin-franklin`, `us:betsy-ross-flag-myth`, `us:constitutional-convention`, `us:philadelphia`, `us:whiskey-rebellion` |
 | 2.73 | `us:james-madison` | `us:united-states-congress` | `us:articles-of-confederation`, `us:bill-of-rights`, `us:constitutional-convention`, `us:electoral-college`, `us:house-of-representatives` |
+| 2.73 | `us:george-washington` | `us:pennsylvania` | `us:benjamin-franklin`, `us:betsy-ross-flag-myth`, `us:constitutional-convention`, `us:philadelphia`, `us:whiskey-rebellion` |
 | 2.70 | `us:federalism` | `us:united-states-congress` | `us:articles-of-confederation`, `us:electoral-college`, `us:fourteenth-amendment`, `us:mcculloch-v-maryland`, `us:separation-of-powers` |
 | 2.67 | `us:federalist-papers` | `us:treaty-of-paris-1783` | `us:articles-of-confederation`, `us:founding-documents-of-the-united-states`, `us:john-jay`, `us:united-states-constitution` |

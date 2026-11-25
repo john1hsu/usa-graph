@@ -183,6 +183,191 @@
   ]
  },
  {
+  "id": "us:abner-doubleday-baseball-myth",
+  "title": "Abner Doubleday baseball myth",
+  "aliases": [
+   "Doubleday myth",
+   "Cooperstown baseball origin myth",
+   "Doubleday invented baseball"
+  ],
+  "type": "Myth",
+  "domain": "culture-and-arts",
+  "level": "introductory",
+  "evidenceStatus": "myth",
+  "file": "articles/culture-and-arts/abner-doubleday-baseball-myth.md",
+  "created": "2026-11-25",
+  "summary": "The popular claim that Civil War general Abner Doubleday invented baseball in Cooperstown, New York, in 1839, endorsed by a commission Albert Spalding set up in 1905 on the strength of one elderly man's recollection and contradicted by Doubleday's own record and much earlier references to the game.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "us:baseball"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:abner-doubleday"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:albert-spalding"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:henry-chadwick"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:abraham-g-mills"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:alexander-cartwright"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:cooperstown-new-york"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:new-york"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:battle-of-fort-sumter"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:battle-of-gettysburg"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:american-civil-war"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:american-national-identity"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:betsy-ross-flag-myth"
+   },
+   {
+    "predicate": "uso:requires",
+    "object": "us:baseball"
+   },
+   {
+    "predicate": "uso:challengedBy",
+    "object": "us:a-little-pretty-pocket-book",
+    "source": "s2",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:challengedBy",
+    "object": "us:knickerbocker-rules",
+    "source": "s4",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "uso:introducedBy",
+    "object": "us:abner-graves",
+    "source": "s6",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:ledTo",
+    "object": "us:national-baseball-hall-of-fame-and-museum",
+    "source": "s3",
+    "confidence": "high"
+   }
+  ],
+  "start": "1905",
+  "end": null,
+  "review": [
+   {
+    "question": "Why do historians reject the claim that Doubleday invented baseball at Cooperstown in 1839?",
+    "answer": "Doubleday had been a cadet at West Point since September 1838 and was not in Cooperstown in 1839; his family had left the village. He never claimed any role in the game, and none of his 67 diaries mentions it. The claim rested on a single letter from Abner Graves, who was five years old in 1839, and earlier evidence such as a 1786 diary entry and a 1744 book rhyme shows base ball existed long before."
+   },
+   {
+    "question": "How did a dispute between Albert Spalding and Henry Chadwick produce the myth?",
+    "answer": "Chadwick argued in 1903 that baseball came from the English game of rounders. Spalding, a sporting-goods magnate who wanted the game to have an American origin, set up a commission in 1905 to settle the question. Its chairman, Abraham G. Mills, a longtime friend of Doubleday, accepted Graves's letter and in a report dated December 30, 1907, credited Doubleday with the first diagram of the field."
+   },
+   {
+    "question": "Why has the myth lasted even though it was refuted?",
+    "answer": "It was built into Cooperstown's identity. A ball found in 1935 became the Doubleday Baseball, the Hall of Fame was founded there and opened on June 12, 1939, as part of a centennial based on the 1839 date. The Hall itself now calls the story a refuted myth but notes its hold on Cooperstown."
+   }
+  ],
+  "timeline": [
+   {
+    "date": "1744",
+    "event": "A Little Pretty Pocket-Book, with a rhyme and woodcut titled Base-Ball, is first published in London."
+   },
+   {
+    "date": "1786-03-22",
+    "event": "A College of New Jersey student notes in his diary that he played base ball on campus."
+   },
+   {
+    "date": "1819-06-26",
+    "event": "Abner Doubleday is born in Ballston Spa, New York."
+   },
+   {
+    "date": "1838-09-01",
+    "event": "Doubleday enters the U.S. Military Academy at West Point, where he remains as a cadet through 1839."
+   },
+   {
+    "date": "1845",
+    "event": "The Knickerbocker club of New York adopts written rules later credited to Alexander Cartwright."
+   },
+   {
+    "date": "1846-06-19",
+    "event": "The first recorded game under the Knickerbocker rules is played at the Elysian Fields in Hoboken, New Jersey."
+   },
+   {
+    "date": "1861-04-12",
+    "event": "At Fort Sumter, Doubleday aims the first U.S. shot fired back at Confederate batteries."
+   },
+   {
+    "date": "1863-07-01",
+    "event": "Doubleday takes command on the first day at Gettysburg after General John Reynolds is killed."
+   },
+   {
+    "date": "1893-01-26",
+    "event": "Doubleday dies in Mendham, New Jersey, never having written about inventing baseball."
+   },
+   {
+    "date": "1903",
+    "event": "Henry Chadwick argues in Spalding's Official Base Ball Guide that baseball descends from the English game of rounders."
+   },
+   {
+    "date": "1905",
+    "event": "Spalding appoints a commission on baseball's origins; Abner Graves writes that Doubleday invented the game in Cooperstown."
+   },
+   {
+    "date": "1907-12-30",
+    "event": "Abraham G. Mills dates the commission's report crediting Doubleday with the first diagram of the field in 1839."
+   },
+   {
+    "date": "1935",
+    "event": "A homemade ball found in a Fly Creek farmhouse is bought and promoted as the Doubleday Baseball."
+   },
+   {
+    "date": "1939-06-12",
+    "event": "The National Baseball Hall of Fame and Museum opens in Cooperstown during the game's so-called centennial."
+   }
+  ],
+  "misconception": {
+   "myth": "Abner Doubleday invented baseball in Cooperstown, New York, in 1839 by laying out the first diamond and rules.",
+   "fact": "Doubleday was a West Point cadet throughout 1839, never claimed any part in baseball, and left dozens of diaries that never mention it. The only witness was a man who was five years old in 1839, and Americans were playing base ball and printing its name decades earlier. Historians describe the game as evolving from older bat-and-ball games, not as one person's invention.",
+   "why": "The story gave a sport promoted as uniquely American a native-born war hero as its father, was endorsed by an official-sounding commission, and was then built into Cooperstown's museum, ballpark and 1939 centennial, so it became part of how the game celebrates itself."
+  },
+  "source_urls": [
+   "https://www.nps.gov/people/abner-doubleday.htm",
+   "https://blogs.loc.gov/loc/2014/04/america-at-play/",
+   "https://baseballhall.org/about-the-hall",
+   "https://www.americanheritage.com/content/man-who-didn%E2%80%99t-invent-baseball",
+   "https://sabr.org/bioproj/person/Abner-Doubleday/",
+   "https://www.battlefields.org/learn/articles/abner-doubleday"
+  ]
+ },
+ {
   "id": "us:abolitionism",
   "title": "Abolitionism",
   "aliases": [

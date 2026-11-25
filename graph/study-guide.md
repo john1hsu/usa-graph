@@ -705,6 +705,21 @@ Every review question (with its answer) and every myth-versus-fact in the graph,
 
 ## culture-and-arts
 
+### [Abner Doubleday baseball myth](../articles/culture-and-arts/abner-doubleday-baseball-myth.md) — Myth
+
+| Myth | Fact |
+|---|---|
+| Abner Doubleday invented baseball in Cooperstown, New York, in 1839 by laying out the first diamond and rules. | Doubleday was a West Point cadet throughout 1839, never claimed any part in baseball, and left dozens of diaries that never mention it. The only witness was a man who was five years old in 1839, and Americans were playing base ball and printing its name decades earlier. Historians describe the game as evolving from older bat-and-ball games, not as one person's invention. |
+
+**Why it matters:** The story gave a sport promoted as uniquely American a native-born war hero as its father, was endorsed by an official-sounding commission, and was then built into Cooperstown's museum, ballpark and 1939 centennial, so it became part of how the game celebrates itself.
+
+- **Q:** Why do historians reject the claim that Doubleday invented baseball at Cooperstown in 1839?
+  **A:** Doubleday had been a cadet at West Point since September 1838 and was not in Cooperstown in 1839; his family had left the village. He never claimed any role in the game, and none of his 67 diaries mentions it. The claim rested on a single letter from Abner Graves, who was five years old in 1839, and earlier evidence such as a 1786 diary entry and a 1744 book rhyme shows base ball existed long before.
+- **Q:** How did a dispute between Albert Spalding and Henry Chadwick produce the myth?
+  **A:** Chadwick argued in 1903 that baseball came from the English game of rounders. Spalding, a sporting-goods magnate who wanted the game to have an American origin, set up a commission in 1905 to settle the question. Its chairman, Abraham G. Mills, a longtime friend of Doubleday, accepted Graves's letter and in a report dated December 30, 1907, credited Doubleday with the first diagram of the field.
+- **Q:** Why has the myth lasted even though it was refuted?
+  **A:** It was built into Cooperstown's identity. A ball found in 1935 became the Doubleday Baseball, the Hall of Fame was founded there and opened on June 12, 1939, as part of a centennial based on the 1839 date. The Hall itself now calls the story a refuted myth but notes its hold on Cooperstown.
+
 ### [Blues](../articles/culture-and-arts/blues.md) — Tradition
 
 | Myth | Fact |
