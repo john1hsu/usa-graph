@@ -16231,6 +16231,130 @@
    }
   },
   {
+   "@id": "https://github.com/john1hsu/usa-graph/id/minor-v-happersett/misconception",
+   "@type": "uso:Misconception",
+   "uso:fact": "The Court agreed without dissent that women were citizens and that Virginia Minor was a native-born citizen; it held instead that the Constitution did not make voting a privilege of citizenship, so states could keep women from the polls.",
+   "uso:myth": "In Minor v. Happersett the Supreme Court ruled that women were not citizens.",
+   "uso:why": "Separating citizenship from the vote is the core of the decision, and it explains why women, though citizens, needed the Nineteenth Amendment to win a constitutional guarantee of suffrage."
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/minor-v-happersett/review/1",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "Why did Virginia Minor argue that she already had the right to vote under the Constitution?",
+   "uso:answer": "She and her husband Francis Minor argued that she was a citizen and that the Fourteenth Amendment barred states from abridging the privileges or immunities of citizens, which they said included voting, so Missouri's male-only voting rule was void.",
+   "uso:questionFor": {
+    "@id": "us:minor-v-happersett"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/minor-v-happersett/review/2",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "How did the Court reason that citizenship did not include the right to vote?",
+   "uso:answer": "Chief Justice Waite found that when the Constitution was adopted no state let all citizens vote, that the Fourteenth Amendment's second section spoke of male voters, that the Fifteenth Amendment would have been needless if citizenship already carried the vote, and that suffrage was left to the states.",
+   "uso:questionFor": {
+    "@id": "us:minor-v-happersett"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/minor-v-happersett/review/3",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "How did the decision change the strategy of the woman suffrage movement?",
+   "uso:answer": "By closing the courts as a route to the ballot, it led suffragists to campaign state by state and to seek a federal constitutional amendment, which Senator Aaron Sargent proposed in 1878 and which was ratified as the Nineteenth Amendment in 1920.",
+   "uso:questionFor": {
+    "@id": "us:minor-v-happersett"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/minor-v-happersett/timeline/1",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Virginia Minor and four other St. Louis women found the Woman Suffrage Association of Missouri, with Minor as its first president.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1867-05-08"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/minor-v-happersett/timeline/10",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Ratification by 36 states makes the Nineteenth Amendment part of the Constitution.",
+   "uso:date": {
+    "@type": "xsd:gYearMonth",
+    "@value": "1920-08"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/minor-v-happersett/timeline/2",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "At a woman suffrage convention in St. Louis, Francis Minor's resolutions argue that the Fourteenth Amendment already protects women's right to vote.",
+   "uso:date": {
+    "@type": "xsd:gYearMonth",
+    "@value": "1869-10"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/minor-v-happersett/timeline/3",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Registrar Reese Happersett refuses to register Virginia Minor to vote because she is a woman.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1872-10-15"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/minor-v-happersett/timeline/4",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The Minors file suit in the St. Louis Circuit Court, which rules against them after a hearing on February 3.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1873-01-02"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/minor-v-happersett/timeline/5",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The Missouri Supreme Court hears the appeal in the Old Courthouse and affirms the judgment.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1873-05-07"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/minor-v-happersett/timeline/6",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The U.S. Supreme Court unanimously affirms, in an opinion by Chief Justice Morrison Waite.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1875-03-29"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/minor-v-happersett/timeline/7",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Senator Aaron Sargent of California introduces a woman suffrage amendment in Congress.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1878"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/minor-v-happersett/timeline/8",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Virginia Minor appears before the U.S. Senate committee on woman suffrage.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1889"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/minor-v-happersett/timeline/9",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Missouri ratifies the Nineteenth Amendment, the eleventh state to do so.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1919-07-03"
+   }
+  },
+  {
    "@id": "https://github.com/john1hsu/usa-graph/id/mississippi-river/misconception",
    "@type": "uso:Misconception",
    "uso:fact": "The U.S. Geological Survey lists the Missouri River, the Mississippi's largest tributary, at 2,540 miles against the Mississippi's 2,340, and the National Park Service also describes the Missouri as about 100 miles longer.",
@@ -35667,6 +35791,90 @@
     "@id": "https://www.bls.gov/opub/reports/minimum-wage/2024"
    },
    "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/minor-v-happersett/s1",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-26"
+   },
+   "dcterms:publisher": "Supreme Court of the United States, via Legal Information Institute, Cornell Law School",
+   "dcterms:title": "Minor v. Happersett, 88 U.S. 162 (1875)",
+   "schema:url": {
+    "@id": "https://www.law.cornell.edu/supremecourt/text/88/162"
+   },
+   "uso:sourceType": "primary"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/minor-v-happersett/s2",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-26"
+   },
+   "dcterms:publisher": "National Park Service, Gateway Arch National Park",
+   "dcterms:title": "Virginia Minor and Women's Right to Vote",
+   "schema:url": {
+    "@id": "https://www.nps.gov/jeff/learn/historyculture/the-virginia-minor-case.htm"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/minor-v-happersett/s3",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-26"
+   },
+   "dcterms:publisher": "National Park Service",
+   "dcterms:title": "Missouri and the 19th Amendment",
+   "schema:url": {
+    "@id": "https://home.nps.gov/articles/missouri-and-the-19th-amendment.htm"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/minor-v-happersett/s4",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-26"
+   },
+   "dcterms:publisher": "Constitution Annotated (Congressional Research Service), via Legal Information Institute, Cornell Law School",
+   "dcterms:title": "Amdt19.3.2 Federal and State Campaigns for Women's Voting Rights",
+   "schema:url": {
+    "@id": "https://www.law.cornell.edu/constitution-conan/amendment-19/federal-and-state-campaigns-for-womens-voting-rights"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/minor-v-happersett/s5",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-26"
+   },
+   "dcterms:publisher": "State Historical Society of Missouri, Historic Missourians (Kimberly Harper)",
+   "dcterms:title": "Virginia Minor",
+   "schema:url": {
+    "@id": "https://historicmissourians.shsmo.org/?p=7844"
+   },
+   "uso:sourceType": "museum"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/minor-v-happersett/s6",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-26"
+   },
+   "dcterms:publisher": "National Constitution Center (Nicholas Mosvick)",
+   "dcterms:title": "On this day, Supreme Court refuses women right to vote",
+   "schema:url": {
+    "@id": "https://constitutioncenter.org/blog/on-this-day-supreme-court-refuses-women-right-to-vote"
+   },
+   "uso:sourceType": "institutional"
   },
   {
    "@id": "https://github.com/john1hsu/usa-graph/id/source/mississippi-river/s1",
@@ -67523,6 +67731,144 @@
     },
     {
      "@id": "https://github.com/john1hsu/usa-graph/id/minimum-wage/timeline/9"
+    }
+   ]
+  },
+  {
+   "@id": "us:minor-v-happersett",
+   "@type": "uso:CourtCase",
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-26"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/minor-v-happersett/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/minor-v-happersett/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/minor-v-happersett/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/minor-v-happersett/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/minor-v-happersett/s5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/minor-v-happersett/s6"
+    }
+   ],
+   "rdfs:label": "Minor v. Happersett",
+   "schema:startDate": {
+    "@type": "xsd:date",
+    "@value": "1875-03-29"
+   },
+   "skos:altLabel": [
+    "88 U.S. 162 (1875)",
+    "Minor v. Happersett, 21 Wall. 162",
+    "Virginia Minor case"
+   ],
+   "skos:broader": {
+    "@id": "us:voting-rights-in-the-united-states"
+   },
+   "skos:definition": "The unanimous 1875 Supreme Court decision holding that women were citizens of the United States but that citizenship under the Fourteenth Amendment did not carry a right to vote, so Missouri could limit voting to men; the ruling pushed the woman suffrage movement toward state campaigns and a federal constitutional amendment.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/usa-graph/id/scheme/rights-and-law"
+   },
+   "skos:prefLabel": "Minor v. Happersett",
+   "skos:related": [
+    {
+     "@id": "us:aaron-sargent"
+    },
+    {
+     "@id": "us:dred-scott-v-sandford"
+    },
+    {
+     "@id": "us:fifteenth-amendment"
+    },
+    {
+     "@id": "us:francis-minor"
+    },
+    {
+     "@id": "us:missouri"
+    },
+    {
+     "@id": "us:nineteenth-amendment"
+    },
+    {
+     "@id": "us:right-to-vote"
+    },
+    {
+     "@id": "us:supreme-court-of-the-united-states"
+    },
+    {
+     "@id": "us:susan-b-anthony"
+    },
+    {
+     "@id": "us:united-states-v-anthony"
+    },
+    {
+     "@id": "us:virginia-minor"
+    },
+    {
+     "@id": "us:womens-suffrage-movement"
+    }
+   ],
+   "uso:affected": {
+    "@id": "us:womens-suffrage-movement"
+   },
+   "uso:authoredBy": {
+    "@id": "us:morrison-waite"
+   },
+   "uso:domain": "rights-and-law",
+   "uso:evidenceStatus": "legal-text",
+   "uso:file": "articles/rights-and-law/minor-v-happersett.md",
+   "uso:interprets": {
+    "@id": "us:fourteenth-amendment"
+   },
+   "uso:ledTo": {
+    "@id": "us:nineteenth-amendment"
+   },
+   "uso:level": "introductory",
+   "uso:misconception": {
+    "@id": "https://github.com/john1hsu/usa-graph/id/minor-v-happersett/misconception"
+   },
+   "uso:requires": {
+    "@id": "us:fourteenth-amendment"
+   },
+   "uso:timelineEntry": [
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/minor-v-happersett/timeline/1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/minor-v-happersett/timeline/10"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/minor-v-happersett/timeline/2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/minor-v-happersett/timeline/3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/minor-v-happersett/timeline/4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/minor-v-happersett/timeline/5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/minor-v-happersett/timeline/6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/minor-v-happersett/timeline/7"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/minor-v-happersett/timeline/8"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/minor-v-happersett/timeline/9"
     }
    ]
   },

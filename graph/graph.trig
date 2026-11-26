@@ -1789,6 +1789,15 @@
 <https://github.com/john1hsu/usa-graph/id/mcculloch-v-maryland#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/mcculloch-v-maryland/s7> .
 <https://github.com/john1hsu/usa-graph/id/mcculloch-v-maryland#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/mcculloch-v-maryland/s8> .
 <https://github.com/john1hsu/usa-graph/id/mcculloch-v-maryland#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/mcculloch-v-maryland/s9> .
+<https://github.com/john1hsu/usa-graph/id/minor-v-happersett#graph> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity> .
+<https://github.com/john1hsu/usa-graph/id/minor-v-happersett#graph> <http://purl.org/dc/terms/subject> <https://github.com/john1hsu/usa-graph/id/minor-v-happersett> .
+<https://github.com/john1hsu/usa-graph/id/minor-v-happersett#graph> <http://purl.org/dc/terms/source> "https://github.com/john1hsu/usa-graph/blob/main/articles/rights-and-law/minor-v-happersett.md" .
+<https://github.com/john1hsu/usa-graph/id/minor-v-happersett#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/minor-v-happersett/s1> .
+<https://github.com/john1hsu/usa-graph/id/minor-v-happersett#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/minor-v-happersett/s2> .
+<https://github.com/john1hsu/usa-graph/id/minor-v-happersett#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/minor-v-happersett/s3> .
+<https://github.com/john1hsu/usa-graph/id/minor-v-happersett#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/minor-v-happersett/s4> .
+<https://github.com/john1hsu/usa-graph/id/minor-v-happersett#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/minor-v-happersett/s5> .
+<https://github.com/john1hsu/usa-graph/id/minor-v-happersett#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/minor-v-happersett/s6> .
 <https://github.com/john1hsu/usa-graph/id/apollo-11#graph> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity> .
 <https://github.com/john1hsu/usa-graph/id/apollo-11#graph> <http://purl.org/dc/terms/subject> <https://github.com/john1hsu/usa-graph/id/apollo-11> .
 <https://github.com/john1hsu/usa-graph/id/apollo-11#graph> <http://purl.org/dc/terms/source> "https://github.com/john1hsu/usa-graph/blob/main/articles/science-and-innovation/apollo-11.md" .
@@ -27084,6 +27093,140 @@
   <https://github.com/john1hsu/usa-graph/id/source/mcculloch-v-maryland/s9> <https://schema.org/url> <https://millercenter.org/node/56976> .
 }
 
+<https://github.com/john1hsu/usa-graph/id/minor-v-happersett#graph> {
+  <https://github.com/john1hsu/usa-graph/id/minor-v-happersett/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Misconception> .
+  <https://github.com/john1hsu/usa-graph/id/minor-v-happersett/misconception> <https://github.com/john1hsu/usa-graph/ontology#fact> "The Court agreed without dissent that women were citizens and that Virginia Minor was a native-born citizen; it held instead that the Constitution did not make voting a privilege of citizenship, so states could keep women from the polls." .
+  <https://github.com/john1hsu/usa-graph/id/minor-v-happersett/misconception> <https://github.com/john1hsu/usa-graph/ontology#myth> "In Minor v. Happersett the Supreme Court ruled that women were not citizens." .
+  <https://github.com/john1hsu/usa-graph/id/minor-v-happersett/misconception> <https://github.com/john1hsu/usa-graph/ontology#why> "Separating citizenship from the vote is the core of the decision, and it explains why women, though citizens, needed the Nineteenth Amendment to win a constitutional guarantee of suffrage." .
+  <https://github.com/john1hsu/usa-graph/id/minor-v-happersett/review/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+  <https://github.com/john1hsu/usa-graph/id/minor-v-happersett/review/1> <http://www.w3.org/2000/01/rdf-schema#label> "Why did Virginia Minor argue that she already had the right to vote under the Constitution?" .
+  <https://github.com/john1hsu/usa-graph/id/minor-v-happersett/review/1> <https://github.com/john1hsu/usa-graph/ontology#answer> "She and her husband Francis Minor argued that she was a citizen and that the Fourteenth Amendment barred states from abridging the privileges or immunities of citizens, which they said included voting, so Missouri's male-only voting rule was void." .
+  <https://github.com/john1hsu/usa-graph/id/minor-v-happersett/review/1> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/minor-v-happersett> .
+  <https://github.com/john1hsu/usa-graph/id/minor-v-happersett/review/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+  <https://github.com/john1hsu/usa-graph/id/minor-v-happersett/review/2> <http://www.w3.org/2000/01/rdf-schema#label> "How did the Court reason that citizenship did not include the right to vote?" .
+  <https://github.com/john1hsu/usa-graph/id/minor-v-happersett/review/2> <https://github.com/john1hsu/usa-graph/ontology#answer> "Chief Justice Waite found that when the Constitution was adopted no state let all citizens vote, that the Fourteenth Amendment's second section spoke of male voters, that the Fifteenth Amendment would have been needless if citizenship already carried the vote, and that suffrage was left to the states." .
+  <https://github.com/john1hsu/usa-graph/id/minor-v-happersett/review/2> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/minor-v-happersett> .
+  <https://github.com/john1hsu/usa-graph/id/minor-v-happersett/review/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+  <https://github.com/john1hsu/usa-graph/id/minor-v-happersett/review/3> <http://www.w3.org/2000/01/rdf-schema#label> "How did the decision change the strategy of the woman suffrage movement?" .
+  <https://github.com/john1hsu/usa-graph/id/minor-v-happersett/review/3> <https://github.com/john1hsu/usa-graph/ontology#answer> "By closing the courts as a route to the ballot, it led suffragists to campaign state by state and to seek a federal constitutional amendment, which Senator Aaron Sargent proposed in 1878 and which was ratified as the Nineteenth Amendment in 1920." .
+  <https://github.com/john1hsu/usa-graph/id/minor-v-happersett/review/3> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/minor-v-happersett> .
+  <https://github.com/john1hsu/usa-graph/id/minor-v-happersett/timeline/10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/minor-v-happersett/timeline/10> <http://www.w3.org/2000/01/rdf-schema#label> "Ratification by 36 states makes the Nineteenth Amendment part of the Constitution." .
+  <https://github.com/john1hsu/usa-graph/id/minor-v-happersett/timeline/10> <https://github.com/john1hsu/usa-graph/ontology#date> "1920-08"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> .
+  <https://github.com/john1hsu/usa-graph/id/minor-v-happersett/timeline/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/minor-v-happersett/timeline/1> <http://www.w3.org/2000/01/rdf-schema#label> "Virginia Minor and four other St. Louis women found the Woman Suffrage Association of Missouri, with Minor as its first president." .
+  <https://github.com/john1hsu/usa-graph/id/minor-v-happersett/timeline/1> <https://github.com/john1hsu/usa-graph/ontology#date> "1867-05-08"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/minor-v-happersett/timeline/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/minor-v-happersett/timeline/2> <http://www.w3.org/2000/01/rdf-schema#label> "At a woman suffrage convention in St. Louis, Francis Minor's resolutions argue that the Fourteenth Amendment already protects women's right to vote." .
+  <https://github.com/john1hsu/usa-graph/id/minor-v-happersett/timeline/2> <https://github.com/john1hsu/usa-graph/ontology#date> "1869-10"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> .
+  <https://github.com/john1hsu/usa-graph/id/minor-v-happersett/timeline/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/minor-v-happersett/timeline/3> <http://www.w3.org/2000/01/rdf-schema#label> "Registrar Reese Happersett refuses to register Virginia Minor to vote because she is a woman." .
+  <https://github.com/john1hsu/usa-graph/id/minor-v-happersett/timeline/3> <https://github.com/john1hsu/usa-graph/ontology#date> "1872-10-15"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/minor-v-happersett/timeline/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/minor-v-happersett/timeline/4> <http://www.w3.org/2000/01/rdf-schema#label> "The Minors file suit in the St. Louis Circuit Court, which rules against them after a hearing on February 3." .
+  <https://github.com/john1hsu/usa-graph/id/minor-v-happersett/timeline/4> <https://github.com/john1hsu/usa-graph/ontology#date> "1873-01-02"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/minor-v-happersett/timeline/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/minor-v-happersett/timeline/5> <http://www.w3.org/2000/01/rdf-schema#label> "The Missouri Supreme Court hears the appeal in the Old Courthouse and affirms the judgment." .
+  <https://github.com/john1hsu/usa-graph/id/minor-v-happersett/timeline/5> <https://github.com/john1hsu/usa-graph/ontology#date> "1873-05-07"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/minor-v-happersett/timeline/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/minor-v-happersett/timeline/6> <http://www.w3.org/2000/01/rdf-schema#label> "The U.S. Supreme Court unanimously affirms, in an opinion by Chief Justice Morrison Waite." .
+  <https://github.com/john1hsu/usa-graph/id/minor-v-happersett/timeline/6> <https://github.com/john1hsu/usa-graph/ontology#date> "1875-03-29"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/minor-v-happersett/timeline/7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/minor-v-happersett/timeline/7> <http://www.w3.org/2000/01/rdf-schema#label> "Senator Aaron Sargent of California introduces a woman suffrage amendment in Congress." .
+  <https://github.com/john1hsu/usa-graph/id/minor-v-happersett/timeline/7> <https://github.com/john1hsu/usa-graph/ontology#date> "1878"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+  <https://github.com/john1hsu/usa-graph/id/minor-v-happersett/timeline/8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/minor-v-happersett/timeline/8> <http://www.w3.org/2000/01/rdf-schema#label> "Virginia Minor appears before the U.S. Senate committee on woman suffrage." .
+  <https://github.com/john1hsu/usa-graph/id/minor-v-happersett/timeline/8> <https://github.com/john1hsu/usa-graph/ontology#date> "1889"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+  <https://github.com/john1hsu/usa-graph/id/minor-v-happersett/timeline/9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/minor-v-happersett/timeline/9> <http://www.w3.org/2000/01/rdf-schema#label> "Missouri ratifies the Nineteenth Amendment, the eleventh state to do so." .
+  <https://github.com/john1hsu/usa-graph/id/minor-v-happersett/timeline/9> <https://github.com/john1hsu/usa-graph/ontology#date> "1919-07-03"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/minor-v-happersett> <http://purl.org/dc/terms/created> "2026-11-26"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/minor-v-happersett> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#CourtCase> .
+  <https://github.com/john1hsu/usa-graph/id/minor-v-happersett> <http://www.w3.org/2000/01/rdf-schema#label> "Minor v. Happersett" .
+  <https://github.com/john1hsu/usa-graph/id/minor-v-happersett> <http://www.w3.org/2004/02/skos/core#altLabel> "88 U.S. 162 (1875)" .
+  <https://github.com/john1hsu/usa-graph/id/minor-v-happersett> <http://www.w3.org/2004/02/skos/core#altLabel> "Minor v. Happersett, 21 Wall. 162" .
+  <https://github.com/john1hsu/usa-graph/id/minor-v-happersett> <http://www.w3.org/2004/02/skos/core#altLabel> "Virginia Minor case" .
+  <https://github.com/john1hsu/usa-graph/id/minor-v-happersett> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/usa-graph/id/voting-rights-in-the-united-states> .
+  <https://github.com/john1hsu/usa-graph/id/minor-v-happersett> <http://www.w3.org/2004/02/skos/core#definition> "The unanimous 1875 Supreme Court decision holding that women were citizens of the United States but that citizenship under the Fourteenth Amendment did not carry a right to vote, so Missouri could limit voting to men; the ruling pushed the woman suffrage movement toward state campaigns and a federal constitutional amendment." .
+  <https://github.com/john1hsu/usa-graph/id/minor-v-happersett> <http://www.w3.org/2004/02/skos/core#inScheme> <https://github.com/john1hsu/usa-graph/id/scheme/rights-and-law> .
+  <https://github.com/john1hsu/usa-graph/id/minor-v-happersett> <http://www.w3.org/2004/02/skos/core#prefLabel> "Minor v. Happersett" .
+  <https://github.com/john1hsu/usa-graph/id/minor-v-happersett> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/aaron-sargent> .
+  <https://github.com/john1hsu/usa-graph/id/minor-v-happersett> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/dred-scott-v-sandford> .
+  <https://github.com/john1hsu/usa-graph/id/minor-v-happersett> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/fifteenth-amendment> .
+  <https://github.com/john1hsu/usa-graph/id/minor-v-happersett> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/francis-minor> .
+  <https://github.com/john1hsu/usa-graph/id/minor-v-happersett> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/missouri> .
+  <https://github.com/john1hsu/usa-graph/id/minor-v-happersett> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/nineteenth-amendment> .
+  <https://github.com/john1hsu/usa-graph/id/minor-v-happersett> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/right-to-vote> .
+  <https://github.com/john1hsu/usa-graph/id/minor-v-happersett> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/supreme-court-of-the-united-states> .
+  <https://github.com/john1hsu/usa-graph/id/minor-v-happersett> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/susan-b-anthony> .
+  <https://github.com/john1hsu/usa-graph/id/minor-v-happersett> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/united-states-v-anthony> .
+  <https://github.com/john1hsu/usa-graph/id/minor-v-happersett> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/virginia-minor> .
+  <https://github.com/john1hsu/usa-graph/id/minor-v-happersett> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/womens-suffrage-movement> .
+  <https://github.com/john1hsu/usa-graph/id/minor-v-happersett> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/minor-v-happersett/s1> .
+  <https://github.com/john1hsu/usa-graph/id/minor-v-happersett> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/minor-v-happersett/s2> .
+  <https://github.com/john1hsu/usa-graph/id/minor-v-happersett> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/minor-v-happersett/s3> .
+  <https://github.com/john1hsu/usa-graph/id/minor-v-happersett> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/minor-v-happersett/s4> .
+  <https://github.com/john1hsu/usa-graph/id/minor-v-happersett> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/minor-v-happersett/s5> .
+  <https://github.com/john1hsu/usa-graph/id/minor-v-happersett> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/minor-v-happersett/s6> .
+  <https://github.com/john1hsu/usa-graph/id/minor-v-happersett> <https://github.com/john1hsu/usa-graph/ontology#affected> <https://github.com/john1hsu/usa-graph/id/womens-suffrage-movement> .
+  <https://github.com/john1hsu/usa-graph/id/minor-v-happersett> <https://github.com/john1hsu/usa-graph/ontology#authoredBy> <https://github.com/john1hsu/usa-graph/id/morrison-waite> .
+  <https://github.com/john1hsu/usa-graph/id/minor-v-happersett> <https://github.com/john1hsu/usa-graph/ontology#domain> "rights-and-law" .
+  <https://github.com/john1hsu/usa-graph/id/minor-v-happersett> <https://github.com/john1hsu/usa-graph/ontology#evidenceStatus> "legal-text" .
+  <https://github.com/john1hsu/usa-graph/id/minor-v-happersett> <https://github.com/john1hsu/usa-graph/ontology#file> "articles/rights-and-law/minor-v-happersett.md" .
+  <https://github.com/john1hsu/usa-graph/id/minor-v-happersett> <https://github.com/john1hsu/usa-graph/ontology#interprets> <https://github.com/john1hsu/usa-graph/id/fourteenth-amendment> .
+  <https://github.com/john1hsu/usa-graph/id/minor-v-happersett> <https://github.com/john1hsu/usa-graph/ontology#ledTo> <https://github.com/john1hsu/usa-graph/id/nineteenth-amendment> .
+  <https://github.com/john1hsu/usa-graph/id/minor-v-happersett> <https://github.com/john1hsu/usa-graph/ontology#level> "introductory" .
+  <https://github.com/john1hsu/usa-graph/id/minor-v-happersett> <https://github.com/john1hsu/usa-graph/ontology#misconception> <https://github.com/john1hsu/usa-graph/id/minor-v-happersett/misconception> .
+  <https://github.com/john1hsu/usa-graph/id/minor-v-happersett> <https://github.com/john1hsu/usa-graph/ontology#requires> <https://github.com/john1hsu/usa-graph/id/fourteenth-amendment> .
+  <https://github.com/john1hsu/usa-graph/id/minor-v-happersett> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/minor-v-happersett/timeline/10> .
+  <https://github.com/john1hsu/usa-graph/id/minor-v-happersett> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/minor-v-happersett/timeline/1> .
+  <https://github.com/john1hsu/usa-graph/id/minor-v-happersett> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/minor-v-happersett/timeline/2> .
+  <https://github.com/john1hsu/usa-graph/id/minor-v-happersett> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/minor-v-happersett/timeline/3> .
+  <https://github.com/john1hsu/usa-graph/id/minor-v-happersett> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/minor-v-happersett/timeline/4> .
+  <https://github.com/john1hsu/usa-graph/id/minor-v-happersett> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/minor-v-happersett/timeline/5> .
+  <https://github.com/john1hsu/usa-graph/id/minor-v-happersett> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/minor-v-happersett/timeline/6> .
+  <https://github.com/john1hsu/usa-graph/id/minor-v-happersett> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/minor-v-happersett/timeline/7> .
+  <https://github.com/john1hsu/usa-graph/id/minor-v-happersett> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/minor-v-happersett/timeline/8> .
+  <https://github.com/john1hsu/usa-graph/id/minor-v-happersett> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/minor-v-happersett/timeline/9> .
+  <https://github.com/john1hsu/usa-graph/id/minor-v-happersett> <https://schema.org/startDate> "1875-03-29"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/minor-v-happersett/s1> <http://purl.org/dc/terms/date> "2026-11-26"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/minor-v-happersett/s1> <http://purl.org/dc/terms/publisher> "Supreme Court of the United States, via Legal Information Institute, Cornell Law School" .
+  <https://github.com/john1hsu/usa-graph/id/source/minor-v-happersett/s1> <http://purl.org/dc/terms/title> "Minor v. Happersett, 88 U.S. 162 (1875)" .
+  <https://github.com/john1hsu/usa-graph/id/source/minor-v-happersett/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/minor-v-happersett/s1> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "primary" .
+  <https://github.com/john1hsu/usa-graph/id/source/minor-v-happersett/s1> <https://schema.org/url> <https://www.law.cornell.edu/supremecourt/text/88/162> .
+  <https://github.com/john1hsu/usa-graph/id/source/minor-v-happersett/s2> <http://purl.org/dc/terms/date> "2026-11-26"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/minor-v-happersett/s2> <http://purl.org/dc/terms/publisher> "National Park Service, Gateway Arch National Park" .
+  <https://github.com/john1hsu/usa-graph/id/source/minor-v-happersett/s2> <http://purl.org/dc/terms/title> "Virginia Minor and Women's Right to Vote" .
+  <https://github.com/john1hsu/usa-graph/id/source/minor-v-happersett/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/minor-v-happersett/s2> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+  <https://github.com/john1hsu/usa-graph/id/source/minor-v-happersett/s2> <https://schema.org/url> <https://www.nps.gov/jeff/learn/historyculture/the-virginia-minor-case.htm> .
+  <https://github.com/john1hsu/usa-graph/id/source/minor-v-happersett/s3> <http://purl.org/dc/terms/date> "2026-11-26"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/minor-v-happersett/s3> <http://purl.org/dc/terms/publisher> "National Park Service" .
+  <https://github.com/john1hsu/usa-graph/id/source/minor-v-happersett/s3> <http://purl.org/dc/terms/title> "Missouri and the 19th Amendment" .
+  <https://github.com/john1hsu/usa-graph/id/source/minor-v-happersett/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/minor-v-happersett/s3> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+  <https://github.com/john1hsu/usa-graph/id/source/minor-v-happersett/s3> <https://schema.org/url> <https://home.nps.gov/articles/missouri-and-the-19th-amendment.htm> .
+  <https://github.com/john1hsu/usa-graph/id/source/minor-v-happersett/s4> <http://purl.org/dc/terms/date> "2026-11-26"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/minor-v-happersett/s4> <http://purl.org/dc/terms/publisher> "Constitution Annotated (Congressional Research Service), via Legal Information Institute, Cornell Law School" .
+  <https://github.com/john1hsu/usa-graph/id/source/minor-v-happersett/s4> <http://purl.org/dc/terms/title> "Amdt19.3.2 Federal and State Campaigns for Women's Voting Rights" .
+  <https://github.com/john1hsu/usa-graph/id/source/minor-v-happersett/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/minor-v-happersett/s4> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+  <https://github.com/john1hsu/usa-graph/id/source/minor-v-happersett/s4> <https://schema.org/url> <https://www.law.cornell.edu/constitution-conan/amendment-19/federal-and-state-campaigns-for-womens-voting-rights> .
+  <https://github.com/john1hsu/usa-graph/id/source/minor-v-happersett/s5> <http://purl.org/dc/terms/date> "2026-11-26"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/minor-v-happersett/s5> <http://purl.org/dc/terms/publisher> "State Historical Society of Missouri, Historic Missourians (Kimberly Harper)" .
+  <https://github.com/john1hsu/usa-graph/id/source/minor-v-happersett/s5> <http://purl.org/dc/terms/title> "Virginia Minor" .
+  <https://github.com/john1hsu/usa-graph/id/source/minor-v-happersett/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/minor-v-happersett/s5> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "museum" .
+  <https://github.com/john1hsu/usa-graph/id/source/minor-v-happersett/s5> <https://schema.org/url> <https://historicmissourians.shsmo.org/?p=7844> .
+  <https://github.com/john1hsu/usa-graph/id/source/minor-v-happersett/s6> <http://purl.org/dc/terms/date> "2026-11-26"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/minor-v-happersett/s6> <http://purl.org/dc/terms/publisher> "National Constitution Center (Nicholas Mosvick)" .
+  <https://github.com/john1hsu/usa-graph/id/source/minor-v-happersett/s6> <http://purl.org/dc/terms/title> "On this day, Supreme Court refuses women right to vote" .
+  <https://github.com/john1hsu/usa-graph/id/source/minor-v-happersett/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/minor-v-happersett/s6> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "institutional" .
+  <https://github.com/john1hsu/usa-graph/id/source/minor-v-happersett/s6> <https://schema.org/url> <https://constitutioncenter.org/blog/on-this-day-supreme-court-refuses-women-right-to-vote> .
+}
+
 <https://github.com/john1hsu/usa-graph/id/apollo-11#graph> {
   <https://github.com/john1hsu/usa-graph/id/apollo-11/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Misconception> .
   <https://github.com/john1hsu/usa-graph/id/apollo-11/misconception> <https://github.com/john1hsu/usa-graph/ontology#fact> "Physical evidence still testifies to the landing — astronomers continue to bounce lasers off the retroreflector the crew set up, and NASA's Lunar Reconnaissance Orbiter has photographed the abandoned descent stage and the astronauts' footpaths." .
@@ -32364,6 +32507,7 @@
   <https://github.com/john1hsu/usa-graph/id/a-philip-randolph> <https://github.com/john1hsu/usa-graph/ontology#led> <https://github.com/john1hsu/usa-graph/id/labor-movement> .
   <https://github.com/john1hsu/usa-graph/id/aaron-sargent> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/aaron-sargent> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Person> .
+  <https://github.com/john1hsu/usa-graph/id/aaron-sargent> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/minor-v-happersett> .
   <https://github.com/john1hsu/usa-graph/id/aaron-sargent> <https://github.com/john1hsu/usa-graph/ontology#introduced> <https://github.com/john1hsu/usa-graph/id/nineteenth-amendment> .
   <https://github.com/john1hsu/usa-graph/id/ableman-v-booth> <https://github.com/john1hsu/usa-graph/ontology#resultedFrom> <https://github.com/john1hsu/usa-graph/id/fugitive-slave-act-of-1850> .
   <https://github.com/john1hsu/usa-graph/id/abner-doubleday-baseball-myth/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
@@ -32710,6 +32854,7 @@
   <https://github.com/john1hsu/usa-graph/id/american-civil-war> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/greensboro-sit-ins> .
   <https://github.com/john1hsu/usa-graph/id/american-civil-war> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/jim-crow-laws> .
   <https://github.com/john1hsu/usa-graph/id/american-civil-war> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/martin-luther-king-jr> .
+  <https://github.com/john1hsu/usa-graph/id/american-civil-war> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/minor-v-happersett> .
   <https://github.com/john1hsu/usa-graph/id/american-civil-war> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/montgomery-bus-boycott> .
   <https://github.com/john1hsu/usa-graph/id/american-civil-war> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/morrill-land-grant-college-act> .
   <https://github.com/john1hsu/usa-graph/id/american-civil-war> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/muckrakers> .
@@ -34296,6 +34441,7 @@
   <https://github.com/john1hsu/usa-graph/id/dred-scott-v-sandford> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> .
   <https://github.com/john1hsu/usa-graph/id/dred-scott-v-sandford> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/fugitive-slave-act-of-1850> .
   <https://github.com/john1hsu/usa-graph/id/dred-scott-v-sandford> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/judicial-review> .
+  <https://github.com/john1hsu/usa-graph/id/dred-scott-v-sandford> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/minor-v-happersett> .
   <https://github.com/john1hsu/usa-graph/id/dred-scott-v-sandford> <https://github.com/john1hsu/usa-graph/ontology#challenges> <https://github.com/john1hsu/usa-graph/id/missouri-compromise> .
   <https://github.com/john1hsu/usa-graph/id/dred-scott-v-sandford> <https://github.com/john1hsu/usa-graph/ontology#overturnedBy> <https://github.com/john1hsu/usa-graph/id/fourteenth-amendment> .
   <https://github.com/john1hsu/usa-graph/id/dred-scott-v-sandford> <https://github.com/john1hsu/usa-graph/ontology#requires> <https://github.com/john1hsu/usa-graph/id/articles-of-confederation> .
@@ -34700,6 +34846,7 @@
   <https://github.com/john1hsu/usa-graph/id/fifteenth-amendment> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/usa-graph/id/reconstruction-amendments> .
   <https://github.com/john1hsu/usa-graph/id/fifteenth-amendment> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/usa-graph/id/voting-rights-in-the-united-states> .
   <https://github.com/john1hsu/usa-graph/id/fifteenth-amendment> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/frederick-douglass> .
+  <https://github.com/john1hsu/usa-graph/id/fifteenth-amendment> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/minor-v-happersett> .
   <https://github.com/john1hsu/usa-graph/id/fifteenth-amendment> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/shelby-county-v-holder> .
   <https://github.com/john1hsu/usa-graph/id/fifteenth-amendment> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/susan-b-anthony> .
   <https://github.com/john1hsu/usa-graph/id/fifteenth-amendment> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/twenty-sixth-amendment> .
@@ -34823,6 +34970,7 @@
   <https://github.com/john1hsu/usa-graph/id/fourteenth-amendment> <https://github.com/john1hsu/usa-graph/ontology#establishes> <https://github.com/john1hsu/usa-graph/id/due-process> .
   <https://github.com/john1hsu/usa-graph/id/fourteenth-amendment> <https://github.com/john1hsu/usa-graph/ontology#establishes> <https://github.com/john1hsu/usa-graph/id/equal-protection> .
   <https://github.com/john1hsu/usa-graph/id/fourteenth-amendment> <https://github.com/john1hsu/usa-graph/ontology#interpretedIn> <https://github.com/john1hsu/usa-graph/id/brown-v-board-of-education> .
+  <https://github.com/john1hsu/usa-graph/id/fourteenth-amendment> <https://github.com/john1hsu/usa-graph/ontology#interpretedIn> <https://github.com/john1hsu/usa-graph/id/minor-v-happersett> .
   <https://github.com/john1hsu/usa-graph/id/fourteenth-amendment> <https://github.com/john1hsu/usa-graph/ontology#interpretedIn> <https://github.com/john1hsu/usa-graph/id/obergefell-v-hodges> .
   <https://github.com/john1hsu/usa-graph/id/fourteenth-amendment> <https://github.com/john1hsu/usa-graph/ontology#interpretedIn> <https://github.com/john1hsu/usa-graph/id/plessy-v-ferguson> .
   <https://github.com/john1hsu/usa-graph/id/fourteenth-amendment> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/brown-v-board-of-education> .
@@ -34834,6 +34982,7 @@
   <https://github.com/john1hsu/usa-graph/id/fourteenth-amendment> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/greensboro-sit-ins> .
   <https://github.com/john1hsu/usa-graph/id/fourteenth-amendment> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/jim-crow-laws> .
   <https://github.com/john1hsu/usa-graph/id/fourteenth-amendment> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/martin-luther-king-jr> .
+  <https://github.com/john1hsu/usa-graph/id/fourteenth-amendment> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/minor-v-happersett> .
   <https://github.com/john1hsu/usa-graph/id/fourteenth-amendment> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/montgomery-bus-boycott> .
   <https://github.com/john1hsu/usa-graph/id/fourteenth-amendment> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/obergefell-v-hodges> .
   <https://github.com/john1hsu/usa-graph/id/fourteenth-amendment> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/plessy-v-ferguson> .
@@ -34860,6 +35009,7 @@
   <https://github.com/john1hsu/usa-graph/id/francis-hopkinson> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/great-seal-of-the-united-states> .
   <https://github.com/john1hsu/usa-graph/id/francis-hopkinson> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/national-symbols-of-the-united-states> .
   <https://github.com/john1hsu/usa-graph/id/francis-hopkinson> <https://github.com/john1hsu/usa-graph/ontology#challenges> <https://github.com/john1hsu/usa-graph/id/betsy-ross-flag-myth> .
+  <https://github.com/john1hsu/usa-graph/id/francis-minor> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/minor-v-happersett> .
   <https://github.com/john1hsu/usa-graph/id/francis-scott-key> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/francis-scott-key> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Person> .
   <https://github.com/john1hsu/usa-graph/id/francis-scott-key> <https://github.com/john1hsu/usa-graph/ontology#introduced> <https://github.com/john1hsu/usa-graph/id/star-spangled-banner> .
@@ -36845,9 +36995,27 @@
   <https://github.com/john1hsu/usa-graph/id/minimum-wage> <https://github.com/john1hsu/usa-graph/ontology#requires> <https://github.com/john1hsu/usa-graph/id/declaration-of-independence> .
   <https://github.com/john1hsu/usa-graph/id/minimum-wage> <https://github.com/john1hsu/usa-graph/ontology#requires> <https://github.com/john1hsu/usa-graph/id/thirteen-colonies> .
   <https://github.com/john1hsu/usa-graph/id/minimum-wage> <https://github.com/john1hsu/usa-graph/ontology#requires> <https://github.com/john1hsu/usa-graph/id/united-states-constitution> .
+  <https://github.com/john1hsu/usa-graph/id/minor-v-happersett/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/minor-v-happersett/review/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/minor-v-happersett/review/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/minor-v-happersett/review/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/minor-v-happersett/timeline/10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/minor-v-happersett/timeline/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/minor-v-happersett/timeline/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/minor-v-happersett/timeline/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/minor-v-happersett/timeline/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/minor-v-happersett/timeline/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/minor-v-happersett/timeline/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/minor-v-happersett/timeline/7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/minor-v-happersett/timeline/8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/minor-v-happersett/timeline/9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/minor-v-happersett> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Document> .
+  <https://github.com/john1hsu/usa-graph/id/minor-v-happersett> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/minor-v-happersett> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/usa-graph/id/voting-rights-in-the-united-states> .
   <https://github.com/john1hsu/usa-graph/id/minor-v-happersett> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/fourteenth-amendment> .
-  <https://github.com/john1hsu/usa-graph/id/minor-v-happersett> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/nineteenth-amendment> .
-  <https://github.com/john1hsu/usa-graph/id/minor-v-happersett> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/susan-b-anthony> .
+  <https://github.com/john1hsu/usa-graph/id/minor-v-happersett> <https://github.com/john1hsu/usa-graph/ontology#requires> <https://github.com/john1hsu/usa-graph/id/american-civil-war> .
+  <https://github.com/john1hsu/usa-graph/id/minor-v-happersett> <https://github.com/john1hsu/usa-graph/ontology#requires> <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> .
+  <https://github.com/john1hsu/usa-graph/id/minor-v-happersett> <https://github.com/john1hsu/usa-graph/ontology#requires> <https://github.com/john1hsu/usa-graph/id/thirteenth-amendment> .
   <https://github.com/john1hsu/usa-graph/id/miraflores-locks> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/miraflores-locks> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Place> .
   <https://github.com/john1hsu/usa-graph/id/miraflores-locks> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/gatun-locks> .
@@ -36921,6 +37089,7 @@
   <https://github.com/john1hsu/usa-graph/id/missouri-river> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/mississippi-river> .
   <https://github.com/john1hsu/usa-graph/id/missouri-river> <https://github.com/john1hsu/usa-graph/ontology#contrastsWith> <https://github.com/john1hsu/usa-graph/id/mississippi-river> .
   <https://github.com/john1hsu/usa-graph/id/missouri-river> <https://github.com/john1hsu/usa-graph/ontology#siteOf> <https://github.com/john1hsu/usa-graph/id/lewis-and-clark-expedition> .
+  <https://github.com/john1hsu/usa-graph/id/missouri> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/minor-v-happersett> .
   <https://github.com/john1hsu/usa-graph/id/missouri> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/missouri-compromise> .
   <https://github.com/john1hsu/usa-graph/id/missouri> <https://github.com/john1hsu/usa-graph/ontology#affectedBy> <https://github.com/john1hsu/usa-graph/id/missouri-compromise> .
   <https://github.com/john1hsu/usa-graph/id/missouri> <https://github.com/john1hsu/usa-graph/ontology#originOf> <https://github.com/john1hsu/usa-graph/id/okies> .
@@ -37008,6 +37177,9 @@
   <https://github.com/john1hsu/usa-graph/id/morrill-land-grant-college-act> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/morrill-land-grant-college-act> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/usa-graph/id/higher-education-in-the-united-states> .
   <https://github.com/john1hsu/usa-graph/id/morrill-land-grant-college-act> <https://github.com/john1hsu/usa-graph/ontology#requires> <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> .
+  <https://github.com/john1hsu/usa-graph/id/morrison-waite> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/morrison-waite> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Person> .
+  <https://github.com/john1hsu/usa-graph/id/morrison-waite> <https://github.com/john1hsu/usa-graph/ontology#authored> <https://github.com/john1hsu/usa-graph/id/minor-v-happersett> .
   <https://github.com/john1hsu/usa-graph/id/motion-picture-patents-company> <https://github.com/john1hsu/usa-graph/ontology#influenced> <https://github.com/john1hsu/usa-graph/id/hollywood> .
   <https://github.com/john1hsu/usa-graph/id/motion-picture-production-code> <https://github.com/john1hsu/usa-graph/ontology#influenced> <https://github.com/john1hsu/usa-graph/id/hollywood> .
   <https://github.com/john1hsu/usa-graph/id/motown-records> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/detroit> .
@@ -37376,6 +37548,7 @@
   <https://github.com/john1hsu/usa-graph/id/nineteenth-amendment> <https://github.com/john1hsu/usa-graph/ontology#requires> <https://github.com/john1hsu/usa-graph/id/declaration-of-independence> .
   <https://github.com/john1hsu/usa-graph/id/nineteenth-amendment> <https://github.com/john1hsu/usa-graph/ontology#requires> <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> .
   <https://github.com/john1hsu/usa-graph/id/nineteenth-amendment> <https://github.com/john1hsu/usa-graph/ontology#requires> <https://github.com/john1hsu/usa-graph/id/thirteen-colonies> .
+  <https://github.com/john1hsu/usa-graph/id/nineteenth-amendment> <https://github.com/john1hsu/usa-graph/ontology#resultedFrom> <https://github.com/john1hsu/usa-graph/id/minor-v-happersett> .
   <https://github.com/john1hsu/usa-graph/id/nineteenth-amendment> <https://github.com/john1hsu/usa-graph/ontology#resultedFrom> <https://github.com/john1hsu/usa-graph/id/progressive-era> .
   <https://github.com/john1hsu/usa-graph/id/nineteenth-amendment> <https://github.com/john1hsu/usa-graph/ontology#resultedFrom> <https://github.com/john1hsu/usa-graph/id/womens-suffrage-movement> .
   <https://github.com/john1hsu/usa-graph/id/nisenan> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/california-gold-rush> .
@@ -38070,6 +38243,7 @@
   <https://github.com/john1hsu/usa-graph/id/right-to-vote> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Concept> .
   <https://github.com/john1hsu/usa-graph/id/right-to-vote> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/right-to-vote> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Right> .
+  <https://github.com/john1hsu/usa-graph/id/right-to-vote> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/minor-v-happersett> .
   <https://github.com/john1hsu/usa-graph/id/right-to-vote> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/shelby-county-v-holder> .
   <https://github.com/john1hsu/usa-graph/id/right-to-vote> <https://github.com/john1hsu/usa-graph/ontology#protectedBy> <https://github.com/john1hsu/usa-graph/id/fifteenth-amendment> .
   <https://github.com/john1hsu/usa-graph/id/right-to-vote> <https://github.com/john1hsu/usa-graph/ontology#protectedBy> <https://github.com/john1hsu/usa-graph/id/nineteenth-amendment> .
@@ -38422,6 +38596,7 @@
   <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/jim-crow-laws> .
   <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/kansas-nebraska-act> .
   <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/martin-luther-king-jr> .
+  <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/minor-v-happersett> .
   <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/missouri-compromise> .
   <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/montgomery-bus-boycott> .
   <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/morrill-land-grant-college-act> .
@@ -38638,6 +38813,7 @@
   <https://github.com/john1hsu/usa-graph/id/supreme-court-of-the-united-states> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/john-marshall> .
   <https://github.com/john1hsu/usa-graph/id/supreme-court-of-the-united-states> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/mcculloch-v-maryland> .
   <https://github.com/john1hsu/usa-graph/id/supreme-court-of-the-united-states> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/minimum-wage> .
+  <https://github.com/john1hsu/usa-graph/id/supreme-court-of-the-united-states> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/minor-v-happersett> .
   <https://github.com/john1hsu/usa-graph/id/supreme-court-of-the-united-states> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/reynolds-v-sims> .
   <https://github.com/john1hsu/usa-graph/id/supreme-court-of-the-united-states> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/shelby-county-v-holder> .
   <https://github.com/john1hsu/usa-graph/id/supreme-court-of-the-united-states> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/tribal-sovereignty> .
@@ -39011,6 +39187,7 @@
   <https://github.com/john1hsu/usa-graph/id/thirteenth-amendment> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/greensboro-sit-ins> .
   <https://github.com/john1hsu/usa-graph/id/thirteenth-amendment> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/jim-crow-laws> .
   <https://github.com/john1hsu/usa-graph/id/thirteenth-amendment> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/martin-luther-king-jr> .
+  <https://github.com/john1hsu/usa-graph/id/thirteenth-amendment> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/minor-v-happersett> .
   <https://github.com/john1hsu/usa-graph/id/thirteenth-amendment> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/montgomery-bus-boycott> .
   <https://github.com/john1hsu/usa-graph/id/thirteenth-amendment> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/obergefell-v-hodges> .
   <https://github.com/john1hsu/usa-graph/id/thirteenth-amendment> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/plessy-v-ferguson> .
@@ -39471,6 +39648,7 @@
   <https://github.com/john1hsu/usa-graph/id/united-states-senate> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/nato> .
   <https://github.com/john1hsu/usa-graph/id/united-states-senate> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/united-states-congress> .
   <https://github.com/john1hsu/usa-graph/id/united-states-senate> <https://github.com/john1hsu/usa-graph/ontology#hasMember> <https://github.com/john1hsu/usa-graph/id/andrew-jackson> .
+  <https://github.com/john1hsu/usa-graph/id/united-states-v-anthony> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/minor-v-happersett> .
   <https://github.com/john1hsu/usa-graph/id/united-states-v-anthony> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/susan-b-anthony> .
   <https://github.com/john1hsu/usa-graph/id/united-states-v-cruikshank> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/fifteenth-amendment> .
   <https://github.com/john1hsu/usa-graph/id/united-states-v-darby> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/minimum-wage> .
@@ -39596,6 +39774,7 @@
   <https://github.com/john1hsu/usa-graph/id/virginia-company-of-london> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/starving-time> .
   <https://github.com/john1hsu/usa-graph/id/virginia-general-assembly> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/jamestown> .
   <https://github.com/john1hsu/usa-graph/id/virginia-general-assembly> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/lawes-divine-morall-and-martiall> .
+  <https://github.com/john1hsu/usa-graph/id/virginia-minor> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/minor-v-happersett> .
   <https://github.com/john1hsu/usa-graph/id/virginia-plan> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/constitutional-convention> .
   <https://github.com/john1hsu/usa-graph/id/virginia-plan> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/james-madison> .
   <https://github.com/john1hsu/usa-graph/id/virginia-ratifying-convention> <https://github.com/john1hsu/usa-graph/ontology#participant> <https://github.com/john1hsu/usa-graph/id/john-marshall> .
@@ -39644,12 +39823,14 @@
   <https://github.com/john1hsu/usa-graph/id/voting-rights-act-of-1965> <https://github.com/john1hsu/usa-graph/ontology#resultedFrom> <https://github.com/john1hsu/usa-graph/id/civil-rights-movement> .
   <https://github.com/john1hsu/usa-graph/id/voting-rights-act-of-1965> <https://github.com/john1hsu/usa-graph/ontology#resultedFrom> <https://github.com/john1hsu/usa-graph/id/fifteenth-amendment> .
   <https://github.com/john1hsu/usa-graph/id/voting-rights-in-the-united-states> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/usa-graph/id/fifteenth-amendment> .
+  <https://github.com/john1hsu/usa-graph/id/voting-rights-in-the-united-states> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/usa-graph/id/minor-v-happersett> .
   <https://github.com/john1hsu/usa-graph/id/voting-rights-in-the-united-states> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/usa-graph/id/nineteenth-amendment> .
   <https://github.com/john1hsu/usa-graph/id/voting-rights-in-the-united-states> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/usa-graph/id/shelby-county-v-holder> .
   <https://github.com/john1hsu/usa-graph/id/voting-rights-in-the-united-states> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/usa-graph/id/twenty-sixth-amendment> .
   <https://github.com/john1hsu/usa-graph/id/voting-rights-in-the-united-states> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/usa-graph/id/voting-rights-act-of-1965> .
   <https://github.com/john1hsu/usa-graph/id/voting-rights-in-the-united-states> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/usa-graph/id/womens-suffrage-movement> .
   <https://github.com/john1hsu/usa-graph/id/voting-rights-in-the-united-states> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/fifteenth-amendment> .
+  <https://github.com/john1hsu/usa-graph/id/voting-rights-in-the-united-states> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/minor-v-happersett> .
   <https://github.com/john1hsu/usa-graph/id/voting-rights-in-the-united-states> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/nineteenth-amendment> .
   <https://github.com/john1hsu/usa-graph/id/voting-rights-in-the-united-states> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/shelby-county-v-holder> .
   <https://github.com/john1hsu/usa-graph/id/voting-rights-in-the-united-states> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/susan-b-anthony> .
@@ -39893,9 +40074,11 @@
   <https://github.com/john1hsu/usa-graph/id/womens-suffrage-movement> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/usa-graph/id/womens-rights-movement> .
   <https://github.com/john1hsu/usa-graph/id/womens-suffrage-movement> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/usa-graph/id/susan-b-anthony> .
   <https://github.com/john1hsu/usa-graph/id/womens-suffrage-movement> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/susan-b-anthony> .
+  <https://github.com/john1hsu/usa-graph/id/womens-suffrage-movement> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/minor-v-happersett> .
   <https://github.com/john1hsu/usa-graph/id/womens-suffrage-movement> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/nineteenth-amendment> .
   <https://github.com/john1hsu/usa-graph/id/womens-suffrage-movement> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/progressive-era> .
   <https://github.com/john1hsu/usa-graph/id/womens-suffrage-movement> <https://github.com/john1hsu/usa-graph/ontology#affectedBy> <https://github.com/john1hsu/usa-graph/id/fifteenth-amendment> .
+  <https://github.com/john1hsu/usa-graph/id/womens-suffrage-movement> <https://github.com/john1hsu/usa-graph/ontology#affectedBy> <https://github.com/john1hsu/usa-graph/id/minor-v-happersett> .
   <https://github.com/john1hsu/usa-graph/id/womens-suffrage-movement> <https://github.com/john1hsu/usa-graph/ontology#affectedBy> <https://github.com/john1hsu/usa-graph/id/wyoming> .
   <https://github.com/john1hsu/usa-graph/id/womens-suffrage-movement> <https://github.com/john1hsu/usa-graph/ontology#participant> <https://github.com/john1hsu/usa-graph/id/frederick-douglass> .
   <https://github.com/john1hsu/usa-graph/id/womens-suffrage-movement> <https://github.com/john1hsu/usa-graph/ontology#participant> <https://github.com/john1hsu/usa-graph/id/harriet-tubman> .

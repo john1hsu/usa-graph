@@ -972,6 +972,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1867-03-02 | The first Reconstruction Act becomes law over Johnson's veto, placing the former Confederate states except Tennessee under five military districts. — [Reconstruction era](../articles/civil-war-and-reconstruction/reconstruction-era.md) |
 | 1867-03-30 | Secretary of State William H. Seward and Russian minister Edouard de Stoeckl sign the treaty of cession. — [Alaska](../articles/states-and-territories/alaska.md) |
 | 1867-04-09 | The Senate approves the treaty 37–2. — [Alaska](../articles/states-and-territories/alaska.md) |
+| 1867-05-08 | Virginia Minor and four other St. Louis women found the Woman Suffrage Association of Missouri, with Minor as its first president. — [Minor v. Happersett](../articles/rights-and-law/minor-v-happersett.md) |
 | 1867-06-24 | Chinese workers of the Central Pacific Railroad stop work along a 30-mile stretch between Cisco and Truckee, California, demanding higher pay and shorter hours. — [Chinese Americans](../articles/society-and-people/chinese-americans.md) |
 | 1867-10-18 | Alaska, bought from Russia for $7.2 million, is formally transferred to the United States. — [United States](../articles/states-and-territories/united-states.md) |
 | 1867-10-18 | Russia formally transfers the territory to the United States. — [Alaska](../articles/states-and-territories/alaska.md) |
@@ -1008,6 +1009,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1869-05-12 | The American Equal Rights Association splits over the amendment's omission of women at its annual meeting. — [Fifteenth Amendment](../articles/democracy-and-elections/fifteenth-amendment.md) |
 | 1869-05-19 | The territorial government is formally inaugurated. — [Wyoming](../articles/states-and-territories/wyoming.md) |
 | 1869-05-24 | John Wesley Powell's expedition launches four boats at Green River, Wyoming; it leaves the Grand Canyon on August 28. — [Colorado River](../articles/geography-and-environment/colorado-river.md) |
+| 1869-10 | At a woman suffrage convention in St. Louis, Francis Minor's resolutions argue that the Fourteenth Amendment already protects women's right to vote. — [Minor v. Happersett](../articles/rights-and-law/minor-v-happersett.md) |
 | 1869-12-10 | Governor John Campbell signs the act granting the territory's women the right to vote and hold office. — [Wyoming](../articles/states-and-territories/wyoming.md) |
 | 1870 | **[Betsy Ross flag myth](../articles/symbols-and-national-identity/betsy-ross-flag-myth.md)** (Myth) |
 | 1870 – 1900 | **[Gilded Age](../articles/gilded-age-and-progressive-era/gilded-age.md)** (Era) |
@@ -1053,6 +1055,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1872-03-01 | President Ulysses S. Grant signs the Yellowstone National Park Protection Act. — [Yellowstone National Park](../articles/geography-and-environment/yellowstone-national-park.md) |
 | 1872-03-01 | The Yellowstone park bill becomes law, about ten weeks after its introduction. — [Hayden Geological Survey of 1871](../articles/geography-and-environment/hayden-geological-survey-of-1871.md) |
 | 1872-06 | The bureau is discontinued. — [Freedmen's Bureau](../articles/civil-war-and-reconstruction/freedmens-bureau.md) |
+| 1872-10-15 | Registrar Reese Happersett refuses to register Virginia Minor to vote because she is a woman. — [Minor v. Happersett](../articles/rights-and-law/minor-v-happersett.md) |
 | 1872-11-01 | Registers to vote in Rochester's Eighth Ward with her three sisters and other women, citing the Fourteenth Amendment. — [Susan B. Anthony](../articles/people-who-shaped-america/susan-b-anthony.md) |
 | 1872-11-05 | Votes in the presidential and congressional election. — [Susan B. Anthony](../articles/people-who-shaped-america/susan-b-anthony.md) |
 | 1872-11-18 | Arrested at her Rochester home for voting illegally under the Enforcement Act of 1870. — [Susan B. Anthony](../articles/people-who-shaped-america/susan-b-anthony.md) |
@@ -1062,9 +1065,11 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1873 | The Slaughter-House Cases recognize formerly enslaved African Americans as the clause's primary intended beneficiaries while noting its words reach everyone. — [Equal protection](../articles/rights-and-law/equal-protection.md) |
 | 1873 | The railroads' financial bubble bursts, beginning years of depression, layoffs and repeated wage cuts. — [Great Railroad Strike of 1877](../articles/economy-and-work/great-railroad-strike-of-1877.md) |
 | 1873 | White paramilitaries kill as many as 150 Black men at Colfax, Louisiana; in September the Panic of 1873 opens a long depression. — [Reconstruction era](../articles/civil-war-and-reconstruction/reconstruction-era.md) |
+| 1873-01-02 | The Minors file suit in the St. Louis Circuit Court, which rules against them after a hearing on February 3. — [Minor v. Happersett](../articles/rights-and-law/minor-v-happersett.md) |
 | 1873-01-21 | A federal judge in Albany refuses to discharge her on a writ of habeas corpus. — [Susan B. Anthony](../articles/people-who-shaped-america/susan-b-anthony.md) |
 | 1873-01-24 | A federal grand jury indicts her. — [Susan B. Anthony](../articles/people-who-shaped-america/susan-b-anthony.md) |
 | 1873-05 | A stock market crash in Vienna, Austria, the first of two that year, leads European investors to start selling American securities, especially railroad bonds. — [Panic of 1873](../articles/economy-and-work/panic-of-1873.md) |
+| 1873-05-07 | The Missouri Supreme Court hears the appeal in the Old Courthouse and affirms the judgment. — [Minor v. Happersett](../articles/rights-and-law/minor-v-happersett.md) |
 | 1873-06-18 | Justice Ward Hunt directs a guilty verdict in Canandaigua and fines her $100, which she refuses to pay. — [Susan B. Anthony](../articles/people-who-shaped-america/susan-b-anthony.md) |
 | 1873-09-18 – 1879 | **[Panic of 1873](../articles/economy-and-work/panic-of-1873.md)** (Event) |
 | 1873-09-18 | Jay Cooke and Company, heavily invested in the Northern Pacific Railway, suspends payments and goes bankrupt. — [Panic of 1873](../articles/economy-and-work/panic-of-1873.md) |
@@ -1082,7 +1087,9 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1875 | The mounds of St. Louis, once called "Mound City," are almost entirely destroyed; only Sugarloaf Mound survives. — [Cahokia](../articles/native-nations/cahokia.md) |
 | 1875-01 | The Specie Resumption Act commits the Treasury to retire greenbacks and return to gold-backed currency within four years. — [Panic of 1873](../articles/economy-and-work/panic-of-1873.md) |
 | 1875-01-30 | The United States and the Kingdom of Hawaiʻi sign a Treaty of Reciprocity. — [Hawaii](../articles/states-and-territories/hawaii.md) |
+| 1875-03-29 | **[Minor v. Happersett](../articles/rights-and-law/minor-v-happersett.md)** (CourtCase) |
 | 1875-03-29 | Minor v. Happersett holds that citizenship does not carry a right to vote. — [Fourteenth Amendment](../articles/rights-and-law/fourteenth-amendment.md) |
+| 1875-03-29 | The U.S. Supreme Court unanimously affirms, in an opinion by Chief Justice Morrison Waite. — [Minor v. Happersett](../articles/rights-and-law/minor-v-happersett.md) |
 | 1876 | Alexander Graham Bell patents the telephone; Western Union declines to buy the patent. — [Electric telegraph](../articles/science-and-innovation/telegraph.md) |
 | 1876 | United States v. Reese and United States v. Cruikshank narrow federal enforcement. — [Fifteenth Amendment](../articles/democracy-and-elections/fifteenth-amendment.md) |
 | 1876-05-10 | The Centennial Exhibition, the first major U.S. world's fair, opens in Fairmount Park. — [Philadelphia](../articles/regions-cities-and-landmarks/philadelphia.md) |
@@ -1104,6 +1111,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1877-07-31 | By the end of July the strikes have largely been put down along the trunk lines. — [Great Railroad Strike of 1877](../articles/economy-and-work/great-railroad-strike-of-1877.md) |
 | 1877-08-23 | About 800 Nez Perce (Nimiipuu) people fleeing the U.S. Army enter the park and cross it in 13 days. — [Yellowstone National Park](../articles/geography-and-environment/yellowstone-national-park.md) |
 | 1878 | J. Franklin Reigart's book embellishes the tale, crediting Ross with originating the first flag. — [Betsy Ross flag myth](../articles/symbols-and-national-identity/betsy-ross-flag-myth.md) |
+| 1878 | Senator Aaron Sargent of California introduces a woman suffrage amendment in Congress. — [Minor v. Happersett](../articles/rights-and-law/minor-v-happersett.md) |
 | 1878-01-10 | Senator Aaron Sargent introduces the woman suffrage amendment that suffragists later call the Anthony Amendment. — [Susan B. Anthony](../articles/people-who-shaped-america/susan-b-anthony.md) |
 | 1878-01-10 | Senator Aaron Sargent of California introduces the woman suffrage amendment as S.Res. 12. — [Nineteenth Amendment](../articles/democracy-and-elections/nineteenth-amendment.md) |
 | 1878-01-10 | Senator Aaron Sargent of California introduces the woman suffrage amendment in the Senate. — [Women's suffrage movement](../articles/gilded-age-and-progressive-era/womens-suffrage-movement.md) |
@@ -1166,6 +1174,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1889 | Appointed to the U.S. Civil Service Commission by President Benjamin Harrison. — [Theodore Roosevelt](../articles/presidents-and-founders/theodore-roosevelt.md) |
 | 1889 | Jane Addams and Ellen Gates Starr open Hull House, a settlement house in Chicago. — [Progressive Era](../articles/gilded-age-and-progressive-era/progressive-era.md) |
 | 1889 | The U.S. Navy adopts the song for flag ceremonies. — [The Star-Spangled Banner](../articles/symbols-and-national-identity/star-spangled-banner.md) |
+| 1889 | Virginia Minor appears before the U.S. Senate committee on woman suffrage. — [Minor v. Happersett](../articles/rights-and-law/minor-v-happersett.md) |
 | 1889-05-13 | In Chae Chan Ping v. United States the Supreme Court upholds the Scott Act under Congress's plenary power over immigration. — [Chinese Exclusion Act](../articles/gilded-age-and-progressive-era/chinese-exclusion-act.md) |
 | 1889-11-05 | Voters ratify the state constitution, which keeps equal suffrage for women. — [Wyoming](../articles/states-and-territories/wyoming.md) |
 | 1890 – 1920 | **[Progressive Era](../articles/gilded-age-and-progressive-era/progressive-era.md)** (Era) |
@@ -1463,10 +1472,12 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1919-06-04 | The Senate passes the amendment 56 to 25, sending it to the states. — [Women's suffrage movement](../articles/gilded-age-and-progressive-era/womens-suffrage-movement.md) |
 | 1919-06-10 | Wisconsin becomes the first state to ratify. — [Women's suffrage movement](../articles/gilded-age-and-progressive-era/womens-suffrage-movement.md) |
 | 1919-06-10 | Wisconsin, Illinois and Michigan ratify; Wisconsin is counted as the first state. — [Nineteenth Amendment](../articles/democracy-and-elections/nineteenth-amendment.md) |
+| 1919-07-03 | Missouri ratifies the Nineteenth Amendment, the eleventh state to do so. — [Minor v. Happersett](../articles/rights-and-law/minor-v-happersett.md) |
 | 1920 | During the 1920s about 810,000 Black southerners leave the region, including 260,000 Georgians. — [Great Migration](../articles/gilded-age-and-progressive-era/great-migration.md) |
 | 1920 | Mamie Smith records "Crazy Blues," the first commercial vaudeville blues record by a Black vocalist. — [Blues](../articles/culture-and-arts/blues.md) |
 | 1920 | The census shows a shift to cities; Congress fails to reapportion for the only time. — [Census and apportionment](../articles/democracy-and-elections/census-and-apportionment.md) |
 | 1920-01-27 | Wyoming ratifies the Nineteenth Amendment. — [Wyoming](../articles/states-and-territories/wyoming.md) |
+| 1920-08 | Ratification by 36 states makes the Nineteenth Amendment part of the Constitution. — [Minor v. Happersett](../articles/rights-and-law/minor-v-happersett.md) |
 | 1920-08-18 | **[Nineteenth Amendment](../articles/democracy-and-elections/nineteenth-amendment.md)** (Law) |
 | 1920-08-18 | Tennessee becomes the 36th state to ratify the Nineteenth Amendment, the same year national Prohibition under the Eighteenth Amendment takes effect. — [Progressive Era](../articles/gilded-age-and-progressive-era/progressive-era.md) |
 | 1920-08-18 | Tennessee becomes the thirty-sixth state to ratify, completing ratification. — [Women's suffrage movement](../articles/gilded-age-and-progressive-era/womens-suffrage-movement.md) |

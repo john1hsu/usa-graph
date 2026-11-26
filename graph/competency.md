@@ -57,7 +57,7 @@ _Which nodes led to, established or affected the most other things in the graph?
 | `us:attack-on-pearl-harbor` | 3 | Japanese American incarceration during World War II, day-of-infamy-speech, pearl-harbor-investigations |
 | `us:census-and-apportionment` | 3 | Native Americans, United States House of Representatives, redistricting-in-the-united-states |
 
-…and 109 more.
+…and 110 more.
 
 ## Happenings by era
 

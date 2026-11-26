@@ -2314,6 +2314,21 @@ Every review question (with its answer) and every myth-versus-fact in the graph,
 - **Q:** What did James Madison object to in the decision, even though he had signed the Second Bank's charter in 1816?
   **A:** He objected to the Court's broad rule of construction, warning that letting Congress treat almost anything as a means to an enumerated end could erase the limits set by enumerating its powers, and that few ratifiers would have accepted so pliant a rule.
 
+### [Minor v. Happersett](../articles/rights-and-law/minor-v-happersett.md) — CourtCase
+
+| Myth | Fact |
+|---|---|
+| In Minor v. Happersett the Supreme Court ruled that women were not citizens. | The Court agreed without dissent that women were citizens and that Virginia Minor was a native-born citizen; it held instead that the Constitution did not make voting a privilege of citizenship, so states could keep women from the polls. |
+
+**Why it matters:** Separating citizenship from the vote is the core of the decision, and it explains why women, though citizens, needed the Nineteenth Amendment to win a constitutional guarantee of suffrage.
+
+- **Q:** Why did Virginia Minor argue that she already had the right to vote under the Constitution?
+  **A:** She and her husband Francis Minor argued that she was a citizen and that the Fourteenth Amendment barred states from abridging the privileges or immunities of citizens, which they said included voting, so Missouri's male-only voting rule was void.
+- **Q:** How did the Court reason that citizenship did not include the right to vote?
+  **A:** Chief Justice Waite found that when the Constitution was adopted no state let all citizens vote, that the Fourteenth Amendment's second section spoke of male voters, that the Fifteenth Amendment would have been needless if citizenship already carried the vote, and that suffrage was left to the states.
+- **Q:** How did the decision change the strategy of the woman suffrage movement?
+  **A:** By closing the courts as a route to the ballot, it led suffragists to campaign state by state and to seek a federal constitutional amendment, which Senator Aaron Sargent proposed in 1878 and which was ratified as the Nineteenth Amendment in 1920.
+
 ## science-and-innovation
 
 ### [Apollo 11](../articles/science-and-innovation/apollo-11.md) — Event

@@ -20245,6 +20245,175 @@
   ]
  },
  {
+  "id": "us:minor-v-happersett",
+  "title": "Minor v. Happersett",
+  "aliases": [
+   "88 U.S. 162 (1875)",
+   "Minor v. Happersett, 21 Wall. 162",
+   "Virginia Minor case"
+  ],
+  "type": "CourtCase",
+  "domain": "rights-and-law",
+  "level": "introductory",
+  "evidenceStatus": "legal-text",
+  "file": "articles/rights-and-law/minor-v-happersett.md",
+  "created": "2026-11-26",
+  "summary": "The unanimous 1875 Supreme Court decision holding that women were citizens of the United States but that citizenship under the Fourteenth Amendment did not carry a right to vote, so Missouri could limit voting to men; the ruling pushed the woman suffrage movement toward state campaigns and a federal constitutional amendment.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "us:voting-rights-in-the-united-states"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:womens-suffrage-movement"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:susan-b-anthony"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:united-states-v-anthony"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:virginia-minor"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:francis-minor"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:fifteenth-amendment"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:nineteenth-amendment"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:aaron-sargent"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:missouri"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:supreme-court-of-the-united-states"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:right-to-vote"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:dred-scott-v-sandford"
+   },
+   {
+    "predicate": "uso:requires",
+    "object": "us:fourteenth-amendment"
+   },
+   {
+    "predicate": "uso:interprets",
+    "object": "us:fourteenth-amendment",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:authoredBy",
+    "object": "us:morrison-waite",
+    "source": "s6",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:affected",
+    "object": "us:womens-suffrage-movement",
+    "source": "s3",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:ledTo",
+    "object": "us:nineteenth-amendment",
+    "source": "s3",
+    "confidence": "medium"
+   }
+  ],
+  "start": "1875-03-29",
+  "end": null,
+  "review": [
+   {
+    "question": "Why did Virginia Minor argue that she already had the right to vote under the Constitution?",
+    "answer": "She and her husband Francis Minor argued that she was a citizen and that the Fourteenth Amendment barred states from abridging the privileges or immunities of citizens, which they said included voting, so Missouri's male-only voting rule was void."
+   },
+   {
+    "question": "How did the Court reason that citizenship did not include the right to vote?",
+    "answer": "Chief Justice Waite found that when the Constitution was adopted no state let all citizens vote, that the Fourteenth Amendment's second section spoke of male voters, that the Fifteenth Amendment would have been needless if citizenship already carried the vote, and that suffrage was left to the states."
+   },
+   {
+    "question": "How did the decision change the strategy of the woman suffrage movement?",
+    "answer": "By closing the courts as a route to the ballot, it led suffragists to campaign state by state and to seek a federal constitutional amendment, which Senator Aaron Sargent proposed in 1878 and which was ratified as the Nineteenth Amendment in 1920."
+   }
+  ],
+  "timeline": [
+   {
+    "date": "1867-05-08",
+    "event": "Virginia Minor and four other St. Louis women found the Woman Suffrage Association of Missouri, with Minor as its first president."
+   },
+   {
+    "date": "1869-10",
+    "event": "At a woman suffrage convention in St. Louis, Francis Minor's resolutions argue that the Fourteenth Amendment already protects women's right to vote."
+   },
+   {
+    "date": "1872-10-15",
+    "event": "Registrar Reese Happersett refuses to register Virginia Minor to vote because she is a woman."
+   },
+   {
+    "date": "1873-01-02",
+    "event": "The Minors file suit in the St. Louis Circuit Court, which rules against them after a hearing on February 3."
+   },
+   {
+    "date": "1873-05-07",
+    "event": "The Missouri Supreme Court hears the appeal in the Old Courthouse and affirms the judgment."
+   },
+   {
+    "date": "1875-03-29",
+    "event": "The U.S. Supreme Court unanimously affirms, in an opinion by Chief Justice Morrison Waite."
+   },
+   {
+    "date": "1878",
+    "event": "Senator Aaron Sargent of California introduces a woman suffrage amendment in Congress."
+   },
+   {
+    "date": "1889",
+    "event": "Virginia Minor appears before the U.S. Senate committee on woman suffrage."
+   },
+   {
+    "date": "1919-07-03",
+    "event": "Missouri ratifies the Nineteenth Amendment, the eleventh state to do so."
+   },
+   {
+    "date": "1920-08",
+    "event": "Ratification by 36 states makes the Nineteenth Amendment part of the Constitution."
+   }
+  ],
+  "misconception": {
+   "myth": "In Minor v. Happersett the Supreme Court ruled that women were not citizens.",
+   "fact": "The Court agreed without dissent that women were citizens and that Virginia Minor was a native-born citizen; it held instead that the Constitution did not make voting a privilege of citizenship, so states could keep women from the polls.",
+   "why": "Separating citizenship from the vote is the core of the decision, and it explains why women, though citizens, needed the Nineteenth Amendment to win a constitutional guarantee of suffrage."
+  },
+  "source_urls": [
+   "https://www.law.cornell.edu/supremecourt/text/88/162",
+   "https://www.nps.gov/jeff/learn/historyculture/the-virginia-minor-case.htm",
+   "https://home.nps.gov/articles/missouri-and-the-19th-amendment.htm",
+   "https://www.law.cornell.edu/constitution-conan/amendment-19/federal-and-state-campaigns-for-womens-voting-rights",
+   "https://historicmissourians.shsmo.org/?p=7844",
+   "https://constitutioncenter.org/blog/on-this-day-supreme-court-refuses-women-right-to-vote"
+  ]
+ },
+ {
   "id": "us:mississippi-river",
   "title": "Mississippi River",
   "aliases": [
