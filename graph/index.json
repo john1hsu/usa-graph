@@ -26787,6 +26787,212 @@
   ]
  },
  {
+  "id": "us:social-security-act",
+  "title": "Social Security Act",
+  "aliases": [
+   "Social Security Act of 1935",
+   "H.R. 7260 (1935)",
+   "Economic Security Bill"
+  ],
+  "type": "Law",
+  "domain": "depression-and-world-war",
+  "level": "introductory",
+  "evidenceStatus": "interpretive",
+  "file": "articles/depression-and-world-war/social-security-act.md",
+  "created": "2026-11-27",
+  "summary": "The New Deal law signed by President Franklin D. Roosevelt on August 14, 1935, that created a federal old-age insurance system funded by payroll taxes, a federal–state unemployment insurance system, and grants to the states for aid to needy older people, dependent children and blind people; it initially left out about half of all jobs, including farm and domestic work, and has been greatly expanded since.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "us:new-deal"
+   },
+   {
+    "predicate": "skos:broader",
+    "object": "us:social-welfare-in-the-united-states"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:great-depression"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:frances-perkins"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:huey-long"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:naacp"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:eugene-talmadge"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:medicaid"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:supplemental-security-income"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:fair-labor-standards-act"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:national-labor-relations-act"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:servicemens-readjustment-act-of-1944"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:roosevelt-social-security-promises-myth"
+   },
+   {
+    "predicate": "uso:requires",
+    "object": "us:great-depression"
+   },
+   {
+    "predicate": "uso:enactedBy",
+    "object": "us:united-states-congress",
+    "source": "s2",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:signedBy",
+    "object": "us:franklin-d-roosevelt",
+    "source": "s2",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:introducedBy",
+    "object": "us:robert-f-wagner",
+    "source": "s2",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:partOf",
+    "object": "us:new-deal",
+    "source": "s8",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:influencedBy",
+    "object": "us:townsend-plan",
+    "source": "s9",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "uso:affected",
+    "object": "us:african-americans",
+    "source": "s4",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:ledTo",
+    "object": "us:medicare",
+    "source": "s5",
+    "confidence": "medium"
+   }
+  ],
+  "start": "1935-08-14",
+  "end": null,
+  "review": [
+   {
+    "question": "Why did the Social Security Act leave out about half of American jobs, and why does it matter who was excluded?",
+    "answer": "It excluded farm labor, domestic service in private homes, government jobs and nonprofit work; because about 65 percent of Black workers in 1930 held farm or domestic jobs, against about 27 percent of white workers, the exclusion fell hardest on African Americans, even though most excluded workers were white."
+   },
+   {
+    "question": "How do historians disagree about the reason for the farm and domestic exclusion?",
+    "answer": "Scholars such as Robert Lieberman and Linda Gordon see it as a racially motivated concession to Southern Democrats; SSA historian Larry DeWitt argues it came from the Treasury's view that collecting payroll taxes from such workers was not feasible; Richard Rodems and H. Luke Shaefer argue the drafters copied foreign insurance models that left these groups out."
+   },
+   {
+    "question": "How did the act divide responsibility between the federal government and the states?",
+    "answer": "Old-age insurance was run directly by the federal government and paid for by payroll taxes, while unemployment insurance and aid to older people, dependent children and blind people ran through state programs supported by federal grants, so states such as Georgia could delay or shape their benefits."
+   }
+  ],
+  "timeline": [
+   {
+    "date": "1934-06-29",
+    "event": "Executive Order 6757 creates the Committee on Economic Security, chaired by Labor Secretary Frances Perkins, with Edwin Witte as executive director."
+   },
+   {
+    "date": "1935-01-17",
+    "event": "The committee's report goes to Congress, and Senator Robert Wagner and Representatives Robert Doughton and David Lewis introduce the economic security bill."
+   },
+   {
+    "date": "1935-03-01",
+    "event": "The House Ways and Means Committee renames the bill the Social Security Act."
+   },
+   {
+    "date": "1935-04-19",
+    "event": "The House passes the bill, 372 to 33."
+   },
+   {
+    "date": "1935-06-19",
+    "event": "The Senate passes the bill, 77 to 6."
+   },
+   {
+    "date": "1935-08-14",
+    "event": "After both chambers accept the conference report by voice vote, Roosevelt signs the act in the White House Cabinet Room."
+   },
+   {
+    "date": "1937",
+    "event": "Payroll taxes of 1 percent each on workers and employers begin, on the first $3,000 of yearly wages; the tax survives two Supreme Court challenges that year."
+   },
+   {
+    "date": "1939",
+    "event": "Amendments add benefits for wives, widows and children, create the trust fund, and move the first monthly benefits up to 1940."
+   },
+   {
+    "date": "1940-01",
+    "event": "Ida May Fuller of Ludlow, Vermont, receives the first monthly retirement check."
+   },
+   {
+    "date": "1950",
+    "event": "Amendments bring about 9 million more workers into coverage, including regularly employed farm and domestic workers and most self-employed people."
+   },
+   {
+    "date": "1957",
+    "event": "Disabled workers first receive Social Security benefits."
+   },
+   {
+    "date": "1965",
+    "event": "Medicare is created through the Social Security system."
+   },
+   {
+    "date": "1972",
+    "event": "Congress creates Supplemental Security Income and replaces ad hoc benefit increases with automatic cost-of-living adjustments."
+   },
+   {
+    "date": "1983",
+    "event": "Amendments based on the Greenspan Commission's work tax part of benefits, speed up payroll tax increases and phase in a higher retirement age."
+   }
+  ],
+  "misconception": {
+   "myth": "Roosevelt promised that Social Security would be voluntary, cost only 1 percent of the first $1,400 of wages, be tax-deductible, sit in an independent trust fund, and never be taxed.",
+   "fact": "The 1935 act made the payroll tax mandatory for covered jobs, set it at 1 percent each for workers and employers on the first $3,000 with scheduled increases, and expressly barred deducting the employee tax; the trust fund was created in 1939, and early benefits were untaxed only because of Treasury rulings, which Congress overrode in 1983.",
+   "why": "A widely forwarded list of \"broken promises\" turns later changes into betrayals of pledges the law never contained, so reading the 1935 text matters for any honest debate about the program."
+  },
+  "source_urls": [
+   "https://www.archives.gov/milestone-documents/social-security-act",
+   "https://ssa.gov/history/tally.html",
+   "https://www.ssa.gov/history/fdrsignstate.html",
+   "https://www.ssa.gov/policy/docs/ssb/v70n4/v70n4p49.html",
+   "https://www.ssa.gov/policy/docs/ssb/v66n1/v66n1p1.html",
+   "https://www.cambridge.org/core/product/BB47A78FB42748203E43CBDF1AABE8F2",
+   "https://www.ssa.gov/history/InternetMyths.html",
+   "https://www.georgiaencyclopedia.org/articles/history-archaeology/social-security-act/",
+   "https://socialwelfare.library.vcu.edu/programs/social-security-the-roosevelt-administration/"
+  ]
+ },
+ {
   "id": "us:sojourner-truth",
   "title": "Sojourner Truth",
   "aliases": [

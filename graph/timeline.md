@@ -1601,6 +1601,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1934-05-11 | A great dust storm carries Plains soil over Washington, D.C., and out over the Atlantic. — [Dust Bowl](../articles/depression-and-world-war/dust-bowl.md) |
 | 1934-06 | Resigns from the NAACP after disputes with its leadership. — [W. E. B. Du Bois](../articles/people-who-shaped-america/w-e-b-du-bois.md) |
 | 1934-06-06 | Roosevelt signs the Securities Exchange Act of 1934. — [Stock market crash of 1929](../articles/economy-and-work/stock-market-crash-of-1929.md) |
+| 1934-06-29 | Executive Order 6757 creates the Committee on Economic Security, chaired by Labor Secretary Frances Perkins, with Edwin Witte as executive director. — [Social Security Act](../articles/depression-and-world-war/social-security-act.md) |
 | 1935 | A homemade ball found in a Fly Creek farmhouse is bought and promoted as the Doubleday Baseball. — [Abner Doubleday baseball myth](../articles/culture-and-arts/abner-doubleday-baseball-myth.md) |
 | 1935 | Congress passes the Social Security Act, the Wagner Act and the relief appropriation that funds the Works Progress Administration. — [Great Depression](../articles/depression-and-world-war/great-depression.md) |
 | 1935 | Franklin D. Roosevelt approves a one-dollar bill design showing both sides of the Great Seal, putting the motto on the back of the note. — [E pluribus unum](../articles/symbols-and-national-identity/e-pluribus-unum.md) |
@@ -1609,14 +1610,20 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1935 | Publishes Black Reconstruction in America. — [W. E. B. Du Bois](../articles/people-who-shaped-america/w-e-b-du-bois.md) |
 | 1935 | The Court moves into its own building in its 146th year. — [Supreme Court of the United States](../articles/constitution-and-government/supreme-court-of-the-united-states.md) |
 | 1935 | The migration to California begins in earnest; that summer economist Paul Taylor reports on white migrant families in the farm districts. — [Okies](../articles/society-and-people/okies.md) |
+| 1935-01-17 | The committee's report goes to Congress, and Senator Robert Wagner and Representatives Robert Doughton and David Lewis introduce the economic security bill. — [Social Security Act](../articles/depression-and-world-war/social-security-act.md) |
 | 1935-02-01 | The dam begins impounding water in Lake Mead. — [Hoover Dam](../articles/regions-cities-and-landmarks/hoover-dam.md) |
+| 1935-03-01 | The House Ways and Means Committee renames the bill the Social Security Act. — [Social Security Act](../articles/depression-and-world-war/social-security-act.md) |
 | 1935-03-21 | A second March dust cloud darkens Washington as Congress holds hearings on soil conservation. — [Dust Bowl](../articles/depression-and-world-war/dust-bowl.md) |
 | 1935-04-14 | Black Sunday: a dust front sweeps from central Nebraska toward the Mexican border; a reporter's account names the Dust Bowl. — [Dust Bowl](../articles/depression-and-world-war/dust-bowl.md) |
+| 1935-04-19 | The House passes the bill, 372 to 33. — [Social Security Act](../articles/depression-and-world-war/social-security-act.md) |
 | 1935-04-27 | Roosevelt signs the Soil Conservation Act, creating the permanent Soil Conservation Service in the Agriculture Department. — [Dust Bowl](../articles/depression-and-world-war/dust-bowl.md) |
 | 1935-05 | In the Schechter case the Supreme Court strikes down the National Industrial Recovery Act. — [New Deal](../articles/depression-and-world-war/new-deal.md) |
 | 1935-05-29 | The last concrete is placed. — [Hoover Dam](../articles/regions-cities-and-landmarks/hoover-dam.md) |
 | 1935-06 | Roosevelt sends Congress a list of must-pass bills, opening the Second New Deal; that summer Congress passes the Wagner Act and the Social Security Act. — [New Deal](../articles/depression-and-world-war/new-deal.md) |
+| 1935-06-19 | The Senate passes the bill, 77 to 6. — [Social Security Act](../articles/depression-and-world-war/social-security-act.md) |
 | 1935-07-05 | President Franklin D. Roosevelt signs the National Labor Relations (Wagner) Act. — [Labor movement](../articles/economy-and-work/labor-movement.md) |
+| 1935-08-14 | **[Social Security Act](../articles/depression-and-world-war/social-security-act.md)** (Law) |
+| 1935-08-14 | After both chambers accept the conference report by voice vote, Roosevelt signs the act in the White House Cabinet Room. — [Social Security Act](../articles/depression-and-world-war/social-security-act.md) |
 | 1935-08-14 | Signs the Social Security Act. — [Franklin D. Roosevelt](../articles/presidents-and-founders/franklin-d-roosevelt.md) |
 | 1935-09-30 | President Franklin D. Roosevelt dedicates the dam, then called Boulder Dam; Hansen's star map later records the sky at this moment. — [Winged Figures of the Republic](../articles/culture-and-arts/winged-figures-of-the-republic.md) |
 | 1935-09-30 | President Franklin D. Roosevelt dedicates the dam. — [Hoover Dam](../articles/regions-cities-and-landmarks/hoover-dam.md) |
@@ -1633,6 +1640,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1937 | In Breedlove v. Suttles the Court holds that a Georgia poll tax charged to men but not to non-registering women does not violate the amendment. — [Nineteenth Amendment](../articles/democracy-and-elections/nineteenth-amendment.md) |
 | 1937 | In February Roosevelt asks Congress to add up to six justices to the Supreme Court; the plan fails, but the Court begins upholding New Deal laws. — [New Deal](../articles/depression-and-world-war/new-deal.md) |
 | 1937 | Migration peaks in 1937 and 1938; up to 37,000 migrants reach Arizona's cotton fields. — [Okies](../articles/society-and-people/okies.md) |
+| 1937 | Payroll taxes of 1 percent each on workers and employers begin, on the first $3,000 of yearly wages; the tax survives two Supreme Court challenges that year. — [Social Security Act](../articles/depression-and-world-war/social-security-act.md) |
 | 1937 | Spending cuts help bring on a sharp recession beginning in the fall; industrial production falls by a third. — [New Deal](../articles/depression-and-world-war/new-deal.md) |
 | 1937 | The Brownlow Committee reports that the president needs more staff help. — [Presidency of the United States](../articles/constitution-and-government/presidency-of-the-united-states.md) |
 | 1937 | West Coast Hotel Co. v. Parrish repudiates the Lochner approach to economic regulation. — [Due process](../articles/rights-and-law/due-process.md) |
@@ -1655,6 +1663,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1938-06-25 | Roosevelt signs the Fair Labor Standards Act. — [Minimum wage](../articles/economy-and-work/minimum-wage.md) |
 | 1938-08-15 | Hansen is photographed at the figures with Carl J. Hambro, president of the Norwegian Parliament. — [Winged Figures of the Republic](../articles/culture-and-arts/winged-figures-of-the-republic.md) |
 | 1938-10-24 | The first federal minimum wage, 25 cents an hour, takes effect. — [Minimum wage](../articles/economy-and-work/minimum-wage.md) |
+| 1939 | Amendments add benefits for wives, widows and children, create the trust fund, and move the first monthly benefits up to 1940. — [Social Security Act](../articles/depression-and-world-war/social-security-act.md) |
 | 1939 | Franklin D. Roosevelt creates the Executive Office of the President. — [Presidency of the United States](../articles/constitution-and-government/presidency-of-the-united-states.md) |
 | 1939 | Franklin D. Roosevelt moves Thanksgiving to the second-to-last Thursday of November; states split over which date to observe. — [Thanksgiving](../articles/culture-and-arts/thanksgiving.md) |
 | 1939 | John Steinbeck's The Grapes of Wrath and Carey McWilliams's Factories in the Field are published; county prosecutors charge more than two dozen people under the Indigent Act. — [Okies](../articles/society-and-people/okies.md) |
@@ -1670,6 +1679,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1940 | The Attorney General concludes that no American Indians remain 'not taxed' for census purposes. — [Census and apportionment](../articles/democracy-and-elections/census-and-apportionment.md) |
 | 1940 | The Second Great Migration begins as defense industries expand; about 1.45 million Black southerners leave in the 1940s, many for Los Angeles, Oakland, Portland and Seattle. — [Great Migration](../articles/gilded-age-and-progressive-era/great-migration.md) |
 | 1940 | With near-normal rain returning from 1938, the drought ends. — [Dust Bowl](../articles/depression-and-world-war/dust-bowl.md) |
+| 1940-01 | Ida May Fuller of Ludlow, Vermont, receives the first monthly retirement check. — [Social Security Act](../articles/depression-and-world-war/social-security-act.md) |
 | 1940-01-13 | The State Department tells Panama that a funding bill will again lack equal hiring for Panamanians, with an amending bill promised. — [Third Locks Project](../articles/foreign-relations-and-military/third-locks-project.md) |
 | 1940-06-03 | In Minersville School District v. Gobitis the Supreme Court, 8-1, upholds compulsory flag salutes. — [Pledge of Allegiance](../articles/symbols-and-national-identity/pledge-of-allegiance.md) |
 | 1940-07-01 | Excavation begins for a wider third set of locks near the existing ones. — [Gatun Locks](../articles/regions-cities-and-landmarks/gatun-locks.md) |
@@ -1810,6 +1820,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1949-08-24 | The treaty enters into force after the remaining instruments of ratification are deposited. — [North Atlantic Treaty Organization](../articles/foreign-relations-and-military/nato.md) |
 | 1949-08-29 | The Soviet Union tests its first atomic bomb, ending the U.S. nuclear monopoly. — [Cold War](../articles/cold-war-and-civil-rights/cold-war.md) |
 | 1950 | About 1.2 million Black southerners leave per decade through the 1950s and 1960s. — [Great Migration](../articles/gilded-age-and-progressive-era/great-migration.md) |
+| 1950 | Amendments bring about 9 million more workers into coverage, including regularly employed farm and domestic workers and most self-employed people. — [Social Security Act](../articles/depression-and-world-war/social-security-act.md) |
 | 1950 | Mullane v. Central Hanover Bank sets minimum requirements of notice, a hearing and an impartial tribunal. — [Due process](../articles/rights-and-law/due-process.md) |
 | 1950 | The census records the city's peak population, 3,620,962. — [Chicago](../articles/regions-cities-and-landmarks/chicago.md) |
 | 1950-02-09 | Senator Joseph McCarthy tells the Women's Republican Club of Wheeling, West Virginia, that he holds a list of 205 State Department Communists. — [McCarthyism](../articles/cold-war-and-civil-rights/mccarthyism.md) |
@@ -1887,6 +1898,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1956-12-17 | The Supreme Court rejects city and state requests to reconsider. — [Montgomery bus boycott](../articles/cold-war-and-civil-rights/montgomery-bus-boycott.md) |
 | 1956-12-20 | The Court's order reaches Montgomery and the MIA votes to end the boycott. — [Montgomery bus boycott](../articles/cold-war-and-civil-rights/montgomery-bus-boycott.md) |
 | 1956-12-21 | Montgomery's buses operate on an integrated basis. — [Montgomery bus boycott](../articles/cold-war-and-civil-rights/montgomery-bus-boycott.md) |
+| 1957 | Disabled workers first receive Social Security benefits. — [Social Security Act](../articles/depression-and-world-war/social-security-act.md) |
 | 1957 | Founds the Southern Christian Leadership Conference and becomes its president. — [Martin Luther King Jr.](../articles/people-who-shaped-america/martin-luther-king-jr.md) |
 | 1957 | The Soviet Union launches Sputnik 1, the first artificial satellite to orbit Earth. — [Apollo 11](../articles/science-and-innovation/apollo-11.md) |
 | 1957-01 | More than sixty ministers meet at Ebenezer Baptist Church in Atlanta and form the Southern Christian Leadership Conference. — [Civil rights movement](../articles/cold-war-and-civil-rights/civil-rights-movement.md) |
@@ -1980,6 +1992,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1964-09-08 | Prince Edward County's public schools reopen after the Supreme Court's Griffin decision. — [Brown v. Board of Education](../articles/cold-war-and-civil-rights/brown-v-board-of-education.md) |
 | 1964-10-20 | Dies in New York City at age 90; buried at West Branch, Iowa. — [Herbert Hoover](../articles/presidents-and-founders/herbert-hoover.md) |
 | 1964-12 | Receives the Nobel Peace Prize. — [Martin Luther King Jr.](../articles/people-who-shaped-america/martin-luther-king-jr.md) |
+| 1965 | Medicare is created through the Social Security system. — [Social Security Act](../articles/depression-and-world-war/social-security-act.md) |
 | 1965 | The Immigration and Nationality Act ends the national-origins quota system. — [Chinese Exclusion Act](../articles/gilded-age-and-progressive-era/chinese-exclusion-act.md) |
 | 1965 | The Immigration and Nationality Act makes family reunification the main basis for admission, opening the way for large-scale immigration from China, Hong Kong and Taiwan. — [Chinese Americans](../articles/society-and-people/chinese-americans.md) |
 | 1965 | The Kinzua Dam on the Allegheny River is completed, flooding about 10,000 acres of the Seneca Allegany Reservation and forcing about 700 people to move. — [Haudenosaunee](../articles/native-nations/haudenosaunee.md) |
@@ -2073,6 +2086,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1971-07-01 | Ratification by three-fourths of the states is completed. — [Twenty-sixth Amendment](../articles/democracy-and-elections/twenty-sixth-amendment.md) |
 | 1971-07-05 | GSA Administrator Robert Kunzig certifies the amendment at a White House ceremony attended by Nixon and three 18-year-old witnesses. — [Twenty-sixth Amendment](../articles/democracy-and-elections/twenty-sixth-amendment.md) |
 | 1971-12-18 | President Nixon signs the Alaska Native Claims Settlement Act. — [Alaska](../articles/states-and-territories/alaska.md) |
+| 1972 | Congress creates Supplemental Security Income and replaces ad hoc benefit increases with automatic cost-of-living adjustments. — [Social Security Act](../articles/depression-and-world-war/social-security-act.md) |
 | 1972 | The first Strategic Arms Limitation Talks produce the Anti-Ballistic Missile Treaty and an interim cap on ICBMs, a high point of détente. — [Cold War](../articles/cold-war-and-civil-rights/cold-war.md) |
 | 1972-09-10 | A memorial boulder and state marker are dedicated at Lattimer; Cesar Chavez speaks. — [Lattimer massacre](../articles/economy-and-work/lattimer-massacre.md) |
 | 1973 | A second Soviet reflector reaches the Moon aboard Lunokhod 2. — [Lunar Laser Ranging Experiment](../articles/science-and-innovation/lunar-laser-ranging-experiment.md) |
@@ -2115,6 +2129,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1982 | UNESCO inscribes Cahokia Mounds State Historic Site on the World Heritage List. — [Cahokia](../articles/native-nations/cahokia.md) |
 | 1982-01-19 | Secretarial Order 3071 establishes the Minerals Management Service, which later combines offshore leasing, safety oversight and royalty collection. — [Bureau of Ocean Energy Management](../articles/geography-and-environment/bureau-of-ocean-energy-management.md) |
 | 1982-11 | A severe recession that followed the Federal Reserve's anti-inflation policy ends; the Great Inflation era closes. — [Economic history of the United States](../articles/economy-and-work/economic-history-of-the-united-states.md) |
+| 1983 | Amendments based on the Greenspan Commission's work tax part of benefits, speed up payroll tax increases and phase in a higher retirement age. — [Social Security Act](../articles/depression-and-world-war/social-security-act.md) |
 | 1983 | The first Chesapeake Bay Agreement creates the Chesapeake Executive Council. — [Chesapeake Bay](../articles/geography-and-environment/chesapeake-bay.md) |
 | 1983 | The restored barracks open to the public as a museum in Angel Island State Park. — [Angel Island Immigration Station](../articles/society-and-people/angel-island-immigration-station.md) |
 | 1983 | The restored barracks open to the public as a museum in Angel Island State Park. — [Chinese detention-barracks poetry](../articles/culture-and-arts/chinese-detention-barracks-poetry.md) |

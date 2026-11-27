@@ -21484,6 +21484,166 @@
    }
   },
   {
+   "@id": "https://github.com/john1hsu/usa-graph/id/social-security-act/misconception",
+   "@type": "uso:Misconception",
+   "uso:fact": "The 1935 act made the payroll tax mandatory for covered jobs, set it at 1 percent each for workers and employers on the first $3,000 with scheduled increases, and expressly barred deducting the employee tax; the trust fund was created in 1939, and early benefits were untaxed only because of Treasury rulings, which Congress overrode in 1983.",
+   "uso:myth": "Roosevelt promised that Social Security would be voluntary, cost only 1 percent of the first $1,400 of wages, be tax-deductible, sit in an independent trust fund, and never be taxed.",
+   "uso:why": "A widely forwarded list of \"broken promises\" turns later changes into betrayals of pledges the law never contained, so reading the 1935 text matters for any honest debate about the program."
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/social-security-act/review/1",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "Why did the Social Security Act leave out about half of American jobs, and why does it matter who was excluded?",
+   "uso:answer": "It excluded farm labor, domestic service in private homes, government jobs and nonprofit work; because about 65 percent of Black workers in 1930 held farm or domestic jobs, against about 27 percent of white workers, the exclusion fell hardest on African Americans, even though most excluded workers were white.",
+   "uso:questionFor": {
+    "@id": "us:social-security-act"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/social-security-act/review/2",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "How do historians disagree about the reason for the farm and domestic exclusion?",
+   "uso:answer": "Scholars such as Robert Lieberman and Linda Gordon see it as a racially motivated concession to Southern Democrats; SSA historian Larry DeWitt argues it came from the Treasury's view that collecting payroll taxes from such workers was not feasible; Richard Rodems and H. Luke Shaefer argue the drafters copied foreign insurance models that left these groups out.",
+   "uso:questionFor": {
+    "@id": "us:social-security-act"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/social-security-act/review/3",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "How did the act divide responsibility between the federal government and the states?",
+   "uso:answer": "Old-age insurance was run directly by the federal government and paid for by payroll taxes, while unemployment insurance and aid to older people, dependent children and blind people ran through state programs supported by federal grants, so states such as Georgia could delay or shape their benefits.",
+   "uso:questionFor": {
+    "@id": "us:social-security-act"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/social-security-act/timeline/1",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Executive Order 6757 creates the Committee on Economic Security, chaired by Labor Secretary Frances Perkins, with Edwin Witte as executive director.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1934-06-29"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/social-security-act/timeline/10",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Amendments bring about 9 million more workers into coverage, including regularly employed farm and domestic workers and most self-employed people.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1950"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/social-security-act/timeline/11",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Disabled workers first receive Social Security benefits.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1957"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/social-security-act/timeline/12",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Medicare is created through the Social Security system.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1965"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/social-security-act/timeline/13",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Congress creates Supplemental Security Income and replaces ad hoc benefit increases with automatic cost-of-living adjustments.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1972"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/social-security-act/timeline/14",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Amendments based on the Greenspan Commission's work tax part of benefits, speed up payroll tax increases and phase in a higher retirement age.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1983"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/social-security-act/timeline/2",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The committee's report goes to Congress, and Senator Robert Wagner and Representatives Robert Doughton and David Lewis introduce the economic security bill.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1935-01-17"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/social-security-act/timeline/3",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The House Ways and Means Committee renames the bill the Social Security Act.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1935-03-01"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/social-security-act/timeline/4",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The House passes the bill, 372 to 33.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1935-04-19"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/social-security-act/timeline/5",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The Senate passes the bill, 77 to 6.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1935-06-19"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/social-security-act/timeline/6",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "After both chambers accept the conference report by voice vote, Roosevelt signs the act in the White House Cabinet Room.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1935-08-14"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/social-security-act/timeline/7",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Payroll taxes of 1 percent each on workers and employers begin, on the first $3,000 of yearly wages; the tax survives two Supreme Court challenges that year.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1937"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/social-security-act/timeline/8",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Amendments add benefits for wives, widows and children, create the trust fund, and move the first monthly benefits up to 1940.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1939"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/social-security-act/timeline/9",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Ida May Fuller of Ludlow, Vermont, receives the first monthly retirement check.",
+   "uso:date": {
+    "@type": "xsd:gYearMonth",
+    "@value": "1940-01"
+   }
+  },
+  {
    "@id": "https://github.com/john1hsu/usa-graph/id/sojourner-truth/misconception",
    "@type": "uso:Misconception",
    "uso:fact": "The refrain, the dialect and the thirteen children come from Frances Dana Gage's version published in 1863, twelve years later. Marius Robinson's account, printed within weeks of the convention, has no such refrain; Truth, raised in New York speaking Dutch, never lived in the South, and she had five children.",
@@ -40243,6 +40403,132 @@
     "@id": "https://www.nps.gov/subjects/undergroundrailroad/what-is-the-underground-railroad.htm"
    },
    "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/social-security-act/s1",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-27"
+   },
+   "dcterms:publisher": "National Archives (Milestone Documents)",
+   "dcterms:title": "Social Security Act (1935)",
+   "schema:url": {
+    "@id": "https://www.archives.gov/milestone-documents/social-security-act"
+   },
+   "uso:sourceType": "primary"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/social-security-act/s2",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-27"
+   },
+   "dcterms:publisher": "Social Security Administration, Historian's Office",
+   "dcterms:title": "1935 Congressional Debates on Social Security",
+   "schema:url": {
+    "@id": "https://ssa.gov/history/tally.html"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/social-security-act/s3",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-27"
+   },
+   "dcterms:publisher": "Social Security Administration, Historian's Office",
+   "dcterms:title": "Presidential Statement Signing the Social Security Act, August 14, 1935",
+   "schema:url": {
+    "@id": "https://www.ssa.gov/history/fdrsignstate.html"
+   },
+   "uso:sourceType": "primary"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/social-security-act/s4",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-27"
+   },
+   "dcterms:publisher": "Social Security Administration, Office of Retirement and Disability Policy",
+   "dcterms:title": "The Decision to Exclude Agricultural and Domestic Workers from the 1935 Social Security Act (Larry DeWitt, Social Security Bulletin 70, no. 4, 2010)",
+   "schema:url": {
+    "@id": "https://www.ssa.gov/policy/docs/ssb/v70n4/v70n4p49.html"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/social-security-act/s5",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-27"
+   },
+   "dcterms:publisher": "Social Security Administration, Office of Retirement and Disability Policy",
+   "dcterms:title": "Social Security: A Program and Policy History (Patricia P. Martin and David A. Weaver, Social Security Bulletin 66, no. 1, 2005)",
+   "schema:url": {
+    "@id": "https://www.ssa.gov/policy/docs/ssb/v66n1/v66n1p1.html"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/social-security-act/s6",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-27"
+   },
+   "dcterms:publisher": "Cambridge University Press",
+   "dcterms:title": "Left Out: Policy Diffusion and the Exclusion of Black Workers from Unemployment Insurance (Richard Rodems and H. Luke Shaefer, Social Science History 40, no. 3, 2016)",
+   "schema:url": {
+    "@id": "https://www.cambridge.org/core/product/BB47A78FB42748203E43CBDF1AABE8F2"
+   },
+   "uso:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/social-security-act/s7",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-27"
+   },
+   "dcterms:publisher": "Social Security Administration, Historian's Office",
+   "dcterms:title": "Debunking Some Internet Myths",
+   "schema:url": {
+    "@id": "https://www.ssa.gov/history/InternetMyths.html"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/social-security-act/s8",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-27"
+   },
+   "dcterms:publisher": "New Georgia Encyclopedia, Georgia Humanities and University of Georgia Press",
+   "dcterms:title": "Social Security Act (Chris Dobbs)",
+   "schema:url": {
+    "@id": "https://www.georgiaencyclopedia.org/articles/history-archaeology/social-security-act/"
+   },
+   "uso:sourceType": "scholarly-encyclopedia"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/social-security-act/s9",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-27"
+   },
+   "dcterms:publisher": "Social Welfare History Project, VCU Libraries",
+   "dcterms:title": "Social Security: The Roosevelt Administration (Abe Bortz, SSA Historian)",
+   "schema:url": {
+    "@id": "https://socialwelfare.library.vcu.edu/programs/social-security-the-roosevelt-administration/"
+   },
+   "uso:sourceType": "academic"
   },
   {
    "@id": "https://github.com/john1hsu/usa-graph/id/source/sojourner-truth/s1",
@@ -73271,6 +73557,176 @@
     },
     {
      "@id": "https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states/timeline/9"
+    }
+   ]
+  },
+  {
+   "@id": "us:social-security-act",
+   "@type": "uso:Law",
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-27"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/social-security-act/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/social-security-act/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/social-security-act/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/social-security-act/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/social-security-act/s5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/social-security-act/s6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/social-security-act/s7"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/social-security-act/s8"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/social-security-act/s9"
+    }
+   ],
+   "rdfs:label": "Social Security Act",
+   "schema:startDate": {
+    "@type": "xsd:date",
+    "@value": "1935-08-14"
+   },
+   "skos:altLabel": [
+    "Economic Security Bill",
+    "H.R. 7260 (1935)",
+    "Social Security Act of 1935"
+   ],
+   "skos:broader": [
+    {
+     "@id": "us:new-deal"
+    },
+    {
+     "@id": "us:social-welfare-in-the-united-states"
+    }
+   ],
+   "skos:definition": "The New Deal law signed by President Franklin D. Roosevelt on August 14, 1935, that created a federal old-age insurance system funded by payroll taxes, a federal–state unemployment insurance system, and grants to the states for aid to needy older people, dependent children and blind people; it initially left out about half of all jobs, including farm and domestic work, and has been greatly expanded since.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/usa-graph/id/scheme/depression-and-world-war"
+   },
+   "skos:prefLabel": "Social Security Act",
+   "skos:related": [
+    {
+     "@id": "us:eugene-talmadge"
+    },
+    {
+     "@id": "us:fair-labor-standards-act"
+    },
+    {
+     "@id": "us:frances-perkins"
+    },
+    {
+     "@id": "us:great-depression"
+    },
+    {
+     "@id": "us:huey-long"
+    },
+    {
+     "@id": "us:medicaid"
+    },
+    {
+     "@id": "us:naacp"
+    },
+    {
+     "@id": "us:national-labor-relations-act"
+    },
+    {
+     "@id": "us:roosevelt-social-security-promises-myth"
+    },
+    {
+     "@id": "us:servicemens-readjustment-act-of-1944"
+    },
+    {
+     "@id": "us:supplemental-security-income"
+    }
+   ],
+   "uso:affected": {
+    "@id": "us:african-americans"
+   },
+   "uso:domain": "depression-and-world-war",
+   "uso:enactedBy": {
+    "@id": "us:united-states-congress"
+   },
+   "uso:evidenceStatus": "interpretive",
+   "uso:file": "articles/depression-and-world-war/social-security-act.md",
+   "uso:influencedBy": {
+    "@id": "us:townsend-plan"
+   },
+   "uso:introducedBy": {
+    "@id": "us:robert-f-wagner"
+   },
+   "uso:ledTo": {
+    "@id": "us:medicare"
+   },
+   "uso:level": "introductory",
+   "uso:misconception": {
+    "@id": "https://github.com/john1hsu/usa-graph/id/social-security-act/misconception"
+   },
+   "uso:partOf": {
+    "@id": "us:new-deal"
+   },
+   "uso:requires": {
+    "@id": "us:great-depression"
+   },
+   "uso:signedBy": {
+    "@id": "us:franklin-d-roosevelt"
+   },
+   "uso:timelineEntry": [
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/social-security-act/timeline/1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/social-security-act/timeline/10"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/social-security-act/timeline/11"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/social-security-act/timeline/12"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/social-security-act/timeline/13"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/social-security-act/timeline/14"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/social-security-act/timeline/2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/social-security-act/timeline/3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/social-security-act/timeline/4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/social-security-act/timeline/5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/social-security-act/timeline/6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/social-security-act/timeline/7"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/social-security-act/timeline/8"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/social-security-act/timeline/9"
     }
    ]
   },

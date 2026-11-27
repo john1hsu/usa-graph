@@ -1063,6 +1063,21 @@ Every review question (with its answer) and every myth-versus-fact in the graph,
 - **Q:** Why do economists such as Price Fishback argue New Deal spending was too small to end the Depression on its own?
   **A:** Federal outlays by 1939 were only about 8 percent of 1929 GDP above their 1929 level, tax increases kept deficits small, and public works and relief raised incomes by roughly a dollar per dollar spent while adding little private employment.
 
+### [Social Security Act](../articles/depression-and-world-war/social-security-act.md) — Law
+
+| Myth | Fact |
+|---|---|
+| Roosevelt promised that Social Security would be voluntary, cost only 1 percent of the first $1,400 of wages, be tax-deductible, sit in an independent trust fund, and never be taxed. | The 1935 act made the payroll tax mandatory for covered jobs, set it at 1 percent each for workers and employers on the first $3,000 with scheduled increases, and expressly barred deducting the employee tax; the trust fund was created in 1939, and early benefits were untaxed only because of Treasury rulings, which Congress overrode in 1983. |
+
+**Why it matters:** A widely forwarded list of "broken promises" turns later changes into betrayals of pledges the law never contained, so reading the 1935 text matters for any honest debate about the program.
+
+- **Q:** Why did the Social Security Act leave out about half of American jobs, and why does it matter who was excluded?
+  **A:** It excluded farm labor, domestic service in private homes, government jobs and nonprofit work; because about 65 percent of Black workers in 1930 held farm or domestic jobs, against about 27 percent of white workers, the exclusion fell hardest on African Americans, even though most excluded workers were white.
+- **Q:** How do historians disagree about the reason for the farm and domestic exclusion?
+  **A:** Scholars such as Robert Lieberman and Linda Gordon see it as a racially motivated concession to Southern Democrats; SSA historian Larry DeWitt argues it came from the Treasury's view that collecting payroll taxes from such workers was not feasible; Richard Rodems and H. Luke Shaefer argue the drafters copied foreign insurance models that left these groups out.
+- **Q:** How did the act divide responsibility between the federal government and the states?
+  **A:** Old-age insurance was run directly by the federal government and paid for by payroll taxes, while unemployment insurance and aid to older people, dependent children and blind people ran through state programs supported by federal grants, so states such as Georgia could delay or shape their benefits.
+
 ### [World War II and the United States](../articles/depression-and-world-war/world-war-ii-and-the-united-states.md) — Conflict
 
 | Myth | Fact |

@@ -33,7 +33,7 @@ _Which nodes led to, established or affected the most other things in the graph?
 | `us:california-gold-rush` | 5 | Chinese Exclusion Act, Native Americans, act-for-the-government-and-protection-of-indians, compromise-of-1850, foreign-miners-tax-of-1850 |
 | `us:cold-war` | 5 | Civil rights movement, McCarthyism, North Atlantic Treaty Organization, national-security-act-of-1947, space-race |
 | `us:great-depression` | 5 | African Americans, New Deal, agriculture-in-the-united-states, bonus-army, reconstruction-finance-corporation |
-| `us:new-deal` | 5 | African Americans, agriculture-in-the-united-states, fair-labor-standards-act, indian-reorganization-act, social-security-act |
+| `us:new-deal` | 5 | African Americans, Social Security Act, agriculture-in-the-united-states, fair-labor-standards-act, indian-reorganization-act |
 | `us:second-continental-congress` | 5 | Articles of Confederation, Declaration of Independence, Haudenosaunee, continental-army, treaty-of-alliance-1778 |
 | `us:1964-alaska-earthquake` | 4 | California, federal-reconstruction-and-development-planning-commission-for-alaska, national-tsunami-warning-center, oregon |
 | `us:abolitionism` | 4 | Thirteenth Amendment, Women's suffrage movement, liberty-party, republican-party |
@@ -57,7 +57,7 @@ _Which nodes led to, established or affected the most other things in the graph?
 | `us:attack-on-pearl-harbor` | 3 | Japanese American incarceration during World War II, day-of-infamy-speech, pearl-harbor-investigations |
 | `us:census-and-apportionment` | 3 | Native Americans, United States House of Representatives, redistricting-in-the-united-states |
 
-…and 110 more.
+…and 111 more.
 
 ## Happenings by era
 
@@ -124,7 +124,7 @@ _Which nodes are myths, contested or open to competing interpretations, and what
 | `us:george-washington` | interpretive |  |
 | `us:gilded-age` | interpretive |  |
 
-…and 58 more.
+…and 59 more.
 
 ## Places with nothing tied to them (gap)
 

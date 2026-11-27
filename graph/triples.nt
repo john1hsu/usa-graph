@@ -15824,6 +15824,123 @@
 <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states/timeline/7> .
 <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states/timeline/8> .
 <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states/timeline/9> .
+<https://github.com/john1hsu/usa-graph/id/social-security-act/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Misconception> .
+<https://github.com/john1hsu/usa-graph/id/social-security-act/misconception> <https://github.com/john1hsu/usa-graph/ontology#fact> "The 1935 act made the payroll tax mandatory for covered jobs, set it at 1 percent each for workers and employers on the first $3,000 with scheduled increases, and expressly barred deducting the employee tax; the trust fund was created in 1939, and early benefits were untaxed only because of Treasury rulings, which Congress overrode in 1983." .
+<https://github.com/john1hsu/usa-graph/id/social-security-act/misconception> <https://github.com/john1hsu/usa-graph/ontology#myth> "Roosevelt promised that Social Security would be voluntary, cost only 1 percent of the first $1,400 of wages, be tax-deductible, sit in an independent trust fund, and never be taxed." .
+<https://github.com/john1hsu/usa-graph/id/social-security-act/misconception> <https://github.com/john1hsu/usa-graph/ontology#why> "A widely forwarded list of \"broken promises\" turns later changes into betrayals of pledges the law never contained, so reading the 1935 text matters for any honest debate about the program." .
+<https://github.com/john1hsu/usa-graph/id/social-security-act/review/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+<https://github.com/john1hsu/usa-graph/id/social-security-act/review/1> <http://www.w3.org/2000/01/rdf-schema#label> "Why did the Social Security Act leave out about half of American jobs, and why does it matter who was excluded?" .
+<https://github.com/john1hsu/usa-graph/id/social-security-act/review/1> <https://github.com/john1hsu/usa-graph/ontology#answer> "It excluded farm labor, domestic service in private homes, government jobs and nonprofit work; because about 65 percent of Black workers in 1930 held farm or domestic jobs, against about 27 percent of white workers, the exclusion fell hardest on African Americans, even though most excluded workers were white." .
+<https://github.com/john1hsu/usa-graph/id/social-security-act/review/1> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/social-security-act> .
+<https://github.com/john1hsu/usa-graph/id/social-security-act/review/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+<https://github.com/john1hsu/usa-graph/id/social-security-act/review/2> <http://www.w3.org/2000/01/rdf-schema#label> "How do historians disagree about the reason for the farm and domestic exclusion?" .
+<https://github.com/john1hsu/usa-graph/id/social-security-act/review/2> <https://github.com/john1hsu/usa-graph/ontology#answer> "Scholars such as Robert Lieberman and Linda Gordon see it as a racially motivated concession to Southern Democrats; SSA historian Larry DeWitt argues it came from the Treasury's view that collecting payroll taxes from such workers was not feasible; Richard Rodems and H. Luke Shaefer argue the drafters copied foreign insurance models that left these groups out." .
+<https://github.com/john1hsu/usa-graph/id/social-security-act/review/2> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/social-security-act> .
+<https://github.com/john1hsu/usa-graph/id/social-security-act/review/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+<https://github.com/john1hsu/usa-graph/id/social-security-act/review/3> <http://www.w3.org/2000/01/rdf-schema#label> "How did the act divide responsibility between the federal government and the states?" .
+<https://github.com/john1hsu/usa-graph/id/social-security-act/review/3> <https://github.com/john1hsu/usa-graph/ontology#answer> "Old-age insurance was run directly by the federal government and paid for by payroll taxes, while unemployment insurance and aid to older people, dependent children and blind people ran through state programs supported by federal grants, so states such as Georgia could delay or shape their benefits." .
+<https://github.com/john1hsu/usa-graph/id/social-security-act/review/3> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/social-security-act> .
+<https://github.com/john1hsu/usa-graph/id/social-security-act/timeline/10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/social-security-act/timeline/10> <http://www.w3.org/2000/01/rdf-schema#label> "Amendments bring about 9 million more workers into coverage, including regularly employed farm and domestic workers and most self-employed people." .
+<https://github.com/john1hsu/usa-graph/id/social-security-act/timeline/10> <https://github.com/john1hsu/usa-graph/ontology#date> "1950"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://github.com/john1hsu/usa-graph/id/social-security-act/timeline/11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/social-security-act/timeline/11> <http://www.w3.org/2000/01/rdf-schema#label> "Disabled workers first receive Social Security benefits." .
+<https://github.com/john1hsu/usa-graph/id/social-security-act/timeline/11> <https://github.com/john1hsu/usa-graph/ontology#date> "1957"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://github.com/john1hsu/usa-graph/id/social-security-act/timeline/12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/social-security-act/timeline/12> <http://www.w3.org/2000/01/rdf-schema#label> "Medicare is created through the Social Security system." .
+<https://github.com/john1hsu/usa-graph/id/social-security-act/timeline/12> <https://github.com/john1hsu/usa-graph/ontology#date> "1965"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://github.com/john1hsu/usa-graph/id/social-security-act/timeline/13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/social-security-act/timeline/13> <http://www.w3.org/2000/01/rdf-schema#label> "Congress creates Supplemental Security Income and replaces ad hoc benefit increases with automatic cost-of-living adjustments." .
+<https://github.com/john1hsu/usa-graph/id/social-security-act/timeline/13> <https://github.com/john1hsu/usa-graph/ontology#date> "1972"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://github.com/john1hsu/usa-graph/id/social-security-act/timeline/14> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/social-security-act/timeline/14> <http://www.w3.org/2000/01/rdf-schema#label> "Amendments based on the Greenspan Commission's work tax part of benefits, speed up payroll tax increases and phase in a higher retirement age." .
+<https://github.com/john1hsu/usa-graph/id/social-security-act/timeline/14> <https://github.com/john1hsu/usa-graph/ontology#date> "1983"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://github.com/john1hsu/usa-graph/id/social-security-act/timeline/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/social-security-act/timeline/1> <http://www.w3.org/2000/01/rdf-schema#label> "Executive Order 6757 creates the Committee on Economic Security, chaired by Labor Secretary Frances Perkins, with Edwin Witte as executive director." .
+<https://github.com/john1hsu/usa-graph/id/social-security-act/timeline/1> <https://github.com/john1hsu/usa-graph/ontology#date> "1934-06-29"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/social-security-act/timeline/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/social-security-act/timeline/2> <http://www.w3.org/2000/01/rdf-schema#label> "The committee's report goes to Congress, and Senator Robert Wagner and Representatives Robert Doughton and David Lewis introduce the economic security bill." .
+<https://github.com/john1hsu/usa-graph/id/social-security-act/timeline/2> <https://github.com/john1hsu/usa-graph/ontology#date> "1935-01-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/social-security-act/timeline/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/social-security-act/timeline/3> <http://www.w3.org/2000/01/rdf-schema#label> "The House Ways and Means Committee renames the bill the Social Security Act." .
+<https://github.com/john1hsu/usa-graph/id/social-security-act/timeline/3> <https://github.com/john1hsu/usa-graph/ontology#date> "1935-03-01"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/social-security-act/timeline/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/social-security-act/timeline/4> <http://www.w3.org/2000/01/rdf-schema#label> "The House passes the bill, 372 to 33." .
+<https://github.com/john1hsu/usa-graph/id/social-security-act/timeline/4> <https://github.com/john1hsu/usa-graph/ontology#date> "1935-04-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/social-security-act/timeline/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/social-security-act/timeline/5> <http://www.w3.org/2000/01/rdf-schema#label> "The Senate passes the bill, 77 to 6." .
+<https://github.com/john1hsu/usa-graph/id/social-security-act/timeline/5> <https://github.com/john1hsu/usa-graph/ontology#date> "1935-06-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/social-security-act/timeline/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/social-security-act/timeline/6> <http://www.w3.org/2000/01/rdf-schema#label> "After both chambers accept the conference report by voice vote, Roosevelt signs the act in the White House Cabinet Room." .
+<https://github.com/john1hsu/usa-graph/id/social-security-act/timeline/6> <https://github.com/john1hsu/usa-graph/ontology#date> "1935-08-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/social-security-act/timeline/7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/social-security-act/timeline/7> <http://www.w3.org/2000/01/rdf-schema#label> "Payroll taxes of 1 percent each on workers and employers begin, on the first $3,000 of yearly wages; the tax survives two Supreme Court challenges that year." .
+<https://github.com/john1hsu/usa-graph/id/social-security-act/timeline/7> <https://github.com/john1hsu/usa-graph/ontology#date> "1937"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://github.com/john1hsu/usa-graph/id/social-security-act/timeline/8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/social-security-act/timeline/8> <http://www.w3.org/2000/01/rdf-schema#label> "Amendments add benefits for wives, widows and children, create the trust fund, and move the first monthly benefits up to 1940." .
+<https://github.com/john1hsu/usa-graph/id/social-security-act/timeline/8> <https://github.com/john1hsu/usa-graph/ontology#date> "1939"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://github.com/john1hsu/usa-graph/id/social-security-act/timeline/9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/social-security-act/timeline/9> <http://www.w3.org/2000/01/rdf-schema#label> "Ida May Fuller of Ludlow, Vermont, receives the first monthly retirement check." .
+<https://github.com/john1hsu/usa-graph/id/social-security-act/timeline/9> <https://github.com/john1hsu/usa-graph/ontology#date> "1940-01"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> .
+<https://github.com/john1hsu/usa-graph/id/social-security-act> <http://purl.org/dc/terms/created> "2026-11-27"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/social-security-act> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Law> .
+<https://github.com/john1hsu/usa-graph/id/social-security-act> <http://www.w3.org/2000/01/rdf-schema#label> "Social Security Act" .
+<https://github.com/john1hsu/usa-graph/id/social-security-act> <http://www.w3.org/2004/02/skos/core#altLabel> "Economic Security Bill" .
+<https://github.com/john1hsu/usa-graph/id/social-security-act> <http://www.w3.org/2004/02/skos/core#altLabel> "H.R. 7260 (1935)" .
+<https://github.com/john1hsu/usa-graph/id/social-security-act> <http://www.w3.org/2004/02/skos/core#altLabel> "Social Security Act of 1935" .
+<https://github.com/john1hsu/usa-graph/id/social-security-act> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/usa-graph/id/new-deal> .
+<https://github.com/john1hsu/usa-graph/id/social-security-act> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/usa-graph/id/social-welfare-in-the-united-states> .
+<https://github.com/john1hsu/usa-graph/id/social-security-act> <http://www.w3.org/2004/02/skos/core#definition> "The New Deal law signed by President Franklin D. Roosevelt on August 14, 1935, that created a federal old-age insurance system funded by payroll taxes, a federal–state unemployment insurance system, and grants to the states for aid to needy older people, dependent children and blind people; it initially left out about half of all jobs, including farm and domestic work, and has been greatly expanded since." .
+<https://github.com/john1hsu/usa-graph/id/social-security-act> <http://www.w3.org/2004/02/skos/core#inScheme> <https://github.com/john1hsu/usa-graph/id/scheme/depression-and-world-war> .
+<https://github.com/john1hsu/usa-graph/id/social-security-act> <http://www.w3.org/2004/02/skos/core#prefLabel> "Social Security Act" .
+<https://github.com/john1hsu/usa-graph/id/social-security-act> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/eugene-talmadge> .
+<https://github.com/john1hsu/usa-graph/id/social-security-act> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/fair-labor-standards-act> .
+<https://github.com/john1hsu/usa-graph/id/social-security-act> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/frances-perkins> .
+<https://github.com/john1hsu/usa-graph/id/social-security-act> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/great-depression> .
+<https://github.com/john1hsu/usa-graph/id/social-security-act> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/huey-long> .
+<https://github.com/john1hsu/usa-graph/id/social-security-act> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/medicaid> .
+<https://github.com/john1hsu/usa-graph/id/social-security-act> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/naacp> .
+<https://github.com/john1hsu/usa-graph/id/social-security-act> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/national-labor-relations-act> .
+<https://github.com/john1hsu/usa-graph/id/social-security-act> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/roosevelt-social-security-promises-myth> .
+<https://github.com/john1hsu/usa-graph/id/social-security-act> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/servicemens-readjustment-act-of-1944> .
+<https://github.com/john1hsu/usa-graph/id/social-security-act> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/supplemental-security-income> .
+<https://github.com/john1hsu/usa-graph/id/social-security-act> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/social-security-act/s1> .
+<https://github.com/john1hsu/usa-graph/id/social-security-act> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/social-security-act/s2> .
+<https://github.com/john1hsu/usa-graph/id/social-security-act> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/social-security-act/s3> .
+<https://github.com/john1hsu/usa-graph/id/social-security-act> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/social-security-act/s4> .
+<https://github.com/john1hsu/usa-graph/id/social-security-act> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/social-security-act/s5> .
+<https://github.com/john1hsu/usa-graph/id/social-security-act> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/social-security-act/s6> .
+<https://github.com/john1hsu/usa-graph/id/social-security-act> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/social-security-act/s7> .
+<https://github.com/john1hsu/usa-graph/id/social-security-act> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/social-security-act/s8> .
+<https://github.com/john1hsu/usa-graph/id/social-security-act> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/social-security-act/s9> .
+<https://github.com/john1hsu/usa-graph/id/social-security-act> <https://github.com/john1hsu/usa-graph/ontology#affected> <https://github.com/john1hsu/usa-graph/id/african-americans> .
+<https://github.com/john1hsu/usa-graph/id/social-security-act> <https://github.com/john1hsu/usa-graph/ontology#domain> "depression-and-world-war" .
+<https://github.com/john1hsu/usa-graph/id/social-security-act> <https://github.com/john1hsu/usa-graph/ontology#enactedBy> <https://github.com/john1hsu/usa-graph/id/united-states-congress> .
+<https://github.com/john1hsu/usa-graph/id/social-security-act> <https://github.com/john1hsu/usa-graph/ontology#evidenceStatus> "interpretive" .
+<https://github.com/john1hsu/usa-graph/id/social-security-act> <https://github.com/john1hsu/usa-graph/ontology#file> "articles/depression-and-world-war/social-security-act.md" .
+<https://github.com/john1hsu/usa-graph/id/social-security-act> <https://github.com/john1hsu/usa-graph/ontology#influencedBy> <https://github.com/john1hsu/usa-graph/id/townsend-plan> .
+<https://github.com/john1hsu/usa-graph/id/social-security-act> <https://github.com/john1hsu/usa-graph/ontology#introducedBy> <https://github.com/john1hsu/usa-graph/id/robert-f-wagner> .
+<https://github.com/john1hsu/usa-graph/id/social-security-act> <https://github.com/john1hsu/usa-graph/ontology#ledTo> <https://github.com/john1hsu/usa-graph/id/medicare> .
+<https://github.com/john1hsu/usa-graph/id/social-security-act> <https://github.com/john1hsu/usa-graph/ontology#level> "introductory" .
+<https://github.com/john1hsu/usa-graph/id/social-security-act> <https://github.com/john1hsu/usa-graph/ontology#misconception> <https://github.com/john1hsu/usa-graph/id/social-security-act/misconception> .
+<https://github.com/john1hsu/usa-graph/id/social-security-act> <https://github.com/john1hsu/usa-graph/ontology#partOf> <https://github.com/john1hsu/usa-graph/id/new-deal> .
+<https://github.com/john1hsu/usa-graph/id/social-security-act> <https://github.com/john1hsu/usa-graph/ontology#requires> <https://github.com/john1hsu/usa-graph/id/great-depression> .
+<https://github.com/john1hsu/usa-graph/id/social-security-act> <https://github.com/john1hsu/usa-graph/ontology#signedBy> <https://github.com/john1hsu/usa-graph/id/franklin-d-roosevelt> .
+<https://github.com/john1hsu/usa-graph/id/social-security-act> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/social-security-act/timeline/10> .
+<https://github.com/john1hsu/usa-graph/id/social-security-act> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/social-security-act/timeline/11> .
+<https://github.com/john1hsu/usa-graph/id/social-security-act> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/social-security-act/timeline/12> .
+<https://github.com/john1hsu/usa-graph/id/social-security-act> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/social-security-act/timeline/13> .
+<https://github.com/john1hsu/usa-graph/id/social-security-act> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/social-security-act/timeline/14> .
+<https://github.com/john1hsu/usa-graph/id/social-security-act> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/social-security-act/timeline/1> .
+<https://github.com/john1hsu/usa-graph/id/social-security-act> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/social-security-act/timeline/2> .
+<https://github.com/john1hsu/usa-graph/id/social-security-act> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/social-security-act/timeline/3> .
+<https://github.com/john1hsu/usa-graph/id/social-security-act> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/social-security-act/timeline/4> .
+<https://github.com/john1hsu/usa-graph/id/social-security-act> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/social-security-act/timeline/5> .
+<https://github.com/john1hsu/usa-graph/id/social-security-act> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/social-security-act/timeline/6> .
+<https://github.com/john1hsu/usa-graph/id/social-security-act> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/social-security-act/timeline/7> .
+<https://github.com/john1hsu/usa-graph/id/social-security-act> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/social-security-act/timeline/8> .
+<https://github.com/john1hsu/usa-graph/id/social-security-act> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/social-security-act/timeline/9> .
+<https://github.com/john1hsu/usa-graph/id/social-security-act> <https://schema.org/startDate> "1935-08-14"^^<http://www.w3.org/2001/XMLSchema#date> .
 <https://github.com/john1hsu/usa-graph/id/sojourner-truth/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Misconception> .
 <https://github.com/john1hsu/usa-graph/id/sojourner-truth/misconception> <https://github.com/john1hsu/usa-graph/ontology#fact> "The refrain, the dialect and the thirteen children come from Frances Dana Gage's version published in 1863, twelve years later. Marius Robinson's account, printed within weeks of the convention, has no such refrain; Truth, raised in New York speaking Dutch, never lived in the South, and she had five children." .
 <https://github.com/john1hsu/usa-graph/id/sojourner-truth/misconception> <https://github.com/john1hsu/usa-graph/ontology#myth> "At Akron in 1851 Sojourner Truth gave a speech in Southern dialect, repeating \"Ain't I a woman?\" and telling how she had borne thirteen children, most sold into slavery." .
@@ -23911,6 +24028,60 @@
 <https://github.com/john1hsu/usa-graph/id/source/slavery-in-the-united-states/s9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
 <https://github.com/john1hsu/usa-graph/id/source/slavery-in-the-united-states/s9> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
 <https://github.com/john1hsu/usa-graph/id/source/slavery-in-the-united-states/s9> <https://schema.org/url> <https://www.nps.gov/subjects/undergroundrailroad/what-is-the-underground-railroad.htm> .
+<https://github.com/john1hsu/usa-graph/id/source/social-security-act/s1> <http://purl.org/dc/terms/date> "2026-11-27"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/social-security-act/s1> <http://purl.org/dc/terms/publisher> "National Archives (Milestone Documents)" .
+<https://github.com/john1hsu/usa-graph/id/source/social-security-act/s1> <http://purl.org/dc/terms/title> "Social Security Act (1935)" .
+<https://github.com/john1hsu/usa-graph/id/source/social-security-act/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/social-security-act/s1> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/usa-graph/id/source/social-security-act/s1> <https://schema.org/url> <https://www.archives.gov/milestone-documents/social-security-act> .
+<https://github.com/john1hsu/usa-graph/id/source/social-security-act/s2> <http://purl.org/dc/terms/date> "2026-11-27"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/social-security-act/s2> <http://purl.org/dc/terms/publisher> "Social Security Administration, Historian's Office" .
+<https://github.com/john1hsu/usa-graph/id/source/social-security-act/s2> <http://purl.org/dc/terms/title> "1935 Congressional Debates on Social Security" .
+<https://github.com/john1hsu/usa-graph/id/source/social-security-act/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/social-security-act/s2> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/usa-graph/id/source/social-security-act/s2> <https://schema.org/url> <https://ssa.gov/history/tally.html> .
+<https://github.com/john1hsu/usa-graph/id/source/social-security-act/s3> <http://purl.org/dc/terms/date> "2026-11-27"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/social-security-act/s3> <http://purl.org/dc/terms/publisher> "Social Security Administration, Historian's Office" .
+<https://github.com/john1hsu/usa-graph/id/source/social-security-act/s3> <http://purl.org/dc/terms/title> "Presidential Statement Signing the Social Security Act, August 14, 1935" .
+<https://github.com/john1hsu/usa-graph/id/source/social-security-act/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/social-security-act/s3> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/usa-graph/id/source/social-security-act/s3> <https://schema.org/url> <https://www.ssa.gov/history/fdrsignstate.html> .
+<https://github.com/john1hsu/usa-graph/id/source/social-security-act/s4> <http://purl.org/dc/terms/date> "2026-11-27"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/social-security-act/s4> <http://purl.org/dc/terms/publisher> "Social Security Administration, Office of Retirement and Disability Policy" .
+<https://github.com/john1hsu/usa-graph/id/source/social-security-act/s4> <http://purl.org/dc/terms/title> "The Decision to Exclude Agricultural and Domestic Workers from the 1935 Social Security Act (Larry DeWitt, Social Security Bulletin 70, no. 4, 2010)" .
+<https://github.com/john1hsu/usa-graph/id/source/social-security-act/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/social-security-act/s4> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/usa-graph/id/source/social-security-act/s4> <https://schema.org/url> <https://www.ssa.gov/policy/docs/ssb/v70n4/v70n4p49.html> .
+<https://github.com/john1hsu/usa-graph/id/source/social-security-act/s5> <http://purl.org/dc/terms/date> "2026-11-27"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/social-security-act/s5> <http://purl.org/dc/terms/publisher> "Social Security Administration, Office of Retirement and Disability Policy" .
+<https://github.com/john1hsu/usa-graph/id/source/social-security-act/s5> <http://purl.org/dc/terms/title> "Social Security: A Program and Policy History (Patricia P. Martin and David A. Weaver, Social Security Bulletin 66, no. 1, 2005)" .
+<https://github.com/john1hsu/usa-graph/id/source/social-security-act/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/social-security-act/s5> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/usa-graph/id/source/social-security-act/s5> <https://schema.org/url> <https://www.ssa.gov/policy/docs/ssb/v66n1/v66n1p1.html> .
+<https://github.com/john1hsu/usa-graph/id/source/social-security-act/s6> <http://purl.org/dc/terms/date> "2026-11-27"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/social-security-act/s6> <http://purl.org/dc/terms/publisher> "Cambridge University Press" .
+<https://github.com/john1hsu/usa-graph/id/source/social-security-act/s6> <http://purl.org/dc/terms/title> "Left Out: Policy Diffusion and the Exclusion of Black Workers from Unemployment Insurance (Richard Rodems and H. Luke Shaefer, Social Science History 40, no. 3, 2016)" .
+<https://github.com/john1hsu/usa-graph/id/source/social-security-act/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/social-security-act/s6> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/usa-graph/id/source/social-security-act/s6> <https://schema.org/url> <https://www.cambridge.org/core/product/BB47A78FB42748203E43CBDF1AABE8F2> .
+<https://github.com/john1hsu/usa-graph/id/source/social-security-act/s7> <http://purl.org/dc/terms/date> "2026-11-27"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/social-security-act/s7> <http://purl.org/dc/terms/publisher> "Social Security Administration, Historian's Office" .
+<https://github.com/john1hsu/usa-graph/id/source/social-security-act/s7> <http://purl.org/dc/terms/title> "Debunking Some Internet Myths" .
+<https://github.com/john1hsu/usa-graph/id/source/social-security-act/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/social-security-act/s7> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/usa-graph/id/source/social-security-act/s7> <https://schema.org/url> <https://www.ssa.gov/history/InternetMyths.html> .
+<https://github.com/john1hsu/usa-graph/id/source/social-security-act/s8> <http://purl.org/dc/terms/date> "2026-11-27"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/social-security-act/s8> <http://purl.org/dc/terms/publisher> "New Georgia Encyclopedia, Georgia Humanities and University of Georgia Press" .
+<https://github.com/john1hsu/usa-graph/id/source/social-security-act/s8> <http://purl.org/dc/terms/title> "Social Security Act (Chris Dobbs)" .
+<https://github.com/john1hsu/usa-graph/id/source/social-security-act/s8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/social-security-act/s8> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "scholarly-encyclopedia" .
+<https://github.com/john1hsu/usa-graph/id/source/social-security-act/s8> <https://schema.org/url> <https://www.georgiaencyclopedia.org/articles/history-archaeology/social-security-act/> .
+<https://github.com/john1hsu/usa-graph/id/source/social-security-act/s9> <http://purl.org/dc/terms/date> "2026-11-27"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/social-security-act/s9> <http://purl.org/dc/terms/publisher> "Social Welfare History Project, VCU Libraries" .
+<https://github.com/john1hsu/usa-graph/id/source/social-security-act/s9> <http://purl.org/dc/terms/title> "Social Security: The Roosevelt Administration (Abe Bortz, SSA Historian)" .
+<https://github.com/john1hsu/usa-graph/id/source/social-security-act/s9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/social-security-act/s9> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/usa-graph/id/source/social-security-act/s9> <https://schema.org/url> <https://socialwelfare.library.vcu.edu/programs/social-security-the-roosevelt-administration/> .
 <https://github.com/john1hsu/usa-graph/id/source/sojourner-truth/s10> <http://purl.org/dc/terms/date> "2026-11-15"^^<http://www.w3.org/2001/XMLSchema#date> .
 <https://github.com/john1hsu/usa-graph/id/source/sojourner-truth/s10> <http://purl.org/dc/terms/publisher> "Architect of the Capitol" .
 <https://github.com/john1hsu/usa-graph/id/source/sojourner-truth/s10> <http://purl.org/dc/terms/title> "Sojourner Truth Bust" .
