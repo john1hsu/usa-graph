@@ -1146,6 +1146,21 @@ Every review question (with its answer) and every myth-versus-fact in the graph,
 - **Q:** According to Robert Lee, what did the United States actually acquire from France, and why does that change the meaning of the $15 million price?
   **A:** It acquired France's claim of preemption — the exclusive right to obtain land from Native nations — rather than the land itself, so the real cost of the territory was paid later through many treaties and cessions backed by force, adding up to far more than $15 million.
 
+### [Manifest Destiny](../articles/early-republic-and-expansion/manifest-destiny.md) — Concept
+
+| Myth | Fact |
+|---|---|
+| James K. Polk won the 1844 election on the campaign slogan "Fifty-four forty or fight!" | The Oregon Encyclopedia says Polk did not campaign on the Oregon question and never used the phrase before his election; expansionists chanted it in early 1846 to push him toward the "all of Oregon" claim, and he instead settled at the 49th parallel he had offered in July 1845. |
+
+**Why it matters:** The slogan captures the expansionist mood so neatly that even some textbooks present it as Polk's campaign cry, and a 1957 study of it was titled as an American political legend.
+
+- **Q:** Why did the 1845 "Annexation" essay say the Texas question should be raised above party politics?
+  **A:** It argued that Britain and France were intruding into the Texas question in order to check American power and limit the nation's providential destiny to spread across the continent, so annexation was a national rather than a partisan cause.
+- **Q:** How did the idea of Manifest Destiny affect Native nations and Mexicans?
+  **A:** It served as a justification for the violent displacement of Native peoples and the seizure of their land, as in Texas's 1839 campaign to drive out all Native nations, and it was bound up with beliefs in American racial superiority that cast Mexicans as unfit to govern the land the United States took in the Mexican Cession.
+- **Q:** Why is the authorship of the phrase debated?
+  **A:** The essay was unsigned. It is widely presumed to be by editor John L. O'Sullivan, who wrote much of the magazine, but some scholars attribute it to another writer — biographer Linda S. Hudson credits the journalist Jane McManus Storm Cazneau, a staff writer for O'Sullivan.
+
 ### [Mexican–American War](../articles/early-republic-and-expansion/mexican-american-war.md) — Conflict
 
 | Myth | Fact |

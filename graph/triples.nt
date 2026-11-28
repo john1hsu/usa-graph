@@ -11210,6 +11210,106 @@
 <https://github.com/john1hsu/usa-graph/id/lunar-laser-ranging-experiment> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/lunar-laser-ranging-experiment/timeline/8> .
 <https://github.com/john1hsu/usa-graph/id/lunar-laser-ranging-experiment> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/lunar-laser-ranging-experiment/timeline/9> .
 <https://github.com/john1hsu/usa-graph/id/lunar-laser-ranging-experiment> <https://schema.org/startDate> "1969-07-21"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/manifest-destiny/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Misconception> .
+<https://github.com/john1hsu/usa-graph/id/manifest-destiny/misconception> <https://github.com/john1hsu/usa-graph/ontology#fact> "The Oregon Encyclopedia says Polk did not campaign on the Oregon question and never used the phrase before his election; expansionists chanted it in early 1846 to push him toward the \"all of Oregon\" claim, and he instead settled at the 49th parallel he had offered in July 1845." .
+<https://github.com/john1hsu/usa-graph/id/manifest-destiny/misconception> <https://github.com/john1hsu/usa-graph/ontology#myth> "James K. Polk won the 1844 election on the campaign slogan \"Fifty-four forty or fight!\"" .
+<https://github.com/john1hsu/usa-graph/id/manifest-destiny/misconception> <https://github.com/john1hsu/usa-graph/ontology#why> "The slogan captures the expansionist mood so neatly that even some textbooks present it as Polk's campaign cry, and a 1957 study of it was titled as an American political legend." .
+<https://github.com/john1hsu/usa-graph/id/manifest-destiny/review/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+<https://github.com/john1hsu/usa-graph/id/manifest-destiny/review/1> <http://www.w3.org/2000/01/rdf-schema#label> "Why did the 1845 \"Annexation\" essay say the Texas question should be raised above party politics?" .
+<https://github.com/john1hsu/usa-graph/id/manifest-destiny/review/1> <https://github.com/john1hsu/usa-graph/ontology#answer> "It argued that Britain and France were intruding into the Texas question in order to check American power and limit the nation's providential destiny to spread across the continent, so annexation was a national rather than a partisan cause." .
+<https://github.com/john1hsu/usa-graph/id/manifest-destiny/review/1> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/manifest-destiny> .
+<https://github.com/john1hsu/usa-graph/id/manifest-destiny/review/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+<https://github.com/john1hsu/usa-graph/id/manifest-destiny/review/2> <http://www.w3.org/2000/01/rdf-schema#label> "How did the idea of Manifest Destiny affect Native nations and Mexicans?" .
+<https://github.com/john1hsu/usa-graph/id/manifest-destiny/review/2> <https://github.com/john1hsu/usa-graph/ontology#answer> "It served as a justification for the violent displacement of Native peoples and the seizure of their land, as in Texas's 1839 campaign to drive out all Native nations, and it was bound up with beliefs in American racial superiority that cast Mexicans as unfit to govern the land the United States took in the Mexican Cession." .
+<https://github.com/john1hsu/usa-graph/id/manifest-destiny/review/2> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/manifest-destiny> .
+<https://github.com/john1hsu/usa-graph/id/manifest-destiny/review/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+<https://github.com/john1hsu/usa-graph/id/manifest-destiny/review/3> <http://www.w3.org/2000/01/rdf-schema#label> "Why is the authorship of the phrase debated?" .
+<https://github.com/john1hsu/usa-graph/id/manifest-destiny/review/3> <https://github.com/john1hsu/usa-graph/ontology#answer> "The essay was unsigned. It is widely presumed to be by editor John L. O'Sullivan, who wrote much of the magazine, but some scholars attribute it to another writer — biographer Linda S. Hudson credits the journalist Jane McManus Storm Cazneau, a staff writer for O'Sullivan." .
+<https://github.com/john1hsu/usa-graph/id/manifest-destiny/review/3> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/manifest-destiny> .
+<https://github.com/john1hsu/usa-graph/id/manifest-destiny/timeline/10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/manifest-destiny/timeline/10> <http://www.w3.org/2000/01/rdf-schema#label> "John Gast paints American Progress, soon reproduced as a chromolithograph by George A. Crofutt." .
+<https://github.com/john1hsu/usa-graph/id/manifest-destiny/timeline/10> <https://github.com/john1hsu/usa-graph/ontology#date> "1872"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://github.com/john1hsu/usa-graph/id/manifest-destiny/timeline/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/manifest-destiny/timeline/1> <http://www.w3.org/2000/01/rdf-schema#label> "Aboard the Arbella, Puritan leader John Winthrop preaches that the colonists will be watched as a city upon a hill — an idea later read into Manifest Destiny." .
+<https://github.com/john1hsu/usa-graph/id/manifest-destiny/timeline/1> <https://github.com/john1hsu/usa-graph/ontology#date> "1630"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://github.com/john1hsu/usa-graph/id/manifest-destiny/timeline/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/manifest-destiny/timeline/2> <http://www.w3.org/2000/01/rdf-schema#label> "The United States and Britain agree to joint occupation of the Oregon Country, without settling sovereignty." .
+<https://github.com/john1hsu/usa-graph/id/manifest-destiny/timeline/2> <https://github.com/john1hsu/usa-graph/ontology#date> "1818"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://github.com/john1hsu/usa-graph/id/manifest-destiny/timeline/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/manifest-destiny/timeline/3> <http://www.w3.org/2000/01/rdf-schema#label> "Texas President Mirabeau B. Lamar begins a campaign to push all Native nations out of the Republic of Texas." .
+<https://github.com/john1hsu/usa-graph/id/manifest-destiny/timeline/3> <https://github.com/john1hsu/usa-graph/ontology#date> "1839"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://github.com/john1hsu/usa-graph/id/manifest-destiny/timeline/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/manifest-destiny/timeline/4> <http://www.w3.org/2000/01/rdf-schema#label> "President John Tyler extends the U.S. claim in Oregon to 54°40′; James K. Polk wins the presidency pledging to annex Texas and take Oregon." .
+<https://github.com/john1hsu/usa-graph/id/manifest-destiny/timeline/4> <https://github.com/john1hsu/usa-graph/ontology#date> "1844"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://github.com/john1hsu/usa-graph/id/manifest-destiny/timeline/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/manifest-destiny/timeline/5> <http://www.w3.org/2000/01/rdf-schema#label> "The unsigned essay \"Annexation\" in the United States Magazine and Democratic Review names a manifest destiny to overspread the continent." .
+<https://github.com/john1hsu/usa-graph/id/manifest-destiny/timeline/5> <https://github.com/john1hsu/usa-graph/ontology#date> "1845-07"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> .
+<https://github.com/john1hsu/usa-graph/id/manifest-destiny/timeline/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/manifest-destiny/timeline/6> <http://www.w3.org/2000/01/rdf-schema#label> "Polk formally accepts the annexation of Texas, which enters the Union as a slave state." .
+<https://github.com/john1hsu/usa-graph/id/manifest-destiny/timeline/6> <https://github.com/john1hsu/usa-graph/ontology#date> "1845-12"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> .
+<https://github.com/john1hsu/usa-graph/id/manifest-destiny/timeline/7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/manifest-destiny/timeline/7> <http://www.w3.org/2000/01/rdf-schema#label> "Congress declares war on Mexico." .
+<https://github.com/john1hsu/usa-graph/id/manifest-destiny/timeline/7> <https://github.com/john1hsu/usa-graph/ontology#date> "1846-05-12"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/manifest-destiny/timeline/8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/manifest-destiny/timeline/8> <http://www.w3.org/2000/01/rdf-schema#label> "The Oregon Treaty is signed, dividing the Oregon Country at the 49th parallel; the Senate approves it on June 18." .
+<https://github.com/john1hsu/usa-graph/id/manifest-destiny/timeline/8> <https://github.com/john1hsu/usa-graph/ontology#date> "1846-06-15"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/manifest-destiny/timeline/9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/manifest-destiny/timeline/9> <http://www.w3.org/2000/01/rdf-schema#label> "The Treaty of Guadalupe Hidalgo transfers the Mexican Cession to the United States." .
+<https://github.com/john1hsu/usa-graph/id/manifest-destiny/timeline/9> <https://github.com/john1hsu/usa-graph/ontology#date> "1848-02"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> .
+<https://github.com/john1hsu/usa-graph/id/manifest-destiny> <http://purl.org/dc/terms/created> "2026-11-28"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/manifest-destiny> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Concept> .
+<https://github.com/john1hsu/usa-graph/id/manifest-destiny> <http://www.w3.org/2000/01/rdf-schema#label> "Manifest Destiny" .
+<https://github.com/john1hsu/usa-graph/id/manifest-destiny> <http://www.w3.org/2004/02/skos/core#altLabel> "Manifest Destiny doctrine" .
+<https://github.com/john1hsu/usa-graph/id/manifest-destiny> <http://www.w3.org/2004/02/skos/core#altLabel> "manifest destiny" .
+<https://github.com/john1hsu/usa-graph/id/manifest-destiny> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/usa-graph/id/territorial-expansion-of-the-united-states> .
+<https://github.com/john1hsu/usa-graph/id/manifest-destiny> <http://www.w3.org/2004/02/skos/core#definition> "The nineteenth-century belief, named in an 1845 magazine essay usually credited to editor John L. O'Sullivan, that the United States was destined by Providence to spread across the North American continent — an idea used to justify the annexation of Texas, the Oregon settlement, war with Mexico and the displacement of Native nations." .
+<https://github.com/john1hsu/usa-graph/id/manifest-destiny> <http://www.w3.org/2004/02/skos/core#inScheme> <https://github.com/john1hsu/usa-graph/id/scheme/early-republic-and-expansion> .
+<https://github.com/john1hsu/usa-graph/id/manifest-destiny> <http://www.w3.org/2004/02/skos/core#prefLabel> "Manifest Destiny" .
+<https://github.com/john1hsu/usa-graph/id/manifest-destiny> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/american-progress> .
+<https://github.com/john1hsu/usa-graph/id/manifest-destiny> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/california-gold-rush> .
+<https://github.com/john1hsu/usa-graph/id/manifest-destiny> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/fifty-four-forty-or-fight> .
+<https://github.com/john1hsu/usa-graph/id/manifest-destiny> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/james-k-polk> .
+<https://github.com/john1hsu/usa-graph/id/manifest-destiny> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/jane-mcmanus-storm-cazneau> .
+<https://github.com/john1hsu/usa-graph/id/manifest-destiny> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/mexican-american-war> .
+<https://github.com/john1hsu/usa-graph/id/manifest-destiny> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/monroe-doctrine> .
+<https://github.com/john1hsu/usa-graph/id/manifest-destiny> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/native-americans> .
+<https://github.com/john1hsu/usa-graph/id/manifest-destiny> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/oregon-trail> .
+<https://github.com/john1hsu/usa-graph/id/manifest-destiny> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/oregon-treaty> .
+<https://github.com/john1hsu/usa-graph/id/manifest-destiny> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/republic-of-texas> .
+<https://github.com/john1hsu/usa-graph/id/manifest-destiny> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/spot-resolutions> .
+<https://github.com/john1hsu/usa-graph/id/manifest-destiny> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/texas-annexation> .
+<https://github.com/john1hsu/usa-graph/id/manifest-destiny> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/the-west> .
+<https://github.com/john1hsu/usa-graph/id/manifest-destiny> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/treaty-of-guadalupe-hidalgo> .
+<https://github.com/john1hsu/usa-graph/id/manifest-destiny> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/whig-party> .
+<https://github.com/john1hsu/usa-graph/id/manifest-destiny> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/manifest-destiny/s1> .
+<https://github.com/john1hsu/usa-graph/id/manifest-destiny> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/manifest-destiny/s2> .
+<https://github.com/john1hsu/usa-graph/id/manifest-destiny> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/manifest-destiny/s3> .
+<https://github.com/john1hsu/usa-graph/id/manifest-destiny> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/manifest-destiny/s4> .
+<https://github.com/john1hsu/usa-graph/id/manifest-destiny> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/manifest-destiny/s5> .
+<https://github.com/john1hsu/usa-graph/id/manifest-destiny> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/manifest-destiny/s6> .
+<https://github.com/john1hsu/usa-graph/id/manifest-destiny> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/manifest-destiny/s7> .
+<https://github.com/john1hsu/usa-graph/id/manifest-destiny> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/manifest-destiny/s8> .
+<https://github.com/john1hsu/usa-graph/id/manifest-destiny> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/manifest-destiny/s9> .
+<https://github.com/john1hsu/usa-graph/id/manifest-destiny> <https://github.com/john1hsu/usa-graph/ontology#affected> <https://github.com/john1hsu/usa-graph/id/native-americans> .
+<https://github.com/john1hsu/usa-graph/id/manifest-destiny> <https://github.com/john1hsu/usa-graph/ontology#affected> <https://github.com/john1hsu/usa-graph/id/oregon-treaty> .
+<https://github.com/john1hsu/usa-graph/id/manifest-destiny> <https://github.com/john1hsu/usa-graph/ontology#domain> "early-republic-and-expansion" .
+<https://github.com/john1hsu/usa-graph/id/manifest-destiny> <https://github.com/john1hsu/usa-graph/ontology#evidenceStatus> "interpretive" .
+<https://github.com/john1hsu/usa-graph/id/manifest-destiny> <https://github.com/john1hsu/usa-graph/ontology#file> "articles/early-republic-and-expansion/manifest-destiny.md" .
+<https://github.com/john1hsu/usa-graph/id/manifest-destiny> <https://github.com/john1hsu/usa-graph/ontology#influencedBy> <https://github.com/john1hsu/usa-graph/id/american-exceptionalism> .
+<https://github.com/john1hsu/usa-graph/id/manifest-destiny> <https://github.com/john1hsu/usa-graph/ontology#introducedBy> <https://github.com/john1hsu/usa-graph/id/john-l-osullivan> .
+<https://github.com/john1hsu/usa-graph/id/manifest-destiny> <https://github.com/john1hsu/usa-graph/ontology#introducedIn> <https://github.com/john1hsu/usa-graph/id/annexation-1845-editorial> .
+<https://github.com/john1hsu/usa-graph/id/manifest-destiny> <https://github.com/john1hsu/usa-graph/ontology#level> "introductory" .
+<https://github.com/john1hsu/usa-graph/id/manifest-destiny> <https://github.com/john1hsu/usa-graph/ontology#misconception> <https://github.com/john1hsu/usa-graph/id/manifest-destiny/misconception> .
+<https://github.com/john1hsu/usa-graph/id/manifest-destiny> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/manifest-destiny/timeline/10> .
+<https://github.com/john1hsu/usa-graph/id/manifest-destiny> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/manifest-destiny/timeline/1> .
+<https://github.com/john1hsu/usa-graph/id/manifest-destiny> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/manifest-destiny/timeline/2> .
+<https://github.com/john1hsu/usa-graph/id/manifest-destiny> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/manifest-destiny/timeline/3> .
+<https://github.com/john1hsu/usa-graph/id/manifest-destiny> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/manifest-destiny/timeline/4> .
+<https://github.com/john1hsu/usa-graph/id/manifest-destiny> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/manifest-destiny/timeline/5> .
+<https://github.com/john1hsu/usa-graph/id/manifest-destiny> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/manifest-destiny/timeline/6> .
+<https://github.com/john1hsu/usa-graph/id/manifest-destiny> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/manifest-destiny/timeline/7> .
+<https://github.com/john1hsu/usa-graph/id/manifest-destiny> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/manifest-destiny/timeline/8> .
+<https://github.com/john1hsu/usa-graph/id/manifest-destiny> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/manifest-destiny/timeline/9> .
 <https://github.com/john1hsu/usa-graph/id/marbury-v-madison/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Misconception> .
 <https://github.com/john1hsu/usa-graph/id/marbury-v-madison/misconception> <https://github.com/john1hsu/usa-graph/ontology#fact> "Courts did cite the case in the nineteenth century, but mostly on jurisdiction, mandamus and executive appointments; a 2012 study found that only about 8% of the Supreme Court's nineteenth-century citations invoked it for judicial review, and the case was recast as the fountainhead of that power only around the turn of the twentieth century." .
 <https://github.com/john1hsu/usa-graph/id/marbury-v-madison/misconception> <https://github.com/john1hsu/usa-graph/ontology#myth> "Marbury v. Madison was celebrated from the start and was constantly cited throughout the 1800s as the foundation of judicial review." .
@@ -21760,6 +21860,60 @@
 <https://github.com/john1hsu/usa-graph/id/source/lunar-laser-ranging-experiment/s8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
 <https://github.com/john1hsu/usa-graph/id/source/lunar-laser-ranging-experiment/s8> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "academic" .
 <https://github.com/john1hsu/usa-graph/id/source/lunar-laser-ranging-experiment/s8> <https://schema.org/url> <https://news.ucsc.edu/2019/07/lunar-laser-ranging/> .
+<https://github.com/john1hsu/usa-graph/id/source/manifest-destiny/s1> <http://purl.org/dc/terms/date> "2026-11-28"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/manifest-destiny/s1> <http://purl.org/dc/terms/publisher> "Teaching American History (Ashbrook Center, Ashland University)" .
+<https://github.com/john1hsu/usa-graph/id/source/manifest-destiny/s1> <http://purl.org/dc/terms/title> "Annexation (United States Magazine and Democratic Review, July/August 1845)" .
+<https://github.com/john1hsu/usa-graph/id/source/manifest-destiny/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/manifest-destiny/s1> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/usa-graph/id/source/manifest-destiny/s1> <https://schema.org/url> <https://teachingamericanhistory.org/document/annexation/> .
+<https://github.com/john1hsu/usa-graph/id/source/manifest-destiny/s2> <http://purl.org/dc/terms/date> "2026-11-28"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/manifest-destiny/s2> <http://purl.org/dc/terms/publisher> "OpenStax, Rice University" .
+<https://github.com/john1hsu/usa-graph/id/source/manifest-destiny/s2> <http://purl.org/dc/terms/title> "11.4 The Mexican-American War, 1846–1848 (U.S. History)" .
+<https://github.com/john1hsu/usa-graph/id/source/manifest-destiny/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/manifest-destiny/s2> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "textbook" .
+<https://github.com/john1hsu/usa-graph/id/source/manifest-destiny/s2> <https://schema.org/url> <https://openstax.org/books/us-history/pages/11-4-the-mexican-american-war-1846-1848> .
+<https://github.com/john1hsu/usa-graph/id/source/manifest-destiny/s3> <http://purl.org/dc/terms/date> "2026-11-28"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/manifest-destiny/s3> <http://purl.org/dc/terms/publisher> "OpenStax, Rice University" .
+<https://github.com/john1hsu/usa-graph/id/source/manifest-destiny/s3> <http://purl.org/dc/terms/title> "Chapter 11 Introduction: A Nation on the Move: Westward Expansion, 1800–1860 (U.S. History)" .
+<https://github.com/john1hsu/usa-graph/id/source/manifest-destiny/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/manifest-destiny/s3> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "textbook" .
+<https://github.com/john1hsu/usa-graph/id/source/manifest-destiny/s3> <https://schema.org/url> <https://openstax.org/books/us-history/pages/11-introduction> .
+<https://github.com/john1hsu/usa-graph/id/source/manifest-destiny/s4> <http://purl.org/dc/terms/date> "2026-11-28"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/manifest-destiny/s4> <http://purl.org/dc/terms/publisher> "U.S. Department of State, Office of the Historian" .
+<https://github.com/john1hsu/usa-graph/id/source/manifest-destiny/s4> <http://purl.org/dc/terms/title> "The Oregon Territory, 1846" .
+<https://github.com/john1hsu/usa-graph/id/source/manifest-destiny/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/manifest-destiny/s4> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/usa-graph/id/source/manifest-destiny/s4> <https://schema.org/url> <https://history.state.gov/milestones/1830-1860/oregon-territory> .
+<https://github.com/john1hsu/usa-graph/id/source/manifest-destiny/s5> <http://purl.org/dc/terms/date> "2026-11-28"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/manifest-destiny/s5> <http://purl.org/dc/terms/publisher> "The Oregon Encyclopedia (Oregon Historical Society)" .
+<https://github.com/john1hsu/usa-graph/id/source/manifest-destiny/s5> <http://purl.org/dc/terms/title> "Oregon Treaty" .
+<https://github.com/john1hsu/usa-graph/id/source/manifest-destiny/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/manifest-destiny/s5> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "scholarly-encyclopedia" .
+<https://github.com/john1hsu/usa-graph/id/source/manifest-destiny/s5> <https://schema.org/url> <https://oregonencyclopedia.org/articles/oregon-treaty/> .
+<https://github.com/john1hsu/usa-graph/id/source/manifest-destiny/s6> <http://purl.org/dc/terms/date> "2026-11-28"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/manifest-destiny/s6> <http://purl.org/dc/terms/publisher> "Library of Congress, Prints and Photographs Division" .
+<https://github.com/john1hsu/usa-graph/id/source/manifest-destiny/s6> <http://purl.org/dc/terms/title> "American progress (chromolithograph after John Gast, c1873)" .
+<https://github.com/john1hsu/usa-graph/id/source/manifest-destiny/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/manifest-destiny/s6> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/usa-graph/id/source/manifest-destiny/s6> <https://schema.org/url> <https://www.loc.gov/item/97507547> .
+<https://github.com/john1hsu/usa-graph/id/source/manifest-destiny/s7> <http://purl.org/dc/terms/date> "2026-11-28"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/manifest-destiny/s7> <http://purl.org/dc/terms/publisher> "Smithsonian Institution" .
+<https://github.com/john1hsu/usa-graph/id/source/manifest-destiny/s7> <http://purl.org/dc/terms/title> "Manifest Destiny and U.S. Westward Expansion" .
+<https://github.com/john1hsu/usa-graph/id/source/manifest-destiny/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/manifest-destiny/s7> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "museum" .
+<https://github.com/john1hsu/usa-graph/id/source/manifest-destiny/s7> <https://schema.org/url> <https://americanexperience.si.edu/wp-content/uploads/2014/08/Manifest-Destiny-and-U.S-Westward-Expansion.pdf> .
+<https://github.com/john1hsu/usa-graph/id/source/manifest-destiny/s8> <http://purl.org/dc/terms/date> "2026-11-28"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/manifest-destiny/s8> <http://purl.org/dc/terms/publisher> "UT News, The University of Texas at Austin" .
+<https://github.com/john1hsu/usa-graph/id/source/manifest-destiny/s8> <http://purl.org/dc/terms/title> "Woman who coined phrase \"Manifest Destiny\" described in new TSHA book" .
+<https://github.com/john1hsu/usa-graph/id/source/manifest-destiny/s8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/manifest-destiny/s8> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "news" .
+<https://github.com/john1hsu/usa-graph/id/source/manifest-destiny/s8> <https://schema.org/url> <https://news.utexas.edu/2001/02/01/woman-who-coined-phrase-manifest-destiny-described-in-new-tsha-book> .
+<https://github.com/john1hsu/usa-graph/id/source/manifest-destiny/s9> <http://purl.org/dc/terms/date> "2026-11-28"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/manifest-destiny/s9> <http://purl.org/dc/terms/publisher> "OpenStax, Rice University" .
+<https://github.com/john1hsu/usa-graph/id/source/manifest-destiny/s9> <http://purl.org/dc/terms/title> "11.3 Independence for Texas (U.S. History)" .
+<https://github.com/john1hsu/usa-graph/id/source/manifest-destiny/s9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/manifest-destiny/s9> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "textbook" .
+<https://github.com/john1hsu/usa-graph/id/source/manifest-destiny/s9> <https://schema.org/url> <https://openstax.org/books/us-history/pages/11-3-independence-for-texas> .
 <https://github.com/john1hsu/usa-graph/id/source/marbury-v-madison/s1> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
 <https://github.com/john1hsu/usa-graph/id/source/marbury-v-madison/s1> <http://purl.org/dc/terms/publisher> "U.S. Supreme Court opinion (via Legal Information Institute, Cornell Law School)" .
 <https://github.com/john1hsu/usa-graph/id/source/marbury-v-madison/s1> <http://purl.org/dc/terms/title> "Marbury v. Madison, 5 U.S. (1 Cranch) 137 (1803), opinion of the Court" .

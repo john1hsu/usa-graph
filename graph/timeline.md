@@ -67,6 +67,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1624-05-24 | The Crown revokes the Virginia Company's charter and Virginia becomes a royal colony. — [Jamestown Colony](../articles/colonial-and-revolutionary/jamestown.md) |
 | 1625 | The first enslaved Africans arrive in New Amsterdam to labor for the Dutch West India Company. — [New York City](../articles/regions-cities-and-landmarks/new-york-city.md) |
 | 1626-11-05 | Pieter Schaghen reports from Amsterdam that colonists have acquired Manhattan from its Native inhabitants for goods worth 60 guilders. — [New York City](../articles/regions-cities-and-landmarks/new-york-city.md) |
+| 1630 | Aboard the Arbella, Puritan leader John Winthrop preaches that the colonists will be watched as a city upon a hill — an idea later read into Manifest Destiny. — [Manifest Destiny](../articles/early-republic-and-expansion/manifest-destiny.md) |
 | 1634 | English colonists on the Ark and Dove, including at least two men of African descent, land at St. Clement's Island, Maryland. — [Chesapeake Bay](../articles/geography-and-environment/chesapeake-bay.md) |
 | 1638 | Swedes and Finns found New Sweden on the Delaware River, among Lenape communities already living on both banks. — [Pennsylvania](../articles/states-and-territories/pennsylvania.md) |
 | 1641 | Sir Edward Coke's Second Institutes equates "law of the land" with "due process of law," shaping the founders' understanding. — [Due process](../articles/rights-and-law/due-process.md) |
@@ -561,6 +562,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1817-01 | The Second Bank opens in Philadelphia; it later sets up branches, including one in Baltimore. — [McCulloch v. Maryland](../articles/rights-and-law/mcculloch-v-maryland.md) |
 | 1818 | Invades Spanish Florida during the First Seminole War; Spain cedes Florida in an 1819 treaty. — [Andrew Jackson](../articles/presidents-and-founders/andrew-jackson.md) |
 | 1818 | The Gideon edition prints the essays with Madison's own attributions of authorship. — [The Federalist Papers](../articles/constitution-and-government/federalist-papers.md) |
+| 1818 | The United States and Britain agree to joint occupation of the Oregon Country, without settling sovereignty. — [Manifest Destiny](../articles/early-republic-and-expansion/manifest-destiny.md) |
 | 1818-02 – 1895-02-20 | **[Frederick Douglass](../articles/people-who-shaped-america/frederick-douglass.md)** (Person) |
 | 1818-02 | Born Frederick Augustus Washington Bailey in Talbot County, Maryland, according to a later ledger notation; he himself believed he was born about 1817. — [Frederick Douglass](../articles/people-who-shaped-america/frederick-douglass.md) |
 | 1818-02-11 | Maryland's legislature passes a stamp tax on banks operating in the state without a state charter, effective May 1, 1818. — [McCulloch v. Maryland](../articles/rights-and-law/mcculloch-v-maryland.md) |
@@ -700,6 +702,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1838-09-03 | Escapes to New York disguised as a sailor, using a free Black sailor's papers and a ticket paid for by Anna Murray. — [Frederick Douglass](../articles/people-who-shaped-america/frederick-douglass.md) |
 | 1838-09-15 | Marries Anna Murray in New York; the couple settles in New Bedford, Massachusetts, as the Douglasses. — [Frederick Douglass](../articles/people-who-shaped-america/frederick-douglass.md) |
 | 1839 | An English traveler describes the music of enslaved people on a Georgia rice plantation, an early account of music that would later evolve into the blues. — [Blues](../articles/culture-and-arts/blues.md) |
+| 1839 | Texas President Mirabeau B. Lamar begins a campaign to push all Native nations out of the Republic of Texas. — [Manifest Destiny](../articles/early-republic-and-expansion/manifest-destiny.md) |
 | 1839 | The Republic expels the Cherokees from Texas; the Caddos are driven out in 1841. — [Texas](../articles/states-and-territories/texas.md) |
 | 1839-03 | The last Cherokee detachments reach Indian Territory, in present-day Oklahoma. — [Indian Removal Act](../articles/native-nations/indian-removal-act.md) |
 | 1839-09-06 | The reunited Cherokee Nation adopts a new constitution with its capital at Tahlequah. — [Indian Removal Act](../articles/native-nations/indian-removal-act.md) |
@@ -713,6 +716,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1843 | Congress appropriates $30,000 for an experimental line of about 40 miles from Washington to Baltimore. — [Electric telegraph](../articles/science-and-innovation/telegraph.md) |
 | 1843 | Large-scale wagon migration west begins; emigrants cross the Continental Divide at South Pass. — [Wyoming](../articles/states-and-territories/wyoming.md) |
 | 1843-06-01 | Takes the name Sojourner Truth and begins travelling to preach and speak against slavery. — [Sojourner Truth](../articles/people-who-shaped-america/sojourner-truth.md) |
+| 1844 | President John Tyler extends the U.S. claim in Oregon to 54°40′; James K. Polk wins the presidency pledging to annex Texas and take Oregon. — [Manifest Destiny](../articles/early-republic-and-expansion/manifest-destiny.md) |
 | 1844 | Probably marries John Tubman, a free Black man, and takes the name Harriet. — [Harriet Tubman](../articles/people-who-shaped-america/harriet-tubman.md) |
 | 1844-05-24 | Morse sends the first message on the line from the Supreme Court chamber in the Capitol to Baltimore. — [Electric telegraph](../articles/science-and-innovation/telegraph.md) |
 | 1845 | Frederick Douglass publishes his Narrative. — [Abolitionism](../articles/civil-war-and-reconstruction/abolitionism.md) |
@@ -721,6 +725,8 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1845 | The Knickerbocker club of New York adopts written rules later credited to Alexander Cartwright. — [Abner Doubleday baseball myth](../articles/culture-and-arts/abner-doubleday-baseball-myth.md) |
 | 1845-03-01 | President Tyler signs the joint resolution offering Texas annexation. — [Texas](../articles/states-and-territories/texas.md) |
 | 1845-06-08 | Dies at the Hermitage, his cotton plantation near Nashville. — [Andrew Jackson](../articles/presidents-and-founders/andrew-jackson.md) |
+| 1845-07 | The unsigned essay "Annexation" in the United States Magazine and Democratic Review names a manifest destiny to overspread the continent. — [Manifest Destiny](../articles/early-republic-and-expansion/manifest-destiny.md) |
+| 1845-12 | Polk formally accepts the annexation of Texas, which enters the Union as a slave state. — [Manifest Destiny](../articles/early-republic-and-expansion/manifest-destiny.md) |
 | 1845-12 | Texas, annexed by joint resolution of Congress, enters the Union as a slave state; Mexico still claims it. — [Mexican–American War](../articles/early-republic-and-expansion/mexican-american-war.md) |
 | 1845-12-29 | **[Texas](../articles/states-and-territories/texas.md)** (State) |
 | 1845-12-29 | President Polk signs the act admitting Texas as the 28th state. — [Texas](../articles/states-and-territories/texas.md) |
@@ -734,8 +740,10 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1846-04-25 | Mexican troops who crossed the Rio Grande ambush a U.S. patrol near Rancho de Carricitos, killing eleven American soldiers. — [Mexican–American War](../articles/early-republic-and-expansion/mexican-american-war.md) |
 | 1846-05-08 | Battle of Palo Alto, the first battle of the war; Taylor's army wins again at Resaca de la Palma the next day. — [Mexican–American War](../articles/early-republic-and-expansion/mexican-american-war.md) |
 | 1846-05-11 | Polk asks Congress to recognize that a state of war exists, blaming Mexico for beginning hostilities. — [Mexican–American War](../articles/early-republic-and-expansion/mexican-american-war.md) |
+| 1846-05-12 | Congress declares war on Mexico. — [Manifest Destiny](../articles/early-republic-and-expansion/manifest-destiny.md) |
 | 1846-05-13 | The United States declares war on Mexico after clashes in the disputed land between the Nueces and the Rio Grande. — [Texas](../articles/states-and-territories/texas.md) |
 | 1846-05-13 | War is formally declared after the House (174 to 14) and the Senate (40 to 2) approve it. — [Mexican–American War](../articles/early-republic-and-expansion/mexican-american-war.md) |
+| 1846-06-15 | The Oregon Treaty is signed, dividing the Oregon Country at the 49th parallel; the Senate approves it on June 18. — [Manifest Destiny](../articles/early-republic-and-expansion/manifest-destiny.md) |
 | 1846-06-19 | The first recorded game under the Knickerbocker rules is played at the Elysian Fields in Hoboken, New Jersey. — [Abner Doubleday baseball myth](../articles/culture-and-arts/abner-doubleday-baseball-myth.md) |
 | 1846-07 | The U.S. Navy's Pacific squadron occupies Monterey and San Francisco in Mexican California. — [Mexican–American War](../articles/early-republic-and-expansion/mexican-american-war.md) |
 | 1846-09 | Taylor captures Monterrey in northern Mexico; Polk repudiates the armistice Taylor grants. — [Mexican–American War](../articles/early-republic-and-expansion/mexican-american-war.md) |
@@ -755,6 +763,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1848-01-24 – 1855 | **[California Gold Rush](../articles/early-republic-and-expansion/california-gold-rush.md)** (Event) |
 | 1848-01-24 | Gold is found on the American River, setting off the Gold Rush. — [California](../articles/states-and-territories/california.md) |
 | 1848-01-24 | James Marshall finds a gold nugget at the sawmill he is building for John Sutter on the South Fork of the American River at Coloma. — [California Gold Rush](../articles/early-republic-and-expansion/california-gold-rush.md) |
+| 1848-02 | The Treaty of Guadalupe Hidalgo transfers the Mexican Cession to the United States. — [Manifest Destiny](../articles/early-republic-and-expansion/manifest-destiny.md) |
 | 1848-02-02 | Nicholas Trist, though recalled by Polk, signs the Treaty of Guadalupe Hidalgo with Mexican commissioners. — [Mexican–American War](../articles/early-republic-and-expansion/mexican-american-war.md) |
 | 1848-02-02 | The Treaty of Guadalupe Hidalgo is signed; Mexico cedes 55 percent of its territory, including present-day California, Nevada and Utah. — [The West](../articles/regions-cities-and-landmarks/the-west.md) |
 | 1848-02-02 | The Treaty of Guadalupe Hidalgo transfers California and other lands from Mexico to the United States. — [California](../articles/states-and-territories/california.md) |
@@ -1044,6 +1053,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1871-10-08 | The Great Fire begins in the O'Leary barn on DeKoven Street and burns about 3.5 square miles of the city. — [Chicago](../articles/regions-cities-and-landmarks/chicago.md) |
 | 1871-12-18 | Park bills S. 392 and H.R. 764 are introduced in the Senate and House. — [Yellowstone National Park](../articles/geography-and-environment/yellowstone-national-park.md) |
 | 1871-12-18 | Senator Pomeroy introduces S. 392 to set the Yellowstone region apart as a park. — [Hayden Geological Survey of 1871](../articles/geography-and-environment/hayden-geological-survey-of-1871.md) |
+| 1872 | John Gast paints American Progress, soon reproduced as a chromolithograph by George A. Crofutt. — [Manifest Destiny](../articles/early-republic-and-expansion/manifest-destiny.md) |
 | 1872 | Susan B. Anthony is arrested for voting in Rochester, New York, and Sojourner Truth is turned away from the polls in Battle Creek, Michigan. — [Women's suffrage movement](../articles/gilded-age-and-progressive-era/womens-suffrage-movement.md) |
 | 1872 | William Still publishes The Underground Railroad, based on his Philadelphia vigilance committee records. — [Underground Railroad](../articles/civil-war-and-reconstruction/underground-railroad.md) |
 | 1872 | Yellowstone is established, beginning the reservation of western lands as parks. — [The West](../articles/regions-cities-and-landmarks/the-west.md) |

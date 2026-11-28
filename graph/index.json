@@ -18961,6 +18961,195 @@
   ]
  },
  {
+  "id": "us:manifest-destiny",
+  "title": "Manifest Destiny",
+  "aliases": [
+   "manifest destiny",
+   "Manifest Destiny doctrine"
+  ],
+  "type": "Concept",
+  "domain": "early-republic-and-expansion",
+  "level": "introductory",
+  "evidenceStatus": "interpretive",
+  "file": "articles/early-republic-and-expansion/manifest-destiny.md",
+  "created": "2026-11-28",
+  "summary": "The nineteenth-century belief, named in an 1845 magazine essay usually credited to editor John L. O'Sullivan, that the United States was destined by Providence to spread across the North American continent — an idea used to justify the annexation of Texas, the Oregon settlement, war with Mexico and the displacement of Native nations.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "us:territorial-expansion-of-the-united-states"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:texas-annexation"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:james-k-polk"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:mexican-american-war"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:oregon-treaty"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:the-west"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:monroe-doctrine"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:california-gold-rush"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:native-americans"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:american-progress"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:jane-mcmanus-storm-cazneau"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:whig-party"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:spot-resolutions"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:fifty-four-forty-or-fight"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:treaty-of-guadalupe-hidalgo"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:oregon-trail"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:republic-of-texas"
+   },
+   {
+    "predicate": "uso:introducedBy",
+    "object": "us:john-l-osullivan",
+    "source": "s1",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "uso:introducedIn",
+    "object": "us:annexation-1845-editorial",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:affected",
+    "object": "us:native-americans",
+    "source": "s7",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:affected",
+    "object": "us:oregon-treaty",
+    "source": "s4",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "uso:influencedBy",
+    "object": "us:american-exceptionalism",
+    "source": "s7",
+    "confidence": "medium"
+   }
+  ],
+  "start": null,
+  "end": null,
+  "review": [
+   {
+    "question": "Why did the 1845 \"Annexation\" essay say the Texas question should be raised above party politics?",
+    "answer": "It argued that Britain and France were intruding into the Texas question in order to check American power and limit the nation's providential destiny to spread across the continent, so annexation was a national rather than a partisan cause."
+   },
+   {
+    "question": "How did the idea of Manifest Destiny affect Native nations and Mexicans?",
+    "answer": "It served as a justification for the violent displacement of Native peoples and the seizure of their land, as in Texas's 1839 campaign to drive out all Native nations, and it was bound up with beliefs in American racial superiority that cast Mexicans as unfit to govern the land the United States took in the Mexican Cession."
+   },
+   {
+    "question": "Why is the authorship of the phrase debated?",
+    "answer": "The essay was unsigned. It is widely presumed to be by editor John L. O'Sullivan, who wrote much of the magazine, but some scholars attribute it to another writer — biographer Linda S. Hudson credits the journalist Jane McManus Storm Cazneau, a staff writer for O'Sullivan."
+   }
+  ],
+  "timeline": [
+   {
+    "date": "1630",
+    "event": "Aboard the Arbella, Puritan leader John Winthrop preaches that the colonists will be watched as a city upon a hill — an idea later read into Manifest Destiny."
+   },
+   {
+    "date": "1818",
+    "event": "The United States and Britain agree to joint occupation of the Oregon Country, without settling sovereignty."
+   },
+   {
+    "date": "1839",
+    "event": "Texas President Mirabeau B. Lamar begins a campaign to push all Native nations out of the Republic of Texas."
+   },
+   {
+    "date": "1844",
+    "event": "President John Tyler extends the U.S. claim in Oregon to 54°40′; James K. Polk wins the presidency pledging to annex Texas and take Oregon."
+   },
+   {
+    "date": "1845-07",
+    "event": "The unsigned essay \"Annexation\" in the United States Magazine and Democratic Review names a manifest destiny to overspread the continent."
+   },
+   {
+    "date": "1845-12",
+    "event": "Polk formally accepts the annexation of Texas, which enters the Union as a slave state."
+   },
+   {
+    "date": "1846-05-12",
+    "event": "Congress declares war on Mexico."
+   },
+   {
+    "date": "1846-06-15",
+    "event": "The Oregon Treaty is signed, dividing the Oregon Country at the 49th parallel; the Senate approves it on June 18."
+   },
+   {
+    "date": "1848-02",
+    "event": "The Treaty of Guadalupe Hidalgo transfers the Mexican Cession to the United States."
+   },
+   {
+    "date": "1872",
+    "event": "John Gast paints American Progress, soon reproduced as a chromolithograph by George A. Crofutt."
+   }
+  ],
+  "misconception": {
+   "myth": "James K. Polk won the 1844 election on the campaign slogan \"Fifty-four forty or fight!\"",
+   "fact": "The Oregon Encyclopedia says Polk did not campaign on the Oregon question and never used the phrase before his election; expansionists chanted it in early 1846 to push him toward the \"all of Oregon\" claim, and he instead settled at the 49th parallel he had offered in July 1845.",
+   "why": "The slogan captures the expansionist mood so neatly that even some textbooks present it as Polk's campaign cry, and a 1957 study of it was titled as an American political legend."
+  },
+  "source_urls": [
+   "https://teachingamericanhistory.org/document/annexation/",
+   "https://openstax.org/books/us-history/pages/11-4-the-mexican-american-war-1846-1848",
+   "https://openstax.org/books/us-history/pages/11-introduction",
+   "https://history.state.gov/milestones/1830-1860/oregon-territory",
+   "https://oregonencyclopedia.org/articles/oregon-treaty/",
+   "https://www.loc.gov/item/97507547",
+   "https://americanexperience.si.edu/wp-content/uploads/2014/08/Manifest-Destiny-and-U.S-Westward-Expansion.pdf",
+   "https://news.utexas.edu/2001/02/01/woman-who-coined-phrase-manifest-destiny-described-in-new-tsha-book",
+   "https://openstax.org/books/us-history/pages/11-3-independence-for-texas"
+  ]
+ },
+ {
   "id": "us:marbury-v-madison",
   "title": "Marbury v. Madison",
   "aliases": [

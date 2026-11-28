@@ -15217,6 +15217,130 @@
    }
   },
   {
+   "@id": "https://github.com/john1hsu/usa-graph/id/manifest-destiny/misconception",
+   "@type": "uso:Misconception",
+   "uso:fact": "The Oregon Encyclopedia says Polk did not campaign on the Oregon question and never used the phrase before his election; expansionists chanted it in early 1846 to push him toward the \"all of Oregon\" claim, and he instead settled at the 49th parallel he had offered in July 1845.",
+   "uso:myth": "James K. Polk won the 1844 election on the campaign slogan \"Fifty-four forty or fight!\"",
+   "uso:why": "The slogan captures the expansionist mood so neatly that even some textbooks present it as Polk's campaign cry, and a 1957 study of it was titled as an American political legend."
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/manifest-destiny/review/1",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "Why did the 1845 \"Annexation\" essay say the Texas question should be raised above party politics?",
+   "uso:answer": "It argued that Britain and France were intruding into the Texas question in order to check American power and limit the nation's providential destiny to spread across the continent, so annexation was a national rather than a partisan cause.",
+   "uso:questionFor": {
+    "@id": "us:manifest-destiny"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/manifest-destiny/review/2",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "How did the idea of Manifest Destiny affect Native nations and Mexicans?",
+   "uso:answer": "It served as a justification for the violent displacement of Native peoples and the seizure of their land, as in Texas's 1839 campaign to drive out all Native nations, and it was bound up with beliefs in American racial superiority that cast Mexicans as unfit to govern the land the United States took in the Mexican Cession.",
+   "uso:questionFor": {
+    "@id": "us:manifest-destiny"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/manifest-destiny/review/3",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "Why is the authorship of the phrase debated?",
+   "uso:answer": "The essay was unsigned. It is widely presumed to be by editor John L. O'Sullivan, who wrote much of the magazine, but some scholars attribute it to another writer — biographer Linda S. Hudson credits the journalist Jane McManus Storm Cazneau, a staff writer for O'Sullivan.",
+   "uso:questionFor": {
+    "@id": "us:manifest-destiny"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/manifest-destiny/timeline/1",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Aboard the Arbella, Puritan leader John Winthrop preaches that the colonists will be watched as a city upon a hill — an idea later read into Manifest Destiny.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1630"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/manifest-destiny/timeline/10",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "John Gast paints American Progress, soon reproduced as a chromolithograph by George A. Crofutt.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1872"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/manifest-destiny/timeline/2",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The United States and Britain agree to joint occupation of the Oregon Country, without settling sovereignty.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1818"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/manifest-destiny/timeline/3",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Texas President Mirabeau B. Lamar begins a campaign to push all Native nations out of the Republic of Texas.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1839"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/manifest-destiny/timeline/4",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "President John Tyler extends the U.S. claim in Oregon to 54°40′; James K. Polk wins the presidency pledging to annex Texas and take Oregon.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1844"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/manifest-destiny/timeline/5",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The unsigned essay \"Annexation\" in the United States Magazine and Democratic Review names a manifest destiny to overspread the continent.",
+   "uso:date": {
+    "@type": "xsd:gYearMonth",
+    "@value": "1845-07"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/manifest-destiny/timeline/6",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Polk formally accepts the annexation of Texas, which enters the Union as a slave state.",
+   "uso:date": {
+    "@type": "xsd:gYearMonth",
+    "@value": "1845-12"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/manifest-destiny/timeline/7",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Congress declares war on Mexico.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1846-05-12"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/manifest-destiny/timeline/8",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The Oregon Treaty is signed, dividing the Oregon Country at the 49th parallel; the Senate approves it on June 18.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1846-06-15"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/manifest-destiny/timeline/9",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The Treaty of Guadalupe Hidalgo transfers the Mexican Cession to the United States.",
+   "uso:date": {
+    "@type": "xsd:gYearMonth",
+    "@value": "1848-02"
+   }
+  },
+  {
    "@id": "https://github.com/john1hsu/usa-graph/id/marbury-v-madison/misconception",
    "@type": "uso:Misconception",
    "uso:fact": "Courts did cite the case in the nineteenth century, but mostly on jurisdiction, mandamus and executive appointments; a 2012 study found that only about 8% of the Supreme Court's nineteenth-century citations invoked it for judicial review, and the case was recast as the fountainhead of that power only around the turn of the twentieth century.",
@@ -35111,6 +35235,132 @@
     "@id": "https://news.ucsc.edu/2019/07/lunar-laser-ranging/"
    },
    "uso:sourceType": "academic"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/manifest-destiny/s1",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-28"
+   },
+   "dcterms:publisher": "Teaching American History (Ashbrook Center, Ashland University)",
+   "dcterms:title": "Annexation (United States Magazine and Democratic Review, July/August 1845)",
+   "schema:url": {
+    "@id": "https://teachingamericanhistory.org/document/annexation/"
+   },
+   "uso:sourceType": "primary"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/manifest-destiny/s2",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-28"
+   },
+   "dcterms:publisher": "OpenStax, Rice University",
+   "dcterms:title": "11.4 The Mexican-American War, 1846–1848 (U.S. History)",
+   "schema:url": {
+    "@id": "https://openstax.org/books/us-history/pages/11-4-the-mexican-american-war-1846-1848"
+   },
+   "uso:sourceType": "textbook"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/manifest-destiny/s3",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-28"
+   },
+   "dcterms:publisher": "OpenStax, Rice University",
+   "dcterms:title": "Chapter 11 Introduction: A Nation on the Move: Westward Expansion, 1800–1860 (U.S. History)",
+   "schema:url": {
+    "@id": "https://openstax.org/books/us-history/pages/11-introduction"
+   },
+   "uso:sourceType": "textbook"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/manifest-destiny/s4",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-28"
+   },
+   "dcterms:publisher": "U.S. Department of State, Office of the Historian",
+   "dcterms:title": "The Oregon Territory, 1846",
+   "schema:url": {
+    "@id": "https://history.state.gov/milestones/1830-1860/oregon-territory"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/manifest-destiny/s5",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-28"
+   },
+   "dcterms:publisher": "The Oregon Encyclopedia (Oregon Historical Society)",
+   "dcterms:title": "Oregon Treaty",
+   "schema:url": {
+    "@id": "https://oregonencyclopedia.org/articles/oregon-treaty/"
+   },
+   "uso:sourceType": "scholarly-encyclopedia"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/manifest-destiny/s6",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-28"
+   },
+   "dcterms:publisher": "Library of Congress, Prints and Photographs Division",
+   "dcterms:title": "American progress (chromolithograph after John Gast, c1873)",
+   "schema:url": {
+    "@id": "https://www.loc.gov/item/97507547"
+   },
+   "uso:sourceType": "primary"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/manifest-destiny/s7",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-28"
+   },
+   "dcterms:publisher": "Smithsonian Institution",
+   "dcterms:title": "Manifest Destiny and U.S. Westward Expansion",
+   "schema:url": {
+    "@id": "https://americanexperience.si.edu/wp-content/uploads/2014/08/Manifest-Destiny-and-U.S-Westward-Expansion.pdf"
+   },
+   "uso:sourceType": "museum"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/manifest-destiny/s8",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-28"
+   },
+   "dcterms:publisher": "UT News, The University of Texas at Austin",
+   "dcterms:title": "Woman who coined phrase \"Manifest Destiny\" described in new TSHA book",
+   "schema:url": {
+    "@id": "https://news.utexas.edu/2001/02/01/woman-who-coined-phrase-manifest-destiny-described-in-new-tsha-book"
+   },
+   "uso:sourceType": "news"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/manifest-destiny/s9",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-28"
+   },
+   "dcterms:publisher": "OpenStax, Rice University",
+   "dcterms:title": "11.3 Independence for Texas (U.S. History)",
+   "schema:url": {
+    "@id": "https://openstax.org/books/us-history/pages/11-3-independence-for-texas"
+   },
+   "uso:sourceType": "textbook"
   },
   {
    "@id": "https://github.com/john1hsu/usa-graph/id/source/marbury-v-madison/s1",
@@ -66914,6 +67164,162 @@
     },
     {
      "@id": "https://github.com/john1hsu/usa-graph/id/lunar-laser-ranging-experiment/timeline/9"
+    }
+   ]
+  },
+  {
+   "@id": "us:manifest-destiny",
+   "@type": "uso:Concept",
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-28"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/manifest-destiny/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/manifest-destiny/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/manifest-destiny/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/manifest-destiny/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/manifest-destiny/s5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/manifest-destiny/s6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/manifest-destiny/s7"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/manifest-destiny/s8"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/manifest-destiny/s9"
+    }
+   ],
+   "rdfs:label": "Manifest Destiny",
+   "skos:altLabel": [
+    "Manifest Destiny doctrine",
+    "manifest destiny"
+   ],
+   "skos:broader": {
+    "@id": "us:territorial-expansion-of-the-united-states"
+   },
+   "skos:definition": "The nineteenth-century belief, named in an 1845 magazine essay usually credited to editor John L. O'Sullivan, that the United States was destined by Providence to spread across the North American continent — an idea used to justify the annexation of Texas, the Oregon settlement, war with Mexico and the displacement of Native nations.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/usa-graph/id/scheme/early-republic-and-expansion"
+   },
+   "skos:prefLabel": "Manifest Destiny",
+   "skos:related": [
+    {
+     "@id": "us:american-progress"
+    },
+    {
+     "@id": "us:california-gold-rush"
+    },
+    {
+     "@id": "us:fifty-four-forty-or-fight"
+    },
+    {
+     "@id": "us:james-k-polk"
+    },
+    {
+     "@id": "us:jane-mcmanus-storm-cazneau"
+    },
+    {
+     "@id": "us:mexican-american-war"
+    },
+    {
+     "@id": "us:monroe-doctrine"
+    },
+    {
+     "@id": "us:native-americans"
+    },
+    {
+     "@id": "us:oregon-trail"
+    },
+    {
+     "@id": "us:oregon-treaty"
+    },
+    {
+     "@id": "us:republic-of-texas"
+    },
+    {
+     "@id": "us:spot-resolutions"
+    },
+    {
+     "@id": "us:texas-annexation"
+    },
+    {
+     "@id": "us:the-west"
+    },
+    {
+     "@id": "us:treaty-of-guadalupe-hidalgo"
+    },
+    {
+     "@id": "us:whig-party"
+    }
+   ],
+   "uso:affected": [
+    {
+     "@id": "us:native-americans"
+    },
+    {
+     "@id": "us:oregon-treaty"
+    }
+   ],
+   "uso:domain": "early-republic-and-expansion",
+   "uso:evidenceStatus": "interpretive",
+   "uso:file": "articles/early-republic-and-expansion/manifest-destiny.md",
+   "uso:influencedBy": {
+    "@id": "us:american-exceptionalism"
+   },
+   "uso:introducedBy": {
+    "@id": "us:john-l-osullivan"
+   },
+   "uso:introducedIn": {
+    "@id": "us:annexation-1845-editorial"
+   },
+   "uso:level": "introductory",
+   "uso:misconception": {
+    "@id": "https://github.com/john1hsu/usa-graph/id/manifest-destiny/misconception"
+   },
+   "uso:timelineEntry": [
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/manifest-destiny/timeline/1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/manifest-destiny/timeline/10"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/manifest-destiny/timeline/2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/manifest-destiny/timeline/3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/manifest-destiny/timeline/4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/manifest-destiny/timeline/5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/manifest-destiny/timeline/6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/manifest-destiny/timeline/7"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/manifest-destiny/timeline/8"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/manifest-destiny/timeline/9"
     }
    ]
   },
